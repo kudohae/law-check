@@ -1,48 +1,1189 @@
 {
-  "generatedAt": "2026-06-17T11:21:45.724Z",
-  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
+  "generatedAt": "2026-06-17T11:58:54.033Z",
+  "sourceNote": "공개 API에서 수집한 데이터입니다. 일부 항목은 API 응답 제한으로 누락될 수 있습니다.",
   "bills": [
     {
-      "id": "sample-assembly-001",
-      "externalId": "sample-assembly-001",
+      "id": "government-progress-2000000327244",
+      "externalId": "2000000327244",
+      "source": "government_pre_submit",
+      "title": "여객자동차 운수사업법 시행령",
+      "normalizedTitle": "여객자동차운수사업법시행령",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "국토교통부",
+      "proposerType": "ministry",
+      "ministry": "국토교통부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327244/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000327244-event-current",
+          "billId": "government-progress-2000000327244",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327244/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000327546",
+      "externalId": "2000000327546",
+      "source": "government_pre_submit",
+      "title": "조달청과 그 소속기관 직제 시행규칙",
+      "normalizedTitle": "조달청과그소속기관직제시행규칙",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "재정경제부",
+      "proposerType": "ministry",
+      "ministry": "재정경제부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327546/detailRP",
+      "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000327546-event-current",
+          "billId": "government-progress-2000000327546",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327546/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000328012",
+      "externalId": "2000000328012",
+      "source": "government_pre_submit",
+      "title": "과학기술정보통신부와 그 소속기관 직제 시행규칙",
+      "normalizedTitle": "과학기술정보통신부와그소속기관직제시행규칙",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "과학기술정보통신...",
+      "proposerType": "ministry",
+      "ministry": "과학기술정보통신...",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328012/detailRP",
+      "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000328012-event-current",
+          "billId": "government-progress-2000000328012",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328012/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000320412",
+      "externalId": "2000000320412",
+      "source": "government_pre_submit",
+      "title": "식품ㆍ의약품 등의 안전 및 제품화 지원에 관한 규제과학혁신법 시행규칙",
+      "normalizedTitle": "식품의약품등의안전및제품화지원에관한규제과학혁신법시행규칙",
+      "stage": "drafting",
+      "statusLabel": "법제처심사",
+      "proposerName": "식품의약품안전처",
+      "proposerType": "ministry",
+      "ministry": "식품의약품안전처",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000320412/detailRP",
+      "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000320412-event-current",
+          "billId": "government-progress-2000000320412",
+          "eventType": "government_progress",
+          "eventLabel": "법제처심사",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000320412/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000328156",
+      "externalId": "2000000328156",
+      "source": "government_pre_submit",
+      "title": "질병관리청과 그 소속기관 직제 시행규칙",
+      "normalizedTitle": "질병관리청과그소속기관직제시행규칙",
+      "stage": "promulgated",
+      "statusLabel": "공포대기",
+      "proposerName": "질병관리청",
+      "proposerType": "ministry",
+      "ministry": "질병관리청",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328156/detailRP",
+      "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000328156-event-current",
+          "billId": "government-progress-2000000328156",
+          "eventType": "government_progress",
+          "eventLabel": "공포대기",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328156/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000326566",
+      "externalId": "2000000326566",
+      "source": "government_pre_submit",
+      "title": "청소년 보호법 시행령",
+      "normalizedTitle": "청소년보호법시행령",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "성평등가족부",
+      "proposerType": "ministry",
+      "ministry": "성평등가족부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326566/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000326566-event-current",
+          "billId": "government-progress-2000000326566",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326566/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000327906",
+      "externalId": "2000000327906",
+      "source": "government_pre_submit",
+      "title": "통일교육 지원법 시행령",
+      "normalizedTitle": "통일교육지원법시행령",
+      "stage": "drafting",
+      "statusLabel": "법제처심사",
+      "proposerName": "통일부",
+      "proposerType": "ministry",
+      "ministry": "통일부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327906/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000327906-event-current",
+          "billId": "government-progress-2000000327906",
+          "eventType": "government_progress",
+          "eventLabel": "법제처심사",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327906/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000325738",
+      "externalId": "2000000325738",
+      "source": "government_pre_submit",
+      "title": "건축물관리법 시행령",
+      "normalizedTitle": "건축물관리법시행령",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "국토교통부",
+      "proposerType": "ministry",
+      "ministry": "국토교통부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325738/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000325738-event-current",
+          "billId": "government-progress-2000000325738",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325738/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000325704",
+      "externalId": "2000000325704",
+      "source": "government_pre_submit",
+      "title": "건축물관리법 시행규칙",
+      "normalizedTitle": "건축물관리법시행규칙",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "국토교통부",
+      "proposerType": "ministry",
+      "ministry": "국토교통부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325704/detailRP",
+      "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000325704-event-current",
+          "billId": "government-progress-2000000325704",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325704/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000326934",
+      "externalId": "2000000326934",
+      "source": "government_pre_submit",
+      "title": "국립현대미술관 전시품 관람규칙",
+      "normalizedTitle": "국립현대미술관전시품관람규칙",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "문화체육관광부",
+      "proposerType": "ministry",
+      "ministry": "문화체육관광부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326934/detailRP",
+      "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000326934-event-current",
+          "billId": "government-progress-2000000326934",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326934/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000325742",
+      "externalId": "2000000325742",
+      "source": "government_pre_submit",
+      "title": "건축물의 분양에 관한 법률 시행령",
+      "normalizedTitle": "건축물의분양에관한법률시행령",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "국토교통부",
+      "proposerType": "ministry",
+      "ministry": "국토교통부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325742/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000325742-event-current",
+          "billId": "government-progress-2000000325742",
+          "eventType": "government_progress",
+          "eventLabel": "입법예고",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325742/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000327112",
+      "externalId": "2000000327112",
+      "source": "government_pre_submit",
+      "title": "공무원 여비 규정",
+      "normalizedTitle": "공무원여비규정",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "인사혁신처",
+      "proposerType": "ministry",
+      "ministry": "인사혁신처",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327112/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000327112-event-current",
+          "billId": "government-progress-2000000327112",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327112/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000327704",
+      "externalId": "2000000327704",
+      "source": "government_pre_submit",
+      "title": "연구직 및 지도직공무원의 임용 등에 관한 규정",
+      "normalizedTitle": "연구직및지도직공무원의임용등에관한규정",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "인사혁신처",
+      "proposerType": "ministry",
+      "ministry": "인사혁신처",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327704/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000327704-event-current",
+          "billId": "government-progress-2000000327704",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327704/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000327688",
+      "externalId": "2000000327688",
+      "source": "government_pre_submit",
+      "title": "공무원임용시험령",
+      "normalizedTitle": "공무원임용시험령",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "인사혁신처",
+      "proposerType": "ministry",
+      "ministry": "인사혁신처",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327688/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000327688-event-current",
+          "billId": "government-progress-2000000327688",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327688/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000324172",
+      "externalId": "2000000324172",
+      "source": "government_pre_submit",
+      "title": "규제자유특구 및 지역특화발전특구에 관한 규제특례법 시행령",
+      "normalizedTitle": "규제자유특구및지역특화발전특구에관한규제특례법시행령",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "중소벤처기업부",
+      "proposerType": "ministry",
+      "ministry": "중소벤처기업부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324172/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000324172-event-current",
+          "billId": "government-progress-2000000324172",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324172/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000324516",
+      "externalId": "2000000324516",
+      "source": "government_pre_submit",
+      "title": "벤처기업육성에 관한 특별법 시행령",
+      "normalizedTitle": "벤처기업육성에관한특별법시행령",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "중소벤처기업부",
+      "proposerType": "ministry",
+      "ministry": "중소벤처기업부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324516/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000324516-event-current",
+          "billId": "government-progress-2000000324516",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324516/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000325790",
+      "externalId": "2000000325790",
+      "source": "government_pre_submit",
+      "title": "해양환경관리법 시행령",
+      "normalizedTitle": "해양환경관리법시행령",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "해양수산부",
+      "proposerType": "ministry",
+      "ministry": "해양수산부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325790/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000325790-event-current",
+          "billId": "government-progress-2000000325790",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325790/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000328006",
+      "externalId": "2000000328006",
+      "source": "government_pre_submit",
+      "title": "국토교통부와 그 소속기관 직제",
+      "normalizedTitle": "국토교통부와그소속기관직제",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "행정안전부",
+      "proposerType": "ministry",
+      "ministry": "행정안전부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328006/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000328006-event-current",
+          "billId": "government-progress-2000000328006",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328006/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000327678",
+      "externalId": "2000000327678",
+      "source": "government_pre_submit",
+      "title": "지식재산처와 그 소속기관 직제",
+      "normalizedTitle": "지식재산처와그소속기관직제",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "행정안전부",
+      "proposerType": "ministry",
+      "ministry": "행정안전부",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327678/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000327678-event-current",
+          "billId": "government-progress-2000000327678",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327678/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "government-progress-2000000325760",
+      "externalId": "2000000325760",
+      "source": "government_pre_submit",
+      "title": "개방형 직위 및 공모 직위의 운영 등에 관한 규정",
+      "normalizedTitle": "개방형직위및공모직위의운영등에관한규정",
+      "stage": "drafting",
+      "statusLabel": "차관회의",
+      "proposerName": "인사혁신처",
+      "proposerType": "ministry",
+      "ministry": "인사혁신처",
+      "lastUpdatedAt": "2026-06-17T11:58:54.031Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325760/detailRP",
+      "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "government-progress-2000000325760-event-current",
+          "billId": "government-progress-2000000325760",
+          "eventType": "government_progress",
+          "eventLabel": "차관회의",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325760/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:54.031Z",
+      "updatedAt": "2026-06-17T11:58:54.031Z"
+    },
+    {
+      "id": "assembly-status-2219313",
+      "externalId": "2219313",
       "source": "assembly_member",
-      "title": "아동복지법 일부개정법률안",
-      "normalizedTitle": "아동복지법일부개정법률안",
-      "stage": "committee_review",
-      "statusLabel": "소관위원회 접수",
-      "proposerName": "국회의원 발의",
+      "title": "동물보호법 일부개정법률안",
+      "normalizedTitle": "동물보호법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "이성권의원 등 11인",
       "proposerType": "member",
-      "committee": "보건복지위원회",
-      "proposedDate": "2026-06-14",
-      "lastUpdatedAt": "2026-06-15T00:00:00.000Z",
-      "officialUrl": "https://likms.assembly.go.kr/bill/main.do",
-      "rawSummary": "아동 보호 체계와 관련된 조항을 정비하는 법률안 예시입니다.",
+      "ministry": "농림축산식품부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219313/detailRP",
       "aiSummaryStatus": "none",
       "needsReview": false,
       "events": [
         {
-          "id": "sample-assembly-001-event-1",
-          "billId": "sample-assembly-001",
-          "eventType": "proposed",
-          "eventLabel": "국회 발의",
-          "eventDate": "2026-06-14",
-          "sourceUrl": "https://likms.assembly.go.kr/bill/main.do"
-        },
-        {
-          "id": "sample-assembly-001-event-2",
-          "billId": "sample-assembly-001",
-          "eventType": "committee",
-          "eventLabel": "소관위원회 접수",
-          "eventDate": "2026-06-15",
-          "sourceUrl": "https://likms.assembly.go.kr/bill/main.do"
+          "id": "assembly-status-2219313-event-proposed",
+          "billId": "assembly-status-2219313",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219313/detailRP"
         }
       ],
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z"
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
     },
     {
-      "id": "sample-government-001",
-      "externalId": "sample-government-001",
+      "id": "assembly-status-2219312",
+      "externalId": "2219312",
+      "source": "assembly_member",
+      "title": "형사소송법 일부개정법률안",
+      "normalizedTitle": "형사소송법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "이성권의원 등 10인",
+      "proposerType": "member",
+      "ministry": "법무부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219312/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219312-event-proposed",
+          "billId": "assembly-status-2219312",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219312/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219311",
+      "externalId": "2219311",
+      "source": "assembly_member",
+      "title": "전기안전관리법 일부개정법률안",
+      "normalizedTitle": "전기안전관리법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "한정애의원 등 11인",
+      "proposerType": "member",
+      "ministry": "기후에너지환경",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219311/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219311-event-proposed",
+          "billId": "assembly-status-2219311",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219311/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219310",
+      "externalId": "2219310",
+      "source": "assembly_member",
+      "title": "소방시설 설치 및 관리에 관한 법률 일부개정법률안",
+      "normalizedTitle": "소방시설설치및관리에관한법률일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "한정애의원 등 11인",
+      "proposerType": "member",
+      "ministry": "소방청",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219310/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219310-event-proposed",
+          "billId": "assembly-status-2219310",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219310/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219309",
+      "externalId": "2219309",
+      "source": "assembly_member",
+      "title": "농촌융복합산업 육성 및 지원에 관한 법률 일부개정법률안",
+      "normalizedTitle": "농촌융복합산업육성및지원에관한법률일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "문대림의원 등 10인",
+      "proposerType": "member",
+      "ministry": "농림축산식품부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219309/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219309-event-proposed",
+          "billId": "assembly-status-2219309",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219309/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219308",
+      "externalId": "2219308",
+      "source": "assembly_member",
+      "title": "체육시설의 설치·이용에 관한 법률 일부개정법률안",
+      "normalizedTitle": "체육시설의설치이용에관한법률일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "이훈기의원 등 10인",
+      "proposerType": "member",
+      "ministry": "문화체육관광부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219308/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219308-event-proposed",
+          "billId": "assembly-status-2219308",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219308/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219307",
+      "externalId": "2219307",
+      "source": "assembly_member",
+      "title": "위치정보의 보호 및 이용 등에 관한 법률 일부개정법률안",
+      "normalizedTitle": "위치정보의보호및이용등에관한법률일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "이훈기의원 등 10인",
+      "proposerType": "member",
+      "ministry": "방송미디어통신",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219307/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219307-event-proposed",
+          "billId": "assembly-status-2219307",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219307/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219306",
+      "externalId": "2219306",
+      "source": "assembly_member",
+      "title": "청년고용촉진 특별법 일부개정법률안",
+      "normalizedTitle": "청년고용촉진특별법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "김태호의원 등 10인",
+      "proposerType": "member",
+      "ministry": "고용노동부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219306/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219306-event-proposed",
+          "billId": "assembly-status-2219306",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219306/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219305",
+      "externalId": "2219305",
+      "source": "assembly_member",
+      "title": "조세특례제한법 일부개정법률안",
+      "normalizedTitle": "조세특례제한법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "김태호의원 등 10인",
+      "proposerType": "member",
+      "ministry": "재정경제부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219305/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219305-event-proposed",
+          "billId": "assembly-status-2219305",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219305/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219304",
+      "externalId": "2219304",
+      "source": "assembly_member",
+      "title": "지역보건법 일부개정법률안",
+      "normalizedTitle": "지역보건법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "김태호의원 등 11인",
+      "proposerType": "member",
+      "ministry": "보건복지부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219304/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219304-event-proposed",
+          "billId": "assembly-status-2219304",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219304/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219303",
+      "externalId": "2219303",
+      "source": "assembly_member",
+      "title": "의료법 일부개정법률안",
+      "normalizedTitle": "의료법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "최보윤의원 등 10인",
+      "proposerType": "member",
+      "ministry": "보건복지부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219303/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219303-event-proposed",
+          "billId": "assembly-status-2219303",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219303/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219302",
+      "externalId": "2219302",
+      "source": "assembly_member",
+      "title": "농지법 일부개정법률안",
+      "normalizedTitle": "농지법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "임종득의원 등 11인",
+      "proposerType": "member",
+      "ministry": "농림축산식품부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219302/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219302-event-proposed",
+          "billId": "assembly-status-2219302",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219302/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219301",
+      "externalId": "2219301",
+      "source": "assembly_member",
+      "title": "조세특례제한법 일부개정법률안",
+      "normalizedTitle": "조세특례제한법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "김성원의원 등 11인",
+      "proposerType": "member",
+      "ministry": "재정경제부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219301/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219301-event-proposed",
+          "billId": "assembly-status-2219301",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219301/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219300",
+      "externalId": "2219300",
+      "source": "assembly_member",
+      "title": "농어촌정비법 일부개정법률안",
+      "normalizedTitle": "농어촌정비법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "임종득의원 등 10인",
+      "proposerType": "member",
+      "ministry": "농림축산식품부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219300/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219300-event-proposed",
+          "billId": "assembly-status-2219300",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219300/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219299",
+      "externalId": "2219299",
+      "source": "assembly_member",
+      "title": "노인복지법 일부개정법률안",
+      "normalizedTitle": "노인복지법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "김성원의원 등 10인",
+      "proposerType": "member",
+      "ministry": "보건복지부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219299/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219299-event-proposed",
+          "billId": "assembly-status-2219299",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219299/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219298",
+      "externalId": "2219298",
+      "source": "assembly_member",
+      "title": "지역보건법 일부개정법률안",
+      "normalizedTitle": "지역보건법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "김성원의원 등 11인",
+      "proposerType": "member",
+      "ministry": "보건복지부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219298/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219298-event-proposed",
+          "billId": "assembly-status-2219298",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219298/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219297",
+      "externalId": "2219297",
+      "source": "assembly_member",
+      "title": "의료법 일부개정법률안",
+      "normalizedTitle": "의료법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "이훈기의원 등 11인",
+      "proposerType": "member",
+      "ministry": "보건복지부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219297/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219297-event-proposed",
+          "billId": "assembly-status-2219297",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219297/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219296",
+      "externalId": "2219296",
+      "source": "assembly_member",
+      "title": "장애인복지법 전부개정법률안",
+      "normalizedTitle": "장애인복지법전부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "김예지의원 등 10인",
+      "proposerType": "member",
+      "ministry": "보건복지부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219296/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219296-event-proposed",
+          "billId": "assembly-status-2219296",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219296/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219295",
+      "externalId": "2219295",
+      "source": "assembly_member",
+      "title": "철도안전법 일부개정법률안",
+      "normalizedTitle": "철도안전법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "이훈기의원 등 10인",
+      "proposerType": "member",
+      "ministry": "국토교통부",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219295/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219295-event-proposed",
+          "billId": "assembly-status-2219295",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219295/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "assembly-status-2219294",
+      "externalId": "2219294",
+      "source": "assembly_member",
+      "title": "전자상거래 등에서의 소비자보호에 관한 법률 일부개정법률안",
+      "normalizedTitle": "전자상거래등에서의소비자보호에관한법률일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "발의",
+      "proposerName": "이양수의원 등 12인",
+      "proposerType": "member",
+      "ministry": "공정거래위원회",
+      "proposedDate": "2026. 6. 17.",
+      "lastUpdatedAt": "2026-06-17T11:58:51.995Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219294/detailRP",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-status-2219294-event-proposed",
+          "billId": "assembly-status-2219294",
+          "eventType": "assembly_status",
+          "eventLabel": "발의",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2219294/detailRP"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.995Z",
+      "updatedAt": "2026-06-17T11:58:51.995Z"
+    },
+    {
+      "id": "government-notice-87204",
+      "externalId": "87204",
+      "source": "government_notice",
+      "title": "소방시설공사업법 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "소방시설공사업법시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "소방청",
+      "proposerType": "ministry",
+      "ministry": "소방청",
+      "noticeStartDate": "2026. 6. 17.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87204",
+      "rawSummary": "법령종류: 부령 / 법령분야: 민방위ㆍ소방 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87204-event-notice-start",
+          "billId": "government-notice-87204",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87204"
+        },
+        {
+          "id": "government-notice-87204-event-notice-end",
+          "billId": "government-notice-87204",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87204"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87202",
+      "externalId": "87202",
       "source": "government_notice",
       "title": "고용보험법 시행령 일부개정령안 입법예고",
       "normalizedTitle": "고용보험법시행령일부개정령안입법예고",
@@ -51,62 +1192,880 @@
       "proposerName": "고용노동부",
       "proposerType": "ministry",
       "ministry": "고용노동부",
-      "noticeStartDate": "2026-06-17",
-      "noticeEndDate": "2026-07-27",
-      "lastUpdatedAt": "2026-06-17T00:00:00.000Z",
-      "officialUrl": "https://www.moleg.go.kr/lawinfo/makingList.mo?mid=a10104010000",
-      "rawSummary": "고용보험 제도 운영과 관련된 하위 법령 개정안 예시입니다.",
+      "noticeStartDate": "2026. 6. 17.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87202",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 노동 / 의견 제출 남은 기간: 40일",
       "aiSummaryStatus": "none",
       "needsReview": false,
       "events": [
         {
-          "id": "sample-government-001-event-1",
-          "billId": "sample-government-001",
+          "id": "government-notice-87202-event-notice-start",
+          "billId": "government-notice-87202",
           "eventType": "notice_start",
           "eventLabel": "입법예고 시작",
-          "eventDate": "2026-06-17",
-          "sourceUrl": "https://www.moleg.go.kr/lawinfo/makingList.mo?mid=a10104010000"
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87202"
         },
         {
-          "id": "sample-government-001-event-2",
-          "billId": "sample-government-001",
+          "id": "government-notice-87202-event-notice-end",
+          "billId": "government-notice-87202",
           "eventType": "notice_end",
           "eventLabel": "입법예고 종료 예정",
-          "eventDate": "2026-07-27",
-          "sourceUrl": "https://www.moleg.go.kr/lawinfo/makingList.mo?mid=a10104010000"
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87202"
         }
       ],
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z"
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
     },
     {
-      "id": "sample-progress-001",
-      "externalId": "sample-progress-001",
-      "source": "government_pre_submit",
-      "title": "국가공간정보기본법 시행령 일부개정령안",
-      "normalizedTitle": "국가공간정보기본법시행령일부개정령안",
-      "stage": "drafting",
-      "statusLabel": "정부입법 준비",
+      "id": "government-notice-87200",
+      "externalId": "87200",
+      "source": "government_notice",
+      "title": "고용보험법 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "고용보험법시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "고용노동부",
+      "proposerType": "ministry",
+      "ministry": "고용노동부",
+      "noticeStartDate": "2026. 6. 17.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87200",
+      "rawSummary": "법령종류: 부령 / 법령분야: 노동 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87200-event-notice-start",
+          "billId": "government-notice-87200",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87200"
+        },
+        {
+          "id": "government-notice-87200-event-notice-end",
+          "billId": "government-notice-87200",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87200"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87206",
+      "externalId": "87206",
+      "source": "government_notice",
+      "title": "과학기술정보통신부와 그 소속기관 직제 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "과학기술정보통신부와그소속기관직제시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "과학기술정보통신부",
+      "proposerType": "ministry",
+      "ministry": "과학기술정보통신부",
+      "noticeStartDate": "2026. 6. 17.",
+      "noticeEndDate": "2026. 6. 24.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87206",
+      "rawSummary": "법령종류: 부령 / 법령분야: 과학ㆍ기술 / 의견 제출 남은 기간: 7일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87206-event-notice-start",
+          "billId": "government-notice-87206",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87206"
+        },
+        {
+          "id": "government-notice-87206-event-notice-end",
+          "billId": "government-notice-87206",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 6. 24.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87206"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87198",
+      "externalId": "87198",
+      "source": "government_notice",
+      "title": "국세청과 그 소속기관 직제 일부개정령안 입법예고",
+      "normalizedTitle": "국세청과그소속기관직제일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "행정안전부",
+      "proposerType": "ministry",
+      "ministry": "행정안전부",
+      "noticeStartDate": "2026. 6. 17.",
+      "noticeEndDate": "2026. 6. 22.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87198",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 내국세 / 의견 제출 남은 기간: 5일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87198-event-notice-start",
+          "billId": "government-notice-87198",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87198"
+        },
+        {
+          "id": "government-notice-87198-event-notice-end",
+          "billId": "government-notice-87198",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 6. 22.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87198"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87196",
+      "externalId": "87196",
+      "source": "government_notice",
+      "title": "국가공간정보기본법 시행령 일부개정령안 입법예고",
+      "normalizedTitle": "국가공간정보기본법시행령일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
       "proposerName": "국토교통부",
       "proposerType": "ministry",
       "ministry": "국토교통부",
-      "lastUpdatedAt": "2026-06-16T00:00:00.000Z",
-      "officialUrl": "https://opinion.lawmaking.go.kr/",
-      "rawSummary": "정부 제출 전 단계의 법령안 흐름을 보여주기 위한 예시입니다.",
+      "noticeStartDate": "2026. 6. 17.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87196",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 수자원ㆍ토지ㆍ건설업 / 의견 제출 남은 기간: 40일",
       "aiSummaryStatus": "none",
-      "needsReview": true,
+      "needsReview": false,
       "events": [
         {
-          "id": "sample-progress-001-event-1",
-          "billId": "sample-progress-001",
-          "eventType": "drafting",
-          "eventLabel": "정부 내부 준비 단계",
-          "eventDate": "2026-06-16",
-          "sourceUrl": "https://opinion.lawmaking.go.kr/"
+          "id": "government-notice-87196-event-notice-start",
+          "billId": "government-notice-87196",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 17.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87196"
+        },
+        {
+          "id": "government-notice-87196-event-notice-end",
+          "billId": "government-notice-87196",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87196"
         }
       ],
-      "createdAt": "2026-06-17T00:00:00.000Z",
-      "updatedAt": "2026-06-17T00:00:00.000Z"
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "assembly-member-2219291",
+      "externalId": "2219291",
+      "source": "assembly_member",
+      "title": "박물관 및 미술관 진흥법 일부개정법률안",
+      "normalizedTitle": "박물관및미술관진흥법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "국회 접수",
+      "proposerName": "이기헌의원 등 12인",
+      "proposerType": "member",
+      "proposedDate": "2026-06-16",
+      "lastUpdatedAt": "2026-06-17T11:58:51.334Z",
+      "officialUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Y6X0V6V0R8P1M5V3T9S2R9A7Z7X4&ageFrom=22&ageTo=22",
+      "rawSummary": "공동발의자: 김남근,박지원,이재관,윤건영,권향엽,박해철,한정애,이용우,임미애,허성무,최혁진",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-member-2219291-event-proposed",
+          "billId": "assembly-member-2219291",
+          "eventType": "proposed",
+          "eventLabel": "국회 발의",
+          "eventDate": "2026-06-16",
+          "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Y6X0V6V0R8P1M5V3T9S2R9A7Z7X4&ageFrom=22&ageTo=22"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.334Z",
+      "updatedAt": "2026-06-17T11:58:51.334Z"
+    },
+    {
+      "id": "assembly-member-2219290",
+      "externalId": "2219290",
+      "source": "assembly_member",
+      "title": "상속세 및 증여세법 일부개정법률안",
+      "normalizedTitle": "상속세및증여세법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "국회 접수",
+      "proposerName": "이기헌의원 등 10인",
+      "proposerType": "member",
+      "proposedDate": "2026-06-16",
+      "lastUpdatedAt": "2026-06-17T11:58:51.334Z",
+      "officialUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2W6V0U6A0A8Z1Y5E4D0B1Z5I5H1E9&ageFrom=22&ageTo=22",
+      "rawSummary": "공동발의자: 김남근,박지원,이재관,권향엽,박해철,한정애,이용우,임미애,허성무",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-member-2219290-event-proposed",
+          "billId": "assembly-member-2219290",
+          "eventType": "proposed",
+          "eventLabel": "국회 발의",
+          "eventDate": "2026-06-16",
+          "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2W6V0U6A0A8Z1Y5E4D0B1Z5I5H1E9&ageFrom=22&ageTo=22"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.334Z",
+      "updatedAt": "2026-06-17T11:58:51.334Z"
+    },
+    {
+      "id": "assembly-member-2219289",
+      "externalId": "2219289",
+      "source": "assembly_member",
+      "title": "환경오염시설의 통합관리에 관한 법률 일부개정법률안",
+      "normalizedTitle": "환경오염시설의통합관리에관한법률일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "국회 접수",
+      "proposerName": "박홍배의원 등 18인",
+      "proposerType": "member",
+      "proposedDate": "2026-06-16",
+      "lastUpdatedAt": "2026-06-17T11:58:51.334Z",
+      "officialUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2J6K0R6Q0P8X1U3T5B9B0Z2X7D0D8&ageFrom=22&ageTo=22",
+      "rawSummary": "공동발의자: 이수진,송재봉,한준호,민병덕,이정헌,홍기원,박정,김우영,김남근,윤준병,안도걸,이광희,이정문,김기표,최혁진,허성무,부승찬",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-member-2219289-event-proposed",
+          "billId": "assembly-member-2219289",
+          "eventType": "proposed",
+          "eventLabel": "국회 발의",
+          "eventDate": "2026-06-16",
+          "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2J6K0R6Q0P8X1U3T5B9B0Z2X7D0D8&ageFrom=22&ageTo=22"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.334Z",
+      "updatedAt": "2026-06-17T11:58:51.334Z"
+    },
+    {
+      "id": "assembly-member-2219288",
+      "externalId": "2219288",
+      "source": "assembly_member",
+      "title": "사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률 일부개정법률안",
+      "normalizedTitle": "사법경찰관리의직무를수행할자와그직무범위에관한법률일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "국회 접수",
+      "proposerName": "서미화의원 등 10인",
+      "proposerType": "member",
+      "proposedDate": "2026-06-16",
+      "lastUpdatedAt": "2026-06-17T11:58:51.334Z",
+      "officialUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2T6S0R6Q0B9X1X8F0E0D3C6I3H1G3&ageFrom=22&ageTo=22",
+      "rawSummary": "공동발의자: 이광희,박홍배,서영석,조승래,김한규,이수진,김남희,김준혁,박정현",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-member-2219288-event-proposed",
+          "billId": "assembly-member-2219288",
+          "eventType": "proposed",
+          "eventLabel": "국회 발의",
+          "eventDate": "2026-06-16",
+          "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_M2T6S0R6Q0B9X1X8F0E0D3C6I3H1G3&ageFrom=22&ageTo=22"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.334Z",
+      "updatedAt": "2026-06-17T11:58:51.334Z"
+    },
+    {
+      "id": "assembly-member-2219287",
+      "externalId": "2219287",
+      "source": "assembly_member",
+      "title": "수도법 일부개정법률안",
+      "normalizedTitle": "수도법일부개정법률안",
+      "stage": "submitted_to_assembly",
+      "statusLabel": "국회 접수",
+      "proposerName": "한정애의원 등 12인",
+      "proposerType": "member",
+      "proposedDate": "2026-06-16",
+      "lastUpdatedAt": "2026-06-17T11:58:51.334Z",
+      "officialUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B6Z0A6I1I5H1F5G0E3F4A4B8A2Y5&ageFrom=22&ageTo=22",
+      "rawSummary": "공동발의자: 조인철,권향엽,한준호,허영,강준현,송옥주,김영배,김윤,염태영,김주영,김남근",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "assembly-member-2219287-event-proposed",
+          "billId": "assembly-member-2219287",
+          "eventType": "proposed",
+          "eventLabel": "국회 발의",
+          "eventDate": "2026-06-16",
+          "sourceUrl": "http://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2B6Z0A6I1I5H1F5G0E3F4A4B8A2Y5&ageFrom=22&ageTo=22"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:51.334Z",
+      "updatedAt": "2026-06-17T11:58:51.334Z"
+    },
+    {
+      "id": "government-notice-87172",
+      "externalId": "87172",
+      "source": "government_notice",
+      "title": "항만법 시행령 일부개정령(안) 재입법예고",
+      "normalizedTitle": "항만법시행령일부개정령안재입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "해양수산부",
+      "proposerType": "ministry",
+      "ministry": "해양수산부",
+      "noticeStartDate": "2026. 6. 16.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87172",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 해운 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87172-event-notice-start",
+          "billId": "government-notice-87172",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 16.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87172"
+        },
+        {
+          "id": "government-notice-87172-event-notice-end",
+          "billId": "government-notice-87172",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87172"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87170",
+      "externalId": "87170",
+      "source": "government_notice",
+      "title": "재외공관주재관 임용령 일부개정령(안) 입법예고",
+      "normalizedTitle": "재외공관주재관임용령일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "외교부",
+      "proposerType": "ministry",
+      "ministry": "외교부",
+      "noticeStartDate": "2026. 6. 16.",
+      "noticeEndDate": "2026. 7. 6.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87170",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 외무 / 의견 제출 남은 기간: 19일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87170-event-notice-start",
+          "billId": "government-notice-87170",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 16.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87170"
+        },
+        {
+          "id": "government-notice-87170-event-notice-end",
+          "billId": "government-notice-87170",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 6.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87170"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87168",
+      "externalId": "87168",
+      "source": "government_notice",
+      "title": "경찰수사규칙 일부개정령안 입법예고",
+      "normalizedTitle": "경찰수사규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "경찰청",
+      "proposerType": "ministry",
+      "ministry": "경찰청",
+      "noticeStartDate": "2026. 6. 16.",
+      "noticeEndDate": "2026. 6. 24.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87168",
+      "rawSummary": "법령종류: 부령 / 법령분야: 형사법 / 의견 제출 남은 기간: 7일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87168-event-notice-start",
+          "billId": "government-notice-87168",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 16.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87168"
+        },
+        {
+          "id": "government-notice-87168-event-notice-end",
+          "billId": "government-notice-87168",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 6. 24.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87168"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87166",
+      "externalId": "87166",
+      "source": "government_notice",
+      "title": "진실화해를위한과거사정리기본법 시행령 일부개정령안 입법예고",
+      "normalizedTitle": "진실화해를위한과거사정리기본법시행령일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "진실화해를위한과거사정리위원회",
+      "proposerType": "ministry",
+      "ministry": "진실화해를위한과거사정리위원회",
+      "noticeStartDate": "2026. 6. 16.",
+      "noticeEndDate": "2026. 7. 20.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87166",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 민사법 / 의견 제출 남은 기간: 33일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87166-event-notice-start",
+          "billId": "government-notice-87166",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 16.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87166"
+        },
+        {
+          "id": "government-notice-87166-event-notice-end",
+          "billId": "government-notice-87166",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 20.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87166"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87164",
+      "externalId": "87164",
+      "source": "government_notice",
+      "title": "지역중소기업 육성 및 혁신촉진 등에 관한 법률 시행령 일부개정령안 입법예고",
+      "normalizedTitle": "지역중소기업육성및혁신촉진등에관한법률시행령일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "중소벤처기업부",
+      "proposerType": "ministry",
+      "ministry": "중소벤처기업부",
+      "noticeStartDate": "2026. 6. 16.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87164",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 상업ㆍ무역ㆍ공업 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87164-event-notice-start",
+          "billId": "government-notice-87164",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 16.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87164"
+        },
+        {
+          "id": "government-notice-87164-event-notice-end",
+          "billId": "government-notice-87164",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87164"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87162",
+      "externalId": "87162",
+      "source": "government_notice",
+      "title": "국토교통부와 그 소속기관 직제 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "국토교통부와그소속기관직제시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "국토교통부",
+      "proposerType": "ministry",
+      "ministry": "국토교통부",
+      "noticeStartDate": "2026. 6. 16.",
+      "noticeEndDate": "2026. 6. 23.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87162",
+      "rawSummary": "법령종류: 부령 / 법령분야: 국토개발ㆍ도시 / 의견 제출 남은 기간: 6일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87162-event-notice-start",
+          "billId": "government-notice-87162",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 16.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87162"
+        },
+        {
+          "id": "government-notice-87162-event-notice-end",
+          "billId": "government-notice-87162",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 6. 23.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87162"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87194",
+      "externalId": "87194",
+      "source": "government_notice",
+      "title": "소방기본법 시행령 일부개정령안 입법예고",
+      "normalizedTitle": "소방기본법시행령일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "소방청",
+      "proposerType": "ministry",
+      "ministry": "소방청",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87194",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 민방위ㆍ소방 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87194-event-notice-start",
+          "billId": "government-notice-87194",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87194"
+        },
+        {
+          "id": "government-notice-87194-event-notice-end",
+          "billId": "government-notice-87194",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87194"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87152",
+      "externalId": "87152",
+      "source": "government_notice",
+      "title": "소방기본법 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "소방기본법시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "소방청",
+      "proposerType": "ministry",
+      "ministry": "소방청",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87152",
+      "rawSummary": "법령종류: 부령 / 법령분야: 민방위ㆍ소방 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87152-event-notice-start",
+          "billId": "government-notice-87152",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87152"
+        },
+        {
+          "id": "government-notice-87152-event-notice-end",
+          "billId": "government-notice-87152",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87152"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87160",
+      "externalId": "87160",
+      "source": "government_notice",
+      "title": "통일부와 그 소속기관 직제 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "통일부와그소속기관직제시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "통일부",
+      "proposerType": "ministry",
+      "ministry": "통일부",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 6. 22.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87160",
+      "rawSummary": "법령종류: 부령 / 법령분야: 행정일반 / 의견 제출 남은 기간: 5일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87160-event-notice-start",
+          "billId": "government-notice-87160",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87160"
+        },
+        {
+          "id": "government-notice-87160-event-notice-end",
+          "billId": "government-notice-87160",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 6. 22.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87160"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87158",
+      "externalId": "87158",
+      "source": "government_notice",
+      "title": "경찰청과 그 소속기관 직제 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "경찰청과그소속기관직제시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "경찰청",
+      "proposerType": "ministry",
+      "ministry": "경찰청",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 6. 22.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87158",
+      "rawSummary": "법령종류: 부령 / 법령분야: 경찰 / 의견 제출 남은 기간: 5일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87158-event-notice-start",
+          "billId": "government-notice-87158",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87158"
+        },
+        {
+          "id": "government-notice-87158-event-notice-end",
+          "billId": "government-notice-87158",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 6. 22.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87158"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87156",
+      "externalId": "87156",
+      "source": "government_notice",
+      "title": "방송법 시행령 일부개정령안 입법예고",
+      "normalizedTitle": "방송법시행령일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "방송미디어통신위원회",
+      "proposerType": "ministry",
+      "ministry": "방송미디어통신위원회",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87156",
+      "rawSummary": "법령종류: 대통령령 / 법령분야: 문화ㆍ공보 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87156-event-notice-start",
+          "billId": "government-notice-87156",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87156"
+        },
+        {
+          "id": "government-notice-87156-event-notice-end",
+          "billId": "government-notice-87156",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87156"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87154",
+      "externalId": "87154",
+      "source": "government_notice",
+      "title": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "형의집행및수용자의처우에관한법률시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "법무부",
+      "proposerType": "ministry",
+      "ministry": "법무부",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87154",
+      "rawSummary": "법령종류: 부령 / 법령분야: 형사법 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87154-event-notice-start",
+          "billId": "government-notice-87154",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87154"
+        },
+        {
+          "id": "government-notice-87154-event-notice-end",
+          "billId": "government-notice-87154",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87154"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87112",
+      "externalId": "87112",
+      "source": "government_notice",
+      "title": "교도관직무규칙 일부개정령안 입법예고",
+      "normalizedTitle": "교도관직무규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "법무부",
+      "proposerType": "ministry",
+      "ministry": "법무부",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 7. 27.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87112",
+      "rawSummary": "법령종류: 부령 / 법령분야: 법무 / 의견 제출 남은 기간: 40일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87112-event-notice-start",
+          "billId": "government-notice-87112",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87112"
+        },
+        {
+          "id": "government-notice-87112-event-notice-end",
+          "billId": "government-notice-87112",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 7. 27.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87112"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
+    },
+    {
+      "id": "government-notice-87110",
+      "externalId": "87110",
+      "source": "government_notice",
+      "title": "법무부와 그 소속기관 직제 시행규칙 일부개정령안 입법예고",
+      "normalizedTitle": "법무부와그소속기관직제시행규칙일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "법무부",
+      "proposerType": "ministry",
+      "ministry": "법무부",
+      "noticeStartDate": "2026. 6. 15.",
+      "noticeEndDate": "2026. 6. 22.",
+      "lastUpdatedAt": "2026-06-17T11:58:53.213Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87110",
+      "rawSummary": "법령종류: 부령 / 법령분야: 법무 / 의견 제출 남은 기간: 5일",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "government-notice-87110-event-notice-start",
+          "billId": "government-notice-87110",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026. 6. 15.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87110"
+        },
+        {
+          "id": "government-notice-87110-event-notice-end",
+          "billId": "government-notice-87110",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026. 6. 22.",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/87110"
+        }
+      ],
+      "createdAt": "2026-06-17T11:58:53.213Z",
+      "updatedAt": "2026-06-17T11:58:53.213Z"
     }
   ]
 }

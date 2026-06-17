@@ -64,12 +64,12 @@ function App() {
       })
       .sort((a, b) => {
         if (sort === "noticeEnd") {
-          return dateValue(a.noticeEndDate) - dateValue(b.noticeEndDate);
+          return dateValue(a.noticeEndDate, Number.MAX_SAFE_INTEGER) - dateValue(b.noticeEndDate, Number.MAX_SAFE_INTEGER);
         }
         if (sort === "updated") {
-          return dateValue(b.updatedAt) - dateValue(a.updatedAt);
+          return dateValue(b.updatedAt, 0) - dateValue(a.updatedAt, 0);
         }
-        return dateValue(getBillDate(b)) - dateValue(getBillDate(a));
+        return dateValue(getBillDate(b), 0) - dateValue(getBillDate(a), 0);
       });
   }, [bills, query, sort, source, stage]);
 
@@ -310,10 +310,10 @@ function formatNoticePeriod(bill: Bill) {
   return `${formatDate(bill.noticeStartDate)} - ${formatDate(bill.noticeEndDate)}`;
 }
 
-function dateValue(value?: string) {
-  if (!value) return Number.MAX_SAFE_INTEGER;
+function dateValue(value: string | undefined, fallback: number) {
+  if (!value) return fallback;
   const date = new Date(value);
-  return Number.isNaN(date.getTime()) ? Number.MAX_SAFE_INTEGER : date.getTime();
+  return Number.isNaN(date.getTime()) ? fallback : date.getTime();
 }
 
 export default App;
