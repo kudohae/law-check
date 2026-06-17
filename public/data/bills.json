@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-06-17T11:21:45.724Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
+  "bills": [
+    {
+      "id": "sample-assembly-001",
+      "externalId": "sample-assembly-001",
+      "source": "assembly_member",
+      "title": "아동복지법 일부개정법률안",
+      "normalizedTitle": "아동복지법일부개정법률안",
+      "stage": "committee_review",
+      "statusLabel": "소관위원회 접수",
+      "proposerName": "국회의원 발의",
+      "proposerType": "member",
+      "committee": "보건복지위원회",
+      "proposedDate": "2026-06-14",
+      "lastUpdatedAt": "2026-06-15T00:00:00.000Z",
+      "officialUrl": "https://likms.assembly.go.kr/bill/main.do",
+      "rawSummary": "아동 보호 체계와 관련된 조항을 정비하는 법률안 예시입니다.",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "sample-assembly-001-event-1",
+          "billId": "sample-assembly-001",
+          "eventType": "proposed",
+          "eventLabel": "국회 발의",
+          "eventDate": "2026-06-14",
+          "sourceUrl": "https://likms.assembly.go.kr/bill/main.do"
+        },
+        {
+          "id": "sample-assembly-001-event-2",
+          "billId": "sample-assembly-001",
+          "eventType": "committee",
+          "eventLabel": "소관위원회 접수",
+          "eventDate": "2026-06-15",
+          "sourceUrl": "https://likms.assembly.go.kr/bill/main.do"
+        }
+      ],
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z"
+    },
+    {
+      "id": "sample-government-001",
+      "externalId": "sample-government-001",
+      "source": "government_notice",
+      "title": "고용보험법 시행령 일부개정령안 입법예고",
+      "normalizedTitle": "고용보험법시행령일부개정령안입법예고",
+      "stage": "pre_announcement",
+      "statusLabel": "입법예고",
+      "proposerName": "고용노동부",
+      "proposerType": "ministry",
+      "ministry": "고용노동부",
+      "noticeStartDate": "2026-06-17",
+      "noticeEndDate": "2026-07-27",
+      "lastUpdatedAt": "2026-06-17T00:00:00.000Z",
+      "officialUrl": "https://www.moleg.go.kr/lawinfo/makingList.mo?mid=a10104010000",
+      "rawSummary": "고용보험 제도 운영과 관련된 하위 법령 개정안 예시입니다.",
+      "aiSummaryStatus": "none",
+      "needsReview": false,
+      "events": [
+        {
+          "id": "sample-government-001-event-1",
+          "billId": "sample-government-001",
+          "eventType": "notice_start",
+          "eventLabel": "입법예고 시작",
+          "eventDate": "2026-06-17",
+          "sourceUrl": "https://www.moleg.go.kr/lawinfo/makingList.mo?mid=a10104010000"
+        },
+        {
+          "id": "sample-government-001-event-2",
+          "billId": "sample-government-001",
+          "eventType": "notice_end",
+          "eventLabel": "입법예고 종료 예정",
+          "eventDate": "2026-07-27",
+          "sourceUrl": "https://www.moleg.go.kr/lawinfo/makingList.mo?mid=a10104010000"
+        }
+      ],
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z"
+    },
+    {
+      "id": "sample-progress-001",
+      "externalId": "sample-progress-001",
+      "source": "government_pre_submit",
+      "title": "국가공간정보기본법 시행령 일부개정령안",
+      "normalizedTitle": "국가공간정보기본법시행령일부개정령안",
+      "stage": "drafting",
+      "statusLabel": "정부입법 준비",
+      "proposerName": "국토교통부",
+      "proposerType": "ministry",
+      "ministry": "국토교통부",
+      "lastUpdatedAt": "2026-06-16T00:00:00.000Z",
+      "officialUrl": "https://opinion.lawmaking.go.kr/",
+      "rawSummary": "정부 제출 전 단계의 법령안 흐름을 보여주기 위한 예시입니다.",
+      "aiSummaryStatus": "none",
+      "needsReview": true,
+      "events": [
+        {
+          "id": "sample-progress-001-event-1",
+          "billId": "sample-progress-001",
+          "eventType": "drafting",
+          "eventLabel": "정부 내부 준비 단계",
+          "eventDate": "2026-06-16",
+          "sourceUrl": "https://opinion.lawmaking.go.kr/"
+        }
+      ],
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "updatedAt": "2026-06-17T00:00:00.000Z"
+    }
+  ]
+}
