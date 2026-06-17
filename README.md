@@ -19,7 +19,15 @@ npm run dev
 npm run sync:data
 ```
 
-API 키가 없거나 공공 API 연결이 실패하면 샘플 데이터가 유지됩니다.
+기본 수집 범위는 국회 API 5페이지, 국민참여입법센터 5페이지입니다. 필요하면 환경 변수로 조절합니다.
+
+```powershell
+$env:LAWMAKING_MAX_PAGES="10"
+$env:ASSEMBLY_MAX_PAGES="10"
+npm run sync:data
+```
+
+API 키가 없거나 공공 API 연결이 실패하면 기존 데이터가 유지됩니다.
 
 ## 빌드
 

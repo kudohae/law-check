@@ -5,6 +5,9 @@ import type { Bill, BillDataFile, BillStage } from "../src/types";
 const outputPath = path.resolve("public/data/bills.json");
 const assemblyEndpoint = "https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn";
 const lawmakingOrigin = "https://opinion.lawmaking.go.kr";
+const assemblyPageSize = readPositiveInt(process.env.ASSEMBLY_PAGE_SIZE, 100);
+const assemblyMaxPages = readPositiveInt(process.env.ASSEMBLY_MAX_PAGES, 5);
+const lawmakingMaxPages = readPositiveInt(process.env.LAWMAKING_MAX_PAGES, 5);
 
 async function main() {
   const previous = await readPreviousData();
@@ -28,7 +31,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     sourceNote:
       fetchedBills.length > 0
-        ? "공개 API에서 수집한 데이터입니다. 일부 항목은 API 응답 제한으로 누락될 수 있습니다."
+        ? `공개 데이터에서 수집한 데이터입니다. 국회 API ${assemblyMaxPages}페이지, 국민참여입법센터 ${lawmakingMaxPages}페이지 범위로 갱신했습니다.`
         : "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
     bills
   };
@@ -63,17 +66,23 @@ async function safeFetch(label: string, fetcher: () => Promise<Bill[]>): Promise
 }
 
 async function fetchAssemblyMemberBills(): Promise<Bill[]> {
-  const url = new URL(assemblyEndpoint);
-  if (process.env.ASSEMBLY_API_KEY) {
-    url.searchParams.set("KEY", process.env.ASSEMBLY_API_KEY);
-  }
-  url.searchParams.set("Type", "json");
-  url.searchParams.set("pIndex", "1");
-  url.searchParams.set("pSize", "50");
-  url.searchParams.set("AGE", "22");
+  const rows: Record<string, unknown>[] = [];
+  for (let page = 1; page <= assemblyMaxPages; page += 1) {
+    const url = new URL(assemblyEndpoint);
+    if (process.env.ASSEMBLY_API_KEY) {
+      url.searchParams.set("KEY", process.env.ASSEMBLY_API_KEY);
+    }
+    url.searchParams.set("Type", "json");
+    url.searchParams.set("pIndex", String(page));
+    url.searchParams.set("pSize", String(assemblyPageSize));
+    url.searchParams.set("AGE", "22");
 
-  const parsed = await fetchJson<Record<string, unknown>>(url);
-  const rows = readAssemblyRows(parsed, "nzmimeepazxkubdpn");
+    const parsed = await fetchJson<Record<string, unknown>>(url);
+    const pageRows = readAssemblyRows(parsed, "nzmimeepazxkubdpn");
+    if (pageRows.length === 0) break;
+    rows.push(...pageRows);
+  }
+
   const now = new Date().toISOString();
 
   return rows.map((row: Record<string, unknown>, index) => {
@@ -120,12 +129,10 @@ async function fetchAssemblyMemberBills(): Promise<Bill[]> {
 }
 
 async function fetchAssemblyStatusBills(): Promise<Bill[]> {
-  const url = new URL("/gcom/nsmLmSts/out", lawmakingOrigin);
-  const html = await fetchText(url);
-  const rows = parseHtmlRows(html).filter((row) => /data-th=["']의안명["']/.test(row));
+  const rows = await fetchLawmakingRows("/gcom/nsmLmSts/out", /data-th=["']의안명["']/);
   const now = new Date().toISOString();
 
-  return rows.slice(0, 50).map((row, index) => {
+  return rows.map((row, index) => {
     const link = findHref(row, /\/gcom\/nsmLmSts\/out\/\d+/);
     const externalId =
       readCellText(row, "의안번호 (대안번호)").match(/\d+/)?.[0] ||
@@ -179,12 +186,10 @@ async function fetchAssemblyStatusBills(): Promise<Bill[]> {
 }
 
 async function fetchGovernmentNotices(): Promise<Bill[]> {
-  const url = new URL("/gcom/ogLmPp", lawmakingOrigin);
-  const html = await fetchText(url);
-  const rows = parseHtmlRows(html);
+  const rows = await fetchLawmakingRows("/gcom/ogLmPp", /data-th=["']법령 제명["']/);
   const now = new Date().toISOString();
 
-  return rows.slice(0, 50).map((row, index) => {
+  return rows.map((row, index) => {
     const link = findHref(row, /\/gcom\/ogLmPp\/\d+/);
     const externalId = link.match(/\d+/)?.[0] || `government-notice-${index}`;
     const title = findLinkText(row, /\/gcom\/ogLmPp\/\d+/) || "제목 미확인 입법예고";
@@ -249,12 +254,10 @@ async function fetchGovernmentNotices(): Promise<Bill[]> {
 }
 
 async function fetchGovernmentProgress(): Promise<Bill[]> {
-  const url = new URL("/lmSts/govLm", lawmakingOrigin);
-  const html = await fetchText(url);
-  const rows = parseHtmlRows(html);
+  const rows = await fetchLawmakingRows("/lmSts/govLm", /data-th=["']법령명["']/);
   const now = new Date().toISOString();
 
-  return rows.slice(0, 50).map((row, index) => {
+  return rows.map((row, index) => {
     const link = findHref(row, /\/lmSts\/govLm\/\d+/);
     const externalId = link.match(/\d+/)?.[0] || `government-progress-${index}`;
     const title = findLinkText(row, /\/lmSts\/govLm\/\d+/) || "제목 미확인 정부입법현황";
@@ -315,6 +318,34 @@ async function fetchJson<T>(url: URL): Promise<T> {
     throw new Error(`${response.status} ${response.statusText}`);
   }
   return response.json() as Promise<T>;
+}
+
+async function fetchLawmakingRows(pathname: string, rowPattern: RegExp): Promise<string[]> {
+  const rows: string[] = [];
+  const seen = new Set<string>();
+
+  for (let page = 1; page <= lawmakingMaxPages; page += 1) {
+    const url = new URL(pathname, lawmakingOrigin);
+    url.searchParams.set("pageIndex", String(page));
+    url.searchParams.set("blockStartPage", String(Math.floor((page - 1) / 10) * 10 + 1));
+
+    const html = await fetchText(url);
+    const pageRows = parseHtmlRows(html).filter((row) => rowPattern.test(row));
+    if (pageRows.length === 0) break;
+
+    let newRows = 0;
+    for (const row of pageRows) {
+      const key = findHref(row, /\d+/) || stripHtml(row).slice(0, 120);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      rows.push(row);
+      newRows += 1;
+    }
+
+    if (newRows === 0) break;
+  }
+
+  return rows;
 }
 
 function dedupeBills(bills: Bill[]) {
@@ -450,6 +481,12 @@ function ensureArray(value: unknown): Record<string, unknown>[] {
   if (!value) return [];
   if (Array.isArray(value)) return value as Record<string, unknown>[];
   return [value as Record<string, unknown>];
+}
+
+function readPositiveInt(value: string | undefined, fallback: number): number {
+  if (!value) return fallback;
+  const parsed = Number.parseInt(value, 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 }
 
 main().catch((error: unknown) => {
