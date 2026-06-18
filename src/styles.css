@@ -568,27 +568,81 @@ dd {
 
 .timeline {
   display: grid;
-  gap: 12px;
+  gap: 0;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.timeline li {
+.timeline-item {
   display: grid;
   grid-template-columns: 130px 1fr;
   gap: 14px;
   align-items: start;
+  position: relative;
+  padding: 0 0 16px 20px;
 }
 
-.timeline time {
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 9px;
+  height: 9px;
+  border: 2px solid #1f6feb;
+  border-radius: 999px;
+  background: #ffffff;
+}
+
+.timeline-item::after {
+  content: "";
+  position: absolute;
+  left: 5px;
+  top: 17px;
+  bottom: 0;
+  width: 1px;
+  background: #d8e0ec;
+}
+
+.timeline-item:last-child::after {
+  display: none;
+}
+
+.timeline-date {
   color: #677386;
   font-size: 13px;
 }
 
-.timeline span {
+.timeline-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   color: #1d2638;
   font-weight: 700;
+}
+
+.timeline-label strong {
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #dcecff;
+  color: #0b5cad;
+  font-size: 11px;
+}
+
+.timeline-item.current::before {
+  background: #1f6feb;
+}
+
+.timeline-item.upcoming::before {
+  border-color: #c8d0dc;
+  background: #f2f5f8;
+}
+
+.timeline-item.upcoming .timeline-date,
+.timeline-item.upcoming .timeline-label {
+  color: #a0a9b8;
+  font-weight: 600;
 }
 
 .empty-state {

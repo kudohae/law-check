@@ -16,6 +16,15 @@ type DetailMeta = {
   label: string;
   value: React.ReactNode;
 };
+type TimelineState = "done" | "current" | "upcoming";
+type ProcedureStep = {
+  key: string;
+  label: string;
+};
+type ProcedureTimelineItem = ProcedureStep & {
+  state: TimelineState;
+  date?: string;
+};
 type ChartPoint = {
   label: string;
   start: Date;
@@ -297,10 +306,15 @@ function BillDetail({ bill }: { bill: Bill }) {
       <section className="content-section">
         <p className="section-label">진행 타임라인</p>
         <ol className="timeline">
-          {bill.events.map((event) => (
-            <li key={event.id}>
-              <time>{formatDate(event.eventDate)}</time>
-              <span>{event.eventLabel}</span>
+          {buildProcedureTimeline(bill).map((item) => (
+            <li key={item.key} className={`timeline-item ${item.state}`}>
+              <span className="timeline-date">
+                {item.state === "upcoming" ? "" : item.date ? formatDate(item.date) : "날짜 미확인"}
+              </span>
+              <span className="timeline-label">
+                {item.label}
+                {item.state === "current" ? <strong>현재</strong> : null}
+              </span>
             </li>
           ))}
         </ol>
@@ -549,6 +563,137 @@ function readRawSummaryValue(bill: Bill, label: string) {
     .map((value) => value.trim())
     .find((value) => value.startsWith(`${label}:`));
   return part?.replace(`${label}:`, "").trim();
+}
+
+const assemblyProcedure: ProcedureStep[] = [
+  { key: "received", label: "접수" },
+  { key: "referred", label: "회부" },
+  { key: "committee-agenda", label: "상정" },
+  { key: "subcommittee", label: "소위심사" },
+  { key: "committee-passed", label: "위원회 의결" },
+  { key: "legislation-judiciary", label: "법사위 체계·자구 심사" },
+  { key: "plenary", label: "본회의 심의·의결" },
+  { key: "sent-government", label: "정부 이송" },
+  { key: "promulgated", label: "공포" }
+];
+
+const governmentNoticeProcedure: ProcedureStep[] = [
+  { key: "notice-open", label: "예고 진행 중" },
+  { key: "notice-closed", label: "예고 종료" },
+  { key: "next-process", label: "후속 절차 진행 중" },
+  { key: "promulgated", label: "공포 완료" }
+];
+
+const governmentProgressProcedure: ProcedureStep[] = [
+  { key: "drafting", label: "입안" },
+  { key: "consultation", label: "관계기관 협의" },
+  { key: "notice", label: "입법예고" },
+  { key: "regulatory-review", label: "규제심사" },
+  { key: "moleg-review", label: "법제처 심사" },
+  { key: "vice-minister-meeting", label: "차관회의" },
+  { key: "cabinet-meeting", label: "국무회의" },
+  { key: "presidential-approval", label: "대통령 재가" },
+  { key: "submitted-to-assembly", label: "국회 제출" },
+  { key: "waiting-promulgation", label: "공포대기" },
+  { key: "promulgated", label: "공포" }
+];
+
+function buildProcedureTimeline(bill: Bill): ProcedureTimelineItem[] {
+  if (bill.source === "government_notice") {
+    return buildTimelineItems(
+      governmentNoticeProcedure,
+      getGovernmentNoticeStepIndex(bill),
+      getGovernmentNoticeDates(bill)
+    );
+  }
+
+  if (bill.source === "government_pre_submit") {
+    return buildTimelineItems(
+      governmentProgressProcedure,
+      getGovernmentProgressStepIndex(bill),
+      getGovernmentProgressDates(bill)
+    );
+  }
+
+  return buildTimelineItems(
+    assemblyProcedure,
+    getAssemblyStepIndex(bill),
+    getAssemblyDates(bill)
+  );
+}
+
+function buildTimelineItems(steps: ProcedureStep[], currentIndex: number, dates: Record<string, string | undefined>) {
+  const boundedIndex = Math.max(0, Math.min(currentIndex, steps.length - 1));
+  return steps.map((step, index) => ({
+    ...step,
+    state: index < boundedIndex ? "done" : index === boundedIndex ? "current" : "upcoming",
+    date: dates[step.key]
+  } satisfies ProcedureTimelineItem));
+}
+
+function getAssemblyStepIndex(bill: Bill) {
+  const status = `${bill.statusLabel} ${bill.rawSummary ?? ""}`;
+  if (/공포/.test(status)) return 8;
+  if (/정부\s*이송|이송/.test(status)) return 7;
+  if (/본회의|본회의의결/.test(status)) return 6;
+  if (/법사|체계|자구/.test(status)) return 5;
+  if (/위원회\s*(가결|의결)|소관위.*(가결|의결)/.test(status)) return 4;
+  if (/소위|소위원회/.test(status)) return 3;
+  if (/상정/.test(status)) return 2;
+  if (/회부/.test(status)) return 1;
+  return 0;
+}
+
+function getAssemblyDates(bill: Bill) {
+  const firstDate = bill.proposedDate ?? latestEventDate(bill) ?? bill.lastUpdatedAt ?? bill.updatedAt;
+  const currentStep = assemblyProcedure[getAssemblyStepIndex(bill)]?.key;
+  return {
+    received: firstDate,
+    [currentStep]: latestEventDate(bill) ?? firstDate
+  };
+}
+
+function getGovernmentNoticeStepIndex(bill: Bill) {
+  if (/공포/.test(bill.statusLabel)) return 3;
+  const endDate = parseDateValue(bill.noticeEndDate);
+  if (endDate && endDate < startOfDay(new Date())) return 1;
+  return 0;
+}
+
+function getGovernmentNoticeDates(bill: Bill) {
+  const currentStep = governmentNoticeProcedure[getGovernmentNoticeStepIndex(bill)]?.key;
+  return {
+    "notice-open": bill.noticeStartDate,
+    "notice-closed": bill.noticeEndDate,
+    [currentStep]: currentStep === "notice-open" ? bill.noticeStartDate : bill.noticeEndDate ?? bill.lastUpdatedAt
+  };
+}
+
+function getGovernmentProgressStepIndex(bill: Bill) {
+  const status = bill.statusLabel;
+  if (/공포$|공포완료/.test(status)) return 10;
+  if (/공포대기/.test(status)) return 9;
+  if (/국회|제출/.test(status)) return 8;
+  if (/국무/.test(status)) return 6;
+  if (/차관/.test(status)) return 5;
+  if (/법제처/.test(status)) return 4;
+  if (/규제/.test(status)) return 3;
+  if (/입법예고/.test(status)) return 2;
+  if (/협의/.test(status)) return 1;
+  return 0;
+}
+
+function getGovernmentProgressDates(bill: Bill) {
+  const currentStep = governmentProgressProcedure[getGovernmentProgressStepIndex(bill)]?.key;
+  return {
+    [currentStep]: latestEventDate(bill) ?? bill.lastUpdatedAt ?? bill.updatedAt
+  };
+}
+
+function parseDateValue(value?: string) {
+  if (!value) return null;
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? null : startOfDay(date);
 }
 
 function Badge({ children, tone = "default" }: { children: React.ReactNode; tone?: "default" | "strong" | "warn" }) {
