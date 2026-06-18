@@ -3,7 +3,8 @@ name: Sync public law data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 20 * * *"
+    # 06:00 Asia/Seoul = 21:00 UTC on the previous day.
+    - cron: "0 21 * * *"
 
 permissions:
   contents: write
@@ -30,13 +31,15 @@ jobs:
           ASSEMBLY_API_KEY: ${{ secrets.ASSEMBLY_API_KEY }}
           LAWMAKING_API_KEY: ${{ secrets.LAWMAKING_API_KEY }}
 
-      - name: Generate AI summaries
+      - name: Generate missing AI summaries
         run: npm run summarize:data
         env:
+          SUMMARY_PROVIDER: gemini
+          SUMMARY_LIMIT: "0"
+          SUMMARY_FORCE: "0"
+          SUMMARY_DELAY_MS: "12000"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-2.5-flash-lite
-          GEMINI_SUMMARY_LIMIT: "5"
-          GEMINI_SUMMARY_DELAY_MS: "1200"
 
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v7

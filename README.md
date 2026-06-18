@@ -60,7 +60,7 @@ $env:GEMINI_SUMMARY_LIMIT="5"
 npm run summarize:data
 ```
 
-GitHub Actions에서 자동 요약을 쓰려면 저장소 Secrets에 `GEMINI_API_KEY`를 추가해야 합니다.
+GitHub Actions의 매일 06시 데이터 갱신은 새로 들어온 법률안 중 요약이 없는 항목만 Gemini로 처리합니다. 속도는 `SUMMARY_DELAY_MS=12000`으로 제한해 1분에 최대 5개씩 처리합니다. 저장소 Secrets에 `GEMINI_API_KEY`를 추가해야 자동 요약이 실행됩니다.
 
 ## 빌드
 

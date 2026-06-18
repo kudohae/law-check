@@ -48,6 +48,7 @@ async function main() {
       bill.aiSummaryStatus = "done";
       bill.aiSummaryUpdatedAt = new Date().toISOString();
       done += 1;
+      await writeData(data);
       console.log(`AI summary done: ${bill.title}`);
     } catch (error) {
       if (error instanceof StopSummariesError) {
@@ -256,29 +257,18 @@ function decodeHtml(value: string): string {
 
 function buildPrompt(bill: Bill, summarySource: SummarySource) {
   return [
-    "너는 한국 입법 정보를 요약하는 보조자다.",
-    "원문에 없는 내용을 추측하지 말고, 아래 제공된 공개 데이터만 사용해라.",
-    "법률 자문처럼 말하지 말고, 정보 제공용 요약임을 전제로 간결하게 써라.",
-    "출력은 한국어 Markdown으로 작성하되 6줄 이내로 제한해라.",
+    "너는 한국 법률안의 실제 내용을 요약하는 보조자다.",
+    "아래 AI 요약 원문에 적힌 내용만 사용해라. 원문에 없는 배경, 절차, 영향, 날짜를 추측하지 마라.",
+    "진행상태, 현재 단계, 미확인 사항, 소관부처, 소관위원회 같은 메타정보를 요약하지 마라.",
+    "법률안이 무엇을 신설·개정·폐지하려는지, 어떤 제도나 의무나 절차를 담는지만 요약해라.",
+    "출력은 한국어 평문 2~4문장으로 작성해라. 제목, 불릿, Markdown 굵게 표시를 쓰지 마라.",
     "",
     `법률안명: ${bill.title}`,
-    `출처: ${bill.source}`,
-    `진행상태: ${bill.statusLabel}`,
-    `소관부처: ${bill.ministry ?? "미확인"}`,
-    `소관위원회: ${bill.committee ?? "미확인"}`,
-    `제안/제출 주체: ${bill.proposerName ?? "미확인"}`,
-    `제안일: ${bill.proposedDate ?? "미확인"}`,
-    `입법예고 기간: ${bill.noticeStartDate ?? "해당 없음"} ~ ${bill.noticeEndDate ?? "해당 없음"}`,
-    `공개 데이터 요지: ${bill.rawSummary ?? "없음"}`,
     `AI 요약 원문 출처: ${summarySource.label}`,
     `AI 요약 원문 URL: ${summarySource.url}`,
-    `AI 요약 원문: ${summarySource.text}`,
-    `공식 URL: ${bill.officialUrl}`,
     "",
-    "형식:",
-    "- 한줄 요약: ...",
-    "- 현재 단계: ...",
-    "- 확인할 점: ..."
+    "AI 요약 원문:",
+    summarySource.text
   ].join("\n");
 }
 
