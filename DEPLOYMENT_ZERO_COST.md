@@ -66,6 +66,17 @@ Law Check의 초기 운영은 돈이 들지 않는 구성을 기준으로 한다
 - GitHub Pages는 공개 프로젝트 사이트에 좋지만, 상업 거래나 SaaS 성격의 무료 웹호스팅 용도로 쓰는 데 제한 문구가 있다.
 - 광고 수익화를 진지하게 고려한다면 GitHub Pages는 1순위가 아니다.
 
+## AI 요약 운영
+
+AI 요약은 정적 사이트 안에서 실시간 호출하지 않는다. Gemini API 키가 브라우저에 노출되면 안 되기 때문이다.
+
+운영 방식:
+
+- `npm run summarize:data`가 `public/data/bills.json`에 요약을 저장한다.
+- 사이트는 저장된 요약만 표시한다.
+- GitHub Actions에서는 `GEMINI_API_KEY` Secret이 있을 때만 요약을 생성한다.
+- 기본 자동 요약 수는 실행당 5건이다.
+
 ## 광고 수익화 준비
 
 초기에는 광고 코드를 넣지 않는다.

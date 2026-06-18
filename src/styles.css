@@ -393,6 +393,17 @@ dd {
   line-height: 1.6;
 }
 
+.ai-summary-text {
+  display: grid;
+  gap: 7px;
+  color: #263246;
+  line-height: 1.55;
+}
+
+.ai-summary-text p {
+  margin: 0;
+}
+
 .summary-status {
   white-space: nowrap;
   color: #5f6b7e;

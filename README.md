@@ -29,6 +29,18 @@ npm run sync:data
 
 API 키가 없거나 공공 API 연결이 실패하면 기존 데이터가 유지됩니다.
 
+## AI 요약
+
+AI 요약은 브라우저에서 직접 생성하지 않습니다. API 키 유출을 막기 위해 작업 스크립트가 요약을 생성한 뒤 `public/data/bills.json`에 저장합니다.
+
+```powershell
+$env:GEMINI_API_KEY="..."
+$env:GEMINI_SUMMARY_LIMIT="5"
+npm run summarize:data
+```
+
+GitHub Actions에서 자동 요약을 쓰려면 저장소 Secrets에 `GEMINI_API_KEY`를 추가해야 합니다.
+
 ## 빌드
 
 ```powershell

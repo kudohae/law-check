@@ -89,7 +89,7 @@ function App() {
       total: bills.length,
       notice: bills.filter((bill) => bill.stage === "pre_announcement").length,
       assembly: bills.filter((bill) => bill.source === "assembly_member" || bill.source === "assembly_government").length,
-      review: bills.filter((bill) => bill.needsReview).length
+      aiSummary: bills.filter((bill) => bill.aiSummaryStatus === "done" && bill.aiSummary).length
     };
   }, [bills]);
 
@@ -123,7 +123,7 @@ function App() {
         <StatCard icon={<FileSearch />} label="수집된 항목" value={stats.total} />
         <StatCard icon={<CalendarDays />} label="입법예고" value={stats.notice} />
         <StatCard icon={<Gavel />} label="국회 단계" value={stats.assembly} />
-        <StatCard icon={<BookOpen />} label="검토 필요" value={stats.review} />
+        <StatCard icon={<BookOpen />} label="AI 요약" value={stats.aiSummary} />
       </section>
 
       <section className="workspace">
@@ -249,13 +249,20 @@ function BillDetail({ bill }: { bill: Bill }) {
       <section className="summary-panel">
         <div>
           <p className="section-label">AI 요약</p>
-          <h3>비용 없는 MVP에서는 비활성화</h3>
+          <h3>{bill.aiSummary ? "Gemini 요약" : "요약 대기"}</h3>
         </div>
-        <p>
-          요약 데이터 필드는 이미 준비되어 있습니다. 나중에 무료 한도, 후원, 또는 로컬 모델 운영 여건이 생기면
-          선택한 법률안만 요약하고 결과를 저장하는 방식으로 붙입니다.
-        </p>
-        <span className="summary-status">상태: {bill.aiSummaryStatus}</span>
+        {bill.aiSummary ? (
+          <div className="ai-summary-text">{renderSummaryLines(bill.aiSummary)}</div>
+        ) : (
+          <p>
+            아직 저장된 AI 요약이 없습니다. API 키를 브라우저에 노출하지 않기 위해, 요약은 배포 전 작업에서 생성해
+            데이터 파일에 저장합니다.
+          </p>
+        )}
+        <span className="summary-status">
+          상태: {summaryStatusLabel(bill.aiSummaryStatus)}
+          {bill.aiSummaryUpdatedAt ? ` · ${formatDate(bill.aiSummaryUpdatedAt)}` : ""}
+        </span>
       </section>
 
       {bill.rawSummary ? (
@@ -303,6 +310,21 @@ function MetaItem({ label, value }: { label: string; value: string }) {
       <dd>{value}</dd>
     </div>
   );
+}
+
+function renderSummaryLines(summary: string) {
+  return summary.split("\n").map((line) => (
+    <p key={line}>
+      {line.replace(/^[-*]\s*/, "")}
+    </p>
+  ));
+}
+
+function summaryStatusLabel(status: Bill["aiSummaryStatus"]) {
+  if (status === "done") return "완료";
+  if (status === "pending") return "대기";
+  if (status === "failed") return "실패";
+  return "없음";
 }
 
 function formatNoticePeriod(bill: Bill) {

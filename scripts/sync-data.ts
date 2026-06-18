@@ -25,7 +25,7 @@ async function main() {
   const governmentProgress = await safeFetch("정부입법현황", fetchGovernmentProgress);
   fetchedBills.push(...governmentProgress);
 
-  const bills = fetchedBills.length > 0 ? dedupeBills(fetchedBills) : previous.bills;
+  const bills = fetchedBills.length > 0 ? mergeAiSummaries(dedupeBills(fetchedBills), previous.bills) : previous.bills;
 
   const nextData: BillDataFile = {
     generatedAt: new Date().toISOString(),
@@ -359,6 +359,28 @@ function dedupeBills(bills: Bill[]) {
     const right = Date.parse(a.proposedDate ?? a.noticeStartDate ?? a.updatedAt);
     return left - right;
   });
+}
+
+function mergeAiSummaries(nextBills: Bill[], previousBills: Bill[]) {
+  const previousByKey = new Map<string, Bill>();
+  for (const bill of previousBills) {
+    previousByKey.set(summaryKey(bill), bill);
+  }
+
+  return nextBills.map((bill) => {
+    const previous = previousByKey.get(summaryKey(bill));
+    if (!previous?.aiSummary) return bill;
+    return {
+      ...bill,
+      aiSummary: previous.aiSummary,
+      aiSummaryStatus: previous.aiSummaryStatus,
+      aiSummaryUpdatedAt: previous.aiSummaryUpdatedAt
+    };
+  });
+}
+
+function summaryKey(bill: Pick<Bill, "source" | "externalId" | "normalizedTitle">) {
+  return `${bill.source}:${bill.externalId}:${bill.normalizedTitle}`;
 }
 
 function readAssemblyRows(parsed: Record<string, unknown>, rootKey: string): Record<string, unknown>[] {
