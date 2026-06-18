@@ -3,15 +3,15 @@ import {
   AlertCircle,
   ArrowUpRight,
   Database,
-  Filter,
   Search
 } from "lucide-react";
 import { loadBillData } from "./data";
-import { sourceLabels, sourceOptions, stageLabels, stageOptions } from "./constants";
+import { sourceLabels, stageLabels, stageOptions } from "./constants";
 import type { Bill, BillDataFile, BillSource, BillStage } from "./types";
 import { formatDate, getBillDate, getBillOwner, normalizeText } from "./utils";
 
 type SortKey = "recent" | "noticeEnd" | "updated";
+type CategoryKey = BillSource;
 type ChartPoint = {
   label: string;
   start: Date;
@@ -20,12 +20,26 @@ type ChartPoint = {
   government: number;
 };
 
+const categoryOptions: CategoryKey[] = [
+  "assembly_member",
+  "assembly_government",
+  "government_notice",
+  "government_pre_submit"
+];
+
+const categoryDescriptions: Record<CategoryKey, string> = {
+  assembly_member: "국회의원이 국회에 제출한 법률안입니다.",
+  assembly_government: "정부가 국회에 공식 제출한 법률안입니다.",
+  government_notice: "정부가 국회 제출 전 국민 의견을 받는 단계입니다.",
+  government_pre_submit: "정부 안에서 추진 중인 법령안의 진행 현황입니다."
+};
+
 function App() {
   const [data, setData] = useState<BillDataFile | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [selectedBillId, setSelectedBillId] = useState<string | null>(null);
   const [query, setQuery] = useState("");
-  const [source, setSource] = useState<"all" | BillSource>("all");
+  const [category, setCategory] = useState<CategoryKey>("assembly_member");
   const [stage, setStage] = useState<"all" | BillStage>("all");
   const [sort, setSort] = useState<SortKey>("recent");
 
@@ -61,7 +75,7 @@ function App() {
 
         return (
           (!normalizedQuery || queryTarget.includes(normalizedQuery)) &&
-          (source === "all" || bill.source === source) &&
+          bill.source === category &&
           (stage === "all" || bill.stage === stage)
         );
       })
@@ -74,7 +88,7 @@ function App() {
         }
         return dateValue(getBillDate(b), 0) - dateValue(getBillDate(a), 0);
       });
-  }, [bills, query, sort, source, stage]);
+  }, [bills, category, query, sort, stage]);
 
   const selectedBill =
     filteredBills.find((bill) => bill.id === selectedBillId) ??
@@ -88,6 +102,17 @@ function App() {
   }, [filteredBills, selectedBillId]);
 
   const chartPoints = useMemo(() => buildLegislationChartPoints(bills), [bills]);
+  const categoryCounts = useMemo(() => {
+    return categoryOptions.reduce<Record<CategoryKey, number>>((counts, option) => {
+      counts[option] = bills.filter((bill) => bill.source === option).length;
+      return counts;
+    }, {
+      assembly_member: 0,
+      assembly_government: 0,
+      government_notice: 0,
+      government_pre_submit: 0
+    });
+  }, [bills]);
 
   return (
     <main className="app-shell">
@@ -120,6 +145,26 @@ function App() {
       <section className="workspace">
         <aside className="list-pane" aria-label="법률안 목록">
           <div className="filters">
+            <div className="category-tabs" aria-label="법률안 카테고리">
+              {categoryOptions.map((option) => (
+                <button
+                  key={option}
+                  type="button"
+                  className={category === option ? "category-tab active" : "category-tab"}
+                  onClick={() => {
+                    setCategory(option);
+                    setSelectedBillId(null);
+                  }}
+                >
+                  <span className="category-tab-main">
+                    <span>{sourceLabels[option]}</span>
+                    <strong>{categoryCounts[option].toLocaleString("ko-KR")}</strong>
+                  </span>
+                  <small>{categoryDescriptions[option]}</small>
+                </button>
+              ))}
+            </div>
+
             <label className="search-field">
               <Search size={18} />
               <input
@@ -131,18 +176,6 @@ function App() {
 
             <div className="filter-row">
               <label>
-                <Filter size={16} />
-                <select value={source} onChange={(event) => setSource(event.target.value as "all" | BillSource)}>
-                  <option value="all">전체 출처</option>
-                  {sourceOptions.map((option) => (
-                    <option key={option.value} value={option.value}>
-                      {option.label}
-                    </option>
-                  ))}
-                </select>
-              </label>
-
-              <label>
                 <select value={stage} onChange={(event) => setStage(event.target.value as "all" | BillStage)}>
                   <option value="all">전체 단계</option>
                   {stageOptions.map((option) => (
@@ -152,9 +185,6 @@ function App() {
                   ))}
                 </select>
               </label>
-            </div>
-
-            <div className="filter-row">
               <label>
                 <select value={sort} onChange={(event) => setSort(event.target.value as SortKey)}>
                   <option value="recent">최신순</option>

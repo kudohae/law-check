@@ -268,6 +268,61 @@ h1 {
   background: #fbfcfe;
 }
 
+.category-tabs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.category-tab {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 92px;
+  padding: 10px;
+  border: 1px solid #ccd4df;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #263044;
+  text-align: left;
+  cursor: pointer;
+}
+
+.category-tab:hover {
+  border-color: #8eb7ef;
+  background: #f5f9ff;
+}
+
+.category-tab.active {
+  border-color: #1f6feb;
+  background: #eaf3ff;
+  box-shadow: inset 0 0 0 1px #1f6feb;
+}
+
+.category-tab-main {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.category-tab-main strong {
+  flex: 0 0 auto;
+  color: #0b5cad;
+  font-size: 14px;
+}
+
+.category-tab small {
+  display: block;
+  color: #637086;
+  font-size: 11px;
+  line-height: 1.35;
+}
+
 .search-field {
   gap: 8px;
   padding: 0 12px;
@@ -607,6 +662,7 @@ dd {
 }
 
 @media (max-width: 620px) {
+  .category-tabs,
   .filter-row,
   .timeline li {
     grid-template-columns: 1fr;

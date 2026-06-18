@@ -1,8 +1,8 @@
 import type { BillSource, BillStage } from "./types";
 
 export const sourceLabels: Record<BillSource, string> = {
-  assembly_member: "국회의원 발의",
-  assembly_government: "정부 제출",
+  assembly_member: "국회의원 발의 법률안",
+  assembly_government: "정부 제출 법률안",
   government_pre_submit: "정부입법현황",
   government_notice: "정부입법예고"
 };
@@ -19,11 +19,6 @@ export const stageLabels: Record<BillStage, string> = {
   promulgated: "공포",
   unknown: "확인 필요"
 };
-
-export const sourceOptions = Object.entries(sourceLabels).map(([value, label]) => ({
-  value,
-  label
-}));
 
 export const stageOptions = Object.entries(stageLabels).map(([value, label]) => ({
   value,
