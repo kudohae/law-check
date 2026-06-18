@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T04:48:11.343Z",
+  "generatedAt": "2026-06-18T04:54:14.719Z",
   "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
   "bills": [
     {
@@ -18,7 +18,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327450/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -30,7 +30,9 @@
         }
       ],
       "createdAt": "2026-06-18T04:48:11.338Z",
-      "updatedAt": "2026-06-18T04:48:11.338Z"
+      "updatedAt": "2026-06-18T04:48:11.338Z",
+      "aiSummary": "- **한줄 요약**: 국제 상사 분쟁 해결을 위한 조정상 화해계약의 승인 및 집행을 규정하는 법률 제정안이 법무부 주도로 입법 예고 단계에 있음.\n- **현재 단계**: 입법예고 중 (구체적 기간 미상)\n- **확인할 점**: 소관위원회 미확인, 제안일 미상, 집행 시 해사국제상사법원의 전속관할 적용 예정 (2028년 3월 시행 예정).",
+      "aiSummaryUpdatedAt": "2026-06-18T04:54:13.516Z"
     },
     {
       "id": "government-progress-2000000327988",

@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "sync:data": "tsx scripts/sync-data.ts",
     "summarize:data": "tsx scripts/summarize-data.ts",
+    "summarize:ollama": "tsx scripts/summarize-data.ts",
     "lint": "tsc -b --pretty false"
   },
   "dependencies": {

@@ -3,10 +3,14 @@ import path from "node:path";
 import type { Bill, BillDataFile } from "../src/types";
 
 const dataPath = path.resolve("public/data/bills.json");
-const apiKey = process.env.GEMINI_API_KEY;
-const model = process.env.GEMINI_MODEL || "gemini-2.5-flash-lite";
-const summaryLimit = readPositiveInt(process.env.GEMINI_SUMMARY_LIMIT, 5);
-const delayMs = readPositiveInt(process.env.GEMINI_SUMMARY_DELAY_MS, 1200);
+const geminiApiKey = process.env.GEMINI_API_KEY;
+const summaryProvider = (process.env.SUMMARY_PROVIDER || (geminiApiKey ? "gemini" : "ollama")) as SummaryProvider;
+const geminiModel = process.env.GEMINI_MODEL || "gemini-2.5-flash-lite";
+const ollamaModel = process.env.OLLAMA_MODEL || "exaone3.5:7.8b";
+const ollamaEndpoint = process.env.OLLAMA_ENDPOINT || "http://localhost:11434";
+const summaryLimit = readLimit(process.env.SUMMARY_LIMIT ?? process.env.GEMINI_SUMMARY_LIMIT, 5);
+const delayMs = readPositiveInt(process.env.SUMMARY_DELAY_MS ?? process.env.GEMINI_SUMMARY_DELAY_MS, 1200);
+const forceSummaries = process.env.SUMMARY_FORCE === "1";
 
 async function main() {
   const data = JSON.parse(await readFile(dataPath, "utf8")) as BillDataFile;
@@ -18,8 +22,8 @@ async function main() {
     }
   }
 
-  if (!apiKey) {
-    console.log("GEMINI_API_KEY is not set. Skipping AI summaries.");
+  if (summaryProvider === "gemini" && !geminiApiKey) {
+    console.log("GEMINI_API_KEY is not set. Skipping Gemini summaries.");
     if (cleaned) {
       await writeData(data);
       console.log("Cleaned failed summary placeholders.");
@@ -27,11 +31,15 @@ async function main() {
     return;
   }
 
-  const targets = data.bills
-    .filter((bill) => bill.aiSummaryStatus !== "done" || !bill.aiSummary)
-    .slice(0, summaryLimit);
+  if (summaryProvider === "ollama") {
+    await assertOllamaModel();
+  }
 
-  console.log(`Summarizing ${targets.length} of ${data.bills.length} bills with ${model}.`);
+  const pendingTargets = data.bills
+    .filter((bill) => forceSummaries || bill.aiSummaryStatus !== "done" || !bill.aiSummary);
+  const targets = summaryLimit === 0 ? pendingTargets : pendingTargets.slice(0, summaryLimit);
+
+  console.log(`Summarizing ${targets.length} of ${data.bills.length} bills with ${providerLabel()}.`);
 
   let done = 0;
   for (const bill of targets) {
@@ -59,12 +67,22 @@ async function main() {
 
 async function summarizeBill(bill: Bill): Promise<string> {
   const summarySource = await loadSummarySource(bill);
-  const url = new URL(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`);
+  const prompt = buildPrompt(bill, summarySource);
+
+  if (summaryProvider === "ollama") {
+    return summarizeWithOllama(prompt);
+  }
+
+  return summarizeWithGemini(prompt);
+}
+
+async function summarizeWithGemini(prompt: string): Promise<string> {
+  const url = new URL(`https://generativelanguage.googleapis.com/v1beta/models/${geminiModel}:generateContent`);
   const response = await fetch(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "x-goog-api-key": apiKey ?? ""
+      "x-goog-api-key": geminiApiKey ?? ""
     },
     body: JSON.stringify({
       contents: [
@@ -72,7 +90,7 @@ async function summarizeBill(bill: Bill): Promise<string> {
           role: "user",
           parts: [
             {
-              text: buildPrompt(bill, summarySource)
+              text: prompt
             }
           ]
         }
@@ -96,6 +114,49 @@ async function summarizeBill(bill: Bill): Promise<string> {
   const text = payload.candidates?.[0]?.content?.parts?.map((part) => part.text).join("\n").trim();
   if (!text) throw new Error("Gemini returned an empty response.");
   return text.replace(/\n{3,}/g, "\n\n");
+}
+
+async function summarizeWithOllama(prompt: string): Promise<string> {
+  const url = new URL("/api/generate", ollamaEndpoint);
+  const response = await fetch(url, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      model: ollamaModel,
+      prompt,
+      stream: false,
+      options: {
+        temperature: 0.2,
+        num_predict: 360
+      }
+    })
+  });
+
+  if (!response.ok) {
+    const detail = await response.text();
+    if (response.status === 429 || response.status === 503) {
+      throw new StopSummariesError(`${response.status} ${response.statusText}`);
+    }
+    throw new Error(`${response.status} ${response.statusText}: ${detail.slice(0, 220)}`);
+  }
+
+  const payload = (await response.json()) as OllamaGenerateResponse;
+  const text = payload.response?.trim();
+  if (!text) throw new Error("Ollama returned an empty response.");
+  return text.replace(/\n{3,}/g, "\n\n");
+}
+
+async function assertOllamaModel() {
+  const url = new URL("/api/tags", ollamaEndpoint);
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Ollama is not available: ${response.status} ${response.statusText}`);
+  const payload = (await response.json()) as OllamaTagsResponse;
+  const models = payload.models?.map((item) => item.name) ?? [];
+  if (!models.includes(ollamaModel)) {
+    throw new Error(`Ollama model not found: ${ollamaModel}. Available models: ${models.join(", ") || "none"}`);
+  }
 }
 
 async function loadSummarySource(bill: Bill): Promise<SummarySource> {
@@ -227,6 +288,18 @@ function readPositiveInt(value: string | undefined, fallback: number): number {
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 }
 
+function readLimit(value: string | undefined, fallback: number): number {
+  if (!value) return fallback;
+  const parsed = Number.parseInt(value, 10);
+  return Number.isFinite(parsed) && parsed >= 0 ? parsed : fallback;
+}
+
+function providerLabel() {
+  return summaryProvider === "ollama"
+    ? `Ollama ${ollamaModel}`
+    : `Gemini ${geminiModel}`;
+}
+
 function delay(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -252,6 +325,18 @@ type GeminiResponse = {
     };
   }>;
 };
+
+type OllamaGenerateResponse = {
+  response?: string;
+};
+
+type OllamaTagsResponse = {
+  models?: Array<{
+    name: string;
+  }>;
+};
+
+type SummaryProvider = "gemini" | "ollama";
 
 type SummarySource = {
   label: string;
