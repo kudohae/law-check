@@ -19,6 +19,9 @@ async function main() {
   const assemblyStatusBills = await safeFetch("국회입법현황", fetchAssemblyStatusBills);
   fetchedBills.push(...assemblyStatusBills);
 
+  const governmentSubmittedBills = await safeFetch("정부 제출 법률안", fetchGovernmentSubmittedBills);
+  fetchedBills.push(...governmentSubmittedBills);
+
   const governmentNotices = await safeFetch("정부입법예고", fetchGovernmentNotices);
   fetchedBills.push(...governmentNotices);
 
@@ -253,11 +256,70 @@ async function fetchGovernmentNotices(): Promise<Bill[]> {
   });
 }
 
+async function fetchGovernmentSubmittedBills(): Promise<Bill[]> {
+  const rows = await fetchLawmakingRows("/lmSts/govLm", /data-th=["']법령명["']/, {
+    lbPrcStsCd: "EB0109",
+    pageSize: "100"
+  });
+  const now = new Date().toISOString();
+
+  return rows
+    .map((row, index): Bill | null => {
+      const link = findHref(row, /\/lmSts\/govLm\/\d+/);
+      const externalId = link.match(/\d+/)?.[0] || `government-submitted-${index}`;
+      const title = findLinkText(row, /\/lmSts\/govLm\/\d+/) || "제목 미확인 정부 제출 법률안";
+      const statusLabel = readCellText(row, "추진현황") || "국회제출";
+      const ministry = readCellText(row, "소관부처");
+      const lawType = readCellText(row, "법령종류");
+      const revisionType = readCellText(row, "제 · 개정구분");
+      const id = `government-submitted-${externalId}`;
+      const officialUrl = new URL(link || "/lmSts/govLm", lawmakingOrigin).toString();
+
+      if (lawType && !/법률/.test(lawType)) return null;
+
+      return {
+        id,
+        externalId,
+        source: "assembly_government",
+        title,
+        normalizedTitle: normalizeTitle(title),
+        stage: "submitted_to_assembly",
+        statusLabel,
+        proposerName: "정부",
+        proposerType: "government",
+        ministry: ministry || undefined,
+        lastUpdatedAt: now,
+        officialUrl,
+        rawSummary: [
+          ministry ? `소관부처: ${ministry}` : "",
+          lawType ? `법령종류: ${lawType}` : "",
+          revisionType ? `제·개정구분: ${revisionType}` : ""
+        ]
+          .filter(Boolean)
+          .join(" / "),
+        aiSummaryStatus: "none",
+        needsReview: true,
+        events: [
+          {
+            id: `${id}-event-submitted`,
+            billId: id,
+            eventType: "government_submitted",
+            eventLabel: "국회 제출",
+            sourceUrl: officialUrl
+          }
+        ],
+        createdAt: now,
+        updatedAt: now
+      } satisfies Bill;
+    })
+    .filter((bill): bill is Bill => bill !== null);
+}
+
 async function fetchGovernmentProgress(): Promise<Bill[]> {
   const rows = await fetchLawmakingRows("/lmSts/govLm", /data-th=["']법령명["']/);
   const now = new Date().toISOString();
 
-  return rows.map((row, index) => {
+  return rows.map((row, index): Bill | null => {
     const link = findHref(row, /\/lmSts\/govLm\/\d+/);
     const externalId = link.match(/\d+/)?.[0] || `government-progress-${index}`;
     const title = findLinkText(row, /\/lmSts\/govLm\/\d+/) || "제목 미확인 정부입법현황";
@@ -267,6 +329,8 @@ async function fetchGovernmentProgress(): Promise<Bill[]> {
     const revisionType = readCellText(row, "제 · 개정구분");
     const id = `government-progress-${externalId}`;
     const officialUrl = new URL(link || "/lmSts/govLm", lawmakingOrigin).toString();
+
+    if (/국회제출/.test(statusLabel)) return null;
 
     return {
       id,
@@ -301,7 +365,7 @@ async function fetchGovernmentProgress(): Promise<Bill[]> {
       createdAt: now,
       updatedAt: now
     } satisfies Bill;
-  });
+  }).filter((bill): bill is Bill => bill !== null);
 }
 
 async function fetchText(url: URL) {
@@ -320,7 +384,7 @@ async function fetchJson<T>(url: URL): Promise<T> {
   return response.json() as Promise<T>;
 }
 
-async function fetchLawmakingRows(pathname: string, rowPattern: RegExp): Promise<string[]> {
+async function fetchLawmakingRows(pathname: string, rowPattern: RegExp, query: Record<string, string> = {}): Promise<string[]> {
   const rows: string[] = [];
   const seen = new Set<string>();
 
@@ -328,6 +392,9 @@ async function fetchLawmakingRows(pathname: string, rowPattern: RegExp): Promise
     const url = new URL(pathname, lawmakingOrigin);
     url.searchParams.set("pageIndex", String(page));
     url.searchParams.set("blockStartPage", String(Math.floor((page - 1) / 10) * 10 + 1));
+    for (const [key, value] of Object.entries(query)) {
+      url.searchParams.set(key, value);
+    }
 
     const html = await fetchText(url);
     const pageRows = parseHtmlRows(html).filter((row) => rowPattern.test(row));
