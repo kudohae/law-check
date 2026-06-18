@@ -12,6 +12,10 @@ import { formatDate, getBillDate, getBillOwner, normalizeText } from "./utils";
 
 type SortKey = "recent" | "noticeEnd" | "updated";
 type CategoryKey = BillSource;
+type DetailMeta = {
+  label: string;
+  value: React.ReactNode;
+};
 type ChartPoint = {
   label: string;
   start: Date;
@@ -259,12 +263,9 @@ function BillDetail({ bill }: { bill: Bill }) {
       </div>
 
       <dl className="meta-grid">
-        <MetaItem label="제안·제출 주체" value={getBillOwner(bill)} />
-        <MetaItem label="소관부처" value={bill.ministry ?? "미확인"} />
-        <MetaItem label="소관위원회" value={bill.committee ?? "미확인"} />
-        <MetaItem label="제안일" value={formatDate(bill.proposedDate)} />
-        <MetaItem label="입법예고 기간" value={formatNoticePeriod(bill)} />
-        <MetaItem label="최근 갱신" value={formatDate(bill.updatedAt)} />
+        {buildDetailMetaItems(bill).map((item) => (
+          <MetaItem key={item.label} label={item.label} value={item.value} />
+        ))}
       </dl>
 
       <section className="summary-panel">
@@ -481,11 +482,80 @@ function formatMonthDay(date: Date) {
   }).format(date);
 }
 
+function buildDetailMetaItems(bill: Bill): DetailMeta[] {
+  const items: DetailMeta[] = [];
+  const add = (label: string, value?: React.ReactNode) => {
+    if (value === undefined || value === null || value === "") return;
+    items.push({ label, value });
+  };
+  const addDate = (label: string, value?: string) => {
+    if (!value) return;
+    add(label, formatDate(value));
+  };
+
+  if (bill.source === "assembly_member") {
+    add("의안 번호", bill.externalId);
+    add("제안 주체", bill.proposerName);
+    add("소관위원회", bill.committee);
+    add("관련 부처", bill.ministry);
+    addDate("제안일", bill.proposedDate);
+    add("현재 상태", bill.statusLabel);
+    addDate("상태 변경일", latestEventDate(bill) ?? bill.lastUpdatedAt ?? bill.updatedAt);
+    return items;
+  }
+
+  if (bill.source === "assembly_government") {
+    add("정부입법 관리번호", bill.externalId);
+    add("제출 주체", bill.proposerName ?? "대한민국 정부");
+    add("소관부처", bill.ministry);
+    add("소관위원회", bill.committee);
+    addDate("제출일", bill.proposedDate);
+    add("국회 진행 상태", bill.statusLabel);
+    addDate("최근 갱신일", latestEventDate(bill) ?? bill.lastUpdatedAt ?? bill.updatedAt);
+    return items;
+  }
+
+  if (bill.source === "government_notice") {
+    add("공고 번호", bill.externalId);
+    add("주관 행정기관", bill.ministry ?? bill.proposerName);
+    add("법령 종류", readRawSummaryValue(bill, "법령종류"));
+    addDate("공고일", bill.noticeStartDate);
+    add("입법예고 기간", formatNoticePeriod(bill));
+    addDate("예고 종료일", bill.noticeEndDate);
+    add("의견제출", <a href={bill.officialUrl} target="_blank" rel="noreferrer">국민참여입법센터에서 보기</a>);
+    addDate("최근 갱신일", bill.lastUpdatedAt ?? bill.updatedAt);
+    return items;
+  }
+
+  add("관리 번호", bill.externalId);
+  add("소관부처", bill.ministry ?? bill.proposerName);
+  add("진행 단계", bill.statusLabel);
+  add("법령 종류", readRawSummaryValue(bill, "법령종류"));
+  add("제·개정구분", readRawSummaryValue(bill, "제·개정구분"));
+  addDate("최근 갱신일", latestEventDate(bill) ?? bill.lastUpdatedAt ?? bill.updatedAt);
+  return items;
+}
+
+function latestEventDate(bill: Bill) {
+  return bill.events
+    .map((event) => event.eventDate)
+    .filter((value): value is string => Boolean(value))
+    .at(-1);
+}
+
+function readRawSummaryValue(bill: Bill, label: string) {
+  const part = bill.rawSummary
+    ?.split("/")
+    .map((value) => value.trim())
+    .find((value) => value.startsWith(`${label}:`));
+  return part?.replace(`${label}:`, "").trim();
+}
+
 function Badge({ children, tone = "default" }: { children: React.ReactNode; tone?: "default" | "strong" | "warn" }) {
   return <span className={`badge ${tone}`}>{children}</span>;
 }
 
-function MetaItem({ label, value }: { label: string; value: string }) {
+function MetaItem({ label, value }: DetailMeta) {
   return (
     <div>
       <dt>{label}</dt>

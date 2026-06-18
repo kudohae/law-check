@@ -518,6 +518,12 @@ dd {
   font-weight: 700;
 }
 
+.meta-grid a {
+  color: #0b5cad;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .summary-panel {
   display: grid;
   grid-template-columns: 0.65fr 1fr auto;
