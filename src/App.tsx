@@ -2,12 +2,8 @@ import { useEffect, useMemo, useState } from "react";
 import {
   AlertCircle,
   ArrowUpRight,
-  BookOpen,
-  CalendarDays,
   Database,
-  FileSearch,
   Filter,
-  Gavel,
   Search
 } from "lucide-react";
 import { loadBillData } from "./data";
@@ -16,6 +12,13 @@ import type { Bill, BillDataFile, BillSource, BillStage } from "./types";
 import { formatDate, getBillDate, getBillOwner, normalizeText } from "./utils";
 
 type SortKey = "recent" | "noticeEnd" | "updated";
+type ChartPoint = {
+  label: string;
+  start: Date;
+  end: Date;
+  assembly: number;
+  government: number;
+};
 
 function App() {
   const [data, setData] = useState<BillDataFile | null>(null);
@@ -84,14 +87,7 @@ function App() {
     }
   }, [filteredBills, selectedBillId]);
 
-  const stats = useMemo(() => {
-    return {
-      total: bills.length,
-      notice: bills.filter((bill) => bill.stage === "pre_announcement").length,
-      assembly: bills.filter((bill) => bill.source === "assembly_member" || bill.source === "assembly_government").length,
-      aiSummary: bills.filter((bill) => bill.aiSummaryStatus === "done" && bill.aiSummary).length
-    };
-  }, [bills]);
+  const chartPoints = useMemo(() => buildLegislationChartPoints(bills), [bills]);
 
   return (
     <main className="app-shell">
@@ -119,12 +115,7 @@ function App() {
         <p>현재 광고 코드는 없습니다. 나중에 수익화를 시작할 때 법률 정보와 분리해 표시합니다.</p>
       </section>
 
-      <section className="stats-grid" aria-label="법률안 현황">
-        <StatCard icon={<FileSearch />} label="수집된 항목" value={stats.total} />
-        <StatCard icon={<CalendarDays />} label="입법예고" value={stats.notice} />
-        <StatCard icon={<Gavel />} label="국회 단계" value={stats.assembly} />
-        <StatCard icon={<BookOpen />} label="AI 요약" value={stats.aiSummary} />
-      </section>
+      <LegislationTrendChart points={chartPoints} />
 
       <section className="workspace">
         <aside className="list-pane" aria-label="법률안 목록">
@@ -287,16 +278,177 @@ function BillDetail({ bill }: { bill: Bill }) {
   );
 }
 
-function StatCard({ icon, label, value }: { icon: React.ReactNode; label: string; value: number }) {
+function LegislationTrendChart({ points }: { points: ChartPoint[] }) {
+  const width = 960;
+  const height = 270;
+  const padding = { top: 24, right: 24, bottom: 40, left: 46 };
+  const plotWidth = width - padding.left - padding.right;
+  const plotHeight = height - padding.top - padding.bottom;
+  const maxValue = Math.max(1, ...points.flatMap((point) => [point.assembly, point.government]));
+  const assemblyTotal = points.reduce((sum, point) => sum + point.assembly, 0);
+  const governmentTotal = points.reduce((sum, point) => sum + point.government, 0);
+  const yTicks = buildYTicks(maxValue);
+  const startLabel = points[0]?.start ? formatMonthDay(points[0].start) : "";
+  const endLabel = points[points.length - 1]?.end ? formatMonthDay(points[points.length - 1].end) : "";
+
+  const x = (index: number) => {
+    if (points.length <= 1) return padding.left;
+    return padding.left + (index / (points.length - 1)) * plotWidth;
+  };
+  const y = (value: number) => padding.top + plotHeight - (value / maxValue) * plotHeight;
+  const assemblyPath = buildLinePath(points.map((point, index) => [x(index), y(point.assembly)]));
+  const governmentPath = buildLinePath(points.map((point, index) => [x(index), y(point.government)]));
+
   return (
-    <div className="stat-card">
-      <span>{icon}</span>
-      <div>
-        <strong>{value.toLocaleString("ko-KR")}</strong>
-        <p>{label}</p>
+    <section className="trend-panel" aria-label="최근 1년 법안 발의 추이">
+      <div className="trend-header">
+        <div>
+          <p className="section-label">최근 1년 법안 수</p>
+          <h2>국회와 정부의 법안 발의 추이</h2>
+        </div>
+        <div className="trend-legend">
+          <span className="legend-item assembly">국회가 발의한 법안 {assemblyTotal.toLocaleString("ko-KR")}건</span>
+          <span className="legend-item government">정부가 발의한 법안 {governmentTotal.toLocaleString("ko-KR")}건</span>
+        </div>
       </div>
-    </div>
+      <div className="trend-chart-wrap">
+        <svg className="trend-chart" viewBox={`0 0 ${width} ${height}`} role="img">
+          <title>최근 1년 국회와 정부의 법안 발의 수 선형 그래프</title>
+          <desc>가로축은 1년 전부터 오늘까지, 세로축은 주 단위 법안 수입니다.</desc>
+          <rect x="0" y="0" width={width} height={height} rx="8" className="chart-bg" />
+          {yTicks.map((tick) => (
+            <g key={tick}>
+              <line
+                x1={padding.left}
+                x2={width - padding.right}
+                y1={y(tick)}
+                y2={y(tick)}
+                className="chart-grid"
+              />
+              <text x={padding.left - 12} y={y(tick) + 4} textAnchor="end" className="chart-tick">
+                {tick}
+              </text>
+            </g>
+          ))}
+          <line
+            x1={padding.left}
+            x2={width - padding.right}
+            y1={padding.top + plotHeight}
+            y2={padding.top + plotHeight}
+            className="chart-axis"
+          />
+          <line
+            x1={padding.left}
+            x2={padding.left}
+            y1={padding.top}
+            y2={padding.top + plotHeight}
+            className="chart-axis"
+          />
+          <path d={assemblyPath} className="chart-line assembly" />
+          <path d={governmentPath} className="chart-line government" />
+          {points.map((point, index) => (
+            <g key={point.label}>
+              {point.assembly > 0 ? <circle cx={x(index)} cy={y(point.assembly)} r="3" className="chart-dot assembly" /> : null}
+              {point.government > 0 ? <circle cx={x(index)} cy={y(point.government)} r="3" className="chart-dot government" /> : null}
+            </g>
+          ))}
+          <text x={padding.left} y={height - 12} className="chart-axis-label">
+            {startLabel}
+          </text>
+          <text x={width - padding.right} y={height - 12} textAnchor="end" className="chart-axis-label">
+            {endLabel}
+          </text>
+          <text x={padding.left} y={16} className="chart-axis-label">
+            주간 법안 수
+          </text>
+        </svg>
+      </div>
+      <p className="trend-note">
+        국회는 국회의원 발의안의 제안일, 정부는 정부입법예고 시작일과 정부 제출안의 제안일을 기준으로 집계합니다.
+        날짜가 없는 항목은 그래프에서 제외합니다.
+      </p>
+    </section>
   );
+}
+
+function buildLegislationChartPoints(bills: Bill[]): ChartPoint[] {
+  const today = startOfDay(new Date());
+  const start = new Date(today);
+  start.setFullYear(start.getFullYear() - 1);
+
+  const points: ChartPoint[] = [];
+  for (let cursor = new Date(start); cursor <= today; cursor.setDate(cursor.getDate() + 7)) {
+    const bucketStart = new Date(cursor);
+    const bucketEnd = new Date(cursor);
+    bucketEnd.setDate(bucketEnd.getDate() + 6);
+    if (bucketEnd > today) bucketEnd.setTime(today.getTime());
+    points.push({
+      label: `${bucketStart.toISOString().slice(0, 10)}-${bucketEnd.toISOString().slice(0, 10)}`,
+      start: bucketStart,
+      end: bucketEnd,
+      assembly: 0,
+      government: 0
+    });
+  }
+
+  for (const bill of bills) {
+    const date = getLegislationDate(bill);
+    if (!date || date < start || date > today) continue;
+    const index = Math.min(points.length - 1, Math.floor((date.getTime() - start.getTime()) / (7 * 24 * 60 * 60 * 1000)));
+    if (isAssemblyBill(bill)) {
+      points[index].assembly += 1;
+    } else if (isGovernmentBill(bill)) {
+      points[index].government += 1;
+    }
+  }
+
+  return points;
+}
+
+function getLegislationDate(bill: Bill) {
+  const rawDate = isAssemblyBill(bill) || bill.source === "assembly_government"
+    ? bill.proposedDate
+    : bill.noticeStartDate;
+  if (!rawDate) return null;
+  const date = new Date(rawDate);
+  return Number.isNaN(date.getTime()) ? null : startOfDay(date);
+}
+
+function isAssemblyBill(bill: Bill) {
+  return bill.source === "assembly_member";
+}
+
+function isGovernmentBill(bill: Bill) {
+  return bill.source === "government_notice" || bill.source === "assembly_government";
+}
+
+function buildLinePath(points: number[][]) {
+  if (points.length === 0) return "";
+  return points.map(([x, y], index) => `${index === 0 ? "M" : "L"} ${x.toFixed(2)} ${y.toFixed(2)}`).join(" ");
+}
+
+function buildYTicks(maxValue: number) {
+  const step = Math.max(1, Math.ceil(maxValue / 4));
+  const ticks = [];
+  for (let value = 0; value <= maxValue; value += step) {
+    ticks.push(value);
+  }
+  if (ticks[ticks.length - 1] !== maxValue) ticks.push(maxValue);
+  return ticks;
+}
+
+function startOfDay(date: Date) {
+  const nextDate = new Date(date);
+  nextDate.setHours(0, 0, 0, 0);
+  return nextDate;
+}
+
+function formatMonthDay(date: Date) {
+  return new Intl.DateTimeFormat("ko-KR", {
+    year: "2-digit",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(date);
 }
 
 function Badge({ children, tone = "default" }: { children: React.ReactNode; tone?: "default" | "strong" | "warn" }) {
