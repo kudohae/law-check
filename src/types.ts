@@ -47,6 +47,8 @@ export type Bill = {
   lastUpdatedAt?: string;
   officialUrl: string;
   originalTextUrl?: string;
+  summarySourceUrl?: string;
+  summarySourceLabel?: string;
   rawSummary?: string;
   aiSummary?: string;
   aiSummaryStatus: AiSummaryStatus;

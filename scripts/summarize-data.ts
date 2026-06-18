@@ -58,6 +58,7 @@ async function main() {
 }
 
 async function summarizeBill(bill: Bill): Promise<string> {
+  const summarySource = await loadSummarySource(bill);
   const url = new URL(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`);
   const response = await fetch(url, {
     method: "POST",
@@ -71,7 +72,7 @@ async function summarizeBill(bill: Bill): Promise<string> {
           role: "user",
           parts: [
             {
-              text: buildPrompt(bill)
+              text: buildPrompt(bill, summarySource)
             }
           ]
         }
@@ -97,7 +98,102 @@ async function summarizeBill(bill: Bill): Promise<string> {
   return text.replace(/\n{3,}/g, "\n\n");
 }
 
-function buildPrompt(bill: Bill) {
+async function loadSummarySource(bill: Bill): Promise<SummarySource> {
+  const url = bill.summarySourceUrl ?? bill.officialUrl;
+  try {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+    const html = await response.text();
+    const sourceText = extractSummarySourceText(bill, html);
+    if (!sourceText) throw new Error("summary source text not found");
+    return {
+      label: bill.summarySourceLabel ?? defaultSummarySourceLabel(bill),
+      url,
+      text: truncateSourceText(sourceText)
+    };
+  } catch (error) {
+    console.warn(`Summary source fallback: ${bill.title} - ${error instanceof Error ? error.message : String(error)}`);
+    return {
+      label: "목록 공개 데이터 요지",
+      url,
+      text: bill.rawSummary ?? "상세 원문을 가져오지 못했습니다."
+    };
+  }
+}
+
+function extractSummarySourceText(bill: Bill, html: string) {
+  const pageText = stripHtml(html);
+
+  if (bill.source === "government_notice") {
+    return extractBetween(pageText, ["⊙", `${bill.title} `, "입법예고를 하는데 있어"], ["법령안 관련 자료", "이전글", "목록"]);
+  }
+
+  if (bill.source === "government_pre_submit" || /\/lmSts\/govLm\//.test(bill.summarySourceUrl ?? "")) {
+    return extractBetween(pageText, ["주요내용"], ["추진현황", "입법현황", "목록"]);
+  }
+
+  return extractBetween(pageText, ["제안이유 및 주요내용"], ["목록", "첨부파일"]);
+}
+
+function extractBetween(text: string, starts: string[], ends: string[]) {
+  const startIndexes = starts
+    .map((marker) => text.lastIndexOf(marker))
+    .filter((index) => index >= 0);
+  if (startIndexes.length === 0) return "";
+
+  const startIndex = Math.max(...startIndexes);
+  const startMarker = starts.find((marker) => text.lastIndexOf(marker) === startIndex) ?? "";
+  const contentStart = startIndex + startMarker.length;
+  const rest = text.slice(contentStart);
+  const endIndexes = ends
+    .map((marker) => rest.indexOf(marker))
+    .filter((index) => index > 80);
+  const content = rest.slice(0, endIndexes.length > 0 ? Math.min(...endIndexes) : 8000);
+  return cleanSourceText(content);
+}
+
+function cleanSourceText(value: string) {
+  return value
+    .replace(/전체 보기/g, " ")
+    .replace(/화면크기\s*(축소|초기화|확대)/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function truncateSourceText(value: string) {
+  return value.length > 6000 ? `${value.slice(0, 6000)}...` : value;
+}
+
+function defaultSummarySourceLabel(bill: Bill) {
+  if (bill.source === "government_notice") return "정부입법예고 본문";
+  if (bill.source === "government_pre_submit") return "정부입법현황 주요내용";
+  if (bill.source === "assembly_government") return "정부입법현황 주요내용";
+  return "국회입법현황 제안이유 및 주요내용";
+}
+
+function stripHtml(value: string): string {
+  return decodeHtml(
+    value
+      .replace(/<script[\s\S]*?<\/script>/gi, "")
+      .replace(/<style[\s\S]*?<\/style>/gi, "")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+  );
+}
+
+function decodeHtml(value: string): string {
+  return value
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, "\"")
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&middot;/g, "·");
+}
+
+function buildPrompt(bill: Bill, summarySource: SummarySource) {
   return [
     "너는 한국 입법 정보를 요약하는 보조자다.",
     "원문에 없는 내용을 추측하지 말고, 아래 제공된 공개 데이터만 사용해라.",
@@ -113,6 +209,9 @@ function buildPrompt(bill: Bill) {
     `제안일: ${bill.proposedDate ?? "미확인"}`,
     `입법예고 기간: ${bill.noticeStartDate ?? "해당 없음"} ~ ${bill.noticeEndDate ?? "해당 없음"}`,
     `공개 데이터 요지: ${bill.rawSummary ?? "없음"}`,
+    `AI 요약 원문 출처: ${summarySource.label}`,
+    `AI 요약 원문 URL: ${summarySource.url}`,
+    `AI 요약 원문: ${summarySource.text}`,
     `공식 URL: ${bill.officialUrl}`,
     "",
     "형식:",
@@ -152,6 +251,12 @@ type GeminiResponse = {
       }>;
     };
   }>;
+};
+
+type SummarySource = {
+  label: string;
+  url: string;
+  text: string;
 };
 
 main().catch((error: unknown) => {

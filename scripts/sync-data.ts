@@ -110,6 +110,8 @@ async function fetchAssemblyMemberBills(): Promise<Bill[]> {
       proposedDate,
       lastUpdatedAt: now,
       officialUrl,
+      summarySourceUrl: officialUrl,
+      summarySourceLabel: "국회입법현황 제안이유 및 주요내용",
       rawSummary: text(row.PUBL_PROPOSER)
         ? `공동발의자: ${text(row.PUBL_PROPOSER)}`
         : undefined,
@@ -169,6 +171,8 @@ async function fetchGovernmentNotices(): Promise<Bill[]> {
       noticeEndDate,
       lastUpdatedAt: now,
       officialUrl,
+      summarySourceUrl: officialUrl,
+      summarySourceLabel: "정부입법예고 본문",
       rawSummary: [
         lawType ? `법령종류: ${lawType}` : "",
         readCellText(row, "법령분야 (주요적용대상)")
@@ -211,9 +215,66 @@ async function fetchGovernmentSubmittedBills(): Promise<Bill[]> {
     scPpsUsr: "정부",
     pageSize: "100"
   });
+  const governmentSummarySources = await fetchGovernmentSubmittedSummarySources();
   const now = new Date().toISOString();
 
-  return rows.map((row, index) => parseAssemblyStatusRow(row, index, now, "assembly_government"));
+  return rows.map((row, index) => {
+    const bill = parseAssemblyStatusRow(row, index, now, "assembly_government");
+    const source =
+      governmentSummarySources.byTitleAndMinistry.get(matchKey(bill.title, bill.ministry)) ??
+      governmentSummarySources.byTitle.get(normalizeBillTitleForMatch(bill.title));
+    if (!source) return bill;
+    return {
+      ...bill,
+      governmentTrackingId: source.externalId,
+      summarySourceUrl: source.url,
+      summarySourceLabel: "정부입법현황 주요내용"
+    };
+  });
+}
+
+async function fetchGovernmentSubmittedSummarySources(): Promise<GovernmentSummarySources> {
+  const rows = await fetchLawmakingRows("/lmSts/govLm", /data-th=["']법령명["']/, {
+    lbPrcStsCd: "EB0109",
+    pageSize: "100"
+  });
+  const byTitleAndMinistry = new Map<string, GovernmentSummarySource>();
+  const byTitleAndMinistryCandidates = new Map<string, GovernmentSummarySource[]>();
+  const byTitleCandidates = new Map<string, GovernmentSummarySource[]>();
+
+  for (const row of rows) {
+    const link = findHref(row, /\/lmSts\/govLm\/\d+/);
+    const externalId = link.match(/\d+/)?.[0];
+    const title = findLinkText(row, /\/lmSts\/govLm\/\d+/);
+    const ministry = readCellText(row, "소관부처");
+    const lawType = readCellText(row, "법령종류");
+    if (!externalId || !title || (lawType && !/법률/.test(lawType))) continue;
+
+    const source = {
+      externalId,
+      title,
+      ministry,
+      url: new URL(link, lawmakingOrigin).toString()
+    } satisfies GovernmentSummarySource;
+    const titleAndMinistryKey = matchKey(title, ministry);
+    byTitleAndMinistryCandidates.set(titleAndMinistryKey, [
+      ...(byTitleAndMinistryCandidates.get(titleAndMinistryKey) ?? []),
+      source
+    ]);
+
+    const titleKey = normalizeBillTitleForMatch(title);
+    byTitleCandidates.set(titleKey, [...(byTitleCandidates.get(titleKey) ?? []), source]);
+  }
+
+  const byTitle = new Map<string, GovernmentSummarySource>();
+  for (const [key, candidates] of byTitleAndMinistryCandidates) {
+    if (candidates.length === 1) byTitleAndMinistry.set(key, candidates[0]);
+  }
+  for (const [key, candidates] of byTitleCandidates) {
+    if (candidates.length === 1) byTitle.set(key, candidates[0]);
+  }
+
+  return { byTitleAndMinistry, byTitle };
 }
 
 async function fetchGovernmentProgress(): Promise<Bill[]> {
@@ -246,6 +307,8 @@ async function fetchGovernmentProgress(): Promise<Bill[]> {
       ministry: ministry || undefined,
       lastUpdatedAt: now,
       officialUrl,
+      summarySourceUrl: officialUrl,
+      summarySourceLabel: "정부입법현황 주요내용",
       rawSummary: [
         lawType ? `법령종류: ${lawType}` : "",
         revisionType ? `제·개정구분: ${revisionType}` : ""
@@ -311,6 +374,10 @@ function parseAssemblyStatusRow(
     proposedDate,
     lastUpdatedAt: now,
     officialUrl,
+    summarySourceUrl: officialUrl,
+    summarySourceLabel: isGovernment
+      ? "정부입법현황 주요내용 또는 국회입법현황 제안이유 및 주요내용"
+      : "국회입법현황 제안이유 및 주요내용",
     rawSummary: decision ? `의결현황: ${decision}` : undefined,
     aiSummaryStatus: "none",
     needsReview: false,
@@ -442,6 +509,20 @@ function normalizeTitle(value: string) {
   return value.replace(/\s+/g, "").replace(/[()[\]{}「」『』·ㆍ.,]/g, "");
 }
 
+function normalizeBillTitleForMatch(value: string) {
+  return normalizeTitle(value)
+    .replace(/일부개정법률안$/, "")
+    .replace(/전부개정법률안$/, "")
+    .replace(/제정법률안$/, "")
+    .replace(/개정법률안$/, "")
+    .replace(/법률안$/, "법률")
+    .replace(/안$/, "");
+}
+
+function matchKey(title: string, ministry?: string) {
+  return `${normalizeBillTitleForMatch(title)}:${normalizeTitle(ministry ?? "")}`;
+}
+
 function normalizeDate(value: string) {
   if (!value) return undefined;
   const dotDate = value.match(/(\d{4})\.\s*(\d{1,2})\.\s*(\d{1,2})\./);
@@ -543,6 +624,18 @@ function readPositiveInt(value: string | undefined, fallback: number): number {
   const parsed = Number.parseInt(value, 10);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 }
+
+type GovernmentSummarySource = {
+  externalId: string;
+  title: string;
+  ministry: string;
+  url: string;
+};
+
+type GovernmentSummarySources = {
+  byTitleAndMinistry: Map<string, GovernmentSummarySource>;
+  byTitle: Map<string, GovernmentSummarySource>;
+};
 
 main().catch((error: unknown) => {
   console.error(error);
