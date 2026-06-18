@@ -135,57 +135,7 @@ async function fetchAssemblyStatusBills(): Promise<Bill[]> {
   const rows = await fetchLawmakingRows("/gcom/nsmLmSts/out", /data-th=["']의안명["']/);
   const now = new Date().toISOString();
 
-  return rows.map((row, index) => {
-    const link = findHref(row, /\/gcom\/nsmLmSts\/out\/\d+/);
-    const externalId =
-      readCellText(row, "의안번호 (대안번호)").match(/\d+/)?.[0] ||
-      link.match(/\d+/)?.[0] ||
-      `assembly-status-${index}`;
-    const title = findLinkText(row, /\/gcom\/nsmLmSts\/out\/\d+/) || "제목 미확인 국회입법현황";
-    const proposerAndDate = readCellText(row, "제안자(제안일자)");
-    const proposerName = proposerAndDate.replace(/\(\d{4}\.\s*\d{1,2}\.\s*\d{1,2}\.\)/, "").trim();
-    const proposedDate = readDates(proposerAndDate)[0];
-    const committeeAndMinistry = readCellText(row, "상임위원회(소관부처)");
-    const statusAndDate = readCellText(row, "국회현황(추진일자)");
-    const decision = readCellText(row, "의결현황(의결일자)");
-    const statusLabel = statusAndDate.replace(/\(\d{4}\.\s*\d{1,2}\.\s*\d{1,2}\.\)/, "").trim() || "국회 현황";
-    const statusDate = readDates(statusAndDate)[0];
-    const id = `assembly-status-${externalId}`;
-    const officialUrl = new URL(link || "/gcom/nsmLmSts/out", lawmakingOrigin).toString();
-    const isGovernment = /정부/.test(proposerName);
-
-    return {
-      id,
-      externalId,
-      source: isGovernment ? "assembly_government" : "assembly_member",
-      title,
-      normalizedTitle: normalizeTitle(title),
-      stage: inferAssemblyStage(statusLabel || decision),
-      statusLabel,
-      proposerName: proposerName || undefined,
-      proposerType: isGovernment ? "government" : "member",
-      ministry: extractParenthesized(committeeAndMinistry) || undefined,
-      committee: extractNonParenthesized(committeeAndMinistry) || undefined,
-      proposedDate,
-      lastUpdatedAt: now,
-      officialUrl,
-      rawSummary: decision ? `의결현황: ${decision}` : undefined,
-      aiSummaryStatus: "none",
-      needsReview: false,
-      events: [
-        {
-          id: `${id}-event-proposed`,
-          billId: id,
-          eventType: "assembly_status",
-          eventLabel: statusLabel,
-          eventDate: statusDate ?? proposedDate,
-          sourceUrl: officialUrl
-        }
-      ],
-      createdAt: now,
-      updatedAt: now
-    } satisfies Bill;
-  });
+  return rows.map((row, index) => parseAssemblyStatusRow(row, index, now));
 }
 
 async function fetchGovernmentNotices(): Promise<Bill[]> {
@@ -257,62 +207,13 @@ async function fetchGovernmentNotices(): Promise<Bill[]> {
 }
 
 async function fetchGovernmentSubmittedBills(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRows("/lmSts/govLm", /data-th=["']법령명["']/, {
-    lbPrcStsCd: "EB0109",
+  const rows = await fetchLawmakingRows("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
+    scPpsUsr: "정부",
     pageSize: "100"
   });
   const now = new Date().toISOString();
 
-  return rows
-    .map((row, index): Bill | null => {
-      const link = findHref(row, /\/lmSts\/govLm\/\d+/);
-      const externalId = link.match(/\d+/)?.[0] || `government-submitted-${index}`;
-      const title = findLinkText(row, /\/lmSts\/govLm\/\d+/) || "제목 미확인 정부 제출 법률안";
-      const statusLabel = readCellText(row, "추진현황") || "국회제출";
-      const ministry = readCellText(row, "소관부처");
-      const lawType = readCellText(row, "법령종류");
-      const revisionType = readCellText(row, "제 · 개정구분");
-      const id = `government-submitted-${externalId}`;
-      const officialUrl = new URL(link || "/lmSts/govLm", lawmakingOrigin).toString();
-
-      if (lawType && !/법률/.test(lawType)) return null;
-
-      return {
-        id,
-        externalId,
-        source: "assembly_government",
-        title,
-        normalizedTitle: normalizeTitle(title),
-        stage: "submitted_to_assembly",
-        statusLabel,
-        proposerName: "정부",
-        proposerType: "government",
-        ministry: ministry || undefined,
-        lastUpdatedAt: now,
-        officialUrl,
-        rawSummary: [
-          ministry ? `소관부처: ${ministry}` : "",
-          lawType ? `법령종류: ${lawType}` : "",
-          revisionType ? `제·개정구분: ${revisionType}` : ""
-        ]
-          .filter(Boolean)
-          .join(" / "),
-        aiSummaryStatus: "none",
-        needsReview: true,
-        events: [
-          {
-            id: `${id}-event-submitted`,
-            billId: id,
-            eventType: "government_submitted",
-            eventLabel: "국회 제출",
-            sourceUrl: officialUrl
-          }
-        ],
-        createdAt: now,
-        updatedAt: now
-      } satisfies Bill;
-    })
-    .filter((bill): bill is Bill => bill !== null);
+  return rows.map((row, index) => parseAssemblyStatusRow(row, index, now, "assembly_government"));
 }
 
 async function fetchGovernmentProgress(): Promise<Bill[]> {
@@ -366,6 +267,66 @@ async function fetchGovernmentProgress(): Promise<Bill[]> {
       updatedAt: now
     } satisfies Bill;
   }).filter((bill): bill is Bill => bill !== null);
+}
+
+function parseAssemblyStatusRow(
+  row: string,
+  index: number,
+  now: string,
+  forcedSource?: "assembly_government" | "assembly_member"
+): Bill {
+  const link = findHref(row, /\/gcom\/nsmLmSts\/out\/\d+/);
+  const billNo =
+    readCellText(row, "의안번호 (대안번호)").match(/\d+/)?.[0] ||
+    link.match(/\d+/)?.[0] ||
+    `assembly-status-${index}`;
+  const title = findLinkText(row, /\/gcom\/nsmLmSts\/out\/\d+/) || "제목 미확인 국회입법현황";
+  const proposerAndDate = readCellText(row, "제안자(제안일자)");
+  const proposerName = proposerAndDate.replace(/\(\d{4}\.\s*\d{1,2}\.\s*\d{1,2}\.\)/, "").trim();
+  const proposedDate = readDates(proposerAndDate)[0];
+  const committeeAndMinistry = readCellText(row, "상임위원회(소관부처)");
+  const statusAndDate = readCellText(row, "국회현황(추진일자)");
+  const decision = readCellText(row, "의결현황(의결일자)");
+  const statusLabel = statusAndDate.replace(/\(\d{4}\.\s*\d{1,2}\.\s*\d{1,2}\.\)/, "").trim() || "국회 현황";
+  const statusDate = readDates(statusAndDate)[0];
+  const source = forcedSource ?? (/정부/.test(proposerName) ? "assembly_government" : "assembly_member");
+  const isGovernment = source === "assembly_government";
+  const idPrefix = isGovernment ? "government-submitted" : "assembly-status";
+  const id = `${idPrefix}-${billNo}`;
+  const officialUrl = new URL(link || "/gcom/nsmLmSts/out", lawmakingOrigin).toString();
+
+  return {
+    id,
+    externalId: billNo,
+    assemblyBillNo: billNo,
+    source,
+    title,
+    normalizedTitle: normalizeTitle(title),
+    stage: inferAssemblyStage(statusLabel || decision),
+    statusLabel,
+    proposerName: isGovernment ? "정부" : proposerName || undefined,
+    proposerType: isGovernment ? "government" : "member",
+    ministry: extractParenthesized(committeeAndMinistry) || undefined,
+    committee: extractNonParenthesized(committeeAndMinistry) || undefined,
+    proposedDate,
+    lastUpdatedAt: now,
+    officialUrl,
+    rawSummary: decision ? `의결현황: ${decision}` : undefined,
+    aiSummaryStatus: "none",
+    needsReview: false,
+    events: [
+      {
+        id: `${id}-event-proposed`,
+        billId: id,
+        eventType: isGovernment ? "government_submitted" : "assembly_status",
+        eventLabel: statusLabel,
+        eventDate: statusDate ?? proposedDate,
+        sourceUrl: officialUrl
+      }
+    ],
+    createdAt: now,
+    updatedAt: now
+  } satisfies Bill;
 }
 
 async function fetchText(url: URL) {
@@ -483,6 +444,11 @@ function normalizeTitle(value: string) {
 
 function normalizeDate(value: string) {
   if (!value) return undefined;
+  const dotDate = value.match(/(\d{4})\.\s*(\d{1,2})\.\s*(\d{1,2})\./);
+  if (dotDate) {
+    const [, year, month, day] = dotDate;
+    return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+  }
   const compact = value.replace(/[^\d]/g, "");
   if (compact.length === 8) {
     return `${compact.slice(0, 4)}-${compact.slice(4, 6)}-${compact.slice(6, 8)}`;

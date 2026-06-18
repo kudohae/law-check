@@ -30,6 +30,8 @@ export type BillEvent = {
 export type Bill = {
   id: string;
   externalId: string;
+  assemblyBillNo?: string;
+  governmentTrackingId?: string;
   source: BillSource;
   title: string;
   normalizedTitle: string;

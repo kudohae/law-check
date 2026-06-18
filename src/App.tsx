@@ -508,7 +508,7 @@ function buildDetailMetaItems(bill: Bill): DetailMeta[] {
   };
 
   if (bill.source === "assembly_member") {
-    add("의안 번호", bill.externalId);
+    add("의안 번호", bill.assemblyBillNo ?? bill.externalId);
     add("제안 주체", bill.proposerName);
     add("소관위원회", bill.committee);
     add("관련 부처", bill.ministry);
@@ -519,7 +519,8 @@ function buildDetailMetaItems(bill: Bill): DetailMeta[] {
   }
 
   if (bill.source === "assembly_government") {
-    add("정부입법 관리번호", bill.externalId);
+    add("의안 번호", bill.assemblyBillNo ?? bill.externalId);
+    add("정부입법 관리번호", bill.governmentTrackingId);
     add("제출 주체", bill.proposerName ?? "대한민국 정부");
     add("소관부처", bill.ministry);
     add("소관위원회", bill.committee);
