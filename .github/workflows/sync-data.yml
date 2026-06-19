@@ -2,6 +2,14 @@ name: Sync public law data
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - codex/since-date-no-ai-sync
+    paths:
+      - .github/workflows/sync-data.yml
+      - scripts/sync-data.ts
+      - README.md
+      - .env.example
   schedule:
     # 18:00 Asia/Seoul = 09:00 UTC.
     - cron: "0 9 * * *"
