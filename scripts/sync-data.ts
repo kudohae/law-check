@@ -146,22 +146,18 @@ async function fetchAssemblyMemberBills(): Promise<Bill[]> {
 }
 
 async function fetchAssemblyStatusBills(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsByDateRanges("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
-    dateStartKey: "searchStDtNew",
-    dateEndKey: "searchEdDtNew",
+  const rows = await fetchLawmakingRowsSequential("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
     pageSize: "100"
-  }, readAssemblyStatusReferenceDate);
+  }, readAssemblyStatusReferenceDate, true);
   const now = new Date().toISOString();
 
   return rows.map((row, index) => parseAssemblyStatusRow(row, index, now));
 }
 
 async function fetchGovernmentNotices(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsByDateRanges("/gcom/ogLmPp", /data-th=["']법령 제명["']/, {
-    dateStartKey: "stYd",
-    dateEndKey: "edYd",
+  const rows = await fetchLawmakingRowsSequential("/gcom/ogLmPp", /data-th=["']법령 제명["']/, {
     pageSize: "100"
-  }, readGovernmentNoticeReferenceDate);
+  }, readGovernmentNoticeReferenceDate, true);
   const now = new Date().toISOString();
 
   return rows.map((row, index) => {
@@ -231,12 +227,10 @@ async function fetchGovernmentNotices(): Promise<Bill[]> {
 }
 
 async function fetchGovernmentSubmittedBills(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsByDateRanges("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
+  const rows = await fetchLawmakingRowsSequential("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
     scPpsUsr: "정부",
-    dateStartKey: "searchStDtNew",
-    dateEndKey: "searchEdDtNew",
     pageSize: "100"
-  }, readAssemblyStatusReferenceDate);
+  }, readAssemblyStatusReferenceDate, true);
   const governmentSummarySources = await fetchGovernmentSubmittedSummarySources();
   const now = new Date().toISOString();
 
@@ -300,9 +294,7 @@ async function fetchGovernmentSubmittedSummarySources(): Promise<GovernmentSumma
 }
 
 async function fetchGovernmentProgress(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsByDateRanges("/lmSts/govLm", /data-th=["']법령명["']/, {
-    dateStartKey: "stDt",
-    dateEndKey: "edDt",
+  const rows = await fetchLawmakingRowsSequential("/lmSts/govLm", /data-th=["']법령명["']/, {
     pageSize: "100"
   });
   const now = new Date().toISOString();
@@ -481,6 +473,44 @@ async function fetchLawmakingRowsByDateRanges(
   return rows;
 }
 
+async function fetchLawmakingRowsSequential(
+  pathname: string,
+  rowPattern: RegExp,
+  query: Record<string, string> = {},
+  readReferenceDate?: (row: string) => string | undefined,
+  stopWhenPageBeforeSince = false
+): Promise<string[]> {
+  const rows: string[] = [];
+  const seen = new Set<string>();
+
+  for (let page = 1; page <= lawmakingMaxPages; page += 1) {
+    const pageRows = await fetchLawmakingRowsPage(pathname, rowPattern, query, page);
+    if (pageRows.length === 0) break;
+
+    let newRows = 0;
+    for (const row of pageRows) {
+      const key = findHref(row, /\d+/) || stripHtml(row).slice(0, 120);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      rows.push(row);
+      newRows += 1;
+    }
+
+    const pageDates = readReferenceDate ? pageRows.map(readReferenceDate).filter((date): date is string => Boolean(date)) : [];
+    const pageIsBeforeSince = Boolean(
+      syncSinceDate &&
+      stopWhenPageBeforeSince &&
+      pageDates.length > 0 &&
+      pageDates.every((date) => isBeforeSince(date))
+    );
+
+    console.log(`${pathname} page ${page}: ${pageRows.length} rows${pageDates.length > 0 ? `, ${pageDates[0]}~${pageDates.at(-1)}` : ""}`);
+    if (newRows === 0 || pageIsBeforeSince) break;
+  }
+
+  return rows;
+}
+
 async function fetchLawmakingRows(
   pathname: string,
   rowPattern: RegExp,
@@ -491,15 +521,7 @@ async function fetchLawmakingRows(
   const seen = new Set<string>();
 
   for (let page = 1; page <= lawmakingMaxPages; page += 1) {
-    const url = new URL(pathname, lawmakingOrigin);
-    url.searchParams.set("pageIndex", String(page));
-    url.searchParams.set("blockStartPage", String(Math.floor((page - 1) / 10) * 10 + 1));
-    for (const [key, value] of Object.entries(query)) {
-      url.searchParams.set(key, value);
-    }
-
-    const html = await fetchLawmakingPageHtml(url);
-    const pageRows = parseHtmlRows(html).filter((row) => rowPattern.test(row));
+    const pageRows = await fetchLawmakingRowsPage(pathname, rowPattern, query, page);
     if (pageRows.length === 0) break;
 
     let newRows = 0;
@@ -523,6 +545,23 @@ async function fetchLawmakingRows(
   }
 
   return rows;
+}
+
+async function fetchLawmakingRowsPage(
+  pathname: string,
+  rowPattern: RegExp,
+  query: Record<string, string>,
+  page: number
+) {
+  const url = new URL(pathname, lawmakingOrigin);
+  url.searchParams.set("pageIndex", String(page));
+  url.searchParams.set("blockStartPage", String(Math.floor((page - 1) / 10) * 10 + 1));
+  for (const [key, value] of Object.entries(query)) {
+    url.searchParams.set(key, value);
+  }
+
+  const html = await fetchLawmakingPageHtml(url);
+  return parseHtmlRows(html).filter((row) => rowPattern.test(row));
 }
 
 async function fetchLawmakingPageHtml(url: URL) {
