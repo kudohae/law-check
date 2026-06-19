@@ -30,16 +30,13 @@ jobs:
         env:
           ASSEMBLY_API_KEY: ${{ secrets.ASSEMBLY_API_KEY }}
           LAWMAKING_API_KEY: ${{ secrets.LAWMAKING_API_KEY }}
-
-      - name: Generate missing AI summaries
-        run: npm run summarize:data
-        env:
-          SUMMARY_PROVIDER: gemini
-          SUMMARY_LIMIT: "0"
-          SUMMARY_FORCE: "0"
-          SUMMARY_DELAY_MS: "12000"
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash-lite
+          LAW_CHECK_SINCE_DATE: "2025-06-01"
+          ASSEMBLY_MAX_PAGES: "500"
+          LAWMAKING_MAX_PAGES: "100"
+          LAWMAKING_CHUNK_DAYS: "31"
+          LAW_CHECK_REQUEST_DELAY_MS: "1000"
+          LAW_CHECK_RETRY_COUNT: "3"
+          LAW_CHECK_RETRY_DELAY_MS: "5000"
 
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v7
