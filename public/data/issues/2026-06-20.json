@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T03:29:17.915Z",
+  "generatedAt": "2026-06-20T03:30:55.063Z",
   "title": "2026년 06월 20일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -19,40 +19,65 @@
   "root": {
     "id": "today",
     "label": "오늘의 주요 시사",
-    "summary": "짧은 설명",
+    "summary": "국회 운영, 여성 노동자 연금, 보건 의료 정책 등",
     "children": [
       {
         "id": "issue1",
-        "label": "정치 및 외교",
-        "summary": "정치 및 외교 관련 이슈",
+        "label": "국회 운영과 정치",
+        "summary": "여야 대립과 국회 운영",
         "children": [
           {
             "id": "issue1a",
-            "label": "한미 외교",
-            "summary": "한미 외교 관련 쟁점",
+            "label": "원구성과 국회 운영",
+            "summary": "원구성과 국회 운영의 난항",
             "children": [
               {
                 "id": "issue1a1",
-                "label": "한미 동맹 강화",
-                "summary": "한미 동맹 강화 관련 기사",
+                "label": "원구성과 국회 운영의 난항",
+                "summary": "원구성과 국회 운영의 난항",
                 "articles": [
                   {
-                    "title": "한동훈 \"2030년 대선서 권력 되찾을 것\"…보수 재건 강조",
-                    "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01308726645483688",
-                    "outlet": "edaily.co.kr",
-                    "publishedAt": "Sat, 20 Jun 2026 10:28:00 +0900"
+                    "title": "여야, 원구성 계속 난항…“안정적 국정운영” vs “거대여당 견제”",
+                    "url": "https://www.etoday.co.kr/news/view/2595499",
+                    "outlet": "etoday.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 09:00:00 +0900"
                   },
                   {
-                    "title": "한동훈 \"국민의힘 복당해 2030년 정권 되찾겠다\"",
-                    "url": "https://www.newdaily.co.kr/site/data/html/2026/06/20/2026062000022.html",
-                    "outlet": "newdaily.co.kr",
-                    "publishedAt": "Sat, 20 Jun 2026 11:10:00 +0900"
+                    "title": "국민의힘 “장동혁 부재 속 정점식 가동, 의회독재 맞설 것”",
+                    "url": "http://www.breaknews.com/1215613",
+                    "outlet": "breaknews.com",
+                    "publishedAt": "Sat, 20 Jun 2026 11:32:00 +0900"
                   },
                   {
-                    "title": "한동훈 “2030년 정권 되찾겠다... 국민의힘 복당 목표”",
-                    "url": "https://www.munhwa.com/article/11596905?ref=naver",
-                    "outlet": "munhwa.com",
-                    "publishedAt": "Sat, 20 Jun 2026 10:36:00 +0900"
+                    "title": "한동훈, 복당보다 '보수 재건' 방점…장동혁엔 '정통성' 상실 직격",
+                    "url": "https://www.dailian.co.kr/news/view/1657953/?sc=Naver",
+                    "outlet": "dailian.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 10:35:00 +0900"
+                  }
+                ]
+              },
+              {
+                "id": "issue1a-2",
+                "label": "후속 쟁점",
+                "summary": "관련 기사 3건을 기준으로 확장한 세부 쟁점입니다.",
+                "articles": [
+                  {
+                    "title": "[박근종 칼럼] 미국 '연내 금리 인상' 시사, 환율·물가·성장 차질 없도...",
+                    "url": "https://www.mhns.co.kr/news/articleView.html?idxno=750882",
+                    "outlet": "mhns.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 11:08:00 +0900"
+                  },
+                  {
+                    "title": "김동연, 문재인 전 대통령 예방…\"민주당 가치 실천, 앞으로 역할 찾을...",
+                    "url": "http://www.econonews.co.kr/news/articleView.html?idxno=439924",
+                    "outlet": "econonews.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 12:16:00 +0900"
+                  },
+                  {
+                    "title": "극우 밑에, 경찰 밑에, 비정규직 노동 자[인권의 바람]",
+                    "url": "https://www.pressian.com/pages/articles/2026061917152164374?utm_source=naver&utm_medium=search",
+                    "outlet": "pressian.com",
+                    "publishedAt": "Sat, 20 Jun 2026 10:35:00 +0900"
                   }
                 ]
               }
@@ -62,36 +87,61 @@
       },
       {
         "id": "issue2",
-        "label": "경제 및 산업",
-        "summary": "경제 및 산업 관련 이슈",
+        "label": "여성 노동자와 연금",
+        "summary": "여성 노동자와 연금 문제",
         "children": [
           {
             "id": "issue2a",
-            "label": "경제 성장",
-            "summary": "경제 성장 관련 쟁점",
+            "label": "여성 노동자와 연금",
+            "summary": "여성 노동자와 연금 문제",
             "children": [
               {
                 "id": "issue2a1",
-                "label": "경제 성장 전망",
-                "summary": "경제 성장 전망 관련 기사",
+                "label": "여성 노동자와 연금 격차",
+                "summary": "여성 노동자와 연금 격차",
                 "articles": [
                   {
-                    "title": "[박근종 칼럼] 미국 '연내 금리 인상' 시사, 환율·물가·성장 차질 없도...",
-                    "url": "https://www.mhns.co.kr/news/articleView.html?idxno=750882",
-                    "outlet": "mhns.co.kr",
-                    "publishedAt": "Sat, 20 Jun 2026 11:08:00 +0900"
+                    "title": "여성 국민연금 수급액, 남성의 절반도 안 된다…“구조적 불평등 탓”",
+                    "url": "https://www.hani.co.kr/arti/society/rights/1264451.html",
+                    "outlet": "hani.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 10:20:00 +0900"
                   },
                   {
-                    "title": "티빙 개인정보 유출 1953만명...정부 추산보다 650만명 많아 [국회 방청...",
-                    "url": "https://www.mk.co.kr/article/12078462",
-                    "outlet": "mk.co.kr",
-                    "publishedAt": "Sat, 20 Jun 2026 09:01:00 +0900"
+                    "title": "[속보]여성 국민연금 수령액 남성 절반 수준…월 40만 원",
+                    "url": "https://magazine.hankyung.com/business/article/202606207970b",
+                    "outlet": "magazine.hankyung.com",
+                    "publishedAt": "Sat, 20 Jun 2026 11:47:00 +0900"
                   },
                   {
-                    "title": "현대차 식당직원까지 원청과 교섭 … 노란봉투법 100일, 후폭풍 커진다...",
-                    "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/19/2026061900060.html",
-                    "outlet": "biz.newdaily.co.kr",
-                    "publishedAt": "Sat, 20 Jun 2026 10:00:00 +0900"
+                    "title": "\"여성의 국민연금액, 남성의 절반…나이들수록 격차 심화\"",
+                    "url": "https://biz.sbs.co.kr/article_hub/20000317805?division=NAVER",
+                    "outlet": "biz.sbs.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 11:56:00 +0900"
+                  }
+                ]
+              },
+              {
+                "id": "issue2a-2",
+                "label": "후속 쟁점",
+                "summary": "관련 기사 3건을 기준으로 확장한 세부 쟁점입니다.",
+                "articles": [
+                  {
+                    "title": "“국민의힘 복당 목표”…한동훈이 日언론에 밝힌 보수 재건 구상",
+                    "url": "https://www.kmib.co.kr/article/view.asp?arcid=0029995141&code=61111511&cp=nv",
+                    "outlet": "kmib.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 10:13:00 +0900"
+                  },
+                  {
+                    "title": "박상웅, 제5차 국가철도망 구축계획에 '창원산업선' 반드시 반영하라~\"...",
+                    "url": "https://www.pennmike.com/news/articleView.html?idxno=122434",
+                    "outlet": "pennmike.com",
+                    "publishedAt": "Sat, 20 Jun 2026 12:14:00 +0900"
+                  },
+                  {
+                    "title": "[靑春노트] 순방 성과 안고도 웃지 못한 李대통령",
+                    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1378290",
+                    "outlet": "daily.hankooki.com",
+                    "publishedAt": "Sat, 20 Jun 2026 11:00:00 +0900"
                   }
                 ]
               }
@@ -101,36 +151,61 @@
       },
       {
         "id": "issue3",
-        "label": "사회 및 교육",
-        "summary": "사회 및 교육 관련 이슈",
+        "label": "보건 의료 정책",
+        "summary": "보건 의료 정책과 관련된 문제",
         "children": [
           {
             "id": "issue3a",
-            "label": "교육 정책",
-            "summary": "교육 정책 관련 쟁점",
+            "label": "보건 의료 정책과 마이데이터",
+            "summary": "보건 의료 정책과 마이데이터",
             "children": [
               {
                 "id": "issue3a1",
-                "label": "교육 제도 개선",
-                "summary": "교육 제도 개선 관련 기사",
+                "label": "보건 의료 마이데이터",
+                "summary": "보건 의료 마이데이터",
                 "articles": [
                   {
-                    "title": "박용선 포항시장 당선인, 학도의용군 전승기념관 찾아 참전 용사 예우",
-                    "url": "https://www.tournews21.com/news/articleView.html?idxno=136940",
-                    "outlet": "tournews21.com",
-                    "publishedAt": "Sat, 20 Jun 2026 12:20:00 +0900"
-                  },
-                  {
-                    "title": "이언주 의원, \"희토류는 국가 기술 주권 좌우하는 전략 자산\"",
-                    "url": "http://www.knpnews.com/news/articleView.html?idxno=33931",
-                    "outlet": "knpnews.com",
-                    "publishedAt": "Sat, 20 Jun 2026 12:12:00 +0900"
-                  },
-                  {
-                    "title": "\"아파트 두 채 값 들여 키운 애에요\"...학부모 악성민원·경찰조사 받은...",
-                    "url": "http://www.fnnews.com/news/202606200830450481",
-                    "outlet": "fnnews.com",
+                    "title": "[청년발언대] '치료'에서 '예방'으로… 보건 의료 마이데이터가 열어가는...",
+                    "url": "https://www.youthdaily.co.kr/news/article.html?no=221324",
+                    "outlet": "youthdaily.co.kr",
                     "publishedAt": "Sat, 20 Jun 2026 11:00:00 +0900"
+                  },
+                  {
+                    "title": "공급자 쥐어짜기식 의료 개혁을 넘어 '재정의 국가 책임'을 묻는다",
+                    "url": "https://www.medigatenews.com/news/918746198",
+                    "outlet": "medigatenews.com",
+                    "publishedAt": "Sat, 20 Jun 2026 11:28:00 +0900"
+                  },
+                  {
+                    "title": "티빙 개인정보 유출 1953만명...정부 추산보다 650만명 많아 [국회 방청...",
+                    "url": "https://www.mk.co.kr/article/12078462",
+                    "outlet": "mk.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 09:01:00 +0900"
+                  }
+                ]
+              },
+              {
+                "id": "issue3a-2",
+                "label": "후속 쟁점",
+                "summary": "관련 기사 3건을 기준으로 확장한 세부 쟁점입니다.",
+                "articles": [
+                  {
+                    "title": "현대차 식당직원까지 원청과 교섭 … 노란봉투법 100일, 후폭풍 커진다...",
+                    "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/19/2026061900060.html",
+                    "outlet": "biz.newdaily.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 10:00:00 +0900"
+                  },
+                  {
+                    "title": "전종덕 의원·전농, 국회서 \"우량농지 파괴 중단 촉구",
+                    "url": "https://www.bzeronews.com/news/articleView.html?idxno=819001",
+                    "outlet": "bzeronews.com",
+                    "publishedAt": "Sat, 20 Jun 2026 09:46:00 +0900"
+                  },
+                  {
+                    "title": "“갈 집도 없는데 전세금·금리 다 뛰었다”…‘2+2’ 끝난 세입자의 한...",
+                    "url": "https://www.mk.co.kr/article/12078860",
+                    "outlet": "mk.co.kr",
+                    "publishedAt": "Sat, 20 Jun 2026 09:06:00 +0900"
                   }
                 ]
               }
