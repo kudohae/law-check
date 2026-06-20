@@ -22,18 +22,32 @@ npm run sync:data
 기본 수집 범위는 국회 API 5페이지, 국민참여입법센터 5페이지입니다. 필요하면 환경 변수로 조절합니다.
 
 ```powershell
-$env:LAW_CHECK_SINCE_DATE="2025-06-01"
-$env:LAWMAKING_MAX_PAGES="100"
-$env:ASSEMBLY_MAX_PAGES="500"
-$env:LAWMAKING_CHUNK_DAYS="31"
-$env:LAW_CHECK_REQUEST_DELAY_MS="1000"
-$env:LAW_CHECK_RETRY_COUNT="3"
+$env:LAWMAKING_MAX_PAGES="10"
+$env:ASSEMBLY_MAX_PAGES="10"
 npm run sync:data
 ```
 
-`LAW_CHECK_SINCE_DATE`를 지정하면 국회의원 발의 법률안은 제안일, 정부 제출 법률안은 제출일, 정부입법예고는 공고일에 해당하는 접수 시작일, 정부입법현황은 상세 페이지의 입법예고 시작일을 기준으로 이후 항목만 저장합니다. 국민참여입법센터 수집은 `LAWMAKING_CHUNK_DAYS` 단위로 나누고, 요청 사이 대기와 실패 재시도를 적용합니다.
-
 API 키가 없거나 공공 API 연결이 실패하면 기존 데이터가 유지됩니다.
+
+## 시선 시사 이슈 마인드맵 갱신
+
+```powershell
+npm run sync:issues
+```
+
+뉴스 수집은 네이버 뉴스 검색 API를 우선 사용하고, 중복 제거와 휴리스틱 후보 압축 뒤 Groq로 마인드맵 JSON을 생성합니다. Groq가 실패하면 Gemini로 대체하고, Cohere 키가 있으면 후보 기사 재정렬에만 보조적으로 사용합니다. 연예와 스포츠 뉴스는 수집 후보에서 제외합니다.
+
+GitHub Actions 자동 실행에는 다음 Secrets가 필요합니다.
+
+```text
+NAVER_CLIENT_ID
+NAVER_CLIENT_SECRET
+GROQ_API_KEY
+GEMINI_API_KEY
+COHERE_API_KEY
+```
+
+매일 17:30 KST에 `.github/workflows/sync-issues.yml`이 `public/data/issues/YYYY-MM-DD.json`과 `public/data/issues/index.json`을 갱신합니다.
 
 ## AI 요약
 
@@ -66,7 +80,7 @@ $env:GEMINI_SUMMARY_LIMIT="5"
 npm run summarize:data
 ```
 
-GitHub Actions의 매일 18시 데이터 갱신은 `LAW_CHECK_SINCE_DATE=2025-06-01` 이후 법률안 데이터만 갱신합니다. 자동 AI 요약은 실행하지 않습니다.
+GitHub Actions의 매일 06시 데이터 갱신은 새로 들어온 법률안 중 요약이 없는 항목만 Gemini로 처리합니다. 속도는 `SUMMARY_DELAY_MS=12000`으로 제한해 1분에 최대 5개씩 처리합니다. 저장소 Secrets에 `GEMINI_API_KEY`를 추가해야 자동 요약이 실행됩니다.
 
 ## 빌드
 

@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import type { Bill, BillDataFile, BillSource, BillStage } from "../src/types";
+import type { Bill, BillDataFile, BillStage } from "../src/types";
 
 const outputPath = path.resolve("public/data/bills.json");
 const assemblyEndpoint = "https://open.assembly.go.kr/portal/openapi/nzmimeepazxkubdpn";
@@ -8,43 +8,33 @@ const lawmakingOrigin = "https://opinion.lawmaking.go.kr";
 const assemblyPageSize = readPositiveInt(process.env.ASSEMBLY_PAGE_SIZE, 100);
 const assemblyMaxPages = readPositiveInt(process.env.ASSEMBLY_MAX_PAGES, 5);
 const lawmakingMaxPages = readPositiveInt(process.env.LAWMAKING_MAX_PAGES, 5);
-const syncSinceDate = normalizeDate(process.env.LAW_CHECK_SINCE_DATE ?? "");
-const syncUntilDate = normalizeDate(process.env.LAW_CHECK_UNTIL_DATE ?? "") ?? todayDate();
-const compactDateSources = new Set(["stYd", "edYd", "stDt", "edDt"]);
-const failedBillSources = new Set<BillSource>();
-const lawmakingChunkDays = readPositiveInt(process.env.LAWMAKING_CHUNK_DAYS, 31);
-const requestDelayMs = readNonNegativeInt(process.env.LAW_CHECK_REQUEST_DELAY_MS, 1000);
-const retryCount = readPositiveInt(process.env.LAW_CHECK_RETRY_COUNT, 3);
-const retryDelayMs = readNonNegativeInt(process.env.LAW_CHECK_RETRY_DELAY_MS, 5000);
 
 async function main() {
   const previous = await readPreviousData();
   const fetchedBills: Bill[] = [];
 
-  const assemblyBills = await safeFetch("국회의원 발의 법률안", fetchAssemblyMemberBills, ["assembly_member"]);
+  const assemblyBills = await safeFetch("국회의원 발의 법률안", fetchAssemblyMemberBills);
   fetchedBills.push(...assemblyBills);
 
-  const assemblyStatusBills = await safeFetch("국회입법현황", fetchAssemblyStatusBills, ["assembly_member", "assembly_government"]);
+  const assemblyStatusBills = await safeFetch("국회입법현황", fetchAssemblyStatusBills);
   fetchedBills.push(...assemblyStatusBills);
 
-  const governmentSubmittedBills = await safeFetch("정부 제출 법률안", fetchGovernmentSubmittedBills, ["assembly_government"]);
+  const governmentSubmittedBills = await safeFetch("정부 제출 법률안", fetchGovernmentSubmittedBills);
   fetchedBills.push(...governmentSubmittedBills);
 
-  const governmentNotices = await safeFetch("정부입법예고", fetchGovernmentNotices, ["government_notice"]);
+  const governmentNotices = await safeFetch("정부입법예고", fetchGovernmentNotices);
   fetchedBills.push(...governmentNotices);
 
-  const governmentProgress = await safeFetch("정부입법현황", fetchGovernmentProgress, ["government_pre_submit"]);
+  const governmentProgress = await safeFetch("정부입법현황", fetchGovernmentProgress);
   fetchedBills.push(...governmentProgress);
 
-  const bills = fetchedBills.length > 0
-    ? mergeAiSummaries(filterBillsSince(dedupeBills(preserveFailedSourceBills(fetchedBills, previous.bills))), previous.bills)
-    : previous.bills;
+  const bills = fetchedBills.length > 0 ? mergeAiSummaries(dedupeBills(fetchedBills), previous.bills) : previous.bills;
 
   const nextData: BillDataFile = {
     generatedAt: new Date().toISOString(),
     sourceNote:
       fetchedBills.length > 0
-        ? `공개 데이터에서 수집한 데이터입니다. 국회 API ${assemblyMaxPages}페이지, 국민참여입법센터 ${lawmakingMaxPages}페이지 범위로 갱신했습니다.${syncSinceDate ? ` 기준일 ${syncSinceDate} 이후 항목만 포함했습니다.` : ""}`
+        ? `공개 데이터에서 수집한 데이터입니다. 국회 API ${assemblyMaxPages}페이지, 국민참여입법센터 ${lawmakingMaxPages}페이지 범위로 갱신했습니다.`
         : "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
     bills
   };
@@ -66,13 +56,12 @@ async function readPreviousData(): Promise<BillDataFile> {
   }
 }
 
-async function safeFetch(label: string, fetcher: () => Promise<Bill[]>, sourceHints: BillSource[]): Promise<Bill[]> {
+async function safeFetch(label: string, fetcher: () => Promise<Bill[]>): Promise<Bill[]> {
   try {
     const bills = await fetcher();
     console.log(`${label}: ${bills.length} items`);
     return bills;
   } catch (error) {
-    for (const source of sourceHints) failedBillSources.add(source);
     const message = error instanceof Error ? error.message : String(error);
     console.warn(`${label} 수집 실패: ${message}`);
     return [];
@@ -95,7 +84,6 @@ async function fetchAssemblyMemberBills(): Promise<Bill[]> {
     const pageRows = readAssemblyRows(parsed, "nzmimeepazxkubdpn");
     if (pageRows.length === 0) break;
     rows.push(...pageRows);
-    if (syncSinceDate && pageRows.every((row) => isBeforeSince(normalizeDate(text(row.PROPOSE_DT))))) break;
   }
 
   const now = new Date().toISOString();
@@ -146,18 +134,14 @@ async function fetchAssemblyMemberBills(): Promise<Bill[]> {
 }
 
 async function fetchAssemblyStatusBills(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsSequential("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
-    pageSize: "100"
-  }, readAssemblyStatusReferenceDate, true);
+  const rows = await fetchLawmakingRows("/gcom/nsmLmSts/out", /data-th=["']의안명["']/);
   const now = new Date().toISOString();
 
   return rows.map((row, index) => parseAssemblyStatusRow(row, index, now));
 }
 
 async function fetchGovernmentNotices(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsSequential("/gcom/ogLmPp", /data-th=["']법령 제명["']/, {
-    pageSize: "100"
-  }, readGovernmentNoticeReferenceDate, true);
+  const rows = await fetchLawmakingRows("/gcom/ogLmPp", /data-th=["']법령 제명["']/);
   const now = new Date().toISOString();
 
   return rows.map((row, index) => {
@@ -227,10 +211,10 @@ async function fetchGovernmentNotices(): Promise<Bill[]> {
 }
 
 async function fetchGovernmentSubmittedBills(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsSequential("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
+  const rows = await fetchLawmakingRows("/gcom/nsmLmSts/out", /data-th=["']의안명["']/, {
     scPpsUsr: "정부",
     pageSize: "100"
-  }, readAssemblyStatusReferenceDate, true);
+  });
   const governmentSummarySources = await fetchGovernmentSubmittedSummarySources();
   const now = new Date().toISOString();
 
@@ -294,12 +278,10 @@ async function fetchGovernmentSubmittedSummarySources(): Promise<GovernmentSumma
 }
 
 async function fetchGovernmentProgress(): Promise<Bill[]> {
-  const rows = await fetchLawmakingRowsSequential("/lmSts/govLm", /data-th=["']법령명["']/, {
-    pageSize: "100"
-  });
+  const rows = await fetchLawmakingRows("/lmSts/govLm", /data-th=["']법령명["']/);
   const now = new Date().toISOString();
 
-  const bills = await Promise.all(rows.map(async (row, index): Promise<Bill | null> => {
+  return rows.map((row, index): Bill | null => {
     const link = findHref(row, /\/lmSts\/govLm\/\d+/);
     const externalId = link.match(/\d+/)?.[0] || `government-progress-${index}`;
     const title = findLinkText(row, /\/lmSts\/govLm\/\d+/) || "제목 미확인 정부입법현황";
@@ -309,7 +291,6 @@ async function fetchGovernmentProgress(): Promise<Bill[]> {
     const revisionType = readCellText(row, "제 · 개정구분");
     const id = `government-progress-${externalId}`;
     const officialUrl = new URL(link || "/lmSts/govLm", lawmakingOrigin).toString();
-    const noticePeriod = await loadGovernmentProgressNoticePeriod(officialUrl);
 
     if (/국회제출/.test(statusLabel)) return null;
 
@@ -324,16 +305,13 @@ async function fetchGovernmentProgress(): Promise<Bill[]> {
       proposerName: ministry || undefined,
       proposerType: "ministry",
       ministry: ministry || undefined,
-      noticeStartDate: noticePeriod.startDate,
-      noticeEndDate: noticePeriod.endDate,
       lastUpdatedAt: now,
       officialUrl,
       summarySourceUrl: officialUrl,
       summarySourceLabel: "정부입법현황 주요내용",
       rawSummary: [
         lawType ? `법령종류: ${lawType}` : "",
-        revisionType ? `제·개정구분: ${revisionType}` : "",
-        noticePeriod.startDate ? `입법예고 기간: ${noticePeriod.startDate} ~ ${noticePeriod.endDate ?? ""}` : ""
+        revisionType ? `제·개정구분: ${revisionType}` : ""
       ]
         .filter(Boolean)
         .join(" / "),
@@ -345,16 +323,13 @@ async function fetchGovernmentProgress(): Promise<Bill[]> {
           billId: id,
           eventType: "government_progress",
           eventLabel: statusLabel,
-          eventDate: noticePeriod.startDate,
           sourceUrl: officialUrl
         }
       ],
       createdAt: now,
       updatedAt: now
     } satisfies Bill;
-  }));
-
-  return bills.filter((bill): bill is Bill => bill !== null);
+  }).filter((bill): bill is Bill => bill !== null);
 }
 
 function parseAssemblyStatusRow(
@@ -422,106 +397,35 @@ function parseAssemblyStatusRow(
 }
 
 async function fetchText(url: URL) {
-  return withRetry(async () => {
-    await delay(requestDelayMs);
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`${response.status} ${response.statusText}`);
-    }
-    return response.text();
-  }, url.toString());
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`${response.status} ${response.statusText}`);
+  }
+  return response.text();
 }
 
 async function fetchJson<T>(url: URL): Promise<T> {
-  return withRetry(async () => {
-    await delay(requestDelayMs);
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`${response.status} ${response.statusText}`);
-    }
-    return response.json() as Promise<T>;
-  }, url.toString());
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`${response.status} ${response.statusText}`);
+  }
+  return response.json() as Promise<T>;
 }
 
-async function fetchLawmakingRowsByDateRanges(
-  pathname: string,
-  rowPattern: RegExp,
-  query: Record<string, string> & { dateStartKey?: string; dateEndKey?: string } = {},
-  readReferenceDate?: (row: string) => string | undefined
-): Promise<string[]> {
-  if (!syncSinceDate) {
-    return fetchLawmakingRows(pathname, rowPattern, sinceDateQuery(query), readReferenceDate);
-  }
-
-  const rows: string[] = [];
-  const seen = new Set<string>();
-  for (const range of buildDateRanges(syncSinceDate, syncUntilDate, lawmakingChunkDays)) {
-    const rangeRows = await fetchLawmakingRows(
-      pathname,
-      rowPattern,
-      dateRangeQuery(query, range),
-      readReferenceDate
-    );
-    for (const row of rangeRows) {
-      const key = findHref(row, /\d+/) || stripHtml(row).slice(0, 120);
-      if (seen.has(key)) continue;
-      seen.add(key);
-      rows.push(row);
-    }
-    console.log(`${pathname} ${range.startDate}~${range.endDate}: ${rangeRows.length} rows`);
-  }
-  return rows;
-}
-
-async function fetchLawmakingRowsSequential(
-  pathname: string,
-  rowPattern: RegExp,
-  query: Record<string, string> = {},
-  readReferenceDate?: (row: string) => string | undefined,
-  stopWhenPageBeforeSince = false
-): Promise<string[]> {
+async function fetchLawmakingRows(pathname: string, rowPattern: RegExp, query: Record<string, string> = {}): Promise<string[]> {
   const rows: string[] = [];
   const seen = new Set<string>();
 
   for (let page = 1; page <= lawmakingMaxPages; page += 1) {
-    const pageRows = await fetchLawmakingRowsPage(pathname, rowPattern, query, page);
-    if (pageRows.length === 0) break;
-
-    let newRows = 0;
-    for (const row of pageRows) {
-      const key = findHref(row, /\d+/) || stripHtml(row).slice(0, 120);
-      if (seen.has(key)) continue;
-      seen.add(key);
-      rows.push(row);
-      newRows += 1;
+    const url = new URL(pathname, lawmakingOrigin);
+    url.searchParams.set("pageIndex", String(page));
+    url.searchParams.set("blockStartPage", String(Math.floor((page - 1) / 10) * 10 + 1));
+    for (const [key, value] of Object.entries(query)) {
+      url.searchParams.set(key, value);
     }
 
-    const pageDates = readReferenceDate ? pageRows.map(readReferenceDate).filter((date): date is string => Boolean(date)) : [];
-    const pageIsBeforeSince = Boolean(
-      syncSinceDate &&
-      stopWhenPageBeforeSince &&
-      pageDates.length > 0 &&
-      pageDates.every((date) => isBeforeSince(date))
-    );
-
-    console.log(`${pathname} page ${page}: ${pageRows.length} rows${pageDates.length > 0 ? `, ${pageDates[0]}~${pageDates.at(-1)}` : ""}`);
-    if (newRows === 0 || pageIsBeforeSince) break;
-  }
-
-  return rows;
-}
-
-async function fetchLawmakingRows(
-  pathname: string,
-  rowPattern: RegExp,
-  query: Record<string, string> = {},
-  readReferenceDate?: (row: string) => string | undefined
-): Promise<string[]> {
-  const rows: string[] = [];
-  const seen = new Set<string>();
-
-  for (let page = 1; page <= lawmakingMaxPages; page += 1) {
-    const pageRows = await fetchLawmakingRowsPage(pathname, rowPattern, query, page);
+    const html = await fetchText(url);
+    const pageRows = parseHtmlRows(html).filter((row) => rowPattern.test(row));
     if (pageRows.length === 0) break;
 
     let newRows = 0;
@@ -534,44 +438,9 @@ async function fetchLawmakingRows(
     }
 
     if (newRows === 0) break;
-    if (
-      syncSinceDate &&
-      readReferenceDate &&
-      pageRows.every((row) => {
-        const rowDate = readReferenceDate(row);
-        return rowDate ? isBeforeSince(rowDate) : false;
-      })
-    ) break;
   }
 
   return rows;
-}
-
-async function fetchLawmakingRowsPage(
-  pathname: string,
-  rowPattern: RegExp,
-  query: Record<string, string>,
-  page: number
-) {
-  const url = new URL(pathname, lawmakingOrigin);
-  url.searchParams.set("pageIndex", String(page));
-  url.searchParams.set("blockStartPage", String(Math.floor((page - 1) / 10) * 10 + 1));
-  for (const [key, value] of Object.entries(query)) {
-    url.searchParams.set(key, value);
-  }
-
-  const html = await fetchLawmakingPageHtml(url);
-  return parseHtmlRows(html).filter((row) => rowPattern.test(row));
-}
-
-async function fetchLawmakingPageHtml(url: URL) {
-  return withRetry(async () => {
-    const html = await fetchText(url);
-    if (/404 \(페이지 없음\)|요청페이지가 없습니다/.test(html)) {
-      throw new Error(`${url.pathname} 목록 페이지가 404 안내를 반환했습니다.`);
-    }
-    return html;
-  }, `${url.pathname}${url.search}`);
 }
 
 function dedupeBills(bills: Bill[]) {
@@ -585,38 +454,6 @@ function dedupeBills(bills: Bill[]) {
     const right = Date.parse(a.proposedDate ?? a.noticeStartDate ?? a.updatedAt);
     return left - right;
   });
-}
-
-function filterBillsSince(bills: Bill[]) {
-  if (!syncSinceDate) return bills;
-  return bills.filter((bill) => isInSyncRange(referenceDate(bill)));
-}
-
-function preserveFailedSourceBills(fetchedBills: Bill[], previousBills: Bill[]) {
-  if (failedBillSources.size === 0) return fetchedBills;
-  const previousToKeep = previousBills.filter((bill) =>
-    failedBillSources.has(bill.source) &&
-    (!syncSinceDate || isInSyncRange(referenceDate(bill)))
-  );
-  if (previousToKeep.length > 0) {
-    console.warn(`수집 실패한 출처의 기존 데이터 ${previousToKeep.length}건을 유지했습니다.`);
-  }
-  return [...previousToKeep, ...fetchedBills];
-}
-
-function referenceDate(bill: Bill) {
-  if (bill.source === "government_notice" || bill.source === "government_pre_submit") {
-    return bill.noticeStartDate;
-  }
-  return bill.proposedDate;
-}
-
-function readAssemblyStatusReferenceDate(row: string) {
-  return readDates(readCellText(row, "제안자(제안일자)"))[0];
-}
-
-function readGovernmentNoticeReferenceDate(row: string) {
-  return readDates(readCellText(row, "입법의견 접수기간"))[0];
 }
 
 function mergeAiSummaries(nextBills: Bill[], previousBills: Bill[]) {
@@ -684,129 +521,6 @@ function normalizeBillTitleForMatch(value: string) {
 
 function matchKey(title: string, ministry?: string) {
   return `${normalizeBillTitleForMatch(title)}:${normalizeTitle(ministry ?? "")}`;
-}
-
-async function loadGovernmentProgressNoticePeriod(officialUrl: string): Promise<{ startDate?: string; endDate?: string }> {
-  try {
-    const detailUrl = officialUrl.endsWith("/detailRP") ? officialUrl : `${officialUrl.replace(/\/$/, "")}/detailRP`;
-    const html = await fetchText(new URL(detailUrl));
-    const pageText = stripHtml(html);
-    const match = pageText.match(/입법현황\s*입법예고\s*\(([^)]+)\)/);
-    const dates = readDates(match?.[1] ?? "");
-    return {
-      startDate: dates[0],
-      endDate: dates[1]
-    };
-  } catch (error) {
-    console.warn(`정부입법현황 입법예고 기간 확인 실패: ${officialUrl} - ${error instanceof Error ? error.message : String(error)}`);
-    return {};
-  }
-}
-
-function sinceDateQuery<T extends Record<string, string> & { dateStartKey?: string; dateEndKey?: string }>(
-  query: T
-): Record<string, string> {
-  if (!syncSinceDate) return withoutDateKeys(query);
-  return dateRangeQuery(query, { startDate: syncSinceDate, endDate: syncUntilDate });
-}
-
-function dateRangeQuery<T extends Record<string, string> & { dateStartKey?: string; dateEndKey?: string }>(
-  query: T,
-  range: DateRange
-): Record<string, string> {
-  const { dateStartKey, dateEndKey, ...rest } = query;
-  const next: Record<string, string> = { ...rest };
-  if (dateStartKey) next[dateStartKey] = formatDateQuery(dateStartKey, range.startDate);
-  if (dateEndKey) next[dateEndKey] = formatDateQuery(dateEndKey, range.endDate);
-  return next;
-}
-
-function withoutDateKeys<T extends Record<string, string> & { dateStartKey?: string; dateEndKey?: string }>(
-  query: T
-): Record<string, string> {
-  const { dateStartKey: _dateStartKey, dateEndKey: _dateEndKey, ...rest } = query;
-  return rest;
-}
-
-function isBeforeSince(value?: string) {
-  return Boolean(syncSinceDate && value && Date.parse(value) < Date.parse(syncSinceDate));
-}
-
-function isOnOrAfterSince(value?: string) {
-  return Boolean(value && syncSinceDate && Date.parse(value) >= Date.parse(syncSinceDate));
-}
-
-function isInSyncRange(value?: string) {
-  return Boolean(
-    value &&
-    syncSinceDate &&
-    Date.parse(value) >= Date.parse(syncSinceDate) &&
-    Date.parse(value) <= Date.parse(syncUntilDate)
-  );
-}
-
-function formatDateQuery(key: string, value: string) {
-  return compactDateSources.has(key) ? value.replace(/[^\d]/g, "") : value;
-}
-
-function todayDate() {
-  return new Date().toISOString().slice(0, 10);
-}
-
-function buildDateRanges(startDate: string, endDate: string, chunkDays: number): DateRange[] {
-  const ranges: DateRange[] = [];
-  let cursor = parseDateOnly(startDate);
-  const end = parseDateOnly(endDate);
-
-  while (cursor.getTime() <= end.getTime()) {
-    const rangeStart = cursor;
-    const rangeEnd = minDate(addDays(rangeStart, chunkDays - 1), end);
-    ranges.push({
-      startDate: formatDateOnly(rangeStart),
-      endDate: formatDateOnly(rangeEnd)
-    });
-    cursor = addDays(rangeEnd, 1);
-  }
-
-  return ranges;
-}
-
-function parseDateOnly(value: string) {
-  const [year, month, day] = value.split("-").map(Number);
-  return new Date(Date.UTC(year, month - 1, day));
-}
-
-function addDays(value: Date, days: number) {
-  const next = new Date(value);
-  next.setUTCDate(next.getUTCDate() + days);
-  return next;
-}
-
-function minDate(left: Date, right: Date) {
-  return left.getTime() < right.getTime() ? left : right;
-}
-
-function formatDateOnly(value: Date) {
-  return value.toISOString().slice(0, 10);
-}
-
-async function withRetry<T>(operation: () => Promise<T>, label: string): Promise<T> {
-  let lastError: unknown;
-  for (let attempt = 1; attempt <= retryCount; attempt += 1) {
-    try {
-      return await operation();
-    } catch (error) {
-      lastError = error;
-      if (attempt >= retryCount) break;
-      console.warn(`${label} 요청 실패, ${attempt}/${retryCount} 재시도 예정: ${error instanceof Error ? error.message : String(error)}`);
-      await delay(retryDelayMs);
-    }
-  }
-  throw lastError;
-}
-
-function delay(ms: number) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function normalizeDate(value: string) {
@@ -910,17 +624,6 @@ function readPositiveInt(value: string | undefined, fallback: number): number {
   const parsed = Number.parseInt(value, 10);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 }
-
-function readNonNegativeInt(value: string | undefined, fallback: number): number {
-  if (!value) return fallback;
-  const parsed = Number.parseInt(value, 10);
-  return Number.isFinite(parsed) && parsed >= 0 ? parsed : fallback;
-}
-
-type DateRange = {
-  startDate: string;
-  endDate: string;
-};
 
 type GovernmentSummarySource = {
   externalId: string;

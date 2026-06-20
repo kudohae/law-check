@@ -1,0 +1,52 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-19T09:00:00.000Z",
+  "title": "2026년 06월 19일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": ["entertainment", "sports"],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 시사 지형",
+    "summary": "아카이브 지연 로딩 확인을 위한 샘플 데이터입니다.",
+    "children": [
+      {
+        "id": "archive-policy",
+        "label": "정책 변화",
+        "summary": "제도 변화와 공공 발표를 묶은 축입니다.",
+        "children": [
+          {
+            "id": "archive-policy-node",
+            "label": "공식 발표 확인",
+            "summary": "공식 출처를 먼저 확인해야 하는 정책 이슈입니다.",
+            "articles": [
+              {
+                "title": "대한민국 정책브리핑",
+                "url": "https://www.korea.kr",
+                "outlet": "대한민국 정책브리핑"
+              },
+              {
+                "title": "국회 의안정보시스템",
+                "url": "https://likms.assembly.go.kr/bill",
+                "outlet": "국회"
+              },
+              {
+                "title": "법제처",
+                "url": "https://www.moleg.go.kr",
+                "outlet": "법제처"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

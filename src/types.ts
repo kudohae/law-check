@@ -64,3 +64,42 @@ export type BillDataFile = {
   sourceNote: string;
   bills: Bill[];
 };
+
+export type IssueArticle = {
+  title: string;
+  url: string;
+  outlet?: string;
+  publishedAt?: string;
+};
+
+export type IssueNode = {
+  id: string;
+  label: string;
+  summary?: string;
+  children?: IssueNode[];
+  articles?: IssueArticle[];
+};
+
+export type IssueMindmapFile = {
+  serviceName: string;
+  date: string;
+  generatedAt: string;
+  title: string;
+  editorialPolicy: {
+    excludedCategories: string[];
+    selectionCriteria: string[];
+  };
+  root: IssueNode;
+};
+
+export type IssueArchiveEntry = {
+  date: string;
+  title: string;
+  path: string;
+};
+
+export type IssueArchiveIndex = {
+  latestDate: string;
+  generatedAt: string;
+  entries: IssueArchiveEntry[];
+};
