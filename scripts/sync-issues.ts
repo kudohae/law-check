@@ -4,7 +4,7 @@ import type { IssueArchiveIndex, IssueMindmapFile, IssueNode } from "../src/type
 
 const outputDir = path.resolve("public/data/issues");
 const indexPath = path.join(outputDir, "index.json");
-const today = process.env.ISSUE_DATE || new Date().toISOString().slice(0, 10);
+const today = process.env.ISSUE_DATE || currentKstDate();
 const naverClientId = process.env.NAVER_CLIENT_ID;
 const naverClientSecret = process.env.NAVER_CLIENT_SECRET;
 const groqApiKey = process.env.GROQ_API_KEY;
@@ -12,8 +12,8 @@ const geminiApiKey = process.env.GEMINI_API_KEY;
 const cohereApiKey = process.env.COHERE_API_KEY;
 const groqModel = process.env.GROQ_MODEL || "llama-3.3-70b-versatile";
 const geminiModel = process.env.GEMINI_MODEL || "gemini-2.5-flash-lite";
-const issueLimit = readPositiveInt(process.env.ISSUE_CANDIDATE_LIMIT, 60);
-const queryDisplay = readPositiveInt(process.env.NAVER_NEWS_DISPLAY, 50);
+const issueLimit = readPositiveInt(process.env.ISSUE_CANDIDATE_LIMIT, 36);
+const queryDisplay = readPositiveInt(process.env.NAVER_NEWS_DISPLAY, 40);
 const archiveLimit = readPositiveInt(process.env.ISSUE_ARCHIVE_LIMIT, 30);
 
 const excludedCategoryPattern = /연예|스포츠|야구|축구|농구|배구|골프|올림픽|월드컵|아이돌|배우|가수|드라마|영화|예능|음원|콘서트/;
@@ -243,7 +243,7 @@ function buildIssuePrompt(articles: NewsArticle[]) {
     [
       `ID: a${index + 1}`,
       `title: ${article.title}`,
-      `summary: ${article.description}`,
+      `summary: ${truncate(article.description, 140)}`,
       `source: ${article.source}`,
       `url: ${article.url}`,
       `published: ${article.pubDate}`
@@ -473,11 +473,17 @@ function parseJsonObject(text: string) {
 }
 
 function formatIssueTitle(date: string) {
-  const parsed = new Date(`${date}T00:00:00+09:00`);
-  const year = parsed.getFullYear();
-  const month = String(parsed.getMonth() + 1).padStart(2, "0");
-  const day = String(parsed.getDate()).padStart(2, "0");
+  const [year, month, day] = date.split("-");
   return `${year}년 ${month}월 ${day}일의 시사 이슈 마인드맵`;
+}
+
+function currentKstDate() {
+  return new Intl.DateTimeFormat("sv-SE", {
+    timeZone: "Asia/Seoul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date());
 }
 
 function isTodayArticle(value?: string) {
@@ -511,6 +517,10 @@ function countLeafNodes(node: IssueNode): number {
 
 function cleanText(value = "") {
   return decodeHtml(value.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
+}
+
+function truncate(value: string, maxLength: number) {
+  return value.length > maxLength ? `${value.slice(0, maxLength)}...` : value;
 }
 
 function decodeHtml(value: string) {
