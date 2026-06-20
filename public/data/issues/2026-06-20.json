@@ -1,10 +1,13 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T09:00:00.000Z",
-  "title": "2026년 06월 20일의 시사 이슈 마인드맵",
+  "generatedAt": "2026-06-20T03:22:02.011Z",
+  "title": "2026년 06월 19일의 시사 이슈 마인드맵",
   "editorialPolicy": {
-    "excludedCategories": ["entertainment", "sports"],
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
     "selectionCriteria": [
       "공공 영향도",
       "진행성",
@@ -15,157 +18,100 @@
   },
   "root": {
     "id": "today",
-    "label": "오늘의 시사 지형",
-    "summary": "연예와 스포츠를 제외하고, 공공 의사결정과 사회적 영향이 큰 이슈를 우선 배치합니다.",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
     "children": [
       {
-        "id": "public-policy",
+        "id": "fallback1",
         "label": "정책과 제도",
-        "summary": "생활 비용과 행정 제도에 영향을 주는 결정 흐름입니다.",
+        "summary": "후보 기사 기반 임시 분류입니다.",
         "children": [
           {
-            "id": "public-policy-legislation",
-            "label": "입법 일정과 정부 발표",
-            "summary": "법안 처리, 정부 발표, 공청회 일정이 연결되는 영역입니다.",
+            "id": "fallback1a",
+            "label": "정책과 제도",
+            "summary": "관련도와 시의성을 기준으로 기사 3건을 배치했습니다.",
             "articles": [
               {
-                "title": "국회와 정부 발표를 함께 확인해야 하는 정책 이슈",
-                "url": "https://www.assembly.go.kr",
-                "outlet": "대한민국국회"
+                "title": "한동훈 \"국민의힘 복당해 2030년 정권 되찾겠다\"",
+                "url": "https://www.newdaily.co.kr/site/data/html/2026/06/20/2026062000022.html",
+                "outlet": "newdaily.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 11:10:00 +0900"
               },
               {
-                "title": "정부 정책 발표와 입법예고 확인",
-                "url": "https://www.moleg.go.kr",
-                "outlet": "법제처"
+                "title": "[낙선 인터뷰] 정의당 박인숙 \"진보 정치, 상상력·움직임으로 변화 만...",
+                "url": "https://www.incheontoday.com/news/articleView.html?idxno=320242",
+                "outlet": "incheontoday.com",
+                "publishedAt": "Sat, 20 Jun 2026 10:00:00 +0900"
               },
               {
-                "title": "국민참여입법센터 입법예고 목록",
-                "url": "https://opinion.lawmaking.go.kr",
-                "outlet": "국민참여입법센터"
-              }
-            ]
-          },
-          {
-            "id": "public-policy-budget",
-            "label": "예산과 지원 제도",
-            "summary": "보조금, 세제, 복지 지출처럼 시민 부담과 혜택이 바뀌는 쟁점입니다.",
-            "articles": [
-              {
-                "title": "재정 정책 자료 확인",
-                "url": "https://www.moef.go.kr",
-                "outlet": "기획재정부"
-              },
-              {
-                "title": "정부 보도자료 통합 확인",
-                "url": "https://www.korea.kr",
-                "outlet": "대한민국 정책브리핑"
-              },
-              {
-                "title": "예산 관련 국회 의안 확인",
-                "url": "https://likms.assembly.go.kr/bill",
-                "outlet": "국회 의안정보시스템"
+                "title": "'브레이크 없는 자전거' 퇴출 수순…국회, 위험 개조 자전거 처벌 길 열...",
+                "url": "https://www.bzeronews.com/news/articleView.html?idxno=819014",
+                "outlet": "bzeronews.com",
+                "publishedAt": "Sat, 20 Jun 2026 11:44:00 +0900"
               }
             ]
           }
         ]
       },
       {
-        "id": "economy-living",
+        "id": "fallback2",
         "label": "경제와 생활",
-        "summary": "물가, 주거, 노동, 금융처럼 일상 비용에 직접 닿는 흐름입니다.",
+        "summary": "후보 기사 기반 임시 분류입니다.",
         "children": [
           {
-            "id": "economy-prices",
-            "label": "물가와 소비",
-            "summary": "가격 변화와 소비 심리에 영향을 주는 발표와 지표입니다.",
+            "id": "fallback2a",
+            "label": "경제와 생활",
+            "summary": "관련도와 시의성을 기준으로 기사 3건을 배치했습니다.",
             "articles": [
               {
-                "title": "소비자물가 동향",
-                "url": "https://kostat.go.kr",
-                "outlet": "통계청"
+                "title": "李대통령 \"첫째도 둘째도 물가 안정···특단의 방안 발굴해야\"",
+                "url": "https://magazine.hankyung.com/business/article/202606207903b",
+                "outlet": "magazine.hankyung.com",
+                "publishedAt": "Sat, 20 Jun 2026 10:03:00 +0900"
               },
               {
-                "title": "경제 동향 자료",
-                "url": "https://www.bok.or.kr",
-                "outlet": "한국은행"
+                "title": "[박근종 칼럼] 미국 '연내 금리 인상' 시사, 환율·물가·성장 차질 없도...",
+                "url": "https://www.mhns.co.kr/news/articleView.html?idxno=750882",
+                "outlet": "mhns.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 11:08:00 +0900"
               },
               {
-                "title": "정책브리핑 경제 분야",
-                "url": "https://www.korea.kr/briefing/pressReleaseList.do",
-                "outlet": "대한민국 정책브리핑"
-              }
-            ]
-          },
-          {
-            "id": "economy-labor",
-            "label": "노동과 산업",
-            "summary": "고용, 임금, 산업 재편처럼 사회적 파급이 큰 경제 이슈입니다.",
-            "articles": [
-              {
-                "title": "고용노동 정책 자료",
-                "url": "https://www.moel.go.kr",
-                "outlet": "고용노동부"
-              },
-              {
-                "title": "산업 정책 보도자료",
-                "url": "https://www.motie.go.kr",
-                "outlet": "산업통상자원부"
-              },
-              {
-                "title": "경제 통계와 고용 지표",
-                "url": "https://kostat.go.kr",
-                "outlet": "통계청"
+                "title": "한동훈 “2030년 정권 되찾겠다... 국민의힘 복당 목표”",
+                "url": "https://www.munhwa.com/article/11596905?ref=naver",
+                "outlet": "munhwa.com",
+                "publishedAt": "Sat, 20 Jun 2026 10:36:00 +0900"
               }
             ]
           }
         ]
       },
       {
-        "id": "society-safety",
+        "id": "fallback3",
         "label": "사회와 안전",
-        "summary": "재난, 안전, 교육, 의료처럼 시민 안전과 공공 서비스에 연결된 이슈입니다.",
+        "summary": "후보 기사 기반 임시 분류입니다.",
         "children": [
           {
-            "id": "society-health",
-            "label": "의료와 보건",
-            "summary": "의료 접근성, 공공보건, 보건 정책 변화를 묶어 봅니다.",
+            "id": "fallback3a",
+            "label": "사회와 안전",
+            "summary": "관련도와 시의성을 기준으로 기사 3건을 배치했습니다.",
             "articles": [
               {
-                "title": "보건복지부 보도자료",
-                "url": "https://www.mohw.go.kr",
-                "outlet": "보건복지부"
+                "title": "폭우·강풍에 부산 곳곳 피해 속출… 부산 안전 조치 18건",
+                "url": "https://www.busan.com/view/busan/view.php?code=2026062011572713641",
+                "outlet": "busan.com",
+                "publishedAt": "Sat, 20 Jun 2026 12:12:00 +0900"
               },
               {
-                "title": "질병관리청 주요 소식",
-                "url": "https://www.kdca.go.kr",
-                "outlet": "질병관리청"
+                "title": "김제시 신임 박지원 국회의원과 맞손…지역 현안·국비 확보 총력 다짐",
+                "url": "https://www.thepowernews.co.kr/view.php?ud=2026062011513762623dfcd109a8_7",
+                "outlet": "thepowernews.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 11:54:00 +0900"
               },
               {
-                "title": "정부 보건 정책 발표",
-                "url": "https://www.korea.kr",
-                "outlet": "대한민국 정책브리핑"
-              }
-            ]
-          },
-          {
-            "id": "society-disaster",
-            "label": "재난과 생활 안전",
-            "summary": "기상, 사고 대응, 안전 제도 변화를 따라가는 영역입니다.",
-            "articles": [
-              {
-                "title": "재난안전 정책 자료",
-                "url": "https://www.mois.go.kr",
-                "outlet": "행정안전부"
-              },
-              {
-                "title": "기상 특보와 예보",
-                "url": "https://www.weather.go.kr",
-                "outlet": "기상청"
-              },
-              {
-                "title": "국민재난안전포털",
-                "url": "https://www.safekorea.go.kr",
-                "outlet": "국민재난안전포털"
+                "title": "한득수 임실군수 당선인, “임실의 백년지대계를 생각하는 행정으로 가...",
+                "url": "https://www.thepowernews.co.kr/view.php?ud=2026062011383796113dfcd109a8_7",
+                "outlet": "thepowernews.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 11:42:00 +0900"
               }
             ]
           }
