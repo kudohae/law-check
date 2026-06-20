@@ -254,7 +254,11 @@ function buildIssuePrompt(articles: NewsArticle[]) {
     "너는 한국 시사 이슈를 구조화하는 편집 보조 엔진이다.",
     "연예와 스포츠 뉴스는 절대 주요 이슈로 선정하지 마라.",
     "오늘 한국 사회의 공공 영향도, 진행성, 출처 교차 확인 가능성, 시의성, 구조화 가능성을 기준으로 주요 이슈 3개를 선정해라.",
-    "각 대분류 아래에는 1~3개의 소분류 최종 노드를 둬라.",
+    "마인드맵은 반드시 4단계로 만들어라: root -> 대분류 이슈 -> 주제 노드 -> 세부 쟁점 최종 노드.",
+    "대분류 이슈는 정확히 3개를 둬라.",
+    "각 대분류 이슈 아래에는 주제 노드를 1~2개 둬라.",
+    "각 주제 노드 아래에는 세부 쟁점 최종 노드를 2~3개 둬라.",
+    "articles 배열은 세부 쟁점 최종 노드에만 둬라.",
     "각 최종 노드에는 아래 기사 후보에서 관련도 높은 기사 정확히 3개를 골라 articles 배열에 넣어라.",
     "기사 제목과 URL은 후보에 있는 값을 그대로 사용해라. 없는 기사나 URL을 만들지 마라.",
     "출력은 아래 TypeScript 구조와 호환되는 JSON 객체 하나만 반환해라.",
@@ -281,10 +285,19 @@ function buildIssuePrompt(articles: NewsArticle[]) {
             children: [
               {
                 id: "issue-1-a",
-                label: "소분류 세부 현안",
+                label: "주제 노드",
                 summary: "짧은 설명",
-                articles: [
-                  { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" }
+                children: [
+                  {
+                    id: "issue-1-a-1",
+                    label: "세부 쟁점 최종 노드",
+                    summary: "짧은 설명",
+                    articles: [
+                      { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" },
+                      { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" },
+                      { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" }
+                    ]
+                  }
                 ]
               }
             ]
@@ -356,7 +369,7 @@ function normalizeArticles(items: IssueNode["articles"], candidates: NewsArticle
 
 function buildFallbackMindmap(articles: NewsArticle[]): IssueMindmapFile {
   const buckets = ["정책과 제도", "경제와 생활", "사회와 안전"];
-  const selected = scoreArticles(articles).slice(0, 18);
+  const selected = scoreArticles(articles).slice(0, 54);
   return {
     serviceName: "시선(時線)",
     date: today,
@@ -371,7 +384,7 @@ function buildFallbackMindmap(articles: NewsArticle[]): IssueMindmapFile {
       label: "오늘의 주요 시사",
       summary: "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
       children: buckets.map((bucket, bucketIndex) => {
-        const slice = selected.slice(bucketIndex * 6, bucketIndex * 6 + 6);
+        const slice = selected.slice(bucketIndex * 18, bucketIndex * 18 + 18);
         return {
           id: `fallback-${bucketIndex + 1}`,
           label: bucket,
@@ -379,9 +392,14 @@ function buildFallbackMindmap(articles: NewsArticle[]): IssueMindmapFile {
           children: [
             {
               id: `fallback-${bucketIndex + 1}-a`,
-              label: bucket,
-              summary: "관련도와 시의성을 기준으로 기사 3건을 배치했습니다.",
-              articles: slice.slice(0, 3).map(toIssueArticle)
+              label: `${bucket} 핵심 흐름`,
+              summary: "관련도와 시의성을 기준으로 세부 쟁점을 나눴습니다.",
+              children: [0, 1].map((leafIndex) => ({
+                id: `fallback-${bucketIndex + 1}-a-${leafIndex + 1}`,
+                label: leafIndex === 0 ? "주요 전개" : "후속 쟁점",
+                summary: "관련 기사 3건을 기준으로 묶은 임시 세부 쟁점입니다.",
+                articles: slice.slice(leafIndex * 3, leafIndex * 3 + 3).map(toIssueArticle)
+              }))
             }
           ]
         };
