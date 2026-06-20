@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T12:42:29.095Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-06-20T11:18:56.459Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000326932",
@@ -50,7 +50,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328232/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -62,7 +62,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "해양수산부와 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:10:48.792Z"
     },
     {
       "id": "government-progress-2000000328206",
@@ -80,7 +82,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328206/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -92,7 +94,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "국제범죄조직의 대응 업무에 관한 사항을 규정하는 대통령령을 제정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:11:11.917Z"
     },
     {
       "id": "government-progress-2000000324214",
@@ -110,7 +114,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324214/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -122,7 +126,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "사회복지사 등의 처우 및 지위 향상을 위한 법률 시행규칙은 사회복지사 등의 처우 및 지위 향상을 위한 법률에서 위임된 사항과 그 시행에 필요한 사항을 규정하는 것을 목적으로 한다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:11:35.189Z"
     },
     {
       "id": "government-progress-2000000325794",
@@ -140,7 +146,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325794/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -152,7 +158,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "전기안전관리법 시행규칙 일부개정안은 전기설비의 안전 관리에 관한 사항을 일부 개정하려는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:11:58.468Z"
     },
     {
       "id": "government-progress-2000000323308",
@@ -202,7 +210,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327166/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -214,7 +222,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "복권 및 복권기금법 일부를 개정하는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:12:21.488Z"
     },
     {
       "id": "government-progress-2000000326246",
@@ -232,7 +242,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326246/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -244,7 +254,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "이 법률안은 지방대학 및 지역균형인재 육성에 관한 법률 시행령을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:12:44.569Z"
     },
     {
       "id": "government-progress-2000000327242",
@@ -262,7 +274,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327242/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -274,7 +286,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "공연법 시행령 일부개정안은 공연장의 안전 점검 대상에 대한 기준을 명확히 하려는 내용을 담고 있습니다. 또한, 공연장 안전 점검 시 제출해야 하는 서류의 종류를 구체적으로 규정하고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:13:07.868Z"
     },
     {
       "id": "government-progress-2000000326154",
@@ -292,7 +306,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326154/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -304,7 +318,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "학교급식법 시행규칙 일부개정안은 학교급식의 질을 높이기 위한 조항을 신설하거나 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:13:31.069Z"
     },
     {
       "id": "government-progress-2000000326484",
@@ -386,7 +402,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326082/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -398,7 +414,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "건축법 시행령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:13:54.124Z"
     },
     {
       "id": "government-progress-2000000325386",
@@ -416,7 +434,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325386/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -428,7 +446,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "이 법률안은 혈액관리법 시행규칙을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:14:17.136Z"
     },
     {
       "id": "government-progress-2000000327958",
@@ -446,7 +466,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327958/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -458,7 +478,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "지식재산처와 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:14:40.222Z"
     },
     {
       "id": "government-progress-2000000327884",
@@ -540,7 +562,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327918/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -552,7 +574,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "이 법률안은 관세법 제71조에 따라 할당관세의 적용에 관한 규정을 일부 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:15:03.498Z"
     },
     {
       "id": "government-progress-2000000327944",
@@ -570,7 +594,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327944/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -582,7 +606,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "통일부와 그 소속기관 직제 시행규칙을 일부 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:15:27.020Z"
     },
     {
       "id": "government-progress-2000000327522",
@@ -600,7 +626,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327522/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 국무총리훈령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -612,7 +638,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "2028 유엔해양총회 준비위원회, 집행위원회 및 준비기획단을 설치하고 운영하는 규정을 제정한다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:15:50.694Z"
     },
     {
       "id": "government-progress-2000000327548",
@@ -630,7 +658,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327548/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -642,7 +670,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "고용보험법 시행령 일부개정령안은 고용보험법에서 위임된 사항과 그 시행에 필요한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:16:14.020Z"
     },
     {
       "id": "government-progress-2000000326470",
@@ -660,7 +690,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326470/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -672,7 +702,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "국가통계위원회 규정 일부개정령안은 국가통계위원회의 운영에 관한 사항을 정하고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:16:37.177Z"
     },
     {
       "id": "government-progress-2000000327520",
@@ -690,7 +722,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327520/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -702,7 +734,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "이 법률안은 고용보험법 시행규칙을 일부 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:17:00.444Z"
     },
     {
       "id": "government-progress-2000000327788",
@@ -752,7 +786,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328230/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -764,7 +798,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "문화체육관광부와 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:17:24.190Z"
     },
     {
       "id": "government-progress-2000000327198",
@@ -782,7 +818,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327198/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -794,7 +830,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "마을기업 육성 및 지원에 관한 법률 시행령은 마을기업의 지정 요건, 지원 사항, 운영 등에 관한 사항을 규정한다. 마을기업으로 지정받기 위한 요건과 지원받을 수 있는 사업의 종류를 명시한다. 또한 마을기업의 운영 및 관리, 해산 등에 관한 절차를 정한다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:17:47.639Z"
     },
     {
       "id": "government-progress-2000000325816",
@@ -812,7 +850,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325816/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -824,7 +862,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "이 법률안은 원자력시설 등의 방호 및 방사능 방재 대책법 시행규칙을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:18:10.690Z"
     },
     {
       "id": "government-progress-2000000325154",
@@ -842,7 +882,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325154/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -854,7 +894,9 @@
         }
       ],
       "createdAt": "2026-06-19T12:42:29.087Z",
-      "updatedAt": "2026-06-19T12:42:29.087Z"
+      "updatedAt": "2026-06-19T12:42:29.087Z",
+      "aiSummary": "이 법령은 규제자유특구 및 지역특화발전특구에 관한 규제특례법 시행규칙을 일부 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-06-20T11:18:33.828Z"
     },
     {
       "id": "government-progress-2000000328034",
