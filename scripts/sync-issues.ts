@@ -314,7 +314,7 @@ function buildIssuePrompt(articles: NewsArticle[]) {
 function normalizeMindmap(input: Partial<IssueMindmapFile>, articles: NewsArticle[]): IssueMindmapFile {
   const fallback = buildFallbackMindmap(articles);
   const now = new Date().toISOString();
-  const root = normalizeNode(input.root ?? fallback.root, articles);
+  const root = expandTopicLeaves(normalizeNode(input.root ?? fallback.root, articles), articles);
   const mindmap: IssueMindmapFile = {
     serviceName: "시선(時線)",
     date: today,
@@ -351,6 +351,43 @@ function normalizeNode(node: IssueNode, articles: NewsArticle[], pathId = "node"
   }
 
   return normalized;
+}
+
+function expandTopicLeaves(root: IssueNode, articles: NewsArticle[]): IssueNode {
+  const usedUrls = new Set<string>();
+  collectArticleUrls(root, usedUrls);
+  const pool = articles.filter((article) => !usedUrls.has(article.url));
+  let cursor = 0;
+
+  const visit = (node: IssueNode, depth: number): IssueNode => {
+    const children = node.children?.map((child) => visit(child, depth + 1));
+    if (depth !== 2 || !children || children.length >= 2) {
+      return { ...node, children };
+    }
+
+    const expanded = [...children];
+    const labels = ["주요 전개", "후속 쟁점", "영향과 반응"];
+    while (expanded.length < 2) {
+      const slice = pool.slice(cursor, cursor + 3);
+      cursor += 3;
+      if (slice.length === 0) break;
+      expanded.push({
+        id: `${node.id}-${expanded.length + 1}`,
+        label: labels[expanded.length] ?? "세부 쟁점",
+        summary: "관련 기사 3건을 기준으로 확장한 세부 쟁점입니다.",
+        articles: slice.map(toIssueArticle)
+      });
+    }
+
+    return { ...node, children: expanded };
+  };
+
+  return visit(root, 0);
+}
+
+function collectArticleUrls(node: IssueNode, urls: Set<string>) {
+  for (const article of node.articles ?? []) urls.add(article.url);
+  for (const child of node.children ?? []) collectArticleUrls(child, urls);
 }
 
 function normalizeArticles(items: IssueNode["articles"], candidates: NewsArticle[]) {
