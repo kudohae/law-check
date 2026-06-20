@@ -2,12 +2,25 @@ import { useEffect, useMemo, useState } from "react";
 import {
   AlertCircle,
   ArrowUpRight,
+  CalendarDays,
+  ChevronDown,
   Database,
+  FileText,
+  Network,
+  Newspaper,
   Search
 } from "lucide-react";
-import { loadBillData } from "./data";
+import { loadBillData, loadIssueArchiveIndex, loadIssueMindmap } from "./data";
 import { sourceLabels, stageLabels, stageOptions } from "./constants";
-import type { Bill, BillDataFile, BillSource, BillStage } from "./types";
+import type {
+  Bill,
+  BillDataFile,
+  BillSource,
+  BillStage,
+  IssueArchiveIndex,
+  IssueMindmapFile,
+  IssueNode
+} from "./types";
 import { formatDate, getBillDate, getBillOwner, normalizeText } from "./utils";
 
 type SortKey = "recent" | "noticeEnd" | "updated";
@@ -32,6 +45,21 @@ type ChartPoint = {
   assembly: number;
   government: number;
 };
+type AppSection = "issues" | "law";
+type MindmapLayoutNode = {
+  node: IssueNode;
+  x: number;
+  y: number;
+  angle: number;
+  depth: number;
+  size: number;
+  children: MindmapLayoutNode[];
+};
+type MindmapLink = {
+  key: string;
+  path: string;
+  depth: number;
+};
 
 const categoryOptions: CategoryKey[] = [
   "assembly_member",
@@ -48,6 +76,337 @@ const categoryDescriptions: Record<CategoryKey, string> = {
 };
 
 function App() {
+  const [section, setSection] = useState<AppSection>("issues");
+
+  if (section === "law") {
+    return <LawCheckSection onOpenIssues={() => setSection("issues")} />;
+  }
+
+  return <SeeseonHome onOpenLawCheck={() => setSection("law")} />;
+}
+
+function SeeseonHome({ onOpenLawCheck }: { onOpenLawCheck: () => void }) {
+  const [archiveIndex, setArchiveIndex] = useState<IssueArchiveIndex | null>(null);
+  const [mindmap, setMindmap] = useState<IssueMindmapFile | null>(null);
+  const [selectedNode, setSelectedNode] = useState<IssueNode | null>(null);
+  const [archiveOpen, setArchiveOpen] = useState(false);
+  const [activePath, setActivePath] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    loadIssueArchiveIndex()
+      .then((index) => {
+        setArchiveIndex(index);
+        const latest = index.entries.find((entry) => entry.date === index.latestDate) ?? index.entries[0];
+        setActivePath(latest?.path ?? null);
+      })
+      .catch((err: unknown) => {
+        setError(err instanceof Error ? err.message : "시사 이슈 데이터를 불러오지 못했습니다.");
+      });
+  }, []);
+
+  useEffect(() => {
+    if (!activePath) return;
+    setSelectedNode(null);
+    loadIssueMindmap(activePath)
+      .then(setMindmap)
+      .catch((err: unknown) => {
+        setError(err instanceof Error ? err.message : "시사 이슈 마인드맵을 불러오지 못했습니다.");
+      });
+  }, [activePath]);
+
+  return (
+    <main className="app-shell seeseon-shell">
+      <section className="seeseon-hero">
+        <div className="brand-row">
+          <div>
+            <p className="eyebrow">시선(時線) / SEESEON</p>
+            <h1>{mindmap?.title ?? "오늘의 시사 이슈 마인드맵"}</h1>
+          </div>
+          <nav className="section-switch" aria-label="서비스 카테고리">
+            <button type="button" className="section-button active">
+              <Network size={18} />
+              시사 이슈
+            </button>
+            <button type="button" className="section-button" onClick={onOpenLawCheck}>
+              <FileText size={18} />
+              입법 정보
+            </button>
+          </nav>
+        </div>
+
+        <div className="hero-copy">
+          <p>
+            AI는 기사를 대신 판단하는 권위자가 아니라, 여러 공식 출처와 기사 흐름을 묶어 사건의 구조를 정리하는
+            편집 보조 엔진으로 작동합니다.
+          </p>
+          <div className="policy-chips" aria-label="편집 원칙">
+            <span>연예 제외</span>
+            <span>스포츠 제외</span>
+            <span>공공 영향 우선</span>
+            <span>출처 교차 확인</span>
+          </div>
+        </div>
+      </section>
+
+      {error ? <section className="notice-band"><AlertCircle size={20} /><p>{error}</p></section> : null}
+
+      <section className="mindmap-panel">
+        <div className="mindmap-header">
+          <div>
+            <p className="section-label">오늘 18시 반영 기준</p>
+            <h2>핵심 이슈 3개와 하위 쟁점</h2>
+          </div>
+          <div className="topbar-note">
+            <CalendarDays size={18} />
+            <span>{mindmap ? `생성 ${formatDate(mindmap.generatedAt)}` : "마인드맵 확인 중"}</span>
+          </div>
+        </div>
+
+        {mindmap ? (
+          <IssueMindmap root={mindmap.root} onSelectNode={setSelectedNode} />
+        ) : (
+          <div className="empty-state">마인드맵 데이터를 불러오는 중입니다.</div>
+        )}
+      </section>
+
+      <section className="archive-panel">
+        <button type="button" className="archive-toggle" onClick={() => setArchiveOpen((value) => !value)}>
+          <span>
+            <strong>과거 마인드맵</strong>
+            <small>날짜를 펼칠 때 해당 JSON만 불러옵니다.</small>
+          </span>
+          <ChevronDown className={archiveOpen ? "rotated" : ""} size={20} />
+        </button>
+
+        {archiveOpen ? (
+          <div className="archive-list">
+            {archiveIndex?.entries.map((entry) => (
+              <button
+                key={entry.path}
+                type="button"
+                className={entry.path === activePath ? "archive-item active" : "archive-item"}
+                onClick={() => setActivePath(entry.path)}
+              >
+                <span>{formatDate(entry.date)}</span>
+                <strong>{entry.title}</strong>
+              </button>
+            ))}
+          </div>
+        ) : null}
+      </section>
+
+      <footer className="site-footer">
+        <div>
+          <strong>시선(時線)</strong>
+          <p>뉴스를 새로 쓰지 않고, 공개된 흐름을 구조화해 보여주는 시사 이슈 플랫폼입니다.</p>
+        </div>
+        <nav aria-label="사이트 정책">
+          <a href="/privacy.html">개인정보 처리방침</a>
+          <a href="/contact.html">문의</a>
+          <a href="/editorial-policy.html">편집 원칙</a>
+        </nav>
+      </footer>
+
+      {selectedNode ? <IssueModal node={selectedNode} onClose={() => setSelectedNode(null)} /> : null}
+    </main>
+  );
+}
+
+function IssueMindmap({ root, onSelectNode }: { root: IssueNode; onSelectNode: (node: IssueNode) => void }) {
+  const [isCompact, setIsCompact] = useState(() => (typeof window === "undefined" ? false : window.innerWidth < 700));
+  const layout = useMemo(() => buildMindmapLayout(root, isCompact), [root, isCompact]);
+  const links = collectMindmapLinks(layout);
+  const nodes = collectMindmapNodes(layout);
+  const width = isCompact ? 520 : 760;
+  const height = isCompact ? 430 : 560;
+
+  useEffect(() => {
+    const update = () => setIsCompact(window.innerWidth < 700);
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
+
+  return (
+    <div className="mindmap-canvas-wrap">
+      <svg className="mindmap-canvas" viewBox={`0 0 ${width} ${height}`} role="img">
+        <title>시선 시사 이슈 마인드맵</title>
+        <desc>오늘의 핵심 시사 이슈를 대분류와 하위 쟁점으로 나눈 트리입니다.</desc>
+        <defs>
+          <radialGradient id="mindmap-core-gradient" cx="50%" cy="45%" r="62%">
+            <stop offset="0%" stopColor="#ffffff" />
+            <stop offset="48%" stopColor="#dff7ef" />
+            <stop offset="100%" stopColor="#102033" />
+          </radialGradient>
+          <filter id="mindmap-soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+            <feGaussianBlur stdDeviation="7" result="blur" />
+            <feMerge>
+              <feMergeNode in="blur" />
+              <feMergeNode in="SourceGraphic" />
+            </feMerge>
+          </filter>
+        </defs>
+        <circle
+          cx={layout.x}
+          cy={layout.y}
+          r={isCompact ? 176 : 244}
+          className="mindmap-orbit orbit-outer"
+          style={{ transformOrigin: `${layout.x}px ${layout.y}px` }}
+        />
+        <circle
+          cx={layout.x}
+          cy={layout.y}
+          r={isCompact ? 116 : 166}
+          className="mindmap-orbit orbit-mid"
+          style={{ transformOrigin: `${layout.x}px ${layout.y}px` }}
+        />
+        <circle
+          cx={layout.x}
+          cy={layout.y}
+          r={isCompact ? 62 : 88}
+          className="mindmap-orbit orbit-inner"
+          style={{ transformOrigin: `${layout.x}px ${layout.y}px` }}
+        />
+        <circle
+          cx={layout.x}
+          cy={layout.y}
+          r={isCompact ? 42 : 54}
+          className="mindmap-core-glow"
+          filter="url(#mindmap-soft-glow)"
+        />
+        {links.map((link) => (
+          <path key={link.key} d={link.path} className={`mindmap-link depth-${link.depth}`} />
+        ))}
+        {nodes.map(({ node, x, y, angle, depth, size }) => {
+          const isLeaf = !node.children || node.children.length === 0;
+          return (
+            <foreignObject
+              key={node.id}
+              x={x - size / 2}
+              y={y - size / 2}
+              width={size}
+              height={size}
+            >
+              <div className="mindmap-node-box" style={{ width: size, height: size }}>
+                <button
+                  type="button"
+                  className={`mindmap-node depth-${depth} ${isLeaf ? "leaf" : ""}`}
+                  onClick={() => {
+                    if (isLeaf) onSelectNode(node);
+                  }}
+                  disabled={!isLeaf}
+                >
+                  <span>{node.label}</span>
+                  {isLeaf ? <small>기사 3건</small> : null}
+                </button>
+              </div>
+            </foreignObject>
+          );
+        })}
+      </svg>
+    </div>
+  );
+}
+
+function IssueModal({ node, onClose }: { node: IssueNode; onClose: () => void }) {
+  return (
+    <div className="modal-backdrop" role="presentation" onClick={onClose}>
+      <article className="issue-modal" role="dialog" aria-modal="true" aria-labelledby="issue-modal-title" onClick={(event) => event.stopPropagation()}>
+        <div className="modal-header">
+          <div>
+            <p className="section-label">핵심 뉴스 3건</p>
+            <h2 id="issue-modal-title">{node.label}</h2>
+          </div>
+          <button type="button" className="modal-close" onClick={onClose} aria-label="닫기">
+            ×
+          </button>
+        </div>
+        {node.summary ? <p className="modal-summary">{node.summary}</p> : null}
+        <div className="article-list">
+          {(node.articles ?? []).slice(0, 3).map((article) => (
+            <a key={article.url} href={article.url} target="_blank" rel="noreferrer" className="article-link">
+              <Newspaper size={18} />
+              <span>
+                <strong>{article.title}</strong>
+                {article.outlet ? <small>{article.outlet}</small> : null}
+              </span>
+              <ArrowUpRight size={16} />
+            </a>
+          ))}
+        </div>
+      </article>
+    </div>
+  );
+}
+
+function buildMindmapLayout(root: IssueNode, isCompact = false): MindmapLayoutNode {
+  const center = isCompact ? { x: 260, y: 215 } : { x: 380, y: 280 };
+  const radiusByDepth = isCompact ? [0, 94, 168, 212] : [0, 136, 244, 312];
+  const sizeByDepth = isCompact ? [102, 86, 76, 68] : [126, 106, 92, 82];
+  const leaves = flattenLeaves(root);
+  const leafAngles = new Map<string, number>();
+  const start = -Math.PI * 0.82;
+  const span = Math.PI * 1.64;
+
+  leaves.forEach((leaf, index) => {
+    const t = leaves.length <= 1 ? 0.5 : index / (leaves.length - 1);
+    leafAngles.set(leaf.id, start + t * span);
+  });
+
+  const visit = (node: IssueNode, depth: number): MindmapLayoutNode => {
+    const children = node.children?.map((child) => visit(child, depth + 1)) ?? [];
+    const angle = children.length === 0
+      ? leafAngles.get(node.id) ?? 0
+      : circularMean(children.map((child) => child.angle));
+    const radius = radiusByDepth[Math.min(depth, radiusByDepth.length - 1)] ?? 420;
+    const x = center.x + Math.cos(angle) * radius;
+    const y = center.y + Math.sin(angle) * radius * 0.86;
+    const size = sizeByDepth[Math.min(depth, sizeByDepth.length - 1)] ?? 98;
+
+    return { node, x, y, angle, depth, size, children };
+  };
+
+  return visit(root, 0);
+}
+
+function flattenLeaves(node: IssueNode): IssueNode[] {
+  if (!node.children || node.children.length === 0) return [node];
+  return node.children.flatMap(flattenLeaves);
+}
+
+function circularMean(angles: number[]) {
+  if (angles.length === 0) return 0;
+  const x = angles.reduce((sum, angle) => sum + Math.cos(angle), 0);
+  const y = angles.reduce((sum, angle) => sum + Math.sin(angle), 0);
+  return Math.atan2(y, x);
+}
+
+function collectMindmapNodes(node: MindmapLayoutNode): MindmapLayoutNode[] {
+  return [node, ...node.children.flatMap(collectMindmapNodes)];
+}
+
+function collectMindmapLinks(node: MindmapLayoutNode): MindmapLink[] {
+  return node.children.flatMap((child) => {
+    const startX = node.x + Math.cos(child.angle) * (node.size * 0.38);
+    const startY = node.y + Math.sin(child.angle) * (node.size * 0.32);
+    const endX = child.x - Math.cos(child.angle) * (child.size * 0.45);
+    const endY = child.y - Math.sin(child.angle) * (child.size * 0.38);
+    const controlRadius = 74 + child.depth * 24;
+    const controlX = (startX + endX) / 2 + Math.cos(child.angle + Math.PI / 2) * controlRadius * 0.18;
+    const controlY = (startY + endY) / 2 + Math.sin(child.angle + Math.PI / 2) * controlRadius * 0.18;
+    return [
+      {
+        key: `${node.node.id}-${child.node.id}`,
+        depth: child.depth,
+        path: `M ${startX.toFixed(2)} ${startY.toFixed(2)} Q ${controlX.toFixed(2)} ${controlY.toFixed(2)} ${endX.toFixed(2)} ${endY.toFixed(2)}`
+      },
+      ...collectMindmapLinks(child)
+    ];
+  });
+}
+
+function LawCheckSection({ onOpenIssues }: { onOpenIssues: () => void }) {
   const [data, setData] = useState<BillDataFile | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [selectedBillId, setSelectedBillId] = useState<string | null>(null);
@@ -131,12 +490,24 @@ function App() {
     <main className="app-shell">
       <section className="topbar">
         <div>
-          <p className="eyebrow">공개 입법 정보 추적</p>
+          <p className="eyebrow">시선(時線) / 공개 입법 정보 추적</p>
           <h1>Law Check</h1>
         </div>
-        <div className="topbar-note">
-          <Database size={18} />
-          <span>{data ? `마지막 갱신 ${formatDate(data.generatedAt)}` : "데이터 확인 중"}</span>
+        <div className="law-top-actions">
+          <nav className="section-switch" aria-label="서비스 카테고리">
+            <button type="button" className="section-button" onClick={onOpenIssues}>
+              <Network size={18} />
+              시사 이슈
+            </button>
+            <button type="button" className="section-button active">
+              <FileText size={18} />
+              입법 정보
+            </button>
+          </nav>
+          <div className="topbar-note">
+            <Database size={18} />
+            <span>{data ? `마지막 갱신 ${formatDate(data.generatedAt)}` : "데이터 확인 중"}</span>
+          </div>
         </div>
       </section>
 

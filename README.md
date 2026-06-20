@@ -29,6 +29,26 @@ npm run sync:data
 
 API 키가 없거나 공공 API 연결이 실패하면 기존 데이터가 유지됩니다.
 
+## 시선 시사 이슈 마인드맵 갱신
+
+```powershell
+npm run sync:issues
+```
+
+뉴스 수집은 네이버 뉴스 검색 API를 우선 사용하고, 중복 제거와 휴리스틱 후보 압축 뒤 Groq로 마인드맵 JSON을 생성합니다. Groq가 실패하면 Gemini로 대체하고, Cohere 키가 있으면 후보 기사 재정렬에만 보조적으로 사용합니다. 연예와 스포츠 뉴스는 수집 후보에서 제외합니다.
+
+GitHub Actions 자동 실행에는 다음 Secrets가 필요합니다.
+
+```text
+NAVER_CLIENT_ID
+NAVER_CLIENT_SECRET
+GROQ_API_KEY
+GEMINI_API_KEY
+COHERE_API_KEY
+```
+
+매일 17:30 KST에 `.github/workflows/sync-issues.yml`이 `public/data/issues/YYYY-MM-DD.json`과 `public/data/issues/index.json`을 갱신합니다.
+
 ## AI 요약
 
 AI 요약은 브라우저에서 직접 생성하지 않습니다. API 키 유출을 막기 위해 작업 스크립트가 요약을 생성한 뒤 `public/data/bills.json`에 저장합니다.

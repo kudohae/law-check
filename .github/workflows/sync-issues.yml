@@ -1,0 +1,48 @@
+name: Sync Seeseon issue mindmap
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 17:30 Asia/Seoul = 08:30 UTC.
+    - cron: "30 8 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-seeseon-issues-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  sync-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate Seeseon issue mindmap
+        run: npm run sync:issues
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL || 'llama-3.3-70b-versatile' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+          COHERE_RERANK_MODEL: ${{ vars.COHERE_RERANK_MODEL || 'rerank-v3.5' }}
+
+      - name: Commit updated issue data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Update Seeseon issue mindmap"
+          file_pattern: public/data/issues/*.json
