@@ -253,13 +253,11 @@ function buildIssuePrompt(articles: NewsArticle[]) {
   return [
     "너는 한국 시사 이슈를 구조화하는 편집 보조 엔진이다.",
     "연예와 스포츠 뉴스는 절대 주요 이슈로 선정하지 마라.",
-    "오늘 한국 사회의 공공 영향도, 진행성, 출처 교차 확인 가능성, 시의성, 구조화 가능성을 기준으로 주요 이슈 3개를 선정해라.",
-    "마인드맵은 반드시 4단계로 만들어라: root -> 대분류 이슈 -> 주제 노드 -> 세부 쟁점 최종 노드.",
-    "대분류 이슈는 정확히 3개를 둬라.",
-    "각 대분류 이슈 아래에는 주제 노드를 1~2개 둬라.",
-    "각 주제 노드 아래에는 세부 쟁점 최종 노드를 2~3개 둬라.",
-    "articles 배열은 세부 쟁점 최종 노드에만 둬라.",
-    "각 최종 노드에는 아래 기사 후보에서 관련도 높은 기사 정확히 3개를 골라 articles 배열에 넣어라.",
+    "오늘 한국 사회의 공공 영향도, 진행성, 출처 교차 확인 가능성, 시의성, 구조화 가능성을 기준으로 핵심 이슈 5~7개를 선정해라.",
+    "root 바로 아래 children에는 '정치', '경제', '사회' 같은 추상 카테고리가 아니라 '한동훈 2030년 대선 출마 선언'처럼 구체적인 사건명이나 쟁점명을 넣어라.",
+    "대부분의 1차 이슈 노드는 거기서 끝내고 articles 배열을 직접 둬라.",
+    "정말로 별도 쟁점이 갈라지는 경우에만 children을 1~2개 추가해라. 균형을 맞추려고 억지로 하위 노드를 만들지 마라.",
+    "articles 배열은 최종 노드에만 둬라. 최종 노드에는 아래 기사 후보에서 관련도 높은 기사 정확히 3개를 골라 넣어라.",
     "기사 제목과 URL은 후보에 있는 값을 그대로 사용해라. 없는 기사나 URL을 만들지 마라.",
     "출력은 아래 TypeScript 구조와 호환되는 JSON 객체 하나만 반환해라.",
     "",
@@ -280,26 +278,12 @@ function buildIssuePrompt(articles: NewsArticle[]) {
         children: [
           {
             id: "issue-1",
-            label: "대분류 이슈 제목",
+            label: "구체 이슈 제목",
             summary: "짧은 설명",
-            children: [
-              {
-                id: "issue-1-a",
-                label: "주제 노드",
-                summary: "짧은 설명",
-                children: [
-                  {
-                    id: "issue-1-a-1",
-                    label: "세부 쟁점 최종 노드",
-                    summary: "짧은 설명",
-                    articles: [
-                      { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" },
-                      { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" },
-                      { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" }
-                    ]
-                  }
-                ]
-              }
+            articles: [
+              { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" },
+              { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" },
+              { title: "기사 제목", url: "https://...", outlet: "언론사 또는 호스트" }
             ]
           }
         ]
@@ -314,7 +298,7 @@ function buildIssuePrompt(articles: NewsArticle[]) {
 function normalizeMindmap(input: Partial<IssueMindmapFile>, articles: NewsArticle[]): IssueMindmapFile {
   const fallback = buildFallbackMindmap(articles);
   const now = new Date().toISOString();
-  const root = expandTopicLeaves(normalizeNode(input.root ?? fallback.root, articles), articles);
+  const root = ensurePrimaryIssueCount(normalizeNode(input.root ?? fallback.root, articles), articles);
   const mindmap: IssueMindmapFile = {
     serviceName: "시선(時線)",
     date: today,
@@ -353,36 +337,26 @@ function normalizeNode(node: IssueNode, articles: NewsArticle[], pathId = "node"
   return normalized;
 }
 
-function expandTopicLeaves(root: IssueNode, articles: NewsArticle[]): IssueNode {
+function ensurePrimaryIssueCount(root: IssueNode, articles: NewsArticle[]): IssueNode {
   const usedUrls = new Set<string>();
   collectArticleUrls(root, usedUrls);
   const pool = articles.filter((article) => !usedUrls.has(article.url));
+  const children = [...(root.children ?? [])];
   let cursor = 0;
 
-  const visit = (node: IssueNode, depth: number): IssueNode => {
-    const children = node.children?.map((child) => visit(child, depth + 1));
-    if (depth !== 2 || !children || children.length >= 2) {
-      return { ...node, children };
-    }
+  while (children.length < 5) {
+    const slice = pool.slice(cursor, cursor + 3);
+    cursor += 3;
+    if (slice.length === 0) break;
+    children.push({
+      id: `auto-issue-${children.length + 1}`,
+      label: makeIssueLabel(slice),
+      summary: "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+      articles: slice.map(toIssueArticle)
+    });
+  }
 
-    const expanded = [...children];
-    const labels = ["주요 전개", "후속 쟁점", "영향과 반응"];
-    while (expanded.length < 2) {
-      const slice = pool.slice(cursor, cursor + 3);
-      cursor += 3;
-      if (slice.length === 0) break;
-      expanded.push({
-        id: `${node.id}-${expanded.length + 1}`,
-        label: labels[expanded.length] ?? "세부 쟁점",
-        summary: "관련 기사 3건을 기준으로 확장한 세부 쟁점입니다.",
-        articles: slice.map(toIssueArticle)
-      });
-    }
-
-    return { ...node, children: expanded };
-  };
-
-  return visit(root, 0);
+  return { ...root, children: children.slice(0, 7) };
 }
 
 function collectArticleUrls(node: IssueNode, urls: Set<string>) {
@@ -405,8 +379,8 @@ function normalizeArticles(items: IssueNode["articles"], candidates: NewsArticle
 }
 
 function buildFallbackMindmap(articles: NewsArticle[]): IssueMindmapFile {
-  const buckets = ["정책과 제도", "경제와 생활", "사회와 안전"];
-  const selected = scoreArticles(articles).slice(0, 54);
+  const selected = scoreArticles(articles).slice(0, 21);
+  const issueGroups = chunk(selected, 3).slice(0, 7);
   return {
     serviceName: "시선(時線)",
     date: today,
@@ -420,27 +394,12 @@ function buildFallbackMindmap(articles: NewsArticle[]): IssueMindmapFile {
       id: "today",
       label: "오늘의 주요 시사",
       summary: "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
-      children: buckets.map((bucket, bucketIndex) => {
-        const slice = selected.slice(bucketIndex * 18, bucketIndex * 18 + 18);
-        return {
-          id: `fallback-${bucketIndex + 1}`,
-          label: bucket,
-          summary: "후보 기사 기반 임시 분류입니다.",
-          children: [
-            {
-              id: `fallback-${bucketIndex + 1}-a`,
-              label: `${bucket} 핵심 흐름`,
-              summary: "관련도와 시의성을 기준으로 세부 쟁점을 나눴습니다.",
-              children: [0, 1].map((leafIndex) => ({
-                id: `fallback-${bucketIndex + 1}-a-${leafIndex + 1}`,
-                label: leafIndex === 0 ? "주요 전개" : "후속 쟁점",
-                summary: "관련 기사 3건을 기준으로 묶은 임시 세부 쟁점입니다.",
-                articles: slice.slice(leafIndex * 3, leafIndex * 3 + 3).map(toIssueArticle)
-              }))
-            }
-          ]
-        };
-      })
+      children: issueGroups.map((group, index) => ({
+        id: `fallback-${index + 1}`,
+        label: makeIssueLabel(group),
+        summary: "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        articles: group.map(toIssueArticle)
+      }))
     }
   };
 }
@@ -517,6 +476,24 @@ function toIssueArticle(article: NewsArticle) {
 function mergeArticleOrder(primary: NewsArticle[], fallback: NewsArticle[]) {
   const seen = new Set(primary.map((item) => item.url));
   return [...primary, ...fallback.filter((item) => !seen.has(item.url))];
+}
+
+function makeIssueLabel(articles: NewsArticle[]) {
+  const title = cleanText(articles[0]?.title ?? "주요 시사 이슈")
+    .replace(/\[[^\]]+\]/g, "")
+    .replace(/\([^)]*\)/g, "")
+    .replace(/["'“”‘’]/g, "")
+    .trim();
+  const compact = title.split(/[·,]|…|\.\.\./)[0]?.trim() || title;
+  return truncate(compact, 28);
+}
+
+function chunk<T>(items: T[], size: number): T[][] {
+  const result: T[][] = [];
+  for (let index = 0; index < items.length; index += size) {
+    result.push(items.slice(index, index + size));
+  }
+  return result;
 }
 
 function parseJsonObject(text: string) {

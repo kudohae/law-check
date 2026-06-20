@@ -218,8 +218,8 @@ function IssueMindmap({ root, onSelectNode }: { root: IssueNode; onSelectNode: (
   const layout = useMemo(() => buildMindmapLayout(root, isCompact), [root, isCompact]);
   const links = collectMindmapLinks(layout);
   const nodes = collectMindmapNodes(layout);
-  const width = isCompact ? 560 : 860;
-  const height = isCompact ? 470 : 640;
+  const width = isCompact ? 560 : 820;
+  const height = isCompact ? 470 : 600;
 
   useEffect(() => {
     const update = () => setIsCompact(window.innerWidth < 700);
@@ -250,21 +250,21 @@ function IssueMindmap({ root, onSelectNode }: { root: IssueNode; onSelectNode: (
         <circle
           cx={layout.x}
           cy={layout.y}
-          r={isCompact ? 190 : 292}
+          r={isCompact ? 190 : 270}
           className="mindmap-orbit orbit-outer"
           style={{ transformOrigin: `${layout.x}px ${layout.y}px` }}
         />
         <circle
           cx={layout.x}
           cy={layout.y}
-          r={isCompact ? 128 : 206}
+          r={isCompact ? 128 : 190}
           className="mindmap-orbit orbit-mid"
           style={{ transformOrigin: `${layout.x}px ${layout.y}px` }}
         />
         <circle
           cx={layout.x}
           cy={layout.y}
-          r={isCompact ? 70 : 108}
+          r={isCompact ? 70 : 106}
           className="mindmap-orbit orbit-inner"
           style={{ transformOrigin: `${layout.x}px ${layout.y}px` }}
         />
@@ -341,9 +341,9 @@ function IssueModal({ node, onClose }: { node: IssueNode; onClose: () => void })
 }
 
 function buildMindmapLayout(root: IssueNode, isCompact = false): MindmapLayoutNode {
-  const center = isCompact ? { x: 280, y: 235 } : { x: 430, y: 320 };
-  const radiusByDepth = isCompact ? [0, 88, 154, 224] : [0, 124, 224, 340];
-  const sizeByDepth = isCompact ? [94, 78, 68, 62] : [118, 96, 82, 74];
+  const center = isCompact ? { x: 280, y: 235 } : { x: 410, y: 300 };
+  const radiusByDepth = isCompact ? [0, 164, 224] : [0, 250, 330];
+  const sizeByDepth = isCompact ? [94, 76, 64] : [116, 86, 72];
   const leaves = flattenLeaves(root);
   const leafAngles = new Map<string, number>();
   const start = -Math.PI * 0.82;
