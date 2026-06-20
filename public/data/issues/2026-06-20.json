@@ -1,8 +1,8 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T03:22:02.011Z",
-  "title": "2026년 06월 19일의 시사 이슈 마인드맵",
+  "generatedAt": "2026-06-20T03:23:31.352Z",
+  "title": "2026년 06월 20일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
       "entertainment",
@@ -19,99 +19,99 @@
   "root": {
     "id": "today",
     "label": "오늘의 주요 시사",
-    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "summary": "국내외 주요 이슈",
     "children": [
       {
-        "id": "fallback1",
-        "label": "정책과 제도",
-        "summary": "후보 기사 기반 임시 분류입니다.",
+        "id": "issue1",
+        "label": "정치",
+        "summary": "정치 관련 주요 이슈",
         "children": [
           {
-            "id": "fallback1a",
-            "label": "정책과 제도",
-            "summary": "관련도와 시의성을 기준으로 기사 3건을 배치했습니다.",
+            "id": "issue1a",
+            "label": "여야 대립",
+            "summary": "여야 대립 관련 뉴스",
             "articles": [
               {
-                "title": "한동훈 \"국민의힘 복당해 2030년 정권 되찾겠다\"",
-                "url": "https://www.newdaily.co.kr/site/data/html/2026/06/20/2026062000022.html",
-                "outlet": "newdaily.co.kr",
-                "publishedAt": "Sat, 20 Jun 2026 11:10:00 +0900"
+                "title": "여야, 원구성 계속 난항…“안정적 국정운영” vs “거대여당 견제”",
+                "url": "https://www.etoday.co.kr/news/view/2595499",
+                "outlet": "etoday.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 09:00:00 +0900"
               },
               {
-                "title": "[낙선 인터뷰] 정의당 박인숙 \"진보 정치, 상상력·움직임으로 변화 만...",
-                "url": "https://www.incheontoday.com/news/articleView.html?idxno=320242",
-                "outlet": "incheontoday.com",
+                "title": "국민의힘 “장동혁 부재 속 정점식 가동, 의회독재 맞설 것”",
+                "url": "http://www.breaknews.com/1215613",
+                "outlet": "breaknews.com",
+                "publishedAt": "Sat, 20 Jun 2026 11:32:00 +0900"
+              },
+              {
+                "title": "한동훈, 복당보다 '보수 재건' 방점…장동혁엔 '정통성' 상실 직격",
+                "url": "https://www.dailian.co.kr/news/view/1657953/?sc=Naver",
+                "outlet": "dailian.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 10:35:00 +0900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "사회",
+        "summary": "사회 관련 주요 이슈",
+        "children": [
+          {
+            "id": "issue2a",
+            "label": "여성 국민연금 수급액",
+            "summary": "여성 국민연금 수급액 관련 뉴스",
+            "articles": [
+              {
+                "title": "[속보]여성 국민연금 수령액 남성 절반 수준…월 40만 원",
+                "url": "https://magazine.hankyung.com/business/article/202606207970b",
+                "outlet": "magazine.hankyung.com",
+                "publishedAt": "Sat, 20 Jun 2026 11:47:00 +0900"
+              },
+              {
+                "title": "여성 국민연금 수급액, 남성의 절반도 안 된다…“구조적 불평등 탓”",
+                "url": "https://www.hani.co.kr/arti/society/rights/1264451.html",
+                "outlet": "hani.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 10:20:00 +0900"
+              },
+              {
+                "title": "티빙 개인정보 유출 1953만명...정부 추산보다 650만명 많아 [국회 방청...",
+                "url": "https://www.mk.co.kr/article/12078462",
+                "outlet": "mk.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 09:01:00 +0900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경제",
+        "summary": "경제 관련 주요 이슈",
+        "children": [
+          {
+            "id": "issue3a",
+            "label": "노란봉투법",
+            "summary": "노란봉투법 관련 뉴스",
+            "articles": [
+              {
+                "title": "현대차 식당직원까지 원청과 교섭 … 노란봉투법 100일, 후폭풍 커진다...",
+                "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/19/2026061900060.html",
+                "outlet": "biz.newdaily.co.kr",
                 "publishedAt": "Sat, 20 Jun 2026 10:00:00 +0900"
               },
               {
-                "title": "'브레이크 없는 자전거' 퇴출 수순…국회, 위험 개조 자전거 처벌 길 열...",
-                "url": "https://www.bzeronews.com/news/articleView.html?idxno=819014",
-                "outlet": "bzeronews.com",
-                "publishedAt": "Sat, 20 Jun 2026 11:44:00 +0900"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "fallback2",
-        "label": "경제와 생활",
-        "summary": "후보 기사 기반 임시 분류입니다.",
-        "children": [
-          {
-            "id": "fallback2a",
-            "label": "경제와 생활",
-            "summary": "관련도와 시의성을 기준으로 기사 3건을 배치했습니다.",
-            "articles": [
-              {
-                "title": "李대통령 \"첫째도 둘째도 물가 안정···특단의 방안 발굴해야\"",
-                "url": "https://magazine.hankyung.com/business/article/202606207903b",
-                "outlet": "magazine.hankyung.com",
-                "publishedAt": "Sat, 20 Jun 2026 10:03:00 +0900"
+                "title": "한동훈 \"2030년 대선서 권력 되찾을 것\"…보수 재건 강조",
+                "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01308726645483688",
+                "outlet": "edaily.co.kr",
+                "publishedAt": "Sat, 20 Jun 2026 10:28:00 +0900"
               },
               {
-                "title": "[박근종 칼럼] 미국 '연내 금리 인상' 시사, 환율·물가·성장 차질 없도...",
-                "url": "https://www.mhns.co.kr/news/articleView.html?idxno=750882",
-                "outlet": "mhns.co.kr",
-                "publishedAt": "Sat, 20 Jun 2026 11:08:00 +0900"
-              },
-              {
-                "title": "한동훈 “2030년 정권 되찾겠다... 국민의힘 복당 목표”",
-                "url": "https://www.munhwa.com/article/11596905?ref=naver",
-                "outlet": "munhwa.com",
-                "publishedAt": "Sat, 20 Jun 2026 10:36:00 +0900"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "fallback3",
-        "label": "사회와 안전",
-        "summary": "후보 기사 기반 임시 분류입니다.",
-        "children": [
-          {
-            "id": "fallback3a",
-            "label": "사회와 안전",
-            "summary": "관련도와 시의성을 기준으로 기사 3건을 배치했습니다.",
-            "articles": [
-              {
-                "title": "폭우·강풍에 부산 곳곳 피해 속출… 부산 안전 조치 18건",
-                "url": "https://www.busan.com/view/busan/view.php?code=2026062011572713641",
-                "outlet": "busan.com",
-                "publishedAt": "Sat, 20 Jun 2026 12:12:00 +0900"
-              },
-              {
-                "title": "김제시 신임 박지원 국회의원과 맞손…지역 현안·국비 확보 총력 다짐",
-                "url": "https://www.thepowernews.co.kr/view.php?ud=2026062011513762623dfcd109a8_7",
-                "outlet": "thepowernews.co.kr",
-                "publishedAt": "Sat, 20 Jun 2026 11:54:00 +0900"
-              },
-              {
-                "title": "한득수 임실군수 당선인, “임실의 백년지대계를 생각하는 행정으로 가...",
-                "url": "https://www.thepowernews.co.kr/view.php?ud=2026062011383796113dfcd109a8_7",
-                "outlet": "thepowernews.co.kr",
-                "publishedAt": "Sat, 20 Jun 2026 11:42:00 +0900"
+                "title": "정부가 찍은 '역노화'… 혁신 기술 보유 셀아이콘랩, 국가전략기술 도전...",
+                "url": "https://www.meconomynews.com/news/articleView.html?idxno=132121",
+                "outlet": "meconomynews.com",
+                "publishedAt": "Sat, 20 Jun 2026 11:56:00 +0900"
               }
             ]
           }
