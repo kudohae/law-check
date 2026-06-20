@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T03:38:31.827Z",
+  "generatedAt": "2026-06-20T11:00:31.423Z",
   "title": "2026년 06월 20일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -19,124 +19,180 @@
   "root": {
     "id": "today",
     "label": "오늘의 주요 시사",
-    "summary": "오늘의 주요 시사 이슈",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
     "children": [
       {
-        "id": "issue1",
-        "label": "한동훈 2030년 대선 출마 선언",
-        "summary": "한동훈 의원의 2030년 대선 출마 선언",
+        "id": "fallback1",
+        "label": "안민석 당선인 경청투어 지자체 협력 교육 현안 풀겠...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "한동훈 “2030년 정권 되찾겠다... 국민의힘 복당 목표”",
-            "url": "https://www.munhwa.com/article/11596905?ref=naver",
-            "outlet": "munhwa.com",
-            "publishedAt": "Sat, 20 Jun 2026 10:36:00 +0900"
+            "title": "안민석 당선인 경청투어 \"지자체 협력 교육 현안 풀겠다\"",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067127",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 18:44:00 +0900"
           },
           {
-            "title": "한동훈 \"李, 사법시스템 무너뜨려…정권 되찾기 위해 보수 재건\"",
-            "url": "https://www.newsis.com/view/NISX20260620_0003676696",
-            "outlet": "newsis.com",
-            "publishedAt": "Sat, 20 Jun 2026 10:18:00 +0900"
+            "title": "김기재 당진시장 당선인 \"약속 반드시 지킨다..시민 직통 채널 열 것\"",
+            "url": "https://www.idjnews.kr/news/articleView.html?idxno=301164",
+            "outlet": "idjnews.kr",
+            "publishedAt": "Sat, 20 Jun 2026 16:00:00 +0900"
           },
           {
-            "title": "한동훈, 복당보다 '보수 재건' 방점…장동혁엔 '정통성' 상실 직격",
-            "url": "https://www.dailian.co.kr/news/view/1657953/?sc=Naver",
-            "outlet": "dailian.co.kr",
-            "publishedAt": "Sat, 20 Jun 2026 10:35:00 +0900"
+            "title": "[한반도브리핑] 북미 대화 재개 주목…미·이란 '후속 협상' 지연",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260620180536BCI",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 18:06:00 +0900"
           }
         ]
       },
       {
-        "id": "issue2",
-        "label": "여성 국민연금 수령액 남성의 절반 수준",
-        "summary": "여성 국민연금 수령액이 남성의 절반 수준",
+        "id": "fallback2",
+        "label": "일한 만큼 월급받자 택시노동자X시민 대행진",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "[속보]여성 국민연금 수령액 남성 절반 수준…월 40만 원",
-            "url": "https://magazine.hankyung.com/business/article/202606207970b",
-            "outlet": "magazine.hankyung.com",
-            "publishedAt": "Sat, 20 Jun 2026 11:47:00 +0900"
+            "title": "\"일한 만큼 월급받자\" 택시노동자X시민 대행진, 청와대 앞 공공운수노조...",
+            "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509488",
+            "outlet": "worknworld.kctu.org",
+            "publishedAt": "Sat, 20 Jun 2026 19:14:00 +0900"
           },
           {
-            "title": "\"여성의 국민연금액, 남성의 절반…나이들수록 격차 심화\"",
-            "url": "https://biz.sbs.co.kr/article_hub/20000317805?division=NAVER",
-            "outlet": "biz.sbs.co.kr",
-            "publishedAt": "Sat, 20 Jun 2026 11:56:00 +0900"
+            "title": "“나도 70만원 받을까”…폭염 시작, 정부 냉난방비 지원 대상은?",
+            "url": "https://biz.heraldcorp.com/article/10782588?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sat, 20 Jun 2026 19:12:00 +0900"
           },
           {
-            "title": "극우 밑에, 경찰 밑에, 비정규직 노동 자[인권의 바람]",
-            "url": "https://www.pressian.com/pages/articles/2026061917152164374?utm_source=naver&utm_medium=search",
-            "outlet": "pressian.com",
-            "publishedAt": "Sat, 20 Jun 2026 10:35:00 +0900"
+            "title": "여성 국민연금 수령액 남성의 절반…\" 노동 시장 불평등 때문\"",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/06/20/2026062090143.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sat, 20 Jun 2026 18:40:00 +0900"
           }
         ]
       },
       {
-        "id": "issue3",
-        "label": "티빙 개인정보 유출",
-        "summary": "티빙 개인정보 유출 사고",
+        "id": "fallback3",
+        "label": "도로 봉쇄시위 50일째 볼리비아",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "티빙 개인정보 유출 1953만명...정부 추산보다 650만명 많아 [국회 방청...",
-            "url": "https://www.mk.co.kr/article/12078462",
+            "title": "도로 봉쇄시위 50일째 볼리비아, \"국가비상사태 선포\"",
+            "url": "https://www.hankookilbo.com/news/article/A2026062017160000350?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sat, 20 Jun 2026 17:27:00 +0900"
+          },
+          {
+            "title": "50일간 국가 핵심 도로 봉쇄 사태에 ‘국가비상사태’ 선포한 볼리비아...",
+            "url": "https://www.khan.co.kr/article/202606201715001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 17:15:00 +0900"
+          },
+          {
+            "title": "식품·의약품 끊겨 마비…'도로 봉쇄 시위' 볼리비아, '국가비상사태' ...",
+            "url": "https://www.mt.co.kr/world/2026/06/20/2026062016583526222",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 17:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "한동훈 2028 총선 승리하고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "한동훈 \"2028 총선 승리하고, 2030년 권력 되찾겠다\"",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=52762",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Sat, 20 Jun 2026 16:20:00 +0900"
+          },
+          {
+            "title": "법사위에 막힌 후반기 국회…여야, 원 구성 장기전 가나",
+            "url": "https://daily.hankooki.com/news/articleView.html?idxno=1378134",
+            "outlet": "daily.hankooki.com",
+            "publishedAt": "Sat, 20 Jun 2026 16:00:00 +0900"
+          },
+          {
+            "title": "李 “지지율 하락 엄중히 받아들인다”…정청래는 ‘대통령 띄우기’",
+            "url": "https://www.mk.co.kr/article/12079023",
             "outlet": "mk.co.kr",
-            "publishedAt": "Sat, 20 Jun 2026 09:01:00 +0900"
-          },
-          {
-            "title": "티빙 개인정보 유출, 정부는 대책 마련에 나서야",
-            "url": "https://www.mk.co.kr/article/12078866",
-            "outlet": "mk.co.kr"
-          },
-          {
-            "title": "티빙 개인정보 유출, 사용자들은 어떻게 대처해야 하나",
-            "url": "https://www.mk.co.kr/article/12078464",
-            "outlet": "mk.co.kr"
+            "publishedAt": "Sat, 20 Jun 2026 19:55:00 +0900"
           }
         ]
       },
       {
-        "id": "issue4",
-        "label": "고양시 인수위, 청년기본소득·고양페이 재가동 검토",
-        "summary": "고양시 인수위, 청년기본소득·고양페이 재가동 검토",
+        "id": "fallback5",
+        "label": "민주콩고 에볼라 확산 지속",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "고양시 인수위, 청년기본소득·고양페이 재가동 검토.. ‘민생경제 회복...",
-            "url": "https://sports.donga.com/region/article/all/20260620/134148282/1",
-            "outlet": "sports.donga.com",
-            "publishedAt": "Sat, 20 Jun 2026 09:39:00 +0900"
+            "title": "민주콩고 에볼라 확산 지속…의료진 75명 감염·17명 사망",
+            "url": "https://www.ajunews.com/view/20260620190638716",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sat, 20 Jun 2026 19:10:00 +0900"
           },
           {
-            "title": "고양시, 청년기본소득·고양페이 재개 방안 검토",
-            "url": "https://www.mk.co.kr/article/12078468",
-            "outlet": "mk.co.kr"
+            "title": "국민의힘 홍성·예산 당선자 워크숍…\"예산과 홍성 함께 성장하는 내포...",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3613442",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sat, 20 Jun 2026 18:56:00 +0900"
           },
           {
-            "title": "고양시 인수위, 청년기본소득·고양페이 재가동을 위한 대책 마련",
-            "url": "https://www.mk.co.kr/article/12078470",
-            "outlet": "mk.co.kr"
+            "title": "정진욱 의원, \"광주·전남, 후공정 넘어 팹 유치해야\"",
+            "url": "https://www.mhns.co.kr/news/articleView.html?idxno=750886",
+            "outlet": "mhns.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 18:48:00 +0900"
           }
         ]
       },
       {
-        "id": "issue5",
-        "label": "제천 왕암동 공장서 화학물질 누출 의심",
-        "summary": "제천 왕암동 공장서 화학물질 누출 의심",
+        "id": "fallback6",
+        "label": "군종교구",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "제천 왕암동 공장서 \"화학물질 누출 의심\"...당국 원인 조사중",
-            "url": "https://www.newspim.com/news/view/20260620000040",
-            "outlet": "newspim.com",
-            "publishedAt": "Sat, 20 Jun 2026 12:31:00 +0900"
+            "title": "군종교구, 호국영령 헌신 기리다…\"숭고한 희생 잊지 않겠습니다\"",
+            "url": "https://www.beopbo.com/news/articleView.html?idxno=336165",
+            "outlet": "beopbo.com",
+            "publishedAt": "Sat, 20 Jun 2026 18:40:00 +0900"
           },
           {
-            "title": "제천 왕암동 공장서 화학물질 누출 의심, 시민들 불안감 고조",
-            "url": "https://www.mk.co.kr/article/12078472",
-            "outlet": "mk.co.kr"
+            "title": "법원 \"연어 술파티 허위\" 판단…조작기소 특검·박상용 검사 징계 논란...",
+            "url": "https://www.gokorea.kr/news/articleView.html?idxno=869812",
+            "outlet": "gokorea.kr",
+            "publishedAt": "Sat, 20 Jun 2026 18:20:00 +0900"
           },
           {
-            "title": "제천 왕암동 공장서 화학물질 누출 의심, 당국은 대책 마련에 나서야",
-            "url": "https://www.mk.co.kr/article/12078474",
-            "outlet": "mk.co.kr"
+            "title": "'인천 맨홀 사고' 수사 착수...\"안전불감증 반복\"",
+            "url": "https://www.ytn.co.kr/_ln/0103_202606201814141116",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 18:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "안규백 국방장관 탄핵 청원 5만명 돌파",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "안규백 국방장관 탄핵 청원 5만명 돌파…육사 통폐합 반대 청원도 확산",
+            "url": "https://www.gokorea.kr/news/articleView.html?idxno=869811",
+            "outlet": "gokorea.kr",
+            "publishedAt": "Sat, 20 Jun 2026 18:14:00 +0900"
+          },
+          {
+            "title": "여성 국민연금, 남성의 절반 수준…구조적 격차 심각",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008619633&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 17:46:00 +0900"
+          },
+          {
+            "title": "국민연금 고갈 4년 늦췄지만...여성 연금은 여전히 '반토막'",
+            "url": "https://economist.co.kr/article/view/ecn202606200013",
+            "outlet": "economist.co.kr",
+            "publishedAt": "Sat, 20 Jun 2026 17:44:00 +0900"
           }
         ]
       }
