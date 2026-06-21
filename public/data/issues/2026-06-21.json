@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T11:33:04.981Z",
+  "title": "2026년 06월 21일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 6월 21일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "청와대 참모진 개편 및 인사 논란",
+        "summary": "대통령실의 주요 수석 및 비서관급 인사 교체가 단행되었으며, 일부 인사에 대한 배경과 향후 국정 운영 방향에 대한 논의가 있습니다.",
+        "articles": [
+          {
+            "title": "청와대 홍보수석 성기홍… 민정 한찬식·사회 김경자",
+            "url": "https://www.fnnews.com/news/202606211927466912",
+            "outlet": "파이낸셜뉴스"
+          },
+          {
+            "title": "청와대, ‘민심 반응성’ 강화.개혁 과제 고삐",
+            "url": "http://www.jndn.com/article.php?aid=1782035364434673093",
+            "outlet": "jndn.com",
+            "publishedAt": "Sun, 21 Jun 2026 18:52:00 +0900"
+          },
+          {
+            "title": "이 대통령, '청와대 2기' 참모진 정비‥홍보수석 성기홍·민정수석 한찬...",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6831758_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Sun, 21 Jun 2026 20:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "선거 제도 개편 논의: 사전투표 폐지 및 개헌",
+        "summary": "사전투표 전면 폐지 법안 발의와 함께 대통령 발의 개헌 가능성 및 5·18 헌법 수록 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "박대출, 사전투표 전면 폐지 법안 발의 \"신뢰 회복이 우선\"",
+            "url": "http://www.gndomin.com/news/articleView.html?idxno=479365",
+            "outlet": "gndomin.com",
+            "publishedAt": "Sun, 21 Jun 2026 17:51:00 +0900"
+          },
+          {
+            "title": "‘대통령 발의 개헌’ 시사…5·18 헌법 수록 기대감",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1782040200800376004",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Sun, 21 Jun 2026 20:12:00 +0900"
+          },
+          {
+            "title": "김민석 “국회 돌아가 선관위 원포인트 개헌”… 中 리창 총리 방문도",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1782031733&code=11121100&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sun, 21 Jun 2026 18:49:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "의료계 갈등 및 정책 추진",
+        "summary": "의대 정원 증원 정책 이후에도 검체검사 수탁고시 개악, 한국형 주치의제 시범사업 등 의료 정책 관련 논란이 지속되고 있습니다.",
+        "articles": [
+          {
+            "title": "서울시내과의사회 “일차 의료 벼랑끝 내모는 정책 철회하라” 4대 결의...",
+            "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510975430",
+            "outlet": "medicalworldnews.co.kr",
+            "publishedAt": "Sun, 21 Jun 2026 19:00:00 +0900"
+          },
+          {
+            "title": "[이재명 정부 인사의 역설] ① '통합'과 '개혁' 사이에서 흔들리는 인사...",
+            "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1093972",
+            "outlet": "discoverynews.kr",
+            "publishedAt": "Sun, 21 Jun 2026 18:38:00 +0900"
+          },
+          {
+            "title": "[기고] 불법개설기관 근절 위한 단일보험자 점검관리 체계 절실",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325584",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Sun, 21 Jun 2026 18:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "기후 변화 대응 및 재난 대비",
+        "summary": "다가오는 장마철에 대한 대비와 함께 기후 위기 상황에서 사회의 재난 대응 체계 강화 필요성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 다가온 장마철, 철저한 대비로 피해 막아야",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1064371",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Sun, 21 Jun 2026 18:20:00 +0900"
+          },
+          {
+            "title": "[사설]여름 장마 닥치는데 광주 북구는 배수 개선 공사중",
+            "url": "http://www.kjdaily.com/article.php?aid=1782033286680694018",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Sun, 21 Jun 2026 18:18:00 +0900"
+          },
+          {
+            "title": "윤호중 행안부 장관 \"인도 방문, 재난·행정 협력 넘어 국가 리더십 강...",
+            "url": "http://www.breaknews.com/1215704",
+            "outlet": "breaknews.com",
+            "publishedAt": "Sun, 21 Jun 2026 20:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "경제 안보 및 공급망 리스크",
+        "summary": "국제 질서 급변 속에서 공급망 리스크와 국가 안보에 필수적인 전략 광물 확보의 중요성이 부각되고 있습니다.",
+        "articles": [
+          {
+            "title": "[이슈&경제] 상동광산의 비극, 아직도 진행 중",
+            "url": "https://www.kyeonggi.com/article/20260621580326",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Sun, 21 Jun 2026 19:13:00 +0900"
+          },
+          {
+            "title": "대미 수출 중소기업 62%, '철강관세 부과 방식 변경' 인지 못해",
+            "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=3&item=&no=100271",
+            "outlet": "weeklytrade.co.kr",
+            "publishedAt": "Sun, 21 Jun 2026 20:00:00 +0900"
+          },
+          {
+            "title": "청와대, ‘민심 반응성’ 강화.개혁 과제 고삐",
+            "url": "http://www.jndn.com/article.php?aid=1782035364434673093",
+            "outlet": "jndn.com",
+            "publishedAt": "Sun, 21 Jun 2026 18:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "청년 정책 강화 및 관련 부처 신설 논의",
+        "summary": "청년 정책을 전담할 장관급 부처 신설 추진이 논의되고 있으며, 이는 청년층의 주거 및 고용 문제와도 연결됩니다.",
+        "articles": [
+          {
+            "title": "[단독] 청년정책 전담할 장관급 부처 신설",
+            "url": "https://www.sedaily.com/article/20058291?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sun, 21 Jun 2026 17:41:00 +0900"
+          },
+          {
+            "title": "[사설] 새만금 , '청년 직주근접 주거 단지'로 정점 찍어야",
+            "url": "https://sjbnews.com/news/news.php?number=880984",
+            "outlet": "sjbnews.com",
+            "publishedAt": "Sun, 21 Jun 2026 18:42:00 +0900"
+          },
+          {
+            "title": "\"전세 역전 초읽기\" 서울 아파트 월세 비중 50% 육박... 주거 비 부담 가...",
+            "url": "https://www.pointe.co.kr/news/articleView.html?idxno=80880",
+            "outlet": "pointe.co.kr",
+            "publishedAt": "Sun, 21 Jun 2026 20:04:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
