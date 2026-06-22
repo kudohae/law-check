@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-22",
+  "generatedAt": "2026-06-22T14:14:30.262Z",
+  "title": "2026년 06월 22일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 6월 22일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "한동훈, 선관위 감사원 감찰 대상 포함 법안 발의",
+        "summary": "무소속 한동훈 의원이 중앙선거관리위원회를 감사원 감찰 대상에 포함하는 내용의 감사원법 개정안을 발의했으며, 국민의힘 의원 31명이 동참했습니다.",
+        "articles": [
+          {
+            "title": "한동훈 1호 법안 ‘선관위 감찰법’에 국민의힘 31명 동참",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000535818",
+            "outlet": "ichannela.com",
+            "publishedAt": "Mon, 22 Jun 2026 19:21:00 +0900"
+          },
+          {
+            "title": "한동훈, 선관위 겨냥 첫 입법…김기현·윤상현 등 국힘 의원 31명 동참",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=52803",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Mon, 22 Jun 2026 20:51:00 +0900"
+          },
+          {
+            "title": "이화영 판결에 조선일보 \"민주당이 사법체계 흔들어\" 한겨레 \"검찰에 제...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335311",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 20:35:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "저출산 문제 심화, 중소기업 노동자 51% '출산 계획 없다'",
+        "summary": "중소기업 노동자 절반 이상이 출산 계획이 없다고 응답했으며, 비용 부담과 주거 지원 확대 등이 주요 요인으로 꼽혔습니다.",
+        "articles": [
+          {
+            "title": "중소기업 노동자 51% “아기 안 낳을 것”",
+            "url": "https://www.khan.co.kr/article/202606222140005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 21:40:00 +0900"
+          },
+          {
+            "title": "숲에서 찾는 건강과 교육, 그리고 민간 상생의 현장",
+            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=411043",
+            "outlet": "ccnnews.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 23:02:00 +0900"
+          },
+          {
+            "title": "숲에서 찾는 건강과 교육, 그리고 민간 상생의 현장",
+            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=411043",
+            "outlet": "ccnnews.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 23:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "산업 현장 안전 문제 대두, 중대재해처벌법 위반 조사",
+        "summary": "김포도시공사에서 노동자가 압축 기계에 끼여 사망하는 사고가 발생했으며, 고용노동부가 중대재해처벌법 위반 여부를 조사 중입니다.",
+        "articles": [
+          {
+            "title": "김포도시공사 노동 자 압축기계 끼여 숨져‥중처법 위반 조사",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6832059_36918.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Mon, 22 Jun 2026 22:29:00 +0900"
+          },
+          {
+            "title": "예비아빠 앗아간 지게차 사고…유족 \"무면허인데 투입\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260622230539cgv",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 23:06:00 +0900"
+          },
+          {
+            "title": "AI 활용 '산업안전보건법' 국회 첫 발의",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=551752",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 21:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "정치권, '거대 양당 정치' 비판 및 대안 모색",
+        "summary": "지역사회가 직면한 의제들이 주변화되고 시민 참여 공론장이 위축된다는 비판과 함께, 대의제 민주주의의 한계를 지적하는 목소리가 나오고 있습니다.",
+        "articles": [
+          {
+            "title": "민주주의 가장 큰 위협 '거대 양당 정치'",
+            "url": "https://www.idomin.com/news/articleView.html?idxno=2008482",
+            "outlet": "idomin.com",
+            "publishedAt": "Mon, 22 Jun 2026 21:30:00 +0900"
+          },
+          {
+            "title": "[전호근 칼럼] 광장의 포옹",
+            "url": "https://www.kyeongin.com/article/1765985",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Mon, 22 Jun 2026 19:30:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 \"전쟁은 안 돼\"...갈등 수면 아래로",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202606220067",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 21:19:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "부동산 안정화 정책과 통화량 증가의 상관관계 논란",
+        "summary": "증권시장 수익금이 부동산 가격 급등을 유발하는 요인으로 작용하며, 정부의 확장 재정 정책이 통화량 증가를 야기한다는 지적이 제기되었습니다.",
+        "articles": [
+          {
+            "title": "김종양 \"증권시장 수익금, 부동산 가격 급등 유발하는 마중물…통화량...",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=513571",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Mon, 22 Jun 2026 22:00:00 +0900"
+          },
+          {
+            "title": "[독자위원 칼럼] 지역경제, 건설산업 회복에 달려 있다",
+            "url": "http://www.ujeil.com/news/articleView.html?idxno=387609",
+            "outlet": "ujeil.com",
+            "publishedAt": "Mon, 22 Jun 2026 21:32:00 +0900"
+          },
+          {
+            "title": "“전 세계가 올리는데 한국만 거꾸로”…‘출국납부금 2만원’ 이뤄질까",
+            "url": "https://biz.heraldcorp.com/article/10784383?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Mon, 22 Jun 2026 20:49:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "교권 보호 및 교원 정치 기본권 확대 논의",
+        "summary": "교육부가 교권 보호에 대한 공식 답변을 내놓았으며, 교원의 정치 기본권 확대에 대한 논의도 진행 중입니다.",
+        "articles": [
+          {
+            "title": "\"참교육처럼 교권국 만들어 달라\" 교육부가 결국 '공식 답변' 내놨다",
+            "url": "https://www.wikitree.co.kr/articles/1142674",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Mon, 22 Jun 2026 22:50:00 +0900"
+          },
+          {
+            "title": "구멍 뚫린 학교 보안‥처벌은 솜방망이",
+            "url": "https://jejumbc.com/NewsArticle/847036",
+            "outlet": "jejumbc.com",
+            "publishedAt": "Mon, 22 Jun 2026 21:02:00 +0900"
+          },
+          {
+            "title": "구멍 뚫린 학교 보안‥처벌은 솜방망이",
+            "url": "https://jejumbc.com/NewsArticle/847036",
+            "outlet": "jejumbc.com",
+            "publishedAt": "Mon, 22 Jun 2026 21:02:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
