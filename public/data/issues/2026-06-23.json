@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-23T11:41:15.288Z",
+  "title": "2026년 06월 23일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "최저임금 협상",
+        "summary": "노동계와 경영계의 최저임금 협상",
+        "articles": [
+          {
+            "title": "노동 계, 내년 최저임금 “1만2000원” 제시…경영계는 “동결”",
+            "url": "https://www.mk.co.kr/article/12081278",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 20:01:00 +0900"
+          },
+          {
+            "title": "최저임금 협상 시작부터 평행선… 노동 계 16.3% 인상 요구",
+            "url": "https://www.kizmom.com/news/articleView.html?idxno=111113",
+            "outlet": "kizmom.com",
+            "publishedAt": "Tue, 23 Jun 2026 20:03:00 +0900"
+          },
+          {
+            "title": "[이시각헤드라인] 6월 23일 뉴스리뷰",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260623203157t0p",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 20:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "이재명 대통령의 청년 정책",
+        "summary": "이재명 대통령의 청년 정책 관련 뉴스",
+        "articles": [
+          {
+            "title": "李 대통령, 국무회의서 '청년 문제' 속도감 있게 추진 지시...청년들에 ...",
+            "url": "http://www.domin.co.kr/news/articleView.html?idxno=1559614",
+            "outlet": "domin.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 19:40:00 +0900"
+          },
+          {
+            "title": "이 대통령, 6·25 주간 해병부대 방문·참전용사 위로연 등 진행",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2441682",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 19:25:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 “반도체 호황 양극화 그늘… 기회 사다리 ‘청년정책’...",
+            "url": "https://www.kyeongin.com/article/1766080",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Tue, 23 Jun 2026 20:38:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "교육 정책",
+        "summary": "교육 정책 관련 뉴스",
+        "articles": [
+          {
+            "title": "'전자칠판'에 '스마트폰 정책'까지 강원 교육 싹 바꾼다",
+            "url": "https://www.mbceg.co.kr/post/137593",
+            "outlet": "mbceg.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 20:36:00 +0900"
+          },
+          {
+            "title": "전교조 영남권 지부 \"작은학교 통폐합 중단해야\"",
+            "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=203198&mode=view",
+            "outlet": "phmbc.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 20:40:00 +0900"
+          },
+          {
+            "title": "학생 인권만 있고 교권은 없는 학교, 과연 정상인가?",
+            "url": "https://www.sportsseoul.com/news/read/1618292?ref=naver",
+            "outlet": "sportsseoul.com",
+            "publishedAt": "Tue, 23 Jun 2026 20:19:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "인앱결제 강제금지법",
+        "summary": "인앱결제 강제금지법 관련 뉴스",
+        "articles": [
+          {
+            "title": "'유명무실' 인앱결제 강제금지법…게임업계 \"구글·애플 꼼수 뿌리뽑아...",
+            "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164399",
+            "outlet": "it.chosun.com",
+            "publishedAt": "Tue, 23 Jun 2026 18:26:00 +0900"
+          },
+          {
+            "title": "게임·음악 콘텐츠 제작비도 세액공제 받나...조승래 의원, 조세특례법...",
+            "url": "https://www.livebiz.today/news/articleView.html?idxno=202821",
+            "outlet": "livebiz.today",
+            "publishedAt": "Tue, 23 Jun 2026 20:28:00 +0900"
+          },
+          {
+            "title": "보이스피싱 배상·출연금 확대… 잇단 규제입법에 금융권 긴장",
+            "url": "http://www.fnnews.com/news/202606231820501553",
+            "outlet": "fnnews.com",
+            "publishedAt": "Tue, 23 Jun 2026 18:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "국제 관계",
+        "summary": "국제 관계 관련 뉴스",
+        "articles": [
+          {
+            "title": "李대통령, 오늘 주한 외교 단 만찬…취임 후 주요 외교 성과 공유",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=551840",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 19:14:00 +0900"
+          },
+          {
+            "title": "‘60조 加잠수함 수주’ 韓·獨 막판 총력전",
+            "url": "https://www.segye.com/newsView/20260623515312?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Tue, 23 Jun 2026 19:02:00 +0900"
+          },
+          {
+            "title": "[카드뉴스] 복합 위기 시대, 한반도의 전략…연합뉴스 한반도 심포지엄",
+            "url": "https://www.yna.co.kr/view/AKR20260623163400371?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 19:29:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "국내 경제",
+        "summary": "국내 경제 관련 뉴스",
+        "articles": [
+          {
+            "title": "농식품 분야 민생 법안 7건 국회 통과… 동물장묘시설·농기계 판매·축...",
+            "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=60328",
+            "outlet": "youngnong.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 19:14:00 +0900"
+          },
+          {
+            "title": "용인 반도체 국가산단 공론화 주장에 이상일 시장 반발",
+            "url": "https://www.job-post.co.kr/news/articleView.html?idxno=218973",
+            "outlet": "job-post.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 20:24:00 +0900"
+          },
+          {
+            "title": "아파트라는 ‘기성복’을 가족의 ‘맞춤복’으로 수선하는 법",
+            "url": "https://www.hani.co.kr/arti/opinion/column/1264982.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 19:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "안전 관리",
+        "summary": "안전 관리 관련 뉴스",
+        "articles": [
+          {
+            "title": "팝업스토어·사인회도 '안전계획 신고' 의무화 추진…어기면 과태료",
+            "url": "https://www.yna.co.kr/view/AKR20260623167500530?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 23 Jun 2026 19:50:00 +0900"
+          },
+          {
+            "title": "극우가 점령한 국회 입법 예고 사이트…22대 국회 2년간 댓글 8267만 건",
+            "url": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400565",
+            "outlet": "newsnjoy.or.kr",
+            "publishedAt": "Tue, 23 Jun 2026 18:20:00 +0900"
+          },
+          {
+            "title": "[사실은 이렇습니다] [보도설명자료][6.22.화 KBS] 장관 약속 불과 2주 만...",
+            "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967007&call_from=naver_news",
+            "outlet": "korea.kr",
+            "publishedAt": "Tue, 23 Jun 2026 20:13:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
