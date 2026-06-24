@@ -1,0 +1,150 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T11:24:10.717Z",
+  "title": "2026년 06월 24일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "이재명 대통령, 연평부대 방문",
+        "summary": "이재명 대통령이 24일 서해 최전방인 해병대 연평부대를 방문해 첨단 과학기술 기반의 군 개혁 구상을 제시",
+        "articles": [
+          {
+            "title": "박찬대 \"평화가 곧 민생\"…연평부대 찾은 이재명에 평화경제론 재강조",
+            "url": "https://www.nocutnews.co.kr/news/6538189",
+            "outlet": "nocutnews.co.kr"
+          },
+          {
+            "title": "[현장] 민청학련동지회·29개 시민단체, \"남북 적대 청산이 평화의 출발...",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=231652",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Wed, 24 Jun 2026 20:00:00 +0900"
+          },
+          {
+            "title": "[뉴스프라임] 정 \"대통령 지킬 사람은 나\"·장 \"대표 거취, 당원이 결정...",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202606242000339ne",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Wed, 24 Jun 2026 20:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회, 법사위원장 대치 격화",
+        "summary": "여야, 법사위원장 대치 격화…민주당, 상임위 명단 단독 제출",
+        "articles": [
+          {
+            "title": "여야, 법사위원장 대치 격화…민주당, 상임위 명단 단독 제출",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1064520",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Wed, 24 Jun 2026 19:36:00 +0900"
+          },
+          {
+            "title": "민주당, '상임위 전석 운영' 배수진…원구성 협상 벼랑 끝",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2283705",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Wed, 24 Jun 2026 19:37:00 +0900"
+          },
+          {
+            "title": "민 당선인 “압도적 성장 위해 진보 정당과 협치”",
+            "url": "http://www.jndn.com/article.php?aid=1782296632434946003",
+            "outlet": "jndn.com",
+            "publishedAt": "Wed, 24 Jun 2026 19:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "반도체 산업 발전",
+        "summary": "호남 등 지방 반도체 클러스터 논의 마무리 단계",
+        "articles": [
+          {
+            "title": "“호남 등 지방 반도체 클러스터 논의 마무리 단계”",
+            "url": "http://www.kjdaily.com/article.php?aid=1782298855681030002",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Wed, 24 Jun 2026 20:12:00 +0900"
+          },
+          {
+            "title": "동양칼럼/ 기후 위기 시대, 지방정부의 역할",
+            "url": "http://www.dynews.co.kr/news/articleView.html?idxno=855477",
+            "outlet": "dynews.co.kr",
+            "publishedAt": "Wed, 24 Jun 2026 19:34:00 +0900"
+          },
+          {
+            "title": "김용범 靑정책실장 “동남권, 피지컬AI 산업 중심 될 것”",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260625.22004007533",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Wed, 24 Jun 2026 19:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "박찬대 평화가 곧 민생",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "박찬대 \"평화가 곧 민생\"…연평부대 찾은 이재명에 평화경제론 재강조",
+            "url": "https://www.nocutnews.co.kr/news/6538189?utm_source=naver&utm_medium=article&utm_campaign=20260624074542",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Wed, 24 Jun 2026 19:46:00 +0900"
+          },
+          {
+            "title": "국민 단 16%만 “결혼은 필수죠”…혼인 건수도 43만건→22만건 ‘뚝’",
+            "url": "https://www.sedaily.com/article/20059770?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Wed, 24 Jun 2026 19:53:00 +0900"
+          },
+          {
+            "title": "이재명 정부 1년···'초기업교섭·정년 연장' 등 지체 비판",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41040",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Wed, 24 Jun 2026 19:39:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "저가치의료 통제하면서 한방 급여 확대? 정부 이중잣...",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'저가치의료' 통제하면서 한방 급여 확대? 정부 이중잣대 규탄",
+            "url": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=165121",
+            "outlet": "doctorsnews.co.kr",
+            "publishedAt": "Wed, 24 Jun 2026 20:08:00 +0900"
+          },
+          {
+            "title": "민형배 당선인 \"농림축수산 대전환 시대 열겠다\"",
+            "url": "https://www.namdonews.com/news/articleView.html?idxno=914683",
+            "outlet": "namdonews.com",
+            "publishedAt": "Wed, 24 Jun 2026 19:04:00 +0900"
+          },
+          {
+            "title": "[정치돋보기] 대한민국 반도체 엔진의 고도화와 진정한 균형발전을 기대...",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363729638",
+            "outlet": "joongboo.com",
+            "publishedAt": "Wed, 24 Jun 2026 18:56:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
