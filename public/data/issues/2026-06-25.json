@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-25T11:17:18.832Z",
+  "title": "2026년 06월 25일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "보완수사권 폐지 논의",
+        "summary": "보완수사권 폐지 관련 논의",
+        "articles": [
+          {
+            "title": "[사설] 정부 “보완수사권 폐지”, 국회서 최적 방안 찾아야",
+            "url": "https://www.hani.co.kr/arti/opinion/editorial/1265398.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:02:00 +0900"
+          },
+          {
+            "title": "정청래 \"보완수사권 폐지, 국회로 떠넘겼으니 당장 끝내자\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202606251858253876",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 18:58:00 +0900"
+          },
+          {
+            "title": "'더 띄우면 안 돼'…김민석 \"보완수사권 폐지로 정리\"",
+            "url": "https://news.jtbc.co.kr/article/NB12305075?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:53:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "반도체 산업 지방 투자",
+        "summary": "반도체 산업 지방 투자 관련 이슈",
+        "articles": [
+          {
+            "title": "반도체·AI까지 호남 집중?…TK 홀대 논란 속 균형발전 원칙 시험대",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=610841",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 20:00:00 +0900"
+          },
+          {
+            "title": "삼성·SK 호남반도체 벨트…이재명 정부가 해냈다",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1782384900800585277",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:58:00 +0900"
+          },
+          {
+            "title": "이재용과 반도체 지방 투자 논의한 이 대통령 \"곧 청사진 보고\"",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1528682",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 20:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "안규백 국방부 장관에 대한 탄핵소추",
+        "summary": "안규백 국방부 장관에 대한 탄핵소추 관련 이슈",
+        "articles": [
+          {
+            "title": "“선관위 특검 거부는 정권 침몰 도화선될 것” 장동혁의 말",
+            "url": "https://www.munhwa.com/article/11598299?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Thu, 25 Jun 2026 19:42:00 +0900"
+          },
+          {
+            "title": "국민의힘 “느닷없는 모병제…안규백 경질해야”",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536502",
+            "outlet": "ichannela.com",
+            "publishedAt": "Thu, 25 Jun 2026 19:28:00 +0900"
+          },
+          {
+            "title": "참여연대 \"선택적 모병제 추진, 군 구조 개혁 동반돼야\"",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=231726",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "6월 26일",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[오늘, 금강일보] 6월 26일",
+            "url": "https://www.ggilbo.com/news/articleView.html?idxno=1165862",
+            "outlet": "ggilbo.com",
+            "publishedAt": "Thu, 25 Jun 2026 20:00:00 +0900"
+          },
+          {
+            "title": "[충청논단] 이대로는 골든타임 놓친다",
+            "url": "http://www.cctimes.kr/news/articleView.html?idxno=913500",
+            "outlet": "cctimes.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:56:00 +0900"
+          },
+          {
+            "title": "정청래 \"보완수사권 폐지, 국회로 떠넘겼으니 당장 끝내자\"(종합)",
+            "url": "https://www.news1.kr/politics/assembly/6208795",
+            "outlet": "news1.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "김소희 의원",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김소희 의원, SMR 세제지원 확대 법안 발의…\"AI 시대 전력 인프라 육성...",
+            "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309694",
+            "outlet": "pointdaily.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 18:50:00 +0900"
+          },
+          {
+            "title": "경실련 \"주간 집값통계 폐지해야\"…시장 불안·매수심리 자극 우려",
+            "url": "https://economist.co.kr/article/view/ecn202606250057",
+            "outlet": "economist.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:30:00 +0900"
+          },
+          {
+            "title": "李대통령, 베네수엘라 강진에 “깊은 위로…하루빨리 일상 되찾길”",
+            "url": "https://www.joongang.co.kr/article/25439943",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Thu, 25 Jun 2026 19:28:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
