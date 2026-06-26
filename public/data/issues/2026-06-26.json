@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T11:26:54.869Z",
+  "title": "2026년 06월 26일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "은평구",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[은평 소식] 은평구, 폭염 대비 이동노동자 생수 지원 외",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2442819",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 20:18:00 +0900"
+          },
+          {
+            "title": "안민석 경기도 교육 감 당선인, ‘지역추천 교육 장 공모제’ 9월 시행 예...",
+            "url": "https://www.sedaily.com/article/20060755?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 26 Jun 2026 19:58:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"국가차원의 신 안보 혁신기업 육성할 것\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202606261925370217",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 19:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "정동영 선 비핵화 관성 벗어나 평화체제 논의해야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정동영 \"선 비핵화 관성 벗어나 평화체제 논의해야\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260626201759f6c",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 20:18:00 +0900"
+          },
+          {
+            "title": "[이슈] 李 \"팔란티어와 경쟁할 혁신기업 55개 만들 것\"…정부, '한국형 ...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=735306",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 19:52:00 +0900"
+          },
+          {
+            "title": "李대통령 \"1조 혁신기업 키워 팔란티어와 경쟁\"…GPU 관련 추경 시사",
+            "url": "https://biz.sbs.co.kr/article_hub/20000319217?division=NAVER",
+            "outlet": "biz.sbs.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 19:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "가족 얘기에 울컥한 한성숙",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "가족 얘기에 울컥한 한성숙…국힘 \"부동산 특혜\" 민주당 \"히딩크처럼\"",
+            "url": "https://www.sidae.com/article/2026062617471580489",
+            "outlet": "sidae.com",
+            "publishedAt": "Fri, 26 Jun 2026 18:37:00 +0900"
+          },
+          {
+            "title": "\"정청래, 자기 꾀에 자기가 빠졌다\" 민주당 전대 핵심 변수 '보완수사권...",
+            "url": "https://ilyo.co.kr/?ac=article_view&entry_id=511637",
+            "outlet": "ilyo.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 18:02:00 +0900"
+          },
+          {
+            "title": "80조 조세지출 구조조정 엇박자…稅감면 연장 나선 국회",
+            "url": "https://www.hankyung.com/article/2026062607711",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 26 Jun 2026 17:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "與 보완수사권 공방",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "與 보완수사권 공방…정청래 “속도전”에 친명계 “선명성 경쟁 안 돼...",
+            "url": "https://www.chosun.com/politics/assembly/2026/06/26/5NWD6NHACRDWHP25RFR22NYSDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Fri, 26 Jun 2026 17:38:00 +0900"
+          },
+          {
+            "title": "김민석 \"당이 검찰개혁 미뤘다\"고 하자, 정청래 곧장 반박했다 : \"정부에...",
+            "url": "https://www.huffingtonpost.kr/article/258282",
+            "outlet": "huffingtonpost.kr",
+            "publishedAt": "Fri, 26 Jun 2026 17:36:00 +0900"
+          },
+          {
+            "title": "[한반도 심포지엄] \"한미동맹, 美현안에 연루 우려↑\"…국익중심 대응 ...",
+            "url": "https://www.yna.co.kr/view/AKR20260626161500504?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 20:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "기름값 드디어 내린다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "기름값 드디어 내린다…정부, 휘발유·경유 150원 인하",
+            "url": "https://www.kizmom.com/news/articleView.html?idxno=111188",
+            "outlet": "kizmom.com",
+            "publishedAt": "Fri, 26 Jun 2026 20:08:00 +0900"
+          },
+          {
+            "title": "1심 법원의 질타 \"김건희 둘러싼 청탁구조, 사회 전반에…신뢰 무너뜨려...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335427",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 19:11:00 +0900"
+          },
+          {
+            "title": "생산제일주의가 부른 비극 : 메디컬투데이TV",
+            "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=602696",
+            "outlet": "mdtoday.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "국회 원구성 협상 또 결렬",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국회 원구성 협상 또 결렬…與 \"30일까지 표결 강행\"",
+            "url": "https://www.nocutnews.co.kr/news/6539417?utm_source=naver&utm_medium=article&utm_campaign=20260626054946",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 17:50:00 +0900"
+          },
+          {
+            "title": "'60에 퇴직하면 5년을 어떻게 버티나'…정년연장, 하반기 입법 목표로 분...",
+            "url": "http://www.dailypop.kr/news/articleView.html?idxno=99412",
+            "outlet": "dailypop.kr",
+            "publishedAt": "Fri, 26 Jun 2026 17:26:00 +0900"
+          },
+          {
+            "title": "삼성, 1000조원 첨단산업 투자 …반도체·AI·배터리 총망라",
+            "url": "http://www.wemakenews.co.kr/news/view.php?no=25600",
+            "outlet": "wemakenews.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 20:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "선 넘은 AI 범죄 대응 나섰다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'선 넘은 AI 범죄' 대응 나섰다...정부 '범부처 협의체' 첫 가동",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5202329",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 20:11:00 +0900"
+          },
+          {
+            "title": "정부, 석유 최고가격 150원 인하…휘발유 상한액 1,784원",
+            "url": "https://dgmbc.com/NewsArticle/847958",
+            "outlet": "dgmbc.com",
+            "publishedAt": "Fri, 26 Jun 2026 20:02:00 +0900"
+          },
+          {
+            "title": "“한국 잠수함은 영어 못해서 탈락”…독일 측 폄하 발언 논란, 캐나다...",
+            "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260626601013&wlog_tag3=naver",
+            "outlet": "nownews.seoul.co.kr",
+            "publishedAt": "Fri, 26 Jun 2026 20:01:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
