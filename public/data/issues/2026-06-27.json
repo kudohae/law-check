@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T10:34:03.296Z",
+  "title": "2026년 06월 27일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "최저임금 인상과 호남 반도체 클러스터 논란",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "최저임금 인상 촉구",
+        "summary": "민주노총의 최저임금 대폭 인상 촉구",
+        "articles": [
+          {
+            "title": "[데일리안 오늘뉴스 종합] 李·文 회동 두고 정치적 해석 분분, 국민의 ...",
+            "url": "https://www.dailian.co.kr/news/view/1660592/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 18:01:00 +0900"
+          },
+          {
+            "title": "민주노총 최저임금인상 촉구 “기업들 돈 넘쳐나는데 노동 자 뒷전”",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260627.99099008244",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 17:45:00 +0900"
+          },
+          {
+            "title": "민주노총 도심 집회…\"최저임금 1만2천원 쟁취\"",
+            "url": "https://www.nocutnews.co.kr/news/6539557?utm_source=naver&utm_medium=article&utm_campaign=20260627052258",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 17:23:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "호남 반도체 클러스터 논란",
+        "summary": "호남 반도체 클러스터 설립에 대한 논란",
+        "articles": [
+          {
+            "title": "[속보] 민노총 “기업들, 돈 넘쳐나는데 노동 자 주머니 가뭄”…내달 총...",
+            "url": "https://www.dt.co.kr/article/12069748?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 18:28:00 +0900"
+          },
+          {
+            "title": "이 대통령, 반도체 클러스터 '용수 부족론' 정면 반박 \"호남도 물은 충...",
+            "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=79559",
+            "outlet": "newsfc.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 18:00:00 +0900"
+          },
+          {
+            "title": "李 “호남 물 충분”…기후부, 반도체 용수 부족론 '일축'",
+            "url": "https://www.etnews.com/20260627000035",
+            "outlet": "etnews.com",
+            "publishedAt": "Sat, 27 Jun 2026 18:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-3",
+        "label": "삼전닉스 호남투자에 野 국가대계 정치 도구화",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[속보]삼전닉스 호남투자에 野 “국가대계 정치 도구화”…與 “흑색선...",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260627.99099008246",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 18:41:00 +0900"
+          },
+          {
+            "title": "\" 노동 자 주머니는 가뭄\"...'최저임금 인상' 촉구",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5202409",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 17:52:00 +0900"
+          },
+          {
+            "title": "청와대·여야, 때아닌 ‘물 싸움?’…‘삼전닉스 호남 투자’ 두고 치열...",
+            "url": "https://www.munhwa.com/article/11598657?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 27 Jun 2026 18:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "민주노총",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "민주노총, 최저임금 인상 촉구…“기업들 돈 넘쳐나는데 노동 자 늘 뒷전...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596322&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 17:08:00 +0900"
+          },
+          {
+            "title": "[이슈논단] 삼성·하이닉스 투자에 왜 정치 가?… '호남 반도체' 논란의...",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3412584",
+            "outlet": "newscj.com",
+            "publishedAt": "Sat, 27 Jun 2026 18:14:00 +0900"
+          },
+          {
+            "title": "“주식시장엔 돈 밀려드는데 노동 자 주머니는 가뭄”, 민주노총 최저임...",
+            "url": "https://www.khan.co.kr/article/202606271726001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 17:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "부처 눈엔 부처",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[ 정치 논단] \"부처 눈엔 부처, 돼지 눈엔 돼지\"… 이대통령 SNS 한 줄에 정...",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3412588",
+            "outlet": "newscj.com",
+            "publishedAt": "Sat, 27 Jun 2026 18:22:00 +0900"
+          },
+          {
+            "title": "\"기업들 돈 넘치는데 노동 자는 뒷전\"...민주노총, 최저임금 인상 촉구 결...",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202606270022",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Sat, 27 Jun 2026 17:07:00 +0900"
+          },
+          {
+            "title": "\"월급은 제자리, 물가는 상승\"…최저임금 12,000원 논쟁 막판 격화",
+            "url": "https://www.newswhoplus.com/news/articleView.html?idxno=63265",
+            "outlet": "newswhoplus.com",
+            "publishedAt": "Sat, 27 Jun 2026 17:10:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
