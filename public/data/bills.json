@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T11:40:47.064Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-06-27T10:55:45.387Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000323284",
@@ -18,7 +18,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000323284/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -30,7 +30,9 @@
         }
       ],
       "createdAt": "2026-06-26T11:40:44.924Z",
-      "updatedAt": "2026-06-26T11:40:44.924Z"
+      "updatedAt": "2026-06-26T11:40:44.924Z",
+      "aiSummary": "산림문화ㆍ휴양에 관한 법률 시행령 일부개정령은 산림문화ㆍ휴양시설의 설치기준을 정하고, 산림휴양진흥지구의 지정 및 관리 등에 관한 사항을 규정한다. 또한, 산림문화ㆍ휴양시설의 운영 및 관리에 필요한 사항을 정하고, 산림문화ㆍ휴양시설의 설치 및 운영에 관한 지원 등에 관한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-06-27T10:54:34.553Z"
     },
     {
       "id": "government-progress-2000000321992",
@@ -48,7 +50,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000321992/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -60,7 +62,9 @@
         }
       ],
       "createdAt": "2026-06-26T11:40:44.924Z",
-      "updatedAt": "2026-06-26T11:40:44.924Z"
+      "updatedAt": "2026-06-26T11:40:44.924Z",
+      "aiSummary": "환경오염시설의 통합관리에 관한 법률 일부개정안은 환경오염시설의 통합관리 관련 규정을 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-06-27T10:54:57.623Z"
     },
     {
       "id": "government-progress-2000000321990",
@@ -78,7 +82,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000321990/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -90,7 +94,9 @@
         }
       ],
       "createdAt": "2026-06-26T11:40:44.924Z",
-      "updatedAt": "2026-06-26T11:40:44.924Z"
+      "updatedAt": "2026-06-26T11:40:44.924Z",
+      "aiSummary": "대기환경보전법 일부개정법률안은 대기오염물질 배출시설의 관리 기준을 강화하고, 사업장의 대기오염물질 배출량 산정 및 보고 의무를 신설하는 내용을 담고 있습니다. 또한, 대기오염물질 총량관리제의 적용 대상 사업장을 확대하고, 위반 시 부과되는 과태료를 상향 조정하는 내용을 포함합니다.",
+      "aiSummaryUpdatedAt": "2026-06-27T10:55:22.369Z"
     },
     {
       "id": "government-progress-2000000328384",
