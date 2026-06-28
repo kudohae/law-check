@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-28",
+  "generatedAt": "2026-06-28T10:41:31.522Z",
+  "title": "2026년 06월 28일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "호남 반도체 클러스터와 관련된 주요 이슈들",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "호남 반도체 클러스터",
+        "summary": "호남 지역에 반도체 클러스터를 조성하는 계획",
+        "articles": [
+          {
+            "title": "TV조선 앵커 \"삼전닉스 공장 왜 광주·전남?\" 경향·한겨레 \"지역균형 발...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335449",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 18:43:00 +0900"
+          },
+          {
+            "title": "\"호남 반도체는 국가적 대의\" 29일 오후 발표",
+            "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51135",
+            "outlet": "koreareport.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 19:36:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 “삼전닉스 호남 투자 임박, 역사적 성과”",
+            "url": "https://www.kyeongin.com/article/1766316",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Sun, 28 Jun 2026 19:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "이재명 대통령의 경제 정책",
+        "summary": "이재명 대통령의 경제 정책과 관련된 주요 이슈들",
+        "articles": [
+          {
+            "title": "이재명 대통령 “국가적 대의” 정쟁 확산 차단… 野 “권력 입맛대로”...",
+            "url": "https://www.segye.com/newsView/20260628508784?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sun, 28 Jun 2026 18:42:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 유럽 순방, 뉴스에 없던 '진짜 성과'는?",
+            "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=448145",
+            "outlet": "goodmorningcc.com",
+            "publishedAt": "Sun, 28 Jun 2026 18:54:00 +0900"
+          },
+          {
+            "title": "李대통령, '3대 메가프로젝트' 발표 [ 정치 오늘]",
+            "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202215",
+            "outlet": "sisaon.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 19:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "국회 운영과 법안 처리",
+        "summary": "국회 운영과 법안 처리에 관련된 주요 이슈들",
+        "articles": [
+          {
+            "title": "원 구성 놓고 '벼랑끝 대치'…국회 두달간 개점휴업할 판",
+            "url": "https://www.hankyung.com/article/2026062823491",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 28 Jun 2026 18:26:00 +0900"
+          },
+          {
+            "title": "국회 이르면 이번 주 가동…'민생 법안 협의체'로 비쟁점 50건부터 [후반기...",
+            "url": "https://www.etoday.co.kr/news/view/2597918",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 18:06:00 +0900"
+          },
+          {
+            "title": "김기현 국회의원 \"정책 우선순위 투자 유치·일자리 창출에\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1060627",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 19:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "주거와 부동산 정책",
+        "summary": "주거와 부동산 정책에 관련된 주요 이슈들",
+        "articles": [
+          {
+            "title": "다시 핫해진 청년, 집권세력이 ‘부동산 미로’ 풀려면",
+            "url": "https://h21.hani.co.kr/arti/politics/politics_general/59526.html",
+            "outlet": "h21.hani.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 18:50:00 +0900"
+          },
+          {
+            "title": "추미애, 광교 행복주택 방문...경기도형 청년 주거 모델 첫 현장 행보",
+            "url": "https://www.ajunews.com/view/20260628181931783",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 28 Jun 2026 18:28:00 +0900"
+          },
+          {
+            "title": "매립지 테마파크, 기후 부 늑장 행정에 '발목'",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1326059",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Sun, 28 Jun 2026 18:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "노동 정책과 산업",
+        "summary": "노동 정책과 산업에 관련된 주요 이슈들",
+        "articles": [
+          {
+            "title": "건정심, 의원 환산지수 0.9% 결정…의협 “불공정 협상”",
+            "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510975560",
+            "outlet": "medicalworldnews.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 19:40:00 +0900"
+          },
+          {
+            "title": "[경제인칼럼] 콘크리트는 기다려주지 않는다, 국민 안전도 멈출 수 없다...",
+            "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1545046",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 19:18:00 +0900"
+          },
+          {
+            "title": "이진숙 \"1호 법안 으로 '노란봉투법 개정안' 발의\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202606281734479040",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 17:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "교육과 청년 정책",
+        "summary": "교육과 청년 정책에 관련된 주요 이슈들",
+        "articles": [
+          {
+            "title": "\"아이들에게 햇빛 돌려주자\"…햇빛권 패키지 3법 국회 발의",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=231833",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sun, 28 Jun 2026 17:54:00 +0900"
+          },
+          {
+            "title": "[시민기자] 아파도 쉬지 못하는 보육교사들",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260629.22018008489",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 18:54:00 +0900"
+          },
+          {
+            "title": "신정훈 \"전남광주, 반도체 클러스트 산업적 검토 마친 최적 전략지\"",
+            "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=846873",
+            "outlet": "hansbiz.co.kr",
+            "publishedAt": "Sun, 28 Jun 2026 19:38:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "환경과 에너지 정책",
+        "summary": "환경과 에너지 정책에 관련된 주요 이슈들",
+        "articles": [
+          {
+            "title": "[위기의 경기도 양봉] '짝수 해 폭염 징크스' 대비는 돼 있나",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363729904",
+            "outlet": "joongboo.com",
+            "publishedAt": "Sun, 28 Jun 2026 19:04:00 +0900"
+          },
+          {
+            "title": "매립지 테마파크, 기후 부 늑장 행정에 '발목'",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1326059",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Sun, 28 Jun 2026 18:56:00 +0900"
+          },
+          {
+            "title": "[부박사]국토부 끼어들면 재건축 빨라진다?",
+            "url": "https://monthly.chosun.com/news/articleView.html?idxno=70537",
+            "outlet": "monthly.chosun.com",
+            "publishedAt": "Sun, 28 Jun 2026 19:04:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
