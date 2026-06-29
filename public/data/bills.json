@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T11:01:05.813Z",
+  "generatedAt": "2026-06-29T13:01:38.979Z",
   "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
@@ -114,7 +114,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328384/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 국무총리훈령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -126,7 +126,9 @@
         }
       ],
       "createdAt": "2026-06-26T11:40:44.924Z",
-      "updatedAt": "2026-06-26T11:40:44.924Z"
+      "updatedAt": "2026-06-26T11:40:44.924Z",
+      "aiSummary": "국토공간 대전환 범정부 추진협의회의 설치 및 운영에 관한 규정을 일부 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-06-29T13:00:23.005Z"
     },
     {
       "id": "government-progress-2000000327572",
@@ -144,7 +146,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327572/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -156,7 +158,9 @@
         }
       ],
       "createdAt": "2026-06-26T11:40:44.924Z",
-      "updatedAt": "2026-06-26T11:40:44.924Z"
+      "updatedAt": "2026-06-26T11:40:44.924Z",
+      "aiSummary": "소방청과 그 소속기관 직제 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-06-29T13:00:48.923Z"
     },
     {
       "id": "government-progress-2000000325278",
@@ -174,7 +178,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325278/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -186,7 +190,9 @@
         }
       ],
       "createdAt": "2026-06-26T11:40:44.924Z",
-      "updatedAt": "2026-06-26T11:40:44.924Z"
+      "updatedAt": "2026-06-26T11:40:44.924Z",
+      "aiSummary": "벤처투자 촉진에 관한 법률 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-06-29T13:01:14.824Z"
     },
     {
       "id": "government-progress-2000000326720",
