@@ -1,0 +1,198 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T12:51:06.225Z",
+  "title": "2026년 06월 29일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "한국 사회의 주요 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "반도체 산업 투자",
+        "summary": "삼성·SK, 4755조원 투자",
+        "articles": [
+          {
+            "title": "삼성·SK, 4755조원 '초격차 투자'…대한민국 첨단산업 판도 바꾼다",
+            "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361273",
+            "outlet": "ftoday.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:40:00 +0900"
+          },
+          {
+            "title": "배경훈 부총리 \"2035년까지 AI 데이터센터에 1000조 투자\"",
+            "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=82689",
+            "outlet": "industrynews.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 20:12:00 +0900"
+          },
+          {
+            "title": "한국피지컬AI협회, \"정부 '대한민국 대도약 3대 메가프로젝트' 추진 지지...",
+            "url": "https://www.aitimes.kr/news/articleView.html?idxno=40741",
+            "outlet": "aitimes.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "원구성 협상",
+        "summary": "여야 원구성 협상 결렬",
+        "articles": [
+          {
+            "title": "여야, 원 구성 협상 결렬… 與 상임위 단독 선출할 듯",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3413058",
+            "outlet": "newscj.com",
+            "publishedAt": "Mon, 29 Jun 2026 21:00:00 +0900"
+          },
+          {
+            "title": "조정식 국회의장, 본회의 소집…상임위 與 단독 선출하나",
+            "url": "https://view.asiae.co.kr/article/2026062920232804101",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 20:23:00 +0900"
+          },
+          {
+            "title": "협치 명분 쥔 민주, 원 구성 강행 카운트다운",
+            "url": "http://www.00news.co.kr/news/articleView.html?idxno=104790",
+            "outlet": "00news.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 19:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "대불산단 노동자 사망",
+        "summary": "대불산단 이주 노동자 사망",
+        "articles": [
+          {
+            "title": "\"또 대불산단 이주 노동 자 사망...죽음의 행렬 막아야\"",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202606290075",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:21:00 +0900"
+          },
+          {
+            "title": "역대급 수주 호황 조선업계..최악의 '산재 잔혹사'",
+            "url": "https://mpmbc.co.kr/NewsArticle/1525196",
+            "outlet": "mpmbc.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:24:00 +0900"
+          },
+          {
+            "title": "7명 사상 폭발사고 한화에어로 대전사업장 특별감독",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260629210625r46",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:07:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "홈플러스 청산",
+        "summary": "홈플러스 청산 시 30만 피해",
+        "articles": [
+          {
+            "title": "\"홈플러스 청산 시 30만 피해⋯정부·국회 즉각 대응\"",
+            "url": "https://tjmbc.co.kr/NewsArticle/848291",
+            "outlet": "tjmbc.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:00:00 +0900"
+          },
+          {
+            "title": "무료라더니 돈 보내라?...교사가 '교재비 요구' 논란",
+            "url": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260629028&PRO_CODE=4",
+            "outlet": "cjb.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:28:00 +0900"
+          },
+          {
+            "title": "이상일 용인시장, “정부는 국가산단 지연 책임지고 속도 내라”",
+            "url": "https://www.sedaily.com/article/20061601?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 29 Jun 2026 21:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "교육 정책",
+        "summary": "교재비 요구 논란",
+        "articles": [
+          {
+            "title": "무료라더니 돈 보내라?...교사가 '교재비 요구' 논란",
+            "url": "https://www.cjb.co.kr/article/view/kbc202606290066",
+            "outlet": "cjb.co.kr"
+          },
+          {
+            "title": "교육 정책 관련 기사",
+            "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260630.22015008967",
+            "outlet": "kookje.co.kr"
+          },
+          {
+            "title": "제주 시민단체 \"방위·우주산업 재검토해야\"",
+            "url": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026062917265737532?feed=na",
+            "outlet": "jibs.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "반도체 클러스터",
+        "summary": "반도체 클러스터 조성",
+        "articles": [
+          {
+            "title": "삼성·SK, 4755조원 '초격차 투자'…대한민국 첨단산업 판도 바꾼다",
+            "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361273",
+            "outlet": "ftoday.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:40:00 +0900"
+          },
+          {
+            "title": "민주노총 광주본부 \"삼성·SK 반도체 클러스터 조성 환영\"",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202606290066",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:17:00 +0900"
+          },
+          {
+            "title": "반도체 클러스터 조성 관련 기사",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1545167",
+            "outlet": "knnews.co.kr"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "국가 산단",
+        "summary": "국가 산단 조성",
+        "articles": [
+          {
+            "title": "이상일 용인시장, “정부는 국가산단 지연 책임지고 속도 내라”",
+            "url": "https://www.sedaily.com/article/20061601?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 29 Jun 2026 21:42:00 +0900"
+          },
+          {
+            "title": "민선9기 청사진 제시..'정부 정책·열악 재정' 변수",
+            "url": "https://www.tbc.co.kr/news/view?pno=20260629145937AE01638&id=207822",
+            "outlet": "tbc.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:16:00 +0900"
+          },
+          {
+            "title": "삼전닉스·테슬라 유치, 신공항 속도전…추경호 시정 청사진 발표",
+            "url": "https://www.seoul.co.kr/news/politics/2026/06/29/20260629500290?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Mon, 29 Jun 2026 21:03:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
