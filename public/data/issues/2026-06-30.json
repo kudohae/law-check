@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T11:29:52.680Z",
+  "title": "2026년 06월 30일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "국회 상임위원회 선출, 최저임금 협상, 경제 및 사회 이슈 등",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회 상임위원회 선출",
+        "summary": "국회 상임위원회 선출 관련 논란",
+        "articles": [
+          {
+            "title": "與, '법사위 포함' 상임위 11곳 일방 선출 수순…野는 '보이콧' 선언",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=378248",
+            "outlet": "sisajournal.com",
+            "publishedAt": "Tue, 30 Jun 2026 20:16:00 +0900"
+          },
+          {
+            "title": "국힘, 국회의장 '상임위 강제 선임'에 반발…의원 전원 사임계 제출",
+            "url": "https://news.jtbc.co.kr/article/NB12305897?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Tue, 30 Jun 2026 20:07:00 +0900"
+          },
+          {
+            "title": "한병도 “與 상임위원장 아닌 곳까지 막힘 없이”... 국회법 개정 추진",
+            "url": "https://www.chosun.com/politics/assembly/2026/06/30/RQKXCO6RPFC7TED33NFJ7I5BJY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Tue, 30 Jun 2026 19:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "최저임금 협상",
+        "summary": "최저임금 협상 관련 논란",
+        "articles": [
+          {
+            "title": "1만1900원 vs 1만360원…기한 넘긴 최저임금, 여전한 줄다리기(종합)",
+            "url": "https://news.mtn.co.kr/news-detail/2026063019472826487",
+            "outlet": "news.mtn.co.kr",
+            "publishedAt": "Tue, 30 Jun 2026 20:08:00 +0900"
+          },
+          {
+            "title": "최저임금 2차 수정안도 평행선⋯노동계 \"16.3% 인상\" vs 경영계 \"동결\"",
+            "url": "https://www.etoday.co.kr/news/view/2598915",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Tue, 30 Jun 2026 20:22:00 +0900"
+          },
+          {
+            "title": "태움으로 숨진 간호사 사건에 보건 의료 노조 \"노동부 특별감독해야\"",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6834009_36918.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Tue, 30 Jun 2026 19:47:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경제 및 사회 이슈",
+        "summary": "경제 및 사회 이슈",
+        "articles": [
+          {
+            "title": "[단독] “돈보다 주차장”…울릉군민이 민선9기에 던진 가장 현실적인 ...",
+            "url": "https://www.yeongnam.com/web/view.php?key=20260630024532769",
+            "outlet": "yeongnam.com",
+            "publishedAt": "Tue, 30 Jun 2026 20:22:00 +0900"
+          },
+          {
+            "title": "'안전자산' 금의 배신…고금리·강달러에 속수무책 하락",
+            "url": "https://www.hankyung.com/article/202606307702i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 30 Jun 2026 20:14:00 +0900"
+          },
+          {
+            "title": "광주서 국민보고회…\"호남 투자, 경제 원리 따른 것\"",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635230&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Tue, 30 Jun 2026 20:21:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "민주 법사위 등 11개 상임위 단독 선출",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "민주 \"법사위 등 11개 상임위 단독 선출\"…국힘 \"대가 치를 것\" (종합)",
+            "url": "https://www.imaeil.com/page/view/2026063019271549959",
+            "outlet": "imaeil.com",
+            "publishedAt": "Tue, 30 Jun 2026 20:07:00 +0900"
+          },
+          {
+            "title": "'반도체 호재'로 과열된 집값… 동탄·기흥·구리 규제 묶였다 [영상]",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363730178",
+            "outlet": "joongboo.com",
+            "publishedAt": "Tue, 30 Jun 2026 20:04:00 +0900"
+          },
+          {
+            "title": "[#시큐리티 포커스] 프라이빗 'N2SF 에너지체계' 구축·라온 '블록체인 ...",
+            "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=845625",
+            "outlet": "newsworks.co.kr",
+            "publishedAt": "Tue, 30 Jun 2026 18:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "민주 비상 입법체제 가동 vs 국힘 오만한 입법 독...",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "민주 “비상 입법체제 가동” vs 국힘 “오만한 입법 독재”",
+            "url": "https://www.donga.com/news/Politics/article/all/20260630/134212302/2",
+            "outlet": "donga.com",
+            "publishedAt": "Tue, 30 Jun 2026 20:03:00 +0900"
+          },
+          {
+            "title": "[EBN 오늘(30일) 이슈 종합] 블랙록도, 코페르닉도 샀다…K제약에 몰리는...",
+            "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714561",
+            "outlet": "ebn.co.kr",
+            "publishedAt": "Tue, 30 Jun 2026 20:16:00 +0900"
+          },
+          {
+            "title": "“동남권 새 먹거리 SMR(소형모듈원전)…특구·생태계 구축을”",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260701.22002009489",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Tue, 30 Jun 2026 19:40:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
