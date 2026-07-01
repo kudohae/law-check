@@ -1,0 +1,150 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-01T11:40:09.285Z",
+  "title": "2026년 07월 01일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "이재명-문재인, 서남권 프로젝트에 화색",
+        "summary": "서남권 프로젝트 관련 이재명-문재인 회동",
+        "articles": [
+          {
+            "title": "문재인 \"아주 획기적인 성과\"‥이 대통령, 서남권 헬기 시찰 \"속도전\"",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6834312_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Wed, 01 Jul 2026 20:04:00 +0900"
+          },
+          {
+            "title": "손 맞잡고 '통합' 오찬…서남권 프로젝트에 '화색'",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260701203833gv7",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Wed, 01 Jul 2026 20:39:00 +0900"
+          },
+          {
+            "title": "李·文 비빔밥 회동 속 던진 통합 메세지",
+            "url": "http://www.00news.co.kr/news/articleView.html?idxno=104854",
+            "outlet": "00news.co.kr",
+            "publishedAt": "Wed, 01 Jul 2026 19:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회 후반기 원구성",
+        "summary": "국회 후반기 원구성 관련 이슈",
+        "articles": [
+          {
+            "title": "서영교 법사위, 2일 전체회의 소집...쟁점 법안 처리 속도전",
+            "url": "https://www.chosun.com/politics/politics_general/2026/07/01/IRYTOSDCSNDTDFGWDTYNXCCR6M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Wed, 01 Jul 2026 20:03:00 +0900"
+          },
+          {
+            "title": "국회 후반기 원구성 '반쪽 출범'",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1326377",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Wed, 01 Jul 2026 20:00:00 +0900"
+          },
+          {
+            "title": "여당몫 상임위원장 경기인천 4인",
+            "url": "https://www.kyeongin.com/article/1766593",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Wed, 01 Jul 2026 20:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "기후 위기 대응",
+        "summary": "기후 위기 대응 관련 이슈",
+        "articles": [
+          {
+            "title": "유럽 덮친 기록적 폭염, 한국도 비상…\"창조세계 돌봄 더는 미룰 수 없...",
+            "url": "https://www.goodnews1.com/news/articleView.html?idxno=461531",
+            "outlet": "goodnews1.com",
+            "publishedAt": "Wed, 01 Jul 2026 20:00:00 +0900"
+          },
+          {
+            "title": "조용호 오산시장 \"시정 제1과제, 27만 오산시민 안전 지키는 것\"",
+            "url": "https://view.asiae.co.kr/article/2026070120185441982",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Wed, 01 Jul 2026 20:18:00 +0900"
+          },
+          {
+            "title": "이병래 남동구청장, 민선 9기 취임식, \"내 삶이 바뀌는 남동 대전환' 청사진 제시\"",
+            "url": "http://www.inews24.com/view.php?ud=1981652",
+            "outlet": "inews24.com"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "강훈식 잠자는 카드 포인트",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[청와대 라이브] 강훈식 \"잠자는 카드 포인트, 지역화폐로 전환… 물가...",
+            "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=448361",
+            "outlet": "goodmorningcc.com",
+            "publishedAt": "Wed, 01 Jul 2026 19:36:00 +0900"
+          },
+          {
+            "title": "정부, 광주 메가특구서 주 52시간 근로제 완화 검토…반도체 투자 지원...",
+            "url": "https://www.donga.com/news/Economy/article/all/20260701/134219912/1",
+            "outlet": "donga.com",
+            "publishedAt": "Wed, 01 Jul 2026 20:14:00 +0900"
+          },
+          {
+            "title": "\"대통령 결단만이 답\"...\"산불은 끝났지만 삶은 아직 복구되지 않아\" 청...",
+            "url": "https://www.pressian.com/pages/articles/2026070119544008762?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Wed, 01 Jul 2026 20:29:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "선관위 잇단 비리에 채용 조작까지 이쯤되면 범죄집단",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 선관위 잇단 비리에 채용 조작까지 이쯤되면 범죄집단",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260702.22019000406",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Wed, 01 Jul 2026 19:31:00 +0900"
+          },
+          {
+            "title": "'재팬웰빙' 2조원 매각 성공한 MBK파트너스, '기업회생' 홈플러스 추가...",
+            "url": "http://www.queen.co.kr/news/articleView.html?idxno=459596",
+            "outlet": "queen.co.kr",
+            "publishedAt": "Wed, 01 Jul 2026 20:26:00 +0900"
+          },
+          {
+            "title": "[오피니언] 폭염 시기 노동자 건강권 보호를 위한 민주노총의 투쟁",
+            "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509597",
+            "outlet": "worknworld.kctu.org",
+            "publishedAt": "Wed, 01 Jul 2026 20:30:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
