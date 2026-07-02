@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T11:11:31.385Z",
+  "title": "2026년 07월 02일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "삼성·SK 충청권 투자",
+        "summary": "삼성과 SK가 충청권에 총 240조원 투자",
+        "articles": [
+          {
+            "title": "삼성 '호남 원전 확대' 발언에 호남 환경단체, \"신중히 지켜볼 것\"",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=344098",
+            "outlet": "greened.kr",
+            "publishedAt": "Thu, 02 Jul 2026 20:09:00 +0900"
+          },
+          {
+            "title": "충청권 재정 버팀목 흔들리나…지방소비세 보전 일몰 임박",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2285370",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Thu, 02 Jul 2026 18:49:00 +0900"
+          },
+          {
+            "title": "충청 흔든 삼성·SK, '240조' 통 큰 베팅",
+            "url": "http://www.00news.co.kr/news/articleView.html?idxno=104892",
+            "outlet": "00news.co.kr",
+            "publishedAt": "Thu, 02 Jul 2026 20:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회 법사위 가동",
+        "summary": "국회 법사위, 검찰개혁 속도전",
+        "articles": [
+          {
+            "title": "민주 \"7월 임시국회 신속 소집\"…국힘 \"협조 거부\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260702183102NiP",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 02 Jul 2026 18:31:00 +0900"
+          },
+          {
+            "title": "국민의힘 불참 속 국회 법사위 가동…검찰개혁 속도전",
+            "url": "https://www.pressian.com/pages/articles/2026070216411289608?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Thu, 02 Jul 2026 18:40:00 +0900"
+          },
+          {
+            "title": "與, '보완수사권 폐지' 속도전... 형사소송법 TF 출범하고 법사위도 개문...",
+            "url": "https://www.hankookilbo.com/news/article/A2026070215410002800?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Thu, 02 Jul 2026 19:31:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "인권위, '북향민' 명칭 변경",
+        "summary": "인권위, '북향민' 명칭 변경에 대한 의견",
+        "articles": [
+          {
+            "title": "인권위, 통일부 '북향민' 명칭 변경에 \"당사자 의견수렴해야\"(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260702086351004?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Thu, 02 Jul 2026 18:23:00 +0900"
+          },
+          {
+            "title": "인권위, \"'북향민' 명칭 변경, 당사자 의견 수렴해야\"…통일부에 권고",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR202607021923150mQ",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 02 Jul 2026 19:24:00 +0900"
+          },
+          {
+            "title": "코앞 다가온 '허위조작정보 근절법'으로 전한길 잡는다?",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335534",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Thu, 02 Jul 2026 19:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "3대 메가프로젝트",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이춘구 칼럼] 3대 메가프로젝트…국가균형발전의 초석",
+            "url": "https://www.ajunews.com/view/20260702172203155",
+            "outlet": "ajunews.com",
+            "publishedAt": "Thu, 02 Jul 2026 19:48:00 +0900"
+          },
+          {
+            "title": "[오늘, 금강일보] 7월 3일",
+            "url": "https://www.ggilbo.com/news/articleView.html?idxno=1167230",
+            "outlet": "ggilbo.com",
+            "publishedAt": "Thu, 02 Jul 2026 20:00:00 +0900"
+          },
+          {
+            "title": "“이재명 대통령이 경고했는데도”…20대 간호사 ‘태움’으로 숨져, 경...",
+            "url": "https://www.mk.co.kr/article/12089293",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Thu, 02 Jul 2026 20:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "호남특혜론 차단 나선 李대통령 지방투자",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "호남특혜론 차단 나선 李대통령 “지방투자, 분열적 접근 안 돼” [3대 ...",
+            "url": "https://www.segye.com/newsView/20260702515785?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Thu, 02 Jul 2026 19:57:00 +0900"
+          },
+          {
+            "title": "미완의 '노봉법' 정부여당 이제라도 법 개정에 협력해야",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=611881",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Thu, 02 Jul 2026 20:10:00 +0900"
+          },
+          {
+            "title": "[단독] 개발 팔 걷어붙인 BPA… 북항 랜드마크 '본궤도'",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026070218340969291",
+            "outlet": "busan.com",
+            "publishedAt": "Thu, 02 Jul 2026 18:39:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
