@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-03T11:12:18.014Z",
+  "title": "2026년 07월 03일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "이재명 대통령, 우주항공 산업 발전 지원",
+        "summary": "이재명 대통령이 우주항공 산업 발전을 지원하기 위해 남해안 산업벨트 구축을 약속",
+        "articles": [
+          {
+            "title": "[뉴스프라임] 원구성 놓고 극한 대치…배재고 사태 일파만파",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260703200945BYC",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 20:11:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, \"사천·진주 중심 우주항공 산업 벨트 구축 지원\"",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445466",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 20:00:00 +0900"
+          },
+          {
+            "title": "[이슈] 李 대통령, 7~8일 첫 나토 정상회의 참석 '방산 외교 '…9~11일 몽...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=735965",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 19:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "쿠팡에 대한 미국 의회 보고서와 한국 정부의 반응",
+        "summary": "쿠팡에 대한 미국 의회 보고서와 한국 정부의 반응",
+        "articles": [
+          {
+            "title": "국회 “쿠팡 청문회, 차별 없이 헌법 책무 따랐다”…미 의회에 유감",
+            "url": "https://www.hani.co.kr/arti/politics/politics_general/1266674.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 18:46:00 +0900"
+          },
+          {
+            "title": "'간호사 태움 사망'에 경기도, 산하 병원 괴롭힘 실태 조사",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6834877_36918.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 03 Jul 2026 19:37:00 +0900"
+          },
+          {
+            "title": "\"한국 기업 벌금보다 커\"…쿠팡에 '6247억' 때린 개보위 저격",
+            "url": "https://news.jtbc.co.kr/article/NB12306489?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 19:09:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "홈플러스 파산과 정부의 지원",
+        "summary": "홈플러스 파산과 정부의 지원",
+        "articles": [
+          {
+            "title": "홈플러스 파산 수순…정부, 협력업체에 4400억원 긴급 지원",
+            "url": "https://www.nongmin.com/article/20260703500491",
+            "outlet": "nongmin.com",
+            "publishedAt": "Fri, 03 Jul 2026 19:34:00 +0900"
+          },
+          {
+            "title": "정부, '파산 위기' 홈플러스 근로자·협력업체 지원",
+            "url": "http://www.joseilbo.com/news/news_read.php?uid=571268&class=7&grp=",
+            "outlet": "joseilbo.com",
+            "publishedAt": "Fri, 03 Jul 2026 18:56:00 +0900"
+          },
+          {
+            "title": "경기도 추미애 지사, \"태움은 교육이 아닌 명백한 직장 내 괴롭힘\"",
+            "url": "http://www.metroseoul.co.kr/article/20260703500136",
+            "outlet": "metroseoul.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 18:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "세계 비닐봉투 없는 날",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이로운주목]세계 비닐봉투 없는 날...정부는 제도 개편, 시민사회는 규...",
+            "url": "https://www.eroun.net/news/articleView.html?idxno=84630",
+            "outlet": "eroun.net",
+            "publishedAt": "Fri, 03 Jul 2026 19:28:00 +0900"
+          },
+          {
+            "title": "'부동산·연금·기후위기·균형발전'…민주, 후반기 국회 '4대 핵심과제...",
+            "url": "http://www.newstomato.com/ReadNews.aspx?no=1306122&inflow=N",
+            "outlet": "newstomato.com",
+            "publishedAt": "Fri, 03 Jul 2026 18:46:00 +0900"
+          },
+          {
+            "title": "與 입법 드라이브…\"일하는 국회·메가프로젝트 신속 진행\"(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260703054251001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 19:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "7월 7일을 극복하라?",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "7월 7일을 극복하라?…“입틀막 검열”",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537845",
+            "outlet": "ichannela.com",
+            "publishedAt": "Fri, 03 Jul 2026 19:25:00 +0900"
+          },
+          {
+            "title": "정청래·김민석, ‘보완수사권 5월 처리 요구 거부’ 진실공방",
+            "url": "https://www.seoul.co.kr/news/politics/2026/07/03/20260703500248?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 19:09:00 +0900"
+          },
+          {
+            "title": "추미애 \"태움은 교육 아닌 괴롭힘\"⋯경기도의료원 실태조사 지시",
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027895",
+            "outlet": "kihoilbo.co.kr",
+            "publishedAt": "Fri, 03 Jul 2026 18:48:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
