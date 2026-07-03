@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02T11:27:59.751Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-07-03T11:29:32.225Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000327162",
@@ -18,7 +18,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327162/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -30,7 +30,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "경찰공무원 임용령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-03T11:27:53.771Z"
     },
     {
       "id": "government-progress-2000000327142",
@@ -48,7 +50,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327142/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -60,7 +62,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "경찰공무원 승진임용 규정은 경찰공무원의 승진임용에 관한 사항을 일부 개정하려는 대통령령입니다.",
+      "aiSummaryUpdatedAt": "2026-07-03T11:28:30.442Z"
     },
     {
       "id": "government-progress-2000000326424",
@@ -78,7 +82,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326424/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -90,7 +94,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "국가유공자 등 단체 설립에 관한 법률 시행규칙이 일부 개정됩니다.",
+      "aiSummaryUpdatedAt": "2026-07-03T11:29:07.988Z"
     },
     {
       "id": "government-progress-2000000326388",
