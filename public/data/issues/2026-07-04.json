@@ -1,0 +1,150 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-04",
+  "generatedAt": "2026-07-04T10:34:22.465Z",
+  "title": "2026년 07월 04일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 7월 4일 한국 사회의 주요 이슈들을 공공 영향도, 진행성, 출처 교차 확인 가능성, 시의성, 구조화 가능성을 기준으로 선정했습니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "양대노총 공공부문 노동자 도심 집회 및 노정교섭 요구",
+        "summary": "양대노총 공공부문 노동자들이 정부의 총액인건비제 개선, 실질적인 노정교섭 보장 등을 요구하며 도심에서 집회를 열었습니다.",
+        "articles": [
+          {
+            "title": "양대노총 공공부문, 도심 집회…\"정부, 실질적 교섭권 보장해야\"",
+            "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4093112",
+            "outlet": "news.bbsi.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 16:50:00 +0900"
+          },
+          {
+            "title": "양대노총, 4일 도심 집회…노정교섭 등 요구",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02046726645511240",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 17:27:00 +0900"
+          },
+          {
+            "title": "양대노총 공공부문 노조 도심 집회… “공공 부문 근로자, 정부와 직접...",
+            "url": "https://biz.chosun.com/topics/topics_social/2026/07/04/KJSSIM2WEFAJLGRDDOO7A77OJI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Sat, 04 Jul 2026 17:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "한성숙 총리, 취임 첫 주말 '청년 주거' 현장 점검",
+        "summary": "한성숙 국무총리가 취임 후 첫 주말을 맞아 신촌 원룸촌 등을 방문해 청년 주거 실태를 점검하고 주택 공급 확대 방안을 논의했습니다.",
+        "articles": [
+          {
+            "title": "韓총리, 취임 첫 주말 신촌 원룸촌 방문…\"청년주택 공급 확대\"",
+            "url": "https://www.yna.co.kr/view/AKR20260704033800001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 17:39:00 +0900"
+          },
+          {
+            "title": "韓총리, 취임 첫 주말 일정은 '청년 주거 '…\"공급 늘려야\"",
+            "url": "https://news.tf.co.kr/read/ptoday/2339724.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 19:03:00 +0900"
+          },
+          {
+            "title": "한 총리, 취임 첫 주말 ‘청년 주거 ’ 점검…“기숙사·청년주택 공급 확...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602244&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 18:38:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "미국 하원 '쿠팡 보고서' 관련 여야 공방",
+        "summary": "미국 하원의 '한국의 미국 기업 차별 보고서'를 두고 여야가 공방을 벌이고 있으며, 정부는 외교적 대응에 집중하고 있습니다.",
+        "articles": [
+          {
+            "title": "쿠팡 논란에 여야 정면충돌…美 '통상법 301조' 관세폭탄 떨어지나",
+            "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846116",
+            "outlet": "newsworks.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 17:50:00 +0900"
+          },
+          {
+            "title": "與 \"美 하원 쿠팡 보고서, 일방 주장 받아쓰기\"…野 \"정부가 현실 외면...",
+            "url": "https://www.metroseoul.co.kr/article/20260704500050",
+            "outlet": "metroseoul.co.kr"
+          },
+          {
+            "title": "美 '쿠팡 보고서' 놓고 여야 공방…與 \"쿠팡 주장 받아쓰기\" vs 野 \"정부...",
+            "url": "https://www.hidomin.com/news/articleView.html?idxno=711902",
+            "outlet": "hidomin.com",
+            "publishedAt": "Sat, 04 Jul 2026 15:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "반도체 산업 투자 및 지역별 유치 경쟁",
+        "summary": "정부의 반도체 산업 육성 정책에 따라 지역별 대규모 투자가 이루어지고 있으며, 이에 대한 논의가 활발합니다.",
+        "articles": [
+          {
+            "title": "[위클리반도체] 서남권·충청권에 1136조원 쏟아붓는 삼성·SK…반도체 ...",
+            "url": "https://www.ddaily.co.kr/page/view/2026070415001628904",
+            "outlet": "ddaily.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 19:00:00 +0900"
+          },
+          {
+            "title": "이상일 \"용인 반도체 국가산단 논란 끝났다…또 흔들기 용납 못해\"",
+            "url": "https://view.asiae.co.kr/article/2026070418453582675",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 18:45:00 +0900"
+          },
+          {
+            "title": "영남권에 97조원 투자 나선 정의선·김동관...현대차 AI 기반 미래 모빌...",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=344202",
+            "outlet": "greened.kr",
+            "publishedAt": "Sat, 04 Jul 2026 14:29:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "정치권, '메가 프로젝트' 및 '보수 재건' 관련 논쟁",
+        "summary": "정부의 메가 프로젝트 추진과 보수 정당의 재건 방향을 두고 정치권의 논쟁이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "“지지율 관리용 아냐” 李대통령 해명에도… 與野, ‘메가 프로젝트 정...",
+            "url": "https://biz.chosun.com/policy/politics/2026/07/04/PS76STFNGFGVBOZKIYHYL75X5I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Sat, 04 Jul 2026 18:39:00 +0900"
+          },
+          {
+            "title": "오세훈, 요미우리 인터뷰서 \"尹의 잘못이지 보수의 잘못 아냐\"",
+            "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=846117",
+            "outlet": "newsworks.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 18:44:00 +0900"
+          },
+          {
+            "title": "이재명 메가프로젝트, 성장전략 vs 지지율 정치",
+            "url": "http://sateconomy.co.kr/news/view/1065603841675081",
+            "outlet": "sateconomy.co.kr",
+            "publishedAt": "Sat, 04 Jul 2026 18:14:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
