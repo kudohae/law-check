@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:50:33.151Z",
+  "generatedAt": "2026-07-05T11:01:03.475Z",
   "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
@@ -114,7 +114,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326388/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -126,7 +126,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "이 법률안은 특수임무유공자 예우 및 단체설립에 관한 법률 시행규칙을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-07-05T11:00:40.703Z"
     },
     {
       "id": "government-progress-2000000327742",
