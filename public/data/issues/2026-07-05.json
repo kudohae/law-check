@@ -1,0 +1,193 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T10:40:27.833Z",
+  "title": "2026년 07월 05일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "반도체 추가세수로 미래대응기금 신설",
+        "summary": "반도체 호황으로 생긴 추가 세수를 미래에 투자하는 미래대응기금 신설",
+        "articles": [
+          {
+            "title": "당정, '추가세수 활용' 미래대응기금 신설 추진 합의...\"성장동력·양극...",
+            "url": "https://www.newspim.com/news/view/20260705000155",
+            "outlet": "newspim.com",
+            "publishedAt": "Sun, 05 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "당정, 미래대응기금 신설 추진…3대 메가프로젝트 힘 싣는다",
+            "url": "https://www.cpbc.co.kr/article/1174125?division=NAVER",
+            "outlet": "cpbc"
+          },
+          {
+            "title": "당정 '미래대응기금' 신설추진 협력…\"전력·부지·인허가 전폭 지원\"",
+            "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050081&t=NN",
+            "outlet": "wowtv.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 19:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "홈플러스 파산 위기",
+        "summary": "홈플러스 파산 위기와 관련된 사회적 문제",
+        "articles": [
+          {
+            "title": "\"수십만 삶 벼랑 끝으로\"…홈플러스 파산 위기, MBK 김병주 책임론 확산",
+            "url": "http://www.newslock.co.kr/news/articleView.html?idxno=132654",
+            "outlet": "newslock.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 18:36:00 +0900"
+          },
+          {
+            "title": "홈플러스, 5일부터 10일간 매장 영업 중단…직원們 '고통'",
+            "url": "https://www.edaily.co.kr/news/NewsRead.edy?newsid=02217286645511568&SC=NAVER",
+            "outlet": "edaily"
+          },
+          {
+            "title": "가짜뉴스까지 부른 ‘사회연대임금’… 정부 이달 토론회 검토… 각계 ...",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783242085&code=11131800&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 18:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "쿠팡 주식 거래 논란",
+        "summary": "쿠팡 주식 거래와 관련된 이해충돌 논란",
+        "articles": [
+          {
+            "title": "쿠팡 주식 18차례 거래한 트럼프…2억 원 상당 보유",
+            "url": "http://www.mbn.co.kr/news/article.php?aid=5203957",
+            "outlet": "mbn"
+          },
+          {
+            "title": "트럼프, 쿠팡 주식 거래 논란…핵심 당국자도 '강연료' 받아",
+            "url": "https://news.jtbc.co.kr/article/NB12306662?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "트럼프 쿠팡 주식 거래, 이해충돌 논란",
+            "url": "https://www.yonhapnewstv.co.kr/news/MYH20260705181010QoS",
+            "outlet": "yonhapnewstv"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "국회 파행",
+        "summary": "국회 파행과 관련된 정치적 문제",
+        "articles": [
+          {
+            "title": "원 구성 난항 속 '반쪽 국회' 파행 지속 [ 정치 오늘]",
+            "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202425",
+            "outlet": "sisaon.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 19:04:00 +0900"
+          },
+          {
+            "title": "오늘부터 후반기 국회 본격화…‘반쪽’ 파행 장기화하나",
+            "url": "http://www.jndn.com/article.php?aid=1783244307435516001",
+            "outlet": "jndn.com",
+            "publishedAt": "Sun, 05 Jul 2026 18:42:00 +0900"
+          },
+          {
+            "title": "당정, 추가세수發 미래대응기금 신설에 공감대…\"긴밀히 협력할 것\"",
+            "url": "https://www.mt.co.kr/politics/2026/07/05/2026070518282841527",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 19:13:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "미래대응기금과 메가 프로젝트",
+        "summary": "미래대응기금과 메가 프로젝트에 대한 설명",
+        "articles": [
+          {
+            "title": "당정, 미래대응기금 신설 추진…3대 메가프로젝트 힘 싣는다",
+            "url": "https://www.cpbc.co.kr/article/1174125?division=NAVER",
+            "outlet": "cpbc"
+          },
+          {
+            "title": "미래대응기금, 메가 프로젝트와의 관계",
+            "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050081&t=NN",
+            "outlet": "wowtv"
+          },
+          {
+            "title": "당정, '추가세수 활용' 미래대응기금 신설 추진 합의...\"성장동력·양극...",
+            "url": "https://www.newspim.com/news/view/20260705000155",
+            "outlet": "newspim.com",
+            "publishedAt": "Sun, 05 Jul 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "사회연대임금",
+        "summary": "사회연대임금과 관련된 경제적 문제",
+        "articles": [
+          {
+            "title": "가짜뉴스까지 부른 ‘사회연대임금’… 정부 이달 토론회 검토… 각계 ...",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783242085&code=11131800&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 18:42:00 +0900"
+          },
+          {
+            "title": "사회연대임금, 정부의 입장",
+            "url": "https://www.edaily.co.kr/news/NewsRead.edy?newsid=02217286645511568&SC=NAVER",
+            "outlet": "edaily"
+          },
+          {
+            "title": "트럼프, 쿠팡 주식 거래 논란…핵심 당국자도 '강연료' 받아",
+            "url": "https://news.jtbc.co.kr/article/NB12306662?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "AI와 미래 산업",
+        "summary": "AI와 미래 산업에 대한 설명",
+        "articles": [
+          {
+            "title": "김용범 \"AI는 생산혁명…초과이윤은 다음 세대 투자\"",
+            "url": "http://www.newsian.co.kr/news/articleView.html?idxno=91830",
+            "outlet": "newsian.co.kr",
+            "publishedAt": "Sun, 05 Jul 2026 18:44:00 +0900"
+          },
+          {
+            "title": "AI와 미래 산업의 중요성",
+            "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607050081&t=NN",
+            "outlet": "wowtv"
+          },
+          {
+            "title": "당정, '추가세수 활용' 미래대응기금 신설 추진 합의...\"성장동력·양극...",
+            "url": "https://www.newspim.com/news/view/20260705000155",
+            "outlet": "newspim.com",
+            "publishedAt": "Sun, 05 Jul 2026 19:02:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
