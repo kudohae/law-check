@@ -1,0 +1,199 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-06",
+  "generatedAt": "2026-07-06T12:25:45.478Z",
+  "title": "2026년 07월 06일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "7월 임시국회 반쪽 개회",
+        "summary": "민생경제 법안 들이 쌓여 있다",
+        "articles": [
+          {
+            "title": "7월 임시국회 반쪽 개회… 與野 또 충돌",
+            "url": "https://www.ggilbo.com/news/articleView.html?idxno=1167775",
+            "outlet": "ggilbo.com",
+            "publishedAt": "Mon, 06 Jul 2026 19:08:00 +0900"
+          },
+          {
+            "title": "[뉴스하이킥] 박지원 “김민석, 호남서 출마 선언…정치적으로 잘한 선...",
+            "url": "https://n.news.naver.com/mnews/article/214/0001509929?sid=100",
+            "outlet": "n.news.naver.com",
+            "publishedAt": "Mon, 06 Jul 2026 20:46:00 +0900"
+          },
+          {
+            "title": "홍익표 \"미 의회 쿠팡 보고서 부적절… MBK도 책임져야\"",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2286104",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Mon, 06 Jul 2026 21:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회 정무위, '홈플러스 사태' 청문회 추진",
+        "summary": "민주당 민병덕 의원은 이날 회의에서 이번 사태를 사모펀드의 무리한 차입 인수로 발생한 대표적인 민생 문제라고 규정하며",
+        "articles": [
+          {
+            "title": "국회 정무위, '홈플러스 사태' 청문회 추진",
+            "url": "https://www.ajunews.com/view/20260706205909433",
+            "outlet": "ajunews.com",
+            "publishedAt": "Mon, 06 Jul 2026 21:06:00 +0900"
+          },
+          {
+            "title": "홍익표 \"쿠팡, 美 의회 힘 빌려 외교 사안화…매우 부적절\"",
+            "url": "https://view.asiae.co.kr/article/2026070619362126956",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 19:36:00 +0900"
+          },
+          {
+            "title": "靑, 쿠팡 사태에 \"美 의회 보고서, 다소 실망스러워\"",
+            "url": "https://www.hankyung.com/article/202607068801i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Mon, 06 Jul 2026 19:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "종합특검, 尹 ‘반란 혐의’ 기소 안 한다",
+        "summary": "법조계 “반란죄, 애초부터 터무니 없었다”",
+        "articles": [
+          {
+            "title": "종합특검, 尹 ‘반란 혐의’ 기소 안 한다… 법조계 “반란 몰이 하다 ...",
+            "url": "https://www.chosun.com/national/court_law/2026/07/06/M4IKWL7XKZCGZKWBKZUMQV2MWY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Mon, 06 Jul 2026 21:01:00 +0900"
+          },
+          {
+            "title": "[단독] '디올백 폭로' 최재영 포함 수백명, 국정원에 찍혔다",
+            "url": "https://news.jtbc.co.kr/article/NB12306843?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 20:04:00 +0900"
+          },
+          {
+            "title": "종합특검 \"국정원 계엄 적극 동조... 안보 위해세력 수백 명 명단 준비\"",
+            "url": "https://www.ytn.co.kr/_ln/0103_202607062040031015",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 20:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "이재명 대통령, 주례보고에서 AI 대전환 및 국민 안전 대책 강조",
+        "summary": "이재명 대통령이 6일 주례보고에서 AI 대전환 및 국민 안전 대책을 강조했다",
+        "articles": [
+          {
+            "title": "이재명 대통령…주례보고에서 AI 대전환 및 국민 안전 대책 강조",
+            "url": "https://www.gokorea.kr/news/articleView.html?idxno=871333",
+            "outlet": "gokorea.kr",
+            "publishedAt": "Mon, 06 Jul 2026 21:02:00 +0900"
+          },
+          {
+            "title": "[창간 35주년] AI 노동 시대 '공존'을 묻다",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363730697",
+            "outlet": "joongboo.com",
+            "publishedAt": "Mon, 06 Jul 2026 20:48:00 +0900"
+          },
+          {
+            "title": "민선 9기 미래산업 밑그림...\"AI·에너지 전환\"",
+            "url": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026070618215962522?feed=na",
+            "outlet": "jibs.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 21:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "택시 노동자 고공농성 100일",
+        "summary": "택시 노동자들이 고공농성 100일을 맞아 시위했다",
+        "articles": [
+          {
+            "title": "택시 노동자 고공농성 100일…\"과로 내몰린 택시기사, 임금 보장하라\"",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1326685",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Mon, 06 Jul 2026 20:16:00 +0900"
+          },
+          {
+            "title": "택시법 개정안, 국회 본회의 통과…\"과로死 막겠다\"",
+            "url": "https://www.hani.co.kr/arti/society/society_general/1266993.html",
+            "outlet": "hani.co.kr"
+          },
+          {
+            "title": "택시법 개정안, 국회 본회의 통과…\"과로사 막겠다\"",
+            "url": "https://www.ytn.co.kr/_ln/0103_202607061040031014",
+            "outlet": "ytn.co.kr"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "이재명 대통령, 전력·용수 문제 선제 해결",
+        "summary": "이재명 대통령이 6일 전력·용수 문제를 선제 해결하라고 지시했다",
+        "articles": [
+          {
+            "title": "이재명 대통령 \"전력·용수 문제 선제 해결…지방정부 협조 당부\"",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3627956",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Mon, 06 Jul 2026 20:34:00 +0900"
+          },
+          {
+            "title": "용산구, 여름철 폭염 대책 본격 가동",
+            "url": "https://www.seoul.co.kr/news/publicnews/2026/07/06/20260706500247?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 21:07:00 +0900"
+          },
+          {
+            "title": "물금·매리 녹조라테, 역대 7월 중 가장 진하다",
+            "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1545748",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 21:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "한국, 나토벽 끝내 못 넘었다",
+        "summary": "한국이 나토벽을 끝내 못 넘었다",
+        "articles": [
+          {
+            "title": "[속보] 韓, 나토벽 끝내 못 넘었다…60조 캐나다 잠수함, 독일 품으로",
+            "url": "https://www.joongang.co.kr/article/25442857",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 21:04:00 +0900"
+          },
+          {
+            "title": "종합특검, 尹 ‘반란 혐의’ 기소 안 한다… 법조계 “반란 몰이 하다 ...",
+            "url": "https://www.chosun.com/national/court_law/2026/07/06/M4IKWL7XKZCGZKWBKZUMQV2MWY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Mon, 06 Jul 2026 21:01:00 +0900"
+          },
+          {
+            "title": "종합특검 \"국정원 계엄 적극 동조... 안보 위해세력 수백 명 명단 준비\"",
+            "url": "https://www.ytn.co.kr/_ln/0103_202607062040031015",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 06 Jul 2026 20:40:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
