@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T12:39:16.958Z",
+  "generatedAt": "2026-07-07T11:41:22.211Z",
   "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
@@ -146,7 +146,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327742/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -158,7 +158,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "건축물의 설비기준 등에 관한 규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-07T11:40:07.749Z"
     },
     {
       "id": "government-progress-2000000326426",
@@ -176,7 +178,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326426/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -188,7 +190,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "참전유공자 예우 및 단체설립에 관한 법률 시행규칙이 일부 개정됩니다.",
+      "aiSummaryUpdatedAt": "2026-07-07T11:40:33.826Z"
     },
     {
       "id": "government-progress-2000000326528",
@@ -206,7 +210,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326528/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -218,7 +222,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "대한민국재향군인회법 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-07T11:40:59.251Z"
     },
     {
       "id": "government-progress-2000000328534",
