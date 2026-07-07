@@ -1,0 +1,149 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-07T11:25:50.511Z",
+  "title": "2026년 07월 07일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "송영길, 8일 당대표 출마 선언",
+        "summary": "송영길 의원의 당대표 출마 선언",
+        "articles": [
+          {
+            "title": "송영길, 8일 당대표 출마 선언… ‘정치적 고향’ 인천서 기반 다질듯",
+            "url": "https://www.kyeongin.com/article/1766940",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Tue, 07 Jul 2026 19:54:00 +0900"
+          },
+          {
+            "title": "송영길 당 대표 출마 선언…수도권·호남 당심 최대 변수",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1326782",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Tue, 07 Jul 2026 19:40:00 +0900"
+          },
+          {
+            "title": "美-이란 종전 협상에 중고차 업계 '쏠린 눈'",
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028303",
+            "outlet": "kihoilbo.co.kr",
+            "publishedAt": "Tue, 07 Jul 2026 19:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "정보통신망법 시행에 대한 논란",
+        "summary": "정보통신망법 시행에 대한 논란",
+        "articles": [
+          {
+            "title": "개정 정통망법 시행 첫날, 국힘 \"헌법소원\"...민주 \"딴지 걸기\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202607071906211106",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 07 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "국민의힘, 정보통신망법 시행에 헌법소원 추진…\"표현의 자유 침해\"",
+            "url": "https://www.ppss.kr/news/articleView.html?idxno=301395",
+            "outlet": "ppss.kr",
+            "publishedAt": "Tue, 07 Jul 2026 19:15:00 +0900"
+          },
+          {
+            "title": "정청래, 김민석에 반격 \"총리의 '당대표 로망' 발언이 자기 정치\"",
+            "url": "https://www.pressian.com/pages/articles/2026070718331751348",
+            "outlet": "pressian.com"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "이재명 대통령의 중동 전쟁 대응",
+        "summary": "이재명 대통령의 중동 전쟁 대응",
+        "articles": [
+          {
+            "title": "이 대통령, 외교 부에 피자 보내…\"중동전 대응 애쓴 직원 격려\"",
+            "url": "https://news.kbs.co.kr/news/view.do?ncd=8604562&ref=A",
+            "outlet": "news.kbs.co.kr"
+          },
+          {
+            "title": "조현 \"李대통령, 중동대응 외교 부에 피자 선물…전후 재건도 발빠르게 ...",
+            "url": "https://www.newsis.com/view/NISX20260707_0003699765",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 07 Jul 2026 19:49:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, K방산·광물 국제 협력",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1326783",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Tue, 07 Jul 2026 19:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "정점식 이 대통령",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정점식 \"이 대통령, 전월세 세입자 시각에서 부동산 정책 내놓으라\"",
+            "url": "https://www.mt.co.kr/politics/2026/07/07/2026070720194851052",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 07 Jul 2026 20:23:00 +0900"
+          },
+          {
+            "title": "[기고]피지컬 AI 속도전, 신뢰의 거버넌스가 필요한 이유",
+            "url": "https://www.khan.co.kr/article/202607071949005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 07 Jul 2026 19:49:00 +0900"
+          },
+          {
+            "title": "[오늘, 금강일보] 7월 8일",
+            "url": "https://www.ggilbo.com/news/articleView.html?idxno=1168036",
+            "outlet": "ggilbo.com",
+            "publishedAt": "Tue, 07 Jul 2026 20:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "국민의힘 유의동 의원",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국민의힘 유의동 의원, KTX 경기남부역 신설 본격 공론화…“고덕 성장...",
+            "url": "http://www.inews24.com/view/1983384",
+            "outlet": "inews24.com",
+            "publishedAt": "Tue, 07 Jul 2026 19:31:00 +0900"
+          },
+          {
+            "title": "與차지호 \"한국형 AI기반 사회안전보장 모델 개도국에 수출해야\"",
+            "url": "http://www.fnnews.com/news/202607071950293322",
+            "outlet": "fnnews.com",
+            "publishedAt": "Tue, 07 Jul 2026 20:00:00 +0900"
+          },
+          {
+            "title": "[이진우의 거리두기]선택적 모병제, 왜 정의의 문제인가",
+            "url": "https://www.khan.co.kr/article/202607071956005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 07 Jul 2026 19:56:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
