@@ -1,0 +1,196 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-08T10:37:09.716Z",
+  "title": "2026년 07월 08일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "검찰 보완수사권 폐지 논란",
+        "summary": "검찰 보완수사권 폐지에 대한 논란",
+        "articles": [
+          {
+            "title": "“부실 수사 막을 마지막 브레이크”… 野 보완수사권 존치 형소법 착수",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783499714&code=11121100&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Wed, 08 Jul 2026 18:26:00 +0900"
+          },
+          {
+            "title": "이 대통령, 젤렌스키와 첫 공식회담...1억 달러 지원 등 논의 전망",
+            "url": "https://www.ytn.co.kr/_ln/0101_202607081906156309",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 08 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "보완수사권 폐지 법안, 국회 법사위에 상정",
+            "url": "https://www.koreanbar.or.kr/news/articleView.html?idxno=35845",
+            "outlet": "koreanbar.or.kr"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "민생 법안 처리 난항",
+        "summary": "민생 법안 처리에 대한 난항",
+        "articles": [
+          {
+            "title": "정치권 원구성 갈등 속 민생 법안 처리 난항 우려",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2286706",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Wed, 08 Jul 2026 18:35:00 +0900"
+          },
+          {
+            "title": "민생 법안 처리에 대한 여야 대립",
+            "url": "https://www.fnnews.com/news/202607081820106838",
+            "outlet": "fnnews.com"
+          },
+          {
+            "title": "서울시, 하반기 4급 이상 간부 전보…13일부터 시행",
+            "url": "https://www.newsis.com/view/NISX20260708_0003701525",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 08 Jul 2026 19:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "노동 계 총파업 선언",
+        "summary": "노동 계 총파업 선언",
+        "articles": [
+          {
+            "title": "노동 계, 15일 총파업 선언",
+            "url": "http://www.mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204674",
+            "outlet": "mbn.mk.co.kr"
+          },
+          {
+            "title": "금속노조 “노란봉투법 시행 4개월, 24개 원청 대기업 모두 교섭 거부”",
+            "url": "https://www.hani.co.kr/arti/society/labor/1267369.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 08 Jul 2026 19:20:00 +0900"
+          },
+          {
+            "title": "노동 계 총파업 선언에 대한 영향",
+            "url": "https://www.joseilbo.com/news/articleView.html?idxno=571550&class=33&grp=",
+            "outlet": "joseilbo.com"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "한화포레나 유성 주민 불안",
+        "summary": "한화포레나 유성 주민 불안",
+        "articles": [
+          {
+            "title": "'교통' 이어 '침수'… 한화포레나 유성 주민 불안 커진다",
+            "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=448681",
+            "outlet": "goodmorningcc.com",
+            "publishedAt": "Wed, 08 Jul 2026 19:30:00 +0900"
+          },
+          {
+            "title": "홈플러스 위기가 던진 질문… 대형마트 규제, 이대로 괜찮나",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3415483",
+            "outlet": "newscj.com",
+            "publishedAt": "Wed, 08 Jul 2026 18:30:00 +0900"
+          },
+          {
+            "title": "충남교육청, 여름철 풍수해 취약 교육시설 긴급 안전점검",
+            "url": "https://www.ajunews.com/view/20260708131834030",
+            "outlet": "ajunews.com",
+            "publishedAt": "Wed, 08 Jul 2026 19:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "이재명 대통령, 우크라이나 대통령과 정상회담",
+        "summary": "이재명 대통령, 우크라이나 대통령과 정상회담",
+        "articles": [
+          {
+            "title": "李, 우크라이나 대통령과 정상회담…'北 포로' 인도주의 원칙 해결 방식...",
+            "url": "https://www.ajunews.com/view/20260708193225782",
+            "outlet": "ajunews.com",
+            "publishedAt": "Wed, 08 Jul 2026 19:36:00 +0900"
+          },
+          {
+            "title": "이 대통령, 젤렌스키와 첫 공식회담...1억 달러 지원 등 논의 전망",
+            "url": "https://www.ytn.co.kr/_ln/0101_202607081906156309",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 08 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "“부실 수사 막을 마지막 브레이크”… 野 보완수사권 존치 형소법 착수",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783499714&code=11121100&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Wed, 08 Jul 2026 18:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "서울시, 하반기 4급 이상 간부 전보",
+        "summary": "서울시, 하반기 4급 이상 간부 전보",
+        "articles": [
+          {
+            "title": "서울시, 하반기 4급 이상 간부 전보…13일부터 시행",
+            "url": "https://www.newsis.com/view/NISX20260708_0003701525",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 08 Jul 2026 19:27:00 +0900"
+          },
+          {
+            "title": "서울시, 하반기 4급 이상 간부 전보에 대한 반응",
+            "url": "https://www.fnnews.com/news/202607081820106838",
+            "outlet": "fnnews.com"
+          },
+          {
+            "title": "[인사] 서울시",
+            "url": "https://www.yna.co.kr/view/AKR20260708176400004?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Wed, 08 Jul 2026 19:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "민형배 시장, 반도체 산업 생태계 조성 총력 대응",
+        "summary": "민형배 시장, 반도체 산업 생태계 조성 총력 대응",
+        "articles": [
+          {
+            "title": "민형배 시장 “반도체 산업 생태계 조성 총력 대응” 주문",
+            "url": "http://www.jndn.com/article.php?aid=1783505694435768001",
+            "outlet": "jndn.com",
+            "publishedAt": "Wed, 08 Jul 2026 19:18:00 +0900"
+          },
+          {
+            "title": "'나토 벽' 막혀 60조 수주 날아갔지만… 방산주가 여전히 나토 보는 이유",
+            "url": "https://www.thepublic.kr/news/articleView.html?idxno=310611",
+            "outlet": "thepublic.kr",
+            "publishedAt": "Wed, 08 Jul 2026 18:56:00 +0900"
+          },
+          {
+            "title": "충남교육청, 여름철 풍수해 취약 교육시설 긴급 안전점검",
+            "url": "https://www.ajunews.com/view/20260708131834030",
+            "outlet": "ajunews.com",
+            "publishedAt": "Wed, 08 Jul 2026 19:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
