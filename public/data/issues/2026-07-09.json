@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-09T11:32:55.337Z",
+  "title": "2026년 07월 09일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "충청",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "충청·전북 집중호우에 피해 확산…시설 256곳 손상·662명 긴급 대피",
+            "url": "http://www.fnnews.com/news/202607092024187321",
+            "outlet": "fnnews.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:29:00 +0900"
+          },
+          {
+            "title": "박완수 \"민선9기 핵심은 산업 대전환… 도민과 함께 경남 대도약\"",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=139534",
+            "outlet": "ziksir.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:08:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"새 도약 출발점\"...몽골 대통령 \"제3의 이웃\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202607092013123493",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 20:13:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "인구 줄고 산업은 바뀐다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "인구 줄고 산업은 바뀐다…춘천시, 20년 뒤 도시 생존전략 다시 짠다",
+            "url": "https://www.ekn.kr/web/view.php?key=20260709022290648",
+            "outlet": "ekn.kr",
+            "publishedAt": "Thu, 09 Jul 2026 20:08:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 \"韓, 몽골과 핵심광물 공급망 구축\"",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1327001",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Thu, 09 Jul 2026 19:50:00 +0900"
+          },
+          {
+            "title": "민주당 선관위 특검 법안 당론 발의, 제3자 추천 방식으로 특검 임명",
+            "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442011",
+            "outlet": "businesspost.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 19:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "군의관",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"군의관·공보의 복무기간 단축 더 늦출 수 없다\"",
+            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3008066",
+            "outlet": "bosa.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 18:46:00 +0900"
+          },
+          {
+            "title": "민주당, 검찰 '보완수사권 전면폐지' 법안 발의",
+            "url": "https://www.viewsnnews.com/article?q=237084",
+            "outlet": "viewsnnews.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:32:00 +0900"
+          },
+          {
+            "title": "민희진, 노동 청 직원들 고소…경찰 '혐의 없음' 불송치",
+            "url": "http://www.stoo.com/article.php?aid=107659650415",
+            "outlet": "stoo.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "집중호우 잦아진 여름",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "집중호우 잦아진 여름…최승준 정선군수, 대형 사업장 안전관리 ‘고삐...",
+            "url": "https://www.ekn.kr/web/view.php?key=20260709029240919",
+            "outlet": "ekn.kr",
+            "publishedAt": "Thu, 09 Jul 2026 20:16:00 +0900"
+          },
+          {
+            "title": "\" 기후 위기, 극복할 수 있을까\"…포항 청소년 기후 실험실 열려",
+            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077993",
+            "outlet": "kyongbuk.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 20:16:00 +0900"
+          },
+          {
+            "title": "25년간 사라진 인천갯벌 면적 ‘여의도 16배’",
+            "url": "https://www.kyeongin.com/article/1767090",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "민희진",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "민희진, 직장 내 괴롭힘 조사한 노동 청 직원 고소…경찰 '혐의 없음' 불...",
+            "url": "http://www.celuvmedia.com/article.php?aid=1783593748523768007",
+            "outlet": "celuvmedia.com",
+            "publishedAt": "Thu, 09 Jul 2026 19:54:00 +0900"
+          },
+          {
+            "title": "대구 발전 앞에 너나 없다 '원팀'",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=612917",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 19:50:00 +0900"
+          },
+          {
+            "title": "대한민국제대군인자유노동조합, 6·25 전투전적비 환경정화 봉사…호국...",
+            "url": "https://www.job-post.co.kr/news/articleView.html?idxno=220640",
+            "outlet": "job-post.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 19:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "복기왕 의원",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "복기왕 의원, 지방개발공사 '공공주택 사업 타당성 검토 면제' 법안 발의",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=709683",
+            "outlet": "newstnt.com",
+            "publishedAt": "Thu, 09 Jul 2026 19:30:00 +0900"
+          },
+          {
+            "title": "순식간에 24배 불어난 서울 도림천‥첫 도시 침수주의보 발령",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836319_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:04:00 +0900"
+          },
+          {
+            "title": "노란봉투법 시행 100일…“원청 사용자성 제동” 노조법 개정안 발의 잇...",
+            "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=124&in_cate2=0&gopage=1&bi_pidx=39358",
+            "outlet": "worklaw.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 18:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "의협 김성근 대변인 일차의료 혁신 시범사업",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "의협 김성근 대변인 \"일차의료 혁신 시범사업, 개원가 살리긴커녕 의료...",
+            "url": "https://www.medigatenews.com/news/1834209081",
+            "outlet": "medigatenews.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:26:00 +0900"
+          },
+          {
+            "title": "산림청, 경기 산사태 위기경보 '경계' 상향···북부 최대 200㎜ 폭우 대...",
+            "url": "http://www.paxetv.com/news/articleView.html?idxno=276831",
+            "outlet": "paxetv.com",
+            "publishedAt": "Thu, 09 Jul 2026 20:12:00 +0900"
+          },
+          {
+            "title": "이 대통령, 몽골과 정상회담…\" 정치 적 신뢰 공고히\"",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1530129",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Thu, 09 Jul 2026 20:12:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
