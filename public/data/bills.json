@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T10:56:40.406Z",
+  "generatedAt": "2026-07-09T11:48:26.972Z",
   "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
@@ -242,7 +242,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328534/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -254,7 +254,9 @@
         }
       ],
       "createdAt": "2026-07-02T11:27:57.687Z",
-      "updatedAt": "2026-07-02T11:27:57.687Z"
+      "updatedAt": "2026-07-02T11:27:57.687Z",
+      "aiSummary": "국무회의에서 심의할 안건의 목록을 공개하도록 하는 내용을 신설합니다.",
+      "aiSummaryUpdatedAt": "2026-07-09T11:48:03.857Z"
     },
     {
       "id": "government-progress-2000000326052",
