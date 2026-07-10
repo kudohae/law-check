@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-10T11:26:56.182Z",
+  "title": "2026년 07월 10일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "부동산 시장 상황 무겁게 인식",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"부동산 시장 상황 무겁게 인식\"…이 대통령, 23일 부동산 대토론회 주...",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205182",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:07:00 +0900"
+          },
+          {
+            "title": "서울 청년 취업· 주거 정책 한눈에…오세훈 “‘기회의 사다리’ 만들 ...",
+            "url": "https://www.kukinews.com/article/view/kuk202607100131",
+            "outlet": "kukinews.com",
+            "publishedAt": "Fri, 10 Jul 2026 18:44:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"호우 피해 국민께 위로...인명 피해 예방에 총력\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202607102017226819",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 20:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "특검",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "특검, '관저 이전 부실 감사' 유병호 13일 피의자 소환",
+            "url": "https://www.slist.kr/news/articleView.html?idxno=750969",
+            "outlet": "slist.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:18:00 +0900"
+          },
+          {
+            "title": "[이슈체크] '교육세' 폭탄 맞은 증권가...'손실 외면 과세'에 세 부담 폭...",
+            "url": "https://www.tfmedia.co.kr/news/article.html?no=205697",
+            "outlet": "tfmedia.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "[사설]부동산 정책 대토론회, 진짜 여론 파악해 주거 고통 끊는 계기 되...",
+            "url": "https://www.khan.co.kr/article/202607101855001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 18:55:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "특검",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "특검, '관저 이전 부실 감사' 유병호 감사위원 13일 피의자 소환",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652256&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 18:29:00 +0900"
+          },
+          {
+            "title": "李 대통령도 지적한 '육휴' 직원 강등 의혹 '이케아'…\"엄중인식\"",
+            "url": "https://www.imaeil.com/page/view/2026071018573942565",
+            "outlet": "imaeil.com",
+            "publishedAt": "Fri, 10 Jul 2026 20:09:00 +0900"
+          },
+          {
+            "title": "\"임금 일부 지역화폐로\"…\"국회의원 세비부터\" 반발에 철회",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205185",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 20:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "특검 연장",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "특검 연장·선관위 개혁 동시 추진…7월 국회, 여야 '입법 전면전' 예고",
+            "url": "https://www.newswhoplus.com/news/articleView.html?idxno=64325",
+            "outlet": "newswhoplus.com",
+            "publishedAt": "Fri, 10 Jul 2026 19:30:00 +0900"
+          },
+          {
+            "title": "[패트롤]영천시-대구남구-대구북구-대구가톨릭대병원-대구도시개발공사...",
+            "url": "https://www.ekn.kr/web/view.php?key=20260710020061415",
+            "outlet": "ekn.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:28:00 +0900"
+          },
+          {
+            "title": "윤호중 행안부 장관, 서울 은평구 다세대주택 화재현장 방문",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5205210",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "與",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "與, 성과급까지 '지역화폐로'... 노동 계 \"실질임금 삭감\" 철회 요구",
+            "url": "https://www.thepublic.kr/news/articleView.html?idxno=310931",
+            "outlet": "thepublic.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:08:00 +0900"
+          },
+          {
+            "title": "법원 \"'국가핵심기술 심의' 산업부 민간 위원 명단 공개해야\"",
+            "url": "https://www.news1.kr/society/court-prosecution/6224745",
+            "outlet": "news1.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:03:00 +0900"
+          },
+          {
+            "title": "성과급을 지역화폐로 준다고?…박민규 의원, 법안 논란 커지자 철회",
+            "url": "https://www.hani.co.kr/arti/politics/politics_general/1267758.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "NATO의 병목이 된 한국 : 대체될 수 없는 국가...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "NATO의 병목이 된 한국 : 대체될 수 없는 국가로 남는 방법",
+            "url": "http://www.ddanzi.com/889211969",
+            "outlet": "ddanzi.com",
+            "publishedAt": "Fri, 10 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "[오늘의 인사 : 7월 10일] IBK투자증권·한국수출입은행·산업통상부·식...",
+            "url": "https://www.news2day.co.kr/article/20260710500275",
+            "outlet": "news2day.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 19:00:00 +0900"
+          },
+          {
+            "title": "與, 메가프로젝트 특위 출범…\"전문직 52시간 예외 공론화\"",
+            "url": "https://www.news1.kr/politics/assembly/6224734",
+            "outlet": "news1.kr",
+            "publishedAt": "Fri, 10 Jul 2026 18:55:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "적정 보유세 의견 달라",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "‘적정 보유세 의견 달라’… 세제 전반 수술 나선다",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783672747&code=11121600&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 18:45:00 +0900"
+          },
+          {
+            "title": "AI로 복지 사각지대 찾고 재난 전파 10초로 줄인다",
+            "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2427396",
+            "outlet": "ccdailynews.com",
+            "publishedAt": "Fri, 10 Jul 2026 18:28:00 +0900"
+          },
+          {
+            "title": "행안부, 호우 피해지역 재난 특교세 21억 긴급 지원",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04765846645513208",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Fri, 10 Jul 2026 18:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
