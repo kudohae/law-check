@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T10:08:58.214Z",
+  "title": "2026년 07월 12일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "여권 신뢰 위기",
+        "summary": "여권에 대한 신뢰 위기",
+        "articles": [
+          {
+            "title": "총체적 국정 난맥 \"민주당 못 믿겠다\"…여권에 대한 신뢰 위기 증폭",
+            "url": "https://www.imaeil.com/page/view/2026071216223858613",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sun, 12 Jul 2026 17:54:00 +0900"
+          },
+          {
+            "title": "[여권 신뢰 위기] 무대포 입법→욕 먹으면 철회…국회의장마저 \"몹시 나...",
+            "url": "https://www.imaeil.com/page/view/2026071217054930587",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sun, 12 Jul 2026 17:48:00 +0900"
+          },
+          {
+            "title": "[여권 신뢰 위기] \"국방장관 탈영 의혹 병적 기록 공개해야, 거부하면 탄...",
+            "url": "https://www.imaeil.com/page/view/2026071216333827219",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sun, 12 Jul 2026 18:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "부동산 대토론회",
+        "summary": "부동산 대토론회",
+        "articles": [
+          {
+            "title": "부동산 대토론회, 쟁점은 ‘세금’만 아니다",
+            "url": "http://sateconomy.co.kr/news/view/1065603401465574",
+            "outlet": "sateconomy.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:08:00 +0900"
+          },
+          {
+            "title": "집값 잡겠다고 청년 집 살 길 막아서야… 김용범 실장이 꺼낸 ‘청년 주...",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1783847527&code=11151500&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:48:00 +0900"
+          },
+          {
+            "title": "오세훈 \"부동산 토론회, 늦었지만 환영 … 세금보다 공급·전월세 해법...",
+            "url": "https://www.newdaily.co.kr/site/data/html/2026/07/12/2026071200082.html",
+            "outlet": "newdaily.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "국회 법사위",
+        "summary": "국회 법사위",
+        "articles": [
+          {
+            "title": "22대 국회 후반기 원구성 교착…여야, 법사위서 출구 못 찾아",
+            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078115",
+            "outlet": "kyongbuk.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 17:44:00 +0900"
+          },
+          {
+            "title": "국회, 법사위 평행선 매듭 풀기… '선관위 특검'에 주목",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260713010004372",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 17:54:00 +0900"
+          },
+          {
+            "title": "野 최은석 의원 '소상공인 패자부활 금융지원법' 대표발의",
+            "url": "https://www.imaeil.com/page/view/2026071217450150880",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sun, 12 Jul 2026 17:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "전북 아동인구 3만 9천명 급감 대책 마련을",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전북 아동인구 3만 9천명 급감 대책 마련을",
+            "url": "http://www.domin.co.kr/news/articleView.html?idxno=1561522",
+            "outlet": "domin.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:28:00 +0900"
+          },
+          {
+            "title": "부산으로 간 장동혁 \"與, 참정권 지킨다는 청년들 괴담 세력으로 모독\"",
+            "url": "https://www.mt.co.kr/politics/2026/07/12/2026071217030698919",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 17:33:00 +0900"
+          },
+          {
+            "title": "장동혁 “민주당, ‘선관위 괴담’ 프레임은 시민 모독”",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608524&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "윤석열 책사 김태효 구속",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설]윤석열 책사 김태효 구속, 내란 ‘ 외교 적 은폐’ 시도 진상 밝혀...",
+            "url": "https://www.khan.co.kr/article/202607121810001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:10:00 +0900"
+          },
+          {
+            "title": "장동혁 \"대통령·민주당·선관위 한 몸 … 선거 카르텔 해체해야\"",
+            "url": "https://www.newdaily.co.kr/site/data/html/2026/07/12/2026071200081.html",
+            "outlet": "newdaily.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:16:00 +0900"
+          },
+          {
+            "title": "[EBN 오늘(12일) 이슈 종합] 메모리 슈퍼사이클에 3000조원 베팅…삼성·...",
+            "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1716030",
+            "outlet": "ebn.co.kr",
+            "publishedAt": "Sun, 12 Jul 2026 18:18:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
