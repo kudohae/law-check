@@ -1,0 +1,200 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T11:40:06.212Z",
+  "title": "2026년 07월 13일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "이재명 정부, 내년도 총지출 규모 8백조 원+a 편성",
+        "summary": "내년도 예산 편성",
+        "articles": [
+          {
+            "title": "이재명 정부, 내년도 총지출 규모 8백조 원+a 편성‥\"미래에 투자\"",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6837118_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Mon, 13 Jul 2026 20:17:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"미래대응기금 신설\"…내년 예산 첫 800조",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1530535",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:08:00 +0900"
+          },
+          {
+            "title": "내년 정부 예산 800조+α… 이재명 대통령, AI·미래산업 집중",
+            "url": "https://www.kyeongin.com/article/1767258",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Mon, 13 Jul 2026 19:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "홈플러스 노조, 청와대로 돌진했다 경찰 제지…정부 개입 촉구",
+        "summary": "홈플러스 노조의 청와대 행진",
+        "articles": [
+          {
+            "title": "홈플러스 노조, 청와대로 돌진했다 경찰 제지…정부 개입 촉구(종합)",
+            "url": "https://www.newsis.com/view/NISX20260713_0003707621",
+            "outlet": "newsis.com",
+            "publishedAt": "Mon, 13 Jul 2026 20:07:00 +0900"
+          },
+          {
+            "title": "홈플러스 휴업에 노조 \"정부, 즉각 대책 마련하라\"",
+            "url": "https://www.ytn.co.kr/_ln/0103_202607132025303248",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:25:00 +0900"
+          },
+          {
+            "title": "문 닫은 홈플러스…노조, 靑 향해 달려가다 제지도",
+            "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130320&t=NN",
+            "outlet": "wowtv.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:29:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "국민의힘, '보완수사권 유지법' 당론 발의키로…상임위 보이콧은 유지",
+        "summary": "국민의힘의 보완수사권 유지법 발의",
+        "articles": [
+          {
+            "title": "국민의힘, '보완수사권 유지법' 당론 발의키로…상임위 보이콧은 유지",
+            "url": "https://www.pressian.com/pages/articles/2026071318223097055?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Mon, 13 Jul 2026 18:59:00 +0900"
+          },
+          {
+            "title": "與 법사위원까지 '보완수사권 폐지' 반기··· '약자 보호' 신중론 확산",
+            "url": "https://www.hankookilbo.com/news/article/A2026071222120003970?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 13 Jul 2026 20:01:00 +0900"
+          },
+          {
+            "title": "與내부 '보완수사권 존치' 목소리 커지는데…당권주자들, '선명성'에 몰...",
+            "url": "https://www.dailian.co.kr/news/view/1666676/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "한성숙 국무총리, 건설현장 폭염 점검 나서",
+        "summary": "한성숙 국무총리의 건설현장 폭염 점검",
+        "articles": [
+          {
+            "title": "韓총리, 건설현장 찾아 폭염대비 점검…\"공사 늦어도 안전하게\"",
+            "url": "https://www.yna.co.kr/view/AKR20260713159500001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:03:00 +0900"
+          },
+          {
+            "title": "건설현장 폭염 점검 나선 韓총리…\"공사 다소 늦어도 노동 자 안전이 우...",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2287795",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Mon, 13 Jul 2026 20:32:00 +0900"
+          },
+          {
+            "title": "희망브리지·행안부·기업들, 동자동 쪽방촌에 온정의 손길…서울역 동...",
+            "url": "http://www.bizwnews.com/news/articleView.html?idxno=140549",
+            "outlet": "bizwnews.com",
+            "publishedAt": "Mon, 13 Jul 2026 20:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "이재명 대통령, 국가재정전략회의서 \"미래에 투자\" 강조",
+        "summary": "이재명 대통령의 국가재정전략회의",
+        "articles": [
+          {
+            "title": "이재명 정부, 내년도 총지출 규모 8백조 원+a 편성‥\"미래에 투자\"",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6837118_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Mon, 13 Jul 2026 20:17:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"미래대응기금 신설\"…내년 예산 첫 800조",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1530535",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:08:00 +0900"
+          },
+          {
+            "title": "李대통령 \"물가부담 없다면 가정용 전기료 조정해야 하는 상황\"(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260713129851001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:31:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "정청래, 이재명 대통령 지지 선언",
+        "summary": "정청래의 이재명 대통령 지지 선언",
+        "articles": [
+          {
+            "title": "정청래 \"이 대통령 지킬 것\" 출사표...'5파전' 확정",
+            "url": "https://www.ytn.co.kr/_ln/0101_202607131853050459",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 18:53:00 +0900"
+          },
+          {
+            "title": "정청래 \"이 대통령 지지\"…5파전으로 가는 민주당 대선",
+            "url": "https://www.newdaily.co.kr/news/article/202607132002005",
+            "outlet": "newdaily.co.kr"
+          },
+          {
+            "title": "[김재인의 피지컬 vs 디지털]에이전트 AI의 시대, ‘새로운 아이히만’...",
+            "url": "https://www.khan.co.kr/article/202607132002005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:07:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "한국여교수총연합회, 지역소멸 대응을 위한 대학·지역 역할 모색",
+        "summary": "한국여교수총연합회의 지역소멸 대응",
+        "articles": [
+          {
+            "title": "한국여교수총연합회 \"지역소멸 대응, 대학·지역 역할 모색해야\"",
+            "url": "https://news.unn.net/news/articleView.html?idxno=594696",
+            "outlet": "news.unn.net",
+            "publishedAt": "Mon, 13 Jul 2026 20:34:00 +0900"
+          },
+          {
+            "title": "[특집]\"청년이 머무는 도시가 미래를 만든다\"…전진선 양평군수, '청년...",
+            "url": "http://www.beyondpost.co.kr/view.php?ud=2026071320061064714c878f8fa1_30",
+            "outlet": "beyondpost.co.kr",
+            "publishedAt": "Mon, 13 Jul 2026 20:28:00 +0900"
+          },
+          {
+            "title": "희망브리지·행안부·기업들, 동자동 쪽방촌에 온정의 손길…서울역 동...",
+            "url": "http://www.bizwnews.com/news/articleView.html?idxno=140549",
+            "outlet": "bizwnews.com",
+            "publishedAt": "Mon, 13 Jul 2026 20:14:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
