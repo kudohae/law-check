@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-14T10:19:44.833Z",
+  "title": "2026년 07월 14일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "주택공급 확대 방안 토론회",
+        "summary": "정부의 주택공급 확대 방안 토론회",
+        "articles": [
+          {
+            "title": "[이슈체크] 정부 첫 주택공급 토론회…새 정책보다 실행이 관건",
+            "url": "https://www.tfmedia.co.kr/news/article.html?no=205777",
+            "outlet": "tfmedia.co.kr",
+            "publishedAt": "Tue, 14 Jul 2026 19:16:00 +0900"
+          },
+          {
+            "title": "[이슈] 다시 커진 호르무즈 리스크…산업계 넘어 장바구니까지 흔들",
+            "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362523",
+            "outlet": "sisafocus.co.kr",
+            "publishedAt": "Tue, 14 Jul 2026 18:46:00 +0900"
+          },
+          {
+            "title": "'공급!' 한 목소리…\"민간 받치고 공공 밀어야\"",
+            "url": "https://news.bizwatch.co.kr/article/real_estate/2026/07/14/0035",
+            "outlet": "news.bizwatch.co.kr",
+            "publishedAt": "Tue, 14 Jul 2026 18:55:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "최저임금 심의",
+        "summary": "최저임금 심의 관련 뉴스",
+        "articles": [
+          {
+            "title": "[속보] 공익위원, 최저임금 심의촉진구간 1만600원~1만860원 제시",
+            "url": "https://biz.heraldcorp.com/article/10808863?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Tue, 14 Jul 2026 19:13:00 +0900"
+          },
+          {
+            "title": "비트코인 현물 ETF, 국내 상장 길 열린다…정부 하반기 도입 추진",
+            "url": "https://www.etnews.com/20260714000493",
+            "outlet": "etnews.com",
+            "publishedAt": "Tue, 14 Jul 2026 18:39:00 +0900"
+          },
+          {
+            "title": "“지방투자 늘려 고용 확대”… ‘稅우대 3종 세트’ 내놨다",
+            "url": "https://www.donga.com/news/Economy/article/all/20260714/134296001/1",
+            "outlet": "donga.com",
+            "publishedAt": "Tue, 14 Jul 2026 18:19:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "쿠팡 사태",
+        "summary": "쿠팡 사태 관련 뉴스",
+        "articles": [
+          {
+            "title": "[인사이트 뉴스]쿠팡 사태, 이제는 출구전략이 필요하다…'호통'보다 법...",
+            "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5081",
+            "outlet": "moneystorm.kr",
+            "publishedAt": "Tue, 14 Jul 2026 18:42:00 +0900"
+          },
+          {
+            "title": "야당없는 ‘반쪽국회’ 언제까지 계속되나",
+            "url": "https://www.kbmaeil.com/article/20260714500042",
+            "outlet": "kbmaeil.com",
+            "publishedAt": "Tue, 14 Jul 2026 18:40:00 +0900"
+          },
+          {
+            "title": "해운사 \"연간 통행료만 수십조원\"…항공사 \"유가 또 오르면 적자\"",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05257846645514520",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Tue, 14 Jul 2026 18:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "보완수사권 폐지",
+        "summary": "보완수사권 폐지 관련 뉴스",
+        "articles": [
+          {
+            "title": "與 의원 11명, 보완수사권 일부 존치 법안 발의",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539697",
+            "outlet": "ichannela.com",
+            "publishedAt": "Tue, 14 Jul 2026 19:12:00 +0900"
+          },
+          {
+            "title": "수사권 없는 공소청이 ‘경찰 통제’ 더 잘한다 [아침햇발]",
+            "url": "https://www.hani.co.kr/arti/opinion/column/1268267.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Tue, 14 Jul 2026 18:22:00 +0900"
+          },
+          {
+            "title": "'예외적 인정' 형소법 발의… 보완수사권 폐지 '신중론' 확산",
+            "url": "https://www.sisaweek.com/news/articleView.html?idxno=236695",
+            "outlet": "sisaweek.com",
+            "publishedAt": "Tue, 14 Jul 2026 18:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "한미 관계",
+        "summary": "한미 관계 관련 뉴스",
+        "articles": [
+          {
+            "title": "강경화 주미대사 돌연 귀국…쿠팡·반도체·안보 현안 '서울 담판'",
+            "url": "https://www.thepublic.kr/news/articleView.html?idxno=311324",
+            "outlet": "thepublic.kr",
+            "publishedAt": "Tue, 14 Jul 2026 18:12:00 +0900"
+          },
+          {
+            "title": "韓총리 “수출 5대 강국 목표에 집중…품목·시장 다변화”",
+            "url": "https://biz.heraldcorp.com/article/10808851?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Tue, 14 Jul 2026 18:58:00 +0900"
+          },
+          {
+            "title": "韓총리 \"수출 5대 강국 목표에 집중…'모두의 수출' 위해 노력\"",
+            "url": "https://www.yna.co.kr/view/AKR20260714164600001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 14 Jul 2026 18:26:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
