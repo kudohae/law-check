@@ -1,0 +1,199 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T10:23:02.628Z",
+  "title": "2026년 07월 15일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "한동훈 2030년 대선 출마 선언",
+        "summary": "한동훈, 2030년 대선 출마 선언",
+        "articles": [
+          {
+            "title": "한동훈 \"李대통령, 부동산 정책을 현대판 인민재판으로 정해…경악스러...",
+            "url": "https://www.imaeil.com/page/view/2026071518450960587",
+            "outlet": "imaeil.com",
+            "publishedAt": "Wed, 15 Jul 2026 18:54:00 +0900"
+          },
+          {
+            "title": "오세훈, 李 부동산 정책 작심발언",
+            "url": "http://www.00news.co.kr/news/articleView.html?idxno=105170",
+            "outlet": "00news.co.kr",
+            "publishedAt": "Wed, 15 Jul 2026 18:52:00 +0900"
+          },
+          {
+            "title": "청년 대출 풀까, 집값 불쏘시개 될까…부동산 금융 해법 격돌",
+            "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7174471",
+            "outlet": "weekly.hankooki.com",
+            "publishedAt": "Wed, 15 Jul 2026 18:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "홈플러스 파산 위기",
+        "summary": "홈플러스, 파산 위기",
+        "articles": [
+          {
+            "title": "파산 위기 홈플러스에 2000억 조달 예고…극적 돌파구 생기나",
+            "url": "https://www.kukinews.com/article/view/kuk202607150196",
+            "outlet": "kukinews.com",
+            "publishedAt": "Wed, 15 Jul 2026 19:18:00 +0900"
+          },
+          {
+            "title": "민병덕 을지로위원장 “홈플러스 회생자금 문제 해결”",
+            "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150538&t=NN",
+            "outlet": "wowtv.co.kr",
+            "publishedAt": "Wed, 15 Jul 2026 19:07:00 +0900"
+          },
+          {
+            "title": "당정 \"쿠팡 사태, 한미 통상 이슈화 안되게 관리\"",
+            "url": "https://www.yna.co.kr/view/AKR20260715172800001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Wed, 15 Jul 2026 19:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "쿠팡 사태",
+        "summary": "쿠팡 사태",
+        "articles": [
+          {
+            "title": "당정 \"쿠팡 사태, 한미 통상 이슈화 안되게 관리\"",
+            "url": "https://www.yna.co.kr/view/AKR20260715172800001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Wed, 15 Jul 2026 19:14:00 +0900"
+          },
+          {
+            "title": "당정, 쿠팡 문제 논의…“한미 주요 현안 비화 막아야”",
+            "url": "https://www.sedaily.com/article/20068272?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Wed, 15 Jul 2026 18:50:00 +0900"
+          },
+          {
+            "title": "당정 \"쿠팡 사태, 한미 통상문제 확산 안 되게 관리\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5206194",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Wed, 15 Jul 2026 19:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "오송지하차도 참사 3주기",
+        "summary": "오송지하차도 참사 3주기",
+        "articles": [
+          {
+            "title": "이 대통령 \"오송 지하차도 참사 3주기, 기억을 책임으로 이어갈 것\"",
+            "url": "http://www.joseilbo.com/news/articleView.html?uid=571997&class=32&grp=",
+            "outlet": "조선일보"
+          },
+          {
+            "title": "이 대통령, 오송지하차도 참사 3주기에 \"기억을 책임으로 이어갈 것\"",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251690&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Wed, 15 Jul 2026 19:11:00 +0900"
+          },
+          {
+            "title": "\"비극 잊어선 안돼\" 유가족·민관정 오송참사 희생자 애도",
+            "url": "https://www.jbnews.com/news/articleView.html?idxno=1507755",
+            "outlet": "jbnews.com",
+            "publishedAt": "Wed, 15 Jul 2026 19:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "노동정책",
+        "summary": "노동정책",
+        "articles": [
+          {
+            "title": "[사설] 분쟁 급증한 노동정책 1년, 노봉법 혼선 바로잡길",
+            "url": "http://www.fnnews.com/news/202607151846306309",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 15 Jul 2026 18:48:00 +0900"
+          },
+          {
+            "title": "\"李정부 노동정책 68점… 노봉법은 59점\"",
+            "url": "http://www.fnnews.com/news/202607151816019328",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 15 Jul 2026 18:17:00 +0900"
+          },
+          {
+            "title": "[권혁식의 정치 클릭] 정당의 트라우마와 정치적 강박",
+            "url": "https://www.dnews.co.kr/news/articleView.html?idxno=202607151848028960376",
+            "outlet": "데일리뉴스"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "디지털자산법",
+        "summary": "디지털자산법",
+        "articles": [
+          {
+            "title": "금융위 “디지털자산법 연내 마련”…9월 당정 통합안 주목(종합)",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05595686645514848",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Wed, 15 Jul 2026 18:51:00 +0900"
+          },
+          {
+            "title": "[코인 시황] 비트코인, 美 물가 둔화에 6만4600달러 회복…ETF 자금도 순...",
+            "url": "https://www.newspim.com/news/view/20260715001326",
+            "outlet": "newspim.com",
+            "publishedAt": "Wed, 15 Jul 2026 18:47:00 +0900"
+          },
+          {
+            "title": "中, 한·미·일 외교 대만문제 논의에 \"외부 참견 불가\" 반발",
+            "url": "https://www.newsis.com/view/NISX20260715_0003711129",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 15 Jul 2026 19:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "교육정책",
+        "summary": "교육정책",
+        "articles": [
+          {
+            "title": "\"경기 교육 의 나침반이자 1400만 도민께 드리는 엄숙한 약속\"…안민석, 대...",
+            "url": "https://www.etoday.co.kr/news/view/2604233",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Wed, 15 Jul 2026 19:20:00 +0900"
+          },
+          {
+            "title": "안민석 경기 교육 감, '폰 프리 스쿨' 제동... 인수위 해단",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3637138",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Wed, 15 Jul 2026 19:16:00 +0900"
+          },
+          {
+            "title": "도성훈 인천시교육감 \"무고성 아동학대 신고 방지 법 개정\" 강력 촉구",
+            "url": "https://www.tournews21.com/news/articleView.html?idxno=138677",
+            "outlet": "tournews21.com",
+            "publishedAt": "Wed, 15 Jul 2026 19:20:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
