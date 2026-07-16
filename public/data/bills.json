@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T10:52:36.390Z",
+  "generatedAt": "2026-07-16T10:54:22.613Z",
   "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
@@ -914,7 +914,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328386/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -926,7 +926,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "4·16세월호참사 피해구제 및 지원 등을 위한 특별법 시행령이 일부 개정됩니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:51:16.652Z"
     },
     {
       "id": "government-progress-2000000325664",
@@ -944,7 +946,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325664/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -956,7 +958,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "금강수계 물관리 및 주민지원 등에 관한 법률 시행령 일부를 개정하려는 대통령령입니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:51:39.682Z"
     },
     {
       "id": "government-progress-2000000325662",
@@ -974,7 +978,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325662/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -986,7 +990,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "낙동강수계 물관리 및 주민지원 등에 관한 법률 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:52:02.625Z"
     },
     {
       "id": "government-progress-2000000325666",
@@ -1004,7 +1010,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325666/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1016,7 +1022,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "영산강ㆍ섬진강수계 물관리 및 주민지원 등에 관한 법률 시행령 일부개정령안은 영산강ㆍ섬진강수계의 물관리와 주민지원에 관한 사항을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:52:25.756Z"
     },
     {
       "id": "government-progress-2000000325652",
@@ -1034,7 +1042,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325652/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1046,7 +1054,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "한강수계 상수원수질개선 및 주민지원 등에 관한 법률 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:52:48.782Z"
     },
     {
       "id": "government-progress-2000000323040",
@@ -1064,7 +1074,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000323040/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1076,7 +1086,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "상수원관리규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:53:11.983Z"
     },
     {
       "id": "government-progress-2000000317668",
@@ -1094,7 +1106,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000317668/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1106,7 +1118,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "국가인권위원회법 시행령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:53:35.001Z"
     },
     {
       "id": "government-progress-2000000323248",
@@ -1124,7 +1138,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000323248/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1136,7 +1150,9 @@
         }
       ],
       "createdAt": "2026-07-13T11:54:11.991Z",
-      "updatedAt": "2026-07-13T11:54:11.991Z"
+      "updatedAt": "2026-07-13T11:54:11.991Z",
+      "aiSummary": "산업안전보건법 시행령은 산업재해 예방을 위한 사업주의 의무를 강화하는 내용을 담고 있습니다. 구체적으로는 사업주가 안전보건관리체계의 구축 및 이행에 관한 사항을 기록하고 보존해야 하는 의무를 신설합니다. 또한, 중대재해 발생 시 사업주가 즉시 보고해야 하는 사항을 명확히 규정합니다.",
+      "aiSummaryUpdatedAt": "2026-07-16T10:53:58.567Z"
     },
     {
       "id": "government-progress-2000000328812",
