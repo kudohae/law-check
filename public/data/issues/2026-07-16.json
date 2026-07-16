@@ -1,0 +1,200 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T10:29:17.677Z",
+  "title": "2026년 07월 16일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회 원 구성",
+        "summary": "여야 원 구성 협상",
+        "articles": [
+          {
+            "title": "[금주의 여의도유리창] 여야 협상은 안갯속, 전대는 본격 레이스",
+            "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4095579",
+            "outlet": "news.bbsi.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 18:50:00 +0900"
+          },
+          {
+            "title": "원 구성 시한 당일에도 빈손…여야 대치 8월 말까지 가나",
+            "url": "https://www.kukinews.com/article/view/kuk202607160156",
+            "outlet": "kukinews.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:24:00 +0900"
+          },
+          {
+            "title": "국힘, 개정정통망법 폐지·투표지 특검 여론전...\"독재의 문 막아야\"",
+            "url": "https://www.mediapen.com/news/view/1110658",
+            "outlet": "mediapen.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "반도체 산업",
+        "summary": "반도체 산업 동향",
+        "articles": [
+          {
+            "title": "추미애, 삼성·SK에 '공정수 재사용 확대' 행정권고...\"대만 TSMC처럼 재...",
+            "url": "https://www.getnews.co.kr/news/articleView.html?idxno=875368",
+            "outlet": "getnews.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 18:18:00 +0900"
+          },
+          {
+            "title": "추미애 \"용인 반도체 산단 폐수 기준 위반 땐 정부 강력 조치 요청\"",
+            "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724579",
+            "outlet": "the-biz.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 18:28:00 +0900"
+          },
+          {
+            "title": "추미애 경기도지사 \"반도체 폐수 줄여라\" 삼성·SK에 행정지도",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000050499",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경제 동향",
+        "summary": "경제 동향",
+        "articles": [
+          {
+            "title": "신현송 “물가 확신 들때까지 대응”···‘언제 얼마나 더 올릴까’ 시...",
+            "url": "https://www.khan.co.kr/article/202607161924001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 19:24:00 +0900"
+          },
+          {
+            "title": "한투 \"한은 추가 인상시점 10월→8월로 변경…연말 3% 유지\"",
+            "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425536",
+            "outlet": "news.einfomax.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 19:28:00 +0900"
+          },
+          {
+            "title": "[S-이슈] 밥상 물가까지 위협한 중동전쟁·이상기온… 식품업계 물가 인...",
+            "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=42453",
+            "outlet": "s-journal.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 18:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "교육",
+        "summary": "교육",
+        "articles": [
+          {
+            "title": "배재고 논란에…중학교 역사과목, 근현대사 비중 30%로 늘린다",
+            "url": "https://www.joongang.co.kr/article/25445757",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 19:10:00 +0900"
+          },
+          {
+            "title": "[하반기 업무보고]李 대통령 \"의대 증원·비대면진료, 조용히 개혁 잘했...",
+            "url": "https://view.asiae.co.kr/article/2026071618550206894",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 18:55:00 +0900"
+          },
+          {
+            "title": "[시대리포트]\"통합 국군사관학교, 대전에 4년제 창설\"…3가지 우려",
+            "url": "https://www.sidae.com/article/2026071615455396223",
+            "outlet": "sidae.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "환경",
+        "summary": "환경",
+        "articles": [
+          {
+            "title": "[단독] '김동연표 기후 행동기회소득' 중단?…추미애, 다양한 인센티브 ...",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638089",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:58:00 +0900"
+          },
+          {
+            "title": "남동발전, 에너지 위기 극복 위해 에너지절약 국민참여 독려",
+            "url": "http://www.e-platform.net/news/articleView.html?idxno=103925",
+            "outlet": "e-platform.net",
+            "publishedAt": "Thu, 16 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "감염병 백신·치료제 자급화…GMO 성분 표시대상 확대",
+            "url": "https://news.tf.co.kr/news/articleView.html?idxno=2344379",
+            "outlet": "TF News"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "청년 일자리",
+        "summary": "청년 일자리",
+        "articles": [
+          {
+            "title": "첨단산업 등 청년 전문인력 4년내 20만 양성",
+            "url": "https://www.segye.com/newsView/20260716518796?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:59:00 +0900"
+          },
+          {
+            "title": "정부 “109 상담인력 2배로”…자살자 수 12.9% 감소",
+            "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510975986",
+            "outlet": "medicalworldnews.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 19:20:00 +0900"
+          },
+          {
+            "title": "동탄 교통난부터 부동산 세제까지…李 대통령 앞 쏟아진 건의",
+            "url": "https://www.kukinews.com/article/view/kuk202607160149",
+            "outlet": "kukinews.com",
+            "publishedAt": "Thu, 16 Jul 2026 19:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "한반도 평화",
+        "summary": "한반도 평화",
+        "articles": [
+          {
+            "title": "北, 올해도 ARF 불참할 듯…정부 \"한반도 평화·비핵화 공감대 이끌 것\"",
+            "url": "https://view.asiae.co.kr/article/2026071618023590174",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Thu, 16 Jul 2026 18:38:00 +0900"
+          },
+          {
+            "title": "[인사] 국회사무처",
+            "url": "https://www.public25.com/news/articleView.html?idxno=50872",
+            "outlet": "public25.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:58:00 +0900"
+          },
+          {
+            "title": "[시대리포트]\"통합 국군사관학교, 대전에 4년제 창설\"…3가지 우려",
+            "url": "https://www.sidae.com/article/2026071615455396223",
+            "outlet": "sidae.com",
+            "publishedAt": "Thu, 16 Jul 2026 18:50:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
