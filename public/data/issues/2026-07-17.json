@@ -1,0 +1,199 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-17T10:20:16.403Z",
+  "title": "2026년 07월 17일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "서이초 3주기 앞둔 교사들 아동복지법 개정 요구",
+        "summary": "서이초 사건 3주기를 앞두고 교사들이 아동복지법 개정을 요구하는 집회가 열렸습니다.",
+        "articles": [
+          {
+            "title": "[종합] 전교조 \"무리한 압수수색\" vs 충남경찰 \"사실과 달라\"",
+            "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=449130",
+            "outlet": "goodmorningcc.com",
+            "publishedAt": "Fri, 17 Jul 2026 17:56:00 +0900"
+          },
+          {
+            "title": "‘서이초 사건’ 3주기 앞두고 거리 나온 교사들…“아동복지법 개정해...",
+            "url": "https://www.seoul.co.kr/news/society/education-news/2026/07/17/20260717500130?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 17:49:00 +0900"
+          },
+          {
+            "title": "‘서이초 3주기’ 거리 나선 교사들…“아동복지법 즉각 개정하라”",
+            "url": "https://www.hani.co.kr/arti/society/schooling/1268765.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 17:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "이재명 대통령, 12월 3일을 '국민주권의 날'로 지정",
+        "summary": "이재명 대통령이 12월 3일을 '국민주권의 날'로 지정하고, 빛의위원회 출범을 발표했습니다.",
+        "articles": [
+          {
+            "title": "이 대통령 \"누구도 헌법 위에 군린 안돼…'12월 3일' 국민주권의 날 지정...",
+            "url": "https://www.etoday.co.kr/news/view/2604738",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 17:20:00 +0900"
+          },
+          {
+            "title": "[전문] 대통령 직속 '빛의위원회' 출범…李 \"12월3일 '국민주권의 날' 지...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737330",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 19:14:00 +0900"
+          },
+          {
+            "title": "李대통령 \"누구도 헌법 위에 군림 안돼\"…'빛의 위원회' 기념식[영상]",
+            "url": "https://www.nocutnews.co.kr/news/6549653?utm_source=naver&utm_medium=article&utm_campaign=20260717055302",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 17:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "중부지방 물폭탄 예고, 정부 비상 대응체계 가동",
+        "summary": "중부지방에 물폭탄이 예고됨에 따라 정부가 비상 대응체계를 가동했습니다.",
+        "articles": [
+          {
+            "title": "연휴 내내 장맛비…수도권 시간당 80mm '극한호우'",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5206576",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 19:07:00 +0900"
+          },
+          {
+            "title": "중부지방 물폭탄 예고…윤호중 “9개 시도에 상황관리관 급파” [날씨]",
+            "url": "https://www.segye.com/newsView/20260717511946?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Fri, 17 Jul 2026 19:08:00 +0900"
+          },
+          {
+            "title": "내일 새벽 중부 물폭탄 예고…행안부, 중대본 선제 가동",
+            "url": "http://www.newsian.co.kr/news/articleView.html?idxno=92392",
+            "outlet": "newsian.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 18:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "안민석 교육감, 아동복지법 개정 촉구",
+        "summary": "안민석 교육감이 아동복지법 개정을 촉구했습니다.",
+        "articles": [
+          {
+            "title": "안민석 교육감 \"아동복지법 개정해 교사 두려움 없애야\"...제헌절 교원 ...",
+            "url": "https://www.ajunews.com/view/20260717182613760",
+            "outlet": "ajunews.com",
+            "publishedAt": "Fri, 17 Jul 2026 18:54:00 +0900"
+          },
+          {
+            "title": "안민석 경기도 교육 감, 뜨거운 아스팔트에 앉았다…\"아동복지법 개정\" 교...",
+            "url": "https://www.etoday.co.kr/news/view/2604741",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 18:32:00 +0900"
+          },
+          {
+            "title": "‘서이초 사건’ 3주기 앞두고 거리 나온 교사들…“아동복지법 개정해...",
+            "url": "https://www.seoul.co.kr/news/society/education-news/2026/07/17/20260717500130?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 17:49:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "외교부, 심우정 딸 채용 취소",
+        "summary": "외교부가 심우정 딸의 채용을 취소했습니다.",
+        "articles": [
+          {
+            "title": "외교 부, 심우정 딸 연구원 합격 취소…“채용 관련자들 징계”",
+            "url": "https://www.donga.com/news/Politics/article/all/20260717/134318470/2",
+            "outlet": "donga.com",
+            "publishedAt": "Fri, 17 Jul 2026 18:07:00 +0900"
+          },
+          {
+            "title": "외교 부 '특혜 채용 의혹' 심우정 딸 채용 취소 통보",
+            "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4095672",
+            "outlet": "news.bbsi.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 18:14:00 +0900"
+          },
+          {
+            "title": "'특혜채용 의혹' 심우정 자녀, 외교 부가 채용 취소했다",
+            "url": "https://www.wikitree.co.kr/articles/1147018",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 19:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "정부, 낙태약 합법화 재시동",
+        "summary": "정부가 낙태약 합법화를 재시동했습니다.",
+        "articles": [
+          {
+            "title": "대통령 지시에 낙태약 합법화 재시동… 의료 계 \"법·제도 정비부터\"",
+            "url": "https://www.mk.co.kr/article/12101135",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 17:57:00 +0900"
+          },
+          {
+            "title": "정부, 낙태약 합법화 추진…'의료계 반대' 변수될까",
+            "url": "https://www.hani.co.kr/arti/society/society_general/1268779.html",
+            "outlet": "hani.co.kr"
+          },
+          {
+            "title": "낙태약 합법화, 의료계 \"법·제도 정비부터\"",
+            "url": "https://www.medicaltimes.com/news/articleView.html?idxno=21433",
+            "outlet": "medicaltimes.com"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "중앙재난안전대책본부, 중대본 선제 가동",
+        "summary": "중앙재난안전대책본부가 중대본을 선제적으로 가동했습니다.",
+        "articles": [
+          {
+            "title": "내일 새벽 중부 물폭탄 예고…행안부, 중대본 선제 가동",
+            "url": "http://www.newsian.co.kr/news/articleView.html?idxno=92392",
+            "outlet": "newsian.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 18:14:00 +0900"
+          },
+          {
+            "title": "중부지방 물폭탄 예고…윤호중 “9개 시도에 상황관리관 급파” [날씨]",
+            "url": "https://www.segye.com/newsView/20260717511946?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Fri, 17 Jul 2026 19:08:00 +0900"
+          },
+          {
+            "title": "내일 새벽 중부 물폭탄 예고…행안부, 중대본 선제 가동",
+            "url": "http://www.newsian.co.kr/news/articleView.html?idxno=92392",
+            "outlet": "newsian.co.kr",
+            "publishedAt": "Fri, 17 Jul 2026 18:14:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
