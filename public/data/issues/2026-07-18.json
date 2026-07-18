@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T10:01:50.602Z",
+  "title": "2026년 07월 18일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "박홍근 장관 '반도체 호황 지속 가능성 커...추가세수, 청년 투자 최우선'",
+        "summary": "박홍근 산업통상자원부 장관이 반도체 호황이 지속될 가능성이 크다고 밝혔습니다.",
+        "articles": [
+          {
+            "title": "박홍근 \"반도체 호황 지속 가능성 커…추가세수, 청년 투자 최우선\"",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02158246645515832",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 16:03:00 +0900"
+          },
+          {
+            "title": "박홍근 \"반도체 호황 급격히 안 꺼져…청년 정책 대폭 투자\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5206654",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 16:20:00 +0900"
+          },
+          {
+            "title": "박홍근 \"반도체 호황기 급격히 안 꺼져…청년 정책에 대폭 투자\"",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663246&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 15:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "집중호우에 대한 정부와 여야의 대응",
+        "summary": "정부와 여야가 집중호우에 대한 대응을 논의하고 있습니다.",
+        "articles": [
+          {
+            "title": "집중 호우에 여야 정치권 “정부 신속 대응·피해 최소화” 촉구",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614014&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 15:02:00 +0900"
+          },
+          {
+            "title": "여야, 집중호우 예보에 \"신속·철저 대응\" 한목소리",
+            "url": "https://www.mt.co.kr/politics/2026/07/18/2026071814135495917",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 14:33:00 +0900"
+          },
+          {
+            "title": "밤사이 수도권 물 폭탄...침수 피해 잇따라",
+            "url": "https://www.ytn.co.kr/_ln/0103_202607181752115108",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 17:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "기후 동행카드 종료와 관련된 논의",
+        "summary": "기후 동행카드 종료와 관련된 논의가 진행되고 있습니다.",
+        "articles": [
+          {
+            "title": "“없어지는 거야? 바뀌는 거야?”… 기후 동행카드 종료 앞두고 이용자 ‘...",
+            "url": "https://www.segye.com/newsView/20260718507622?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sat, 18 Jul 2026 16:04:00 +0900"
+          },
+          {
+            "title": "탈플라스틱 확산…호텔 객실도 친환경 전환",
+            "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34441",
+            "outlet": "rightknow.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 15:18:00 +0900"
+          },
+          {
+            "title": "“없어지는 거야? 바뀌는 거야?”… 기후 동행카드 종료 앞두고 이용자 ‘...",
+            "url": "https://www.segye.com/newsView/20260718507622?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sat, 18 Jul 2026 16:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "제헌절 경축식 불참 장동혁",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "제헌절 경축식 불참 장동혁, '부정선거 음모론 집회'엔 참석",
+            "url": "https://www.gobalnews.com/news/articleView.html?idxno=202463",
+            "outlet": "gobalnews.com",
+            "publishedAt": "Sat, 18 Jul 2026 13:22:00 +0900"
+          },
+          {
+            "title": "제헌절에 다시 묻는다. 검찰 수사권 폐지는 불가능한 것인가?[민교협의...",
+            "url": "https://www.pressian.com/pages/articles/2026071816181492436?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Sat, 18 Jul 2026 16:26:00 +0900"
+          },
+          {
+            "title": "박홍근 장관 \"반도체 호황 급격한 둔화 가능성 낮아\"",
+            "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005882022",
+            "outlet": "mbnmoney.mbn.co.kr",
+            "publishedAt": "Sat, 18 Jul 2026 16:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "탈영의혹 국방장관",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[막전막후] 탈영의혹 국방장관, 중앙대 운동권 출신이 밀어붙이는 '3사...",
+            "url": "https://www.pennmike.com/news/articleView.html?idxno=123911",
+            "outlet": "pennmike.com",
+            "publishedAt": "Sat, 18 Jul 2026 17:42:00 +0900"
+          },
+          {
+            "title": "【위클리 퍼블릭] 쟁점 많았던 지난주…내년 공무원 봉급 인상 정부안 ...",
+            "url": "https://www.public25.com/news/articleView.html?idxno=50899",
+            "outlet": "public25.com",
+            "publishedAt": "Sat, 18 Jul 2026 17:22:00 +0900"
+          },
+          {
+            "title": "신상진 성남시장 \" 재난 은 무엇보다 예방이 중요하다\"",
+            "url": "https://www.ajunews.com/view/20260718170254029",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sat, 18 Jul 2026 17:24:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
