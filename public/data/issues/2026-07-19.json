@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T10:08:56.992Z",
+  "title": "2026년 07월 19일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 7월 19일 한국 사회의 주요 이슈들을 다룹니다. 정치권의 대치 상황, 경제 안보 문제, 사회적 갈등 및 정책 이슈 등이 포함됩니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회 원 구성 및 법안 처리 난항",
+        "summary": "여야 간의 첨예한 대립으로 국회 원 구성 협상이 지연되고 있으며, 이로 인해 주요 법안 처리에도 차질이 빚어지고 있습니다. 특히 검찰 관련 법안과 특검법을 둘러싼 공방이 치열합니다.",
+        "articles": [
+          {
+            "title": "원 구성 마무리 못한 국회…‘반쪽 국회’ 출구 찾을까",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01820406645516160",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 17:08:00 +0900"
+          },
+          {
+            "title": "여야 대치에 국회 정상화 안갯속..종합특검, 형소법 개정안 대치",
+            "url": "https://www.kgnews.co.kr/news/article.html?no=904344",
+            "outlet": "kgnews.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 17:12:00 +0900"
+          },
+          {
+            "title": "국회 정상화 '시계 제로'… 원 구성 협상 대신 필버로 맞선 국민의힘",
+            "url": "https://www.hankookilbo.com/news/article/A2026071915290000228?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 19 Jul 2026 19:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "검찰 수사권 조정 및 관련 법안 논쟁",
+        "summary": "검찰의 보완수사권 폐지 및 수사·기소 분리를 둘러싼 법안 논쟁이 가열되고 있습니다. 여야 간 입장 차이가 크며, 법안 통과 시 경찰 수사에 미칠 영향에 대한 우려도 제기됩니다.",
+        "articles": [
+          {
+            "title": "한동훈 \"與 형소법 개정안, 경찰이 영장 없이 무제한 체포 가능\"",
+            "url": "http://www.srtimes.kr/news/articleView.html?idxno=207782",
+            "outlet": "srtimes.kr",
+            "publishedAt": "Sun, 19 Jul 2026 17:30:00 +0900"
+          },
+          {
+            "title": "[자막뉴스] \"보완해오세요\" 상반기 6만 번 돌려보냈다…경찰 캐비닛엔 ...",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664085&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 18:04:00 +0900"
+          },
+          {
+            "title": "추미애 \"검찰개혁 더 미룰 수 없어…수사·기소 분리해야\"",
+            "url": "http://www.econonews.co.kr/news/articleView.html?idxno=441407",
+            "outlet": "econonews.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 18:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경제 안보 및 산업 정책 이슈",
+        "summary": "반도체 등 핵심 기술의 해외 유출 방지 및 확보, 경제 안보 비서관 임명, 재생에너지 확대 계획 등 경제 안보와 관련된 정책 및 이슈들이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "이재명 대통령, 신임 靑경제 안보 비서관에 김성열 산업부 실장 임명",
+            "url": "https://www.mk.co.kr/article/12101883",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 18:13:00 +0900"
+          },
+          {
+            "title": "핵심기술 해외유출, “국가안보 위협...처벌 강화해야”...국민 10명 중 ...",
+            "url": "https://www.m-economynews.com/news/article.html?no=68870",
+            "outlet": "m-economynews.com",
+            "publishedAt": "Sun, 19 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "[단독] 정부, 2040년까지 재생에너지 설비용량 6배 이상 늘린다",
+            "url": "https://www.hankyung.com/article/2026071928991",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 19 Jul 2026 18:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "부동산 정책 및 주거 문제",
+        "summary": "정부의 부동산 정책 추진과 관련하여 유휴지 활용, 주거권 보장, 포용적 주거 체제 전환 등에 대한 논의가 이어지고 있습니다. 공급 관련 법안 처리 지연 문제도 지적됩니다.",
+        "articles": [
+          {
+            "title": "[사설] 부동산 토론회, ‘포용적 주거 체제’ 대전환 계기 삼아야",
+            "url": "https://www.hani.co.kr/arti/opinion/editorial/1268907.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 18:18:00 +0900"
+          },
+          {
+            "title": "정부 '속도전' 독촉에도…유휴지 곳곳 \"일방적 결정\"",
+            "url": "https://www.hankyung.com/article/2026071928741",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 19 Jul 2026 18:20:00 +0900"
+          },
+          {
+            "title": "[사설] 출산율 반등의 이면, 또 다시 드러난 격차사회",
+            "url": "https://www.khan.co.kr/article/202607191816001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 18:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "저임금 노동자 및 경제 성장 과실 분배",
+        "summary": "경제 성장에도 불구하고 저임금 노동자에게 돌아가는 몫이 부족하다는 지적이 제기되고 있습니다. 최저임금 인상 및 경제 성장 과실의 공정한 분배에 대한 논의가 필요합니다.",
+        "articles": [
+          {
+            "title": "[사설] 저임금 노동자에게도 경제 성장 과실을",
+            "url": "https://www.idomin.com/news/articleView.html?idxno=2010367",
+            "outlet": "idomin.com",
+            "publishedAt": "Sun, 19 Jul 2026 19:00:00 +0900"
+          },
+          {
+            "title": "최태원 \"메모리 반도체 확보 전쟁 시작, 내년 공급난 더 심해질 것\"",
+            "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=83964",
+            "outlet": "mediafine.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 18:48:00 +0900"
+          },
+          {
+            "title": "이 대통령 “대한민국, 성장과 민주주의 함께 이룩…인류 공동의 성공 ...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614303&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 19:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "건강보험공단 정보 유출 의혹",
+        "summary": "국민건강보험공단에서 민감 정보가 유출되었다는 의혹이 제기되며 시민단체가 책임 있는 모습을 요구하고 있습니다. 정보 보안 및 관리 체계에 대한 점검이 필요합니다.",
+        "articles": [
+          {
+            "title": "시민단체 “건보공단, 책임있는 모습 보여달라” 성토, 왜",
+            "url": "https://www.kbmaeil.com/article/20260719500731",
+            "outlet": "kbmaeil.com",
+            "publishedAt": "Sun, 19 Jul 2026 18:06:00 +0900"
+          },
+          {
+            "title": "김영진 \"유시민의 이재명 정부 비판, 옳은 진단·처방 아냐\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5206772",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Sun, 19 Jul 2026 18:20:00 +0900"
+          },
+          {
+            "title": "김구연 경남도의원 \"벼 재배농가 경영안정자금, 예산 공백 없어야\"",
+            "url": "http://www.breaknews.com/1222607",
+            "outlet": "breaknews.com",
+            "publishedAt": "Sun, 19 Jul 2026 18:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
