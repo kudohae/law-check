@@ -1,0 +1,148 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T10:39:25.659Z",
+  "title": "2026년 07월 21일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국립 외교 원 해킹",
+        "summary": "국립 외교 원 해킹으로 인한 정보 유출",
+        "articles": [
+          {
+            "title": "열 달간 뚫린 국립 외교 원, 1만 외교 관 정보 '탈탈'",
+            "url": "http://www.00news.co.kr/news/articleView.html?idxno=105281",
+            "outlet": "00news.co.kr",
+            "publishedAt": "Tue, 21 Jul 2026 19:20:00 +0900"
+          },
+          {
+            "title": "국립 외교 원 해킹으로 韓 외교 관 정보 최대 1만건 유출",
+            "url": "https://www.etnews.com/20260721000337",
+            "outlet": "etnews.com",
+            "publishedAt": "Tue, 21 Jul 2026 19:17:00 +0900"
+          },
+          {
+            "title": "초유의 외교관 1만 건 정보 유출, 北 소행? 외교부 '중립적으로 볼 것'",
+            "url": "https://www.pressian.com/pages/articles/2026072117091073932",
+            "outlet": "pressian"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "노동 쟁의",
+        "summary": "노동 쟁의와 관련된 이슈",
+        "articles": [
+          {
+            "title": "\"영업익 N%성과급 놓고 파업 안 된다\" 못박은 李",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05503846645516816",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Tue, 21 Jul 2026 19:21:00 +0900"
+          },
+          {
+            "title": "노동 자 잇단 사망에 헬기 추락까지…송전탑 공사 안전 '빨간불'",
+            "url": "https://www.yna.co.kr/view/AKR20260721176300062",
+            "outlet": "yna"
+          },
+          {
+            "title": "공노총, 정부의 공무원 초과근무제도 개선방안 '최악의 제도 개악' 성명",
+            "url": "http://www.lawissue.co.kr/view.php?ud=2026072119120979089a8c8bf58f_12",
+            "outlet": "lawissue.co.kr",
+            "publishedAt": "Tue, 21 Jul 2026 19:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "국회 보이콧 철회",
+        "summary": "국회 보이콧 철회와 관련된 이슈",
+        "articles": [
+          {
+            "title": "국힘, 보이콧 접고 국회 복귀… 7개 상임위원장직 수락",
+            "url": "https://www.kbmaeil.com/article/20260721500798",
+            "outlet": "kbmaeil.com",
+            "publishedAt": "Tue, 21 Jul 2026 18:44:00 +0900"
+          },
+          {
+            "title": "국힘, 7개 상임위원장직 수락하기로…국회 일정 보이콧 철회",
+            "url": "https://biz.heraldcorp.com/article/10815490",
+            "outlet": "herald"
+          },
+          {
+            "title": "국힘 보이콧 철회, 국회 정상화 수순… 7개 상임위원장직 수락",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2289483",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Tue, 21 Jul 2026 19:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "김태규 종합특검 연장법 반대",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김태규 \"종합특검 연장법 반대...특검, 세금으로 돌아가는 영구기관\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5207290",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Tue, 21 Jul 2026 19:19:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"광주 반도체 공장 건설이 노동 쟁의 대상? 국민들 깜짝 놀라...",
+            "url": "https://www.hankookilbo.com/news/article/A2026072116040005905?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 21 Jul 2026 19:00:00 +0900"
+          },
+          {
+            "title": "박나래 사태, 새 국면 맞았다…활동 복귀 가능할까 [종합]",
+            "url": "https://mhnse.com/news/articleView.html?idxno=1466586",
+            "outlet": "mhnse.com",
+            "publishedAt": "Tue, 21 Jul 2026 19:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "의식주 상실은 기본권 침해",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "의식주 상실은 ‘기본권 침해’… 인식 전환, 아직은 걸음마 [기후재난...",
+            "url": "https://www.kyeongin.com/article/1767670",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Tue, 21 Jul 2026 19:34:00 +0900"
+          },
+          {
+            "title": "李대통령 \"부동산 불로소득, 공정-상식 파괴 주범\"",
+            "url": "https://www.viewsnnews.com/article?q=237337",
+            "outlet": "viewsnnews.com",
+            "publishedAt": "Tue, 21 Jul 2026 19:32:00 +0900"
+          },
+          {
+            "title": "[위클리오늘] 함평출신 모정환 전남광주특별시의원 \"전남형 만원주택, ...",
+            "url": "http://www.weeklytoday.com/news/articleView.html?idxno=786345",
+            "outlet": "weeklytoday.com",
+            "publishedAt": "Tue, 21 Jul 2026 18:54:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
