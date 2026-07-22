@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-22T10:39:42.991Z",
+  "title": "2026년 07월 22일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 7월 22일 한국 사회의 주요 공공 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "부동산 및 주거 안정 정책 논의",
+        "summary": "정부의 부동산 정책 발표와 함께 세입자, 청년, 주거 취약 계층의 목소리를 반영해야 한다는 요구가 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "“정부는 무주택 세입자들의 목소리를 들어라”",
+            "url": "https://m.skyedaily.com/news_view.html?ID=308367",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Wed, 22 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "이재명 정부 부동산 대책, \"세입자·청년· 주거 취약계층 목소리 빠졌다...",
+            "url": "https://www.beminor.com/news/articleView.html?idxno=30173",
+            "outlet": "beminor.com",
+            "publishedAt": "Wed, 22 Jul 2026 19:08:00 +0900"
+          },
+          {
+            "title": "서영석 의원, 소규모주택정비 소음규제 완화법 발의",
+            "url": "https://www.betanews.net/article/view/beta202607210084",
+            "outlet": "betanews.net",
+            "publishedAt": "Wed, 22 Jul 2026 19:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "노동 관련 법안 및 정책 쟁점",
+        "summary": "노란봉투법 시행 이후 쟁의 범위 논란과 함께 콜센터 노동자들의 열악한 근무 환경 개선 요구가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "노란봉투법 '경영 판단' 경계 다시 긋는다… 노동 부, 쟁의 기준 손질",
+            "url": "https://www.m-i.kr/news/articleView.html?idxno=1394287",
+            "outlet": "m-i.kr",
+            "publishedAt": "Wed, 22 Jul 2026 19:26:00 +0900"
+          },
+          {
+            "title": "콜센터 노동 자들 \"실적 압박 속에서 화장실조차 제때 가지 못해\"",
+            "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277024",
+            "outlet": "jeonmae.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 19:18:00 +0900"
+          },
+          {
+            "title": "[사설]3대 메가프로젝트가 노동권 후퇴의 빌미 돼서야",
+            "url": "https://www.khan.co.kr/article/202607221826001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 18:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "지역 의료 환경 개선 및 공공 의료 강화",
+        "summary": "정부는 지역 의료 환경 개선을 균형 발전의 핵심으로 삼고, 공공·필수 의료에 대한 국가 책임을 강화하는 방안을 추진하고 있습니다.",
+        "articles": [
+          {
+            "title": "이재명 정부 부동산 대책, \"세입자·청년· 주거 취약계층 목소리 빠졌다...",
+            "url": "https://www.beminor.com/news/articleView.html?idxno=30173",
+            "outlet": "beminor.com",
+            "publishedAt": "Wed, 22 Jul 2026 19:08:00 +0900"
+          },
+          {
+            "title": "이 대통령, 의료AI 위한 GPU·데이터 규제 완화 지원 약속",
+            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3008848",
+            "outlet": "bosa.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 18:36:00 +0900"
+          },
+          {
+            "title": "이 대통령 “공공 의료 확장 위해 정부 책임 강화… 의료 수가 합리화 중...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617415&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 19:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "기후 위기 대응 및 탄소중립 목표 설정",
+        "summary": "국회 기후 위기특별위원회가 2040년 온실가스 감축 목표를 설정하고, 관련 법안 개정을 추진하고 있습니다.",
+        "articles": [
+          {
+            "title": "온실가스 감축목표, 범위 형태로..2040년 69~80%",
+            "url": "http://www.fnnews.com/news/202607221850323354",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 22 Jul 2026 18:56:00 +0900"
+          },
+          {
+            "title": "국회 기후 특위, 2040년 온실가스 69~80% 감축 합의",
+            "url": "https://www.sedaily.com/article/20070693?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Wed, 22 Jul 2026 18:57:00 +0900"
+          },
+          {
+            "title": "이런 장마, 전 부치기도 옛말 [이종건의 함께 먹고 삽시다]",
+            "url": "https://www.hani.co.kr/arti/opinion/column/1269503.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 19:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "AI 및 첨단 산업 육성 정책",
+        "summary": "이재명 대통령의 미국 순방을 계기로 AI 분야의 협력 강화 및 관련 규제 완화 논의가 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "이 대통령, 의료AI 위한 GPU·데이터 규제 완화 지원 약속",
+            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3008848",
+            "outlet": "bosa.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 18:36:00 +0900"
+          },
+          {
+            "title": "李대통령과 韓 총수들… 美서 젠슨 황 만난다",
+            "url": "https://www.dt.co.kr/article/12074033?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 19:11:00 +0900"
+          },
+          {
+            "title": "李, 美서 샘 올트먼·젠슨 황 만난다…'샌프란시스코 AI 선언' 발표 [종...",
+            "url": "http://www.inews24.com/view/1987904",
+            "outlet": "inews24.com",
+            "publishedAt": "Wed, 22 Jul 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "교육 정책 및 교부금 관련 논의",
+        "summary": "교육교부금 축소 반대 목소리와 함께 지역별 교육 인재 양성 방안이 논의되고 있습니다.",
+        "articles": [
+          {
+            "title": "안민석 교육감도 \"교육교부금 축소 반대\"",
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029663",
+            "outlet": "kihoilbo.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 19:30:00 +0900"
+          },
+          {
+            "title": "'교육 지산지소' 내건 김대중 교육감…\"반도체·AI 인재 양성\"",
+            "url": "http://news.ebs.co.kr/ebsnews/allView/60750196/N",
+            "outlet": "news.ebs.co.kr",
+            "publishedAt": "Wed, 22 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "유보통합 어디까지 왔나… 3법 개정과 재정 확보가 다음 퍼즐",
+            "url": "https://www.ibabynews.com/news/articleView.html?idxno=153099",
+            "outlet": "ibabynews.com",
+            "publishedAt": "Wed, 22 Jul 2026 18:20:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
