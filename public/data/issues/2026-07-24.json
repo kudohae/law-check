@@ -1,0 +1,150 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T10:34:45.495Z",
+  "title": "2026년 07월 24일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "한국 사회의 주요 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "석유 최고가격 동결",
+        "summary": "중동 리스크에도 석유 최고가격 동결",
+        "articles": [
+          {
+            "title": "[속보] 8차 석유 최고가격 동결…국제유가 급등에 출구전략 일단 정지",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026072419193281189",
+            "outlet": "busan.com",
+            "publishedAt": "Fri, 24 Jul 2026 19:20:00 +0900"
+          },
+          {
+            "title": "석유 최고가격 동결…물가 상승·금리 인상 서민부담 고려",
+            "url": "https://news.tf.co.kr/read/economy/2346809.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 19:01:00 +0900"
+          },
+          {
+            "title": "휘발유 1784원·경유 1773원·등유 1380원···정부, 석유 최고가격 동결",
+            "url": "https://www.khan.co.kr/article/202607241900001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 19:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "부동산 정책 비판",
+        "summary": "이재명 대통령 부동산 정책 비판",
+        "articles": [
+          {
+            "title": "이재명 대통령 부동산 정책 비판...국힘 이어 민주당내에서도 목소리 나...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=737982",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 18:21:00 +0900"
+          },
+          {
+            "title": "[단독] 월세가격까지 치솟자…정부, 월세 세액공제 혜택 늘린다",
+            "url": "https://www.mk.co.kr/article/12106950",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 18:06:00 +0900"
+          },
+          {
+            "title": "국힘 \"보유세 올리고 공급 대책 없다\"…李 정부 부동산 정책 맹공",
+            "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315569",
+            "outlet": "wolyo.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 18:44:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "검찰 보완수사권 폐지",
+        "summary": "민주당, 검찰 보완수사권 폐지 당론 확정",
+        "articles": [
+          {
+            "title": "[이로운주목]검찰 보완수사권 폐지, 민주당 당론 확정…미완의 개혁 '마...",
+            "url": "https://www.eroun.net/news/articleView.html?idxno=86238",
+            "outlet": "eroun.net",
+            "publishedAt": "Fri, 24 Jul 2026 18:40:00 +0900"
+          },
+          {
+            "title": "與, '검사 보완수사권 폐지' 당론 확정…원 구성 하루 만에 여야 대치",
+            "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307652",
+            "outlet": "straightnews.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 18:30:00 +0900"
+          },
+          {
+            "title": "檢 보완수사권 폐지에…野 \"필리버스터\" 예고",
+            "url": "https://www.nocutnews.co.kr/news/5526514",
+            "outlet": "nocutnews.co.kr"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "중동 리스크에도 석유 최고가격 동결",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "중동 리스크에도 석유 최고가격 동결…“휘발유 1800원대 유지”",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=05746566645517800",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 19:01:00 +0900"
+          },
+          {
+            "title": "한동훈 “李, 노봉법 문제 깨달았으면 ‘잘못했다’ 인정해야”",
+            "url": "https://www.munhwa.com/article/11604888?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Fri, 24 Jul 2026 19:14:00 +0900"
+          },
+          {
+            "title": "정부, 폐지 검토했던 8차 석유최고가 결국 동결…\"서민부담 고려\"",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260724010009022",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 19:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "손배찬 파주시장",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "손배찬 파주시장, 국회 정책 토론회서 ‘민통선 북상’ 호소",
+            "url": "https://www.nspna.com/news/?mode=view&newsid=821969",
+            "outlet": "nspna.com",
+            "publishedAt": "Fri, 24 Jul 2026 19:32:00 +0900"
+          },
+          {
+            "title": "중동 불안에도, 석유 최고가 '동결'...정부 \"민생 부담 우선\"",
+            "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4096906",
+            "outlet": "news.bbsi.co.kr",
+            "publishedAt": "Fri, 24 Jul 2026 19:00:00 +0900"
+          },
+          {
+            "title": "李대통령, 여름휴가 반납…참모·국무위원엔 “휴가는 꼭 다녀오라”",
+            "url": "https://www.jjan.kr/article/20260724500066",
+            "outlet": "jjan.kr",
+            "publishedAt": "Fri, 24 Jul 2026 18:26:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
