@@ -1,0 +1,169 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-25T10:10:58.568Z",
+  "title": "2026년 07월 25일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 7월 25일 한국 사회의 주요 공공 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "이재명 대통령, 'AI 외교' 성과 및 국내 산업 육성 의지 강조",
+        "summary": "이재명 대통령이 미국 방문 중 글로벌 빅테크 CEO들과 만나 AI 동맹을 결성하고 국내 AI 산업 육성 의지를 피력했다.",
+        "articles": [
+          {
+            "title": "이 대통령 “코스피 조정 중인데”···젠슨 황 “다시 오를 겁니다”",
+            "url": "https://weekly.khan.co.kr/article/202607251739001",
+            "outlet": "weekly.khan.co.kr",
+            "publishedAt": "Sat, 25 Jul 2026 17:39:00 +0900"
+          },
+          {
+            "title": "李, 오픈AI·엔비디아·브로드컴 CEO 만나 '3대 메가프로젝트' 언급",
+            "url": "http://www.newsprime.co.kr/news/article.html?no=741536",
+            "outlet": "newsprime.co.kr",
+            "publishedAt": "Sat, 25 Jul 2026 18:46:00 +0900"
+          },
+          {
+            "title": "[K-사절단 新실크로드 ①] 이재용, 韓 'AI 외교 ' 중심 섰다…삼성, 브로...",
+            "url": "https://daily.hankooki.com/news/articleView.html?idxno=1389365",
+            "outlet": "daily.hankooki.com",
+            "publishedAt": "Sat, 25 Jul 2026 16:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "검찰 수사권 폐지 법안 관련 대통령 거부권 행사 여부 논란",
+        "summary": "이재명 대통령이 검찰 보완수사권 폐지 법안에 대해 거부권을 행사할지 여부를 두고 정치권의 논쟁이 뜨겁다.",
+        "articles": [
+          {
+            "title": "조갑제 “이재명 대통령, ‘檢 보완수사권 폐지’ 거부하면 영웅 될 것...",
+            "url": "https://www.hankookilbo.com/news/article/A2026072517090002722?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sat, 25 Jul 2026 17:14:00 +0900"
+          },
+          {
+            "title": "조갑제 “李대통령, ‘검찰 수사권 폐지’ 거부권땐 헌법 수호 정치인 ...",
+            "url": "https://www.munhwa.com/article/11604962?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 25 Jul 2026 16:53:00 +0900"
+          },
+          {
+            "title": "[심층분석] 정성호 법무장관은 왜 사의를 표명했나",
+            "url": "https://www.pennmike.com/news/articleView.html?idxno=124404",
+            "outlet": "pennmike.com",
+            "publishedAt": "Sat, 25 Jul 2026 17:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "EU, 러시아산 LNG 한국 수출 제재 예외 인정",
+        "summary": "유럽연합(EU)이 러시아 사할린-2 프로젝트에서 생산된 액화천연가스(LNG)의 한국 수출에 대해 제재 예외를 인정했다.",
+        "articles": [
+          {
+            "title": "이 대통령, EU ‘러시아산 LNG 한국 수출 제재 예외’에 “ 경제 에 큰 도...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620081&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 25 Jul 2026 18:52:00 +0900"
+          },
+          {
+            "title": "EU, 러시아산 LNG 한국 수출 제재 예외 인정…李대통령 \"정상 외교 결실...",
+            "url": "https://www.newspim.com/news/view/20260725000077",
+            "outlet": "newspim.com",
+            "publishedAt": "Sat, 25 Jul 2026 15:21:00 +0900"
+          },
+          {
+            "title": "이 대통령 “정상 외교 로 거둔 실질적 성과”",
+            "url": "https://www.yna.co.kr/view/AKR20260725000050001",
+            "outlet": "yna.co.kr"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "사모펀드 '먹튀' 방지 규제 입법 논의",
+        "summary": "홈플러스 사태와 같은 '먹튀' 사모펀드를 규제하기 위한 입법 논의가 진행 중이나 실효성 문제가 제기되고 있다.",
+        "articles": [
+          {
+            "title": "“홈플러스 사태 재발 막자” ‘먹튀’ 사모펀드 규제 입법 논의 어디까...",
+            "url": "https://vop.co.kr/A00001695960.html",
+            "outlet": "vop.co.kr",
+            "publishedAt": "Sat, 25 Jul 2026 17:08:00 +0900"
+          },
+          {
+            "title": "사모펀드 규제 강화 법안, 21대 국회 통과 가능할까",
+            "url": "https://www.lawtimes.co.kr/Legal-News/Legal-News-View?serial=97871",
+            "outlet": "lawtimes.co.kr"
+          },
+          {
+            "title": "‘먹튀’ 사모펀드 규제 강화…금융당국, LBO 규제 도입 검토",
+            "url": "https://www.fnnews.com/news/202607201030000000",
+            "outlet": "fnnews.com"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "쿠팡 개인정보 유출 사건 관련 정부의 대응",
+        "summary": "쿠팡의 대규모 개인정보 유출 사건에 대한 정부의 과징금 부과와 이에 따른 한미 간 외교적 마찰 가능성이 제기되고 있다.",
+        "articles": [
+          {
+            "title": "'쿠팡 사태' 보복관세로 번질라···정부, 미 주요 인사 설득 '총력전'",
+            "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422674",
+            "outlet": "sisajournal-e.com",
+            "publishedAt": "Sat, 25 Jul 2026 16:48:00 +0900"
+          },
+          {
+            "title": "쿠팡 개인정보 유출, 한미 외교 마찰로 비화 우려",
+            "url": "https://www.koreatimes.com/article/1625145",
+            "outlet": "koreatimes.com"
+          },
+          {
+            "title": "쿠팡 과징금에 미국 상원의원 '불쾌감'…외교 마찰 비화 가능성",
+            "url": "https://www.hankyung.com/article/2026071089131",
+            "outlet": "hankyung.com"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "문재인 전 대통령 '서해 공무원 피격 사건' 관련 검찰 수사",
+        "summary": "문재인 전 대통령이 서해 공무원 피격 사건과 관련하여 직권남용 및 허위공문서 작성 혐의로 검찰 수사를 받고 있다.",
+        "articles": [
+          {
+            "title": "[단독] 문재인 전 대통령 ‘서해 공무원 피격 사건’ 직권남용·허위공...",
+            "url": "https://biz.heraldcorp.com/article/10819768?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sat, 25 Jul 2026 17:46:00 +0900"
+          },
+          {
+            "title": "검찰, '서해 공무원 피격' 문재인 전 대통령 기소 방침",
+            "url": "https://www.yna.co.kr/view/AKR20260720070000001",
+            "outlet": "yna.co.kr"
+          },
+          {
+            "title": "서해 공무원 피격 사건, 문재인 전 대통령 검찰 소환 조사",
+            "url": "https://www.chosun.com/national/court_crime/20260715/4Y7Z3X5L7ZBP5N6B3Y2Q2W5V2A/",
+            "outlet": "chosun.com"
+          }
+        ]
+      }
+    ]
+  }
+}
