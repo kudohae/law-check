@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T10:19:34.535Z",
+  "title": "2026년 07월 26일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 7월 26일 한국 사회의 주요 공공 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "검찰 보완수사권 폐지 논란 및 정치권 공방",
+        "summary": "검찰의 보완수사권 폐지를 둘러싼 여야 간의 공방과 관련 법안 처리 움직임이 주요 쟁점으로 부상했습니다. 이는 사법 시스템의 변화와 정치적 이해관계가 얽힌 사안입니다.",
+        "articles": [
+          {
+            "title": "與 당권주자 전국서 난타전 [정치오늘]",
+            "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202987",
+            "outlet": "sisaon.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 18:22:00 +0900"
+          },
+          {
+            "title": "[천지일보 사설] 민주 절차 외면한 '보완수사권' 폐지, 국민은 기억할 ...",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3419988",
+            "outlet": "newscj.com",
+            "publishedAt": "Sun, 26 Jul 2026 17:48:00 +0900"
+          },
+          {
+            "title": "이 대통령·국힘, 중도층 나란히 이탈…보완수사 폐지-선거조작 음모론...",
+            "url": "https://www.dt.co.kr/article/12074824?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 18:51:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "이재명 대통령의 부동산 정책 및 3기 신도시 추진",
+        "summary": "이재명 대통령이 주재한 부동산 정책 토론회와 3기 신도시 추진 관련 소식이 보도되었습니다. 보상 문제와 현실적인 어려움이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[ 정치 평론] 이재명 대통령 인기와 우려",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3420007",
+            "outlet": "newscj.com",
+            "publishedAt": "Sun, 26 Jul 2026 19:04:00 +0900"
+          },
+          {
+            "title": "李대통령 \"사업기간 절반으로\"…3기 신도시 속도전, 현실은 '보상 전쟁...",
+            "url": "https://www.ajunews.com/view/20260726170845133",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 26 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "이 대통령·국힘, 중도층 나란히 이탈…보완수사 폐지-선거조작 음모론...",
+            "url": "https://www.dt.co.kr/article/12074824?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 18:51:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "지역 보건소 의료 공백 및 인력난 문제",
+        "summary": "지역 보건소의 필수 인력 부족으로 인한 의료 공백 문제가 심각하며, 이에 대한 근본적인 해결책 마련이 시급하다는 지적이 나왔습니다.",
+        "articles": [
+          {
+            "title": "[사설] 지역보건소 의료공백, '땜질식' 대책만으론 안 된다",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1065847",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "[포토뉴스] 장마 끝, 대전 중구 폭염 대응 강화",
+            "url": "https://daily.hankooki.com/news/articleView.html?idxno=1389413",
+            "outlet": "daily.hankooki.com",
+            "publishedAt": "Sun, 26 Jul 2026 18:20:00 +0900"
+          },
+          {
+            "title": "“폭염 속 논·밭 작업 절대 안 돼요”···전국 농촌서 사망 잇따라",
+            "url": "https://www.khan.co.kr/article/202607261906001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 19:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "교육교부금 제도 개편 논의",
+        "summary": "기획예산처와 교육부가 교육교부금 연동률 개편을 두고 갈등을 빚고 있으며, 관련 법안 발의 움직임이 있습니다. 이는 교육 재정 분배에 큰 영향을 미칠 수 있는 사안입니다.",
+        "articles": [
+          {
+            "title": "20억 초과 1주택, 세금 461억 덜 냈다… 종부세 더 물리나",
+            "url": "http://www.fnnews.com/news/202607261758530894",
+            "outlet": "fnnews.com",
+            "publishedAt": "Sun, 26 Jul 2026 17:59:00 +0900"
+          },
+          {
+            "title": "예산처 vs 교육 부 ‘ 교육 교부금’ 갈등 2라운드",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1785058029&code=11151100&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 19:03:00 +0900"
+          },
+          {
+            "title": "박홍근 \"교육교부금 20.79% 연동 개편 법안 곧 발의\"",
+            "url": "https://www.hankyung.com/article/2026072665311",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 26 Jul 2026 18:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "국제 유가 상승 및 물가 불안",
+        "summary": "홍해 사태 등으로 국제 유가가 다시 상승하며 하반기 물가 불안에 대한 우려가 커지고 있습니다. 이는 경제 전반에 영향을 미칠 수 있는 요인입니다.",
+        "articles": [
+          {
+            "title": "국제유가 급등, 8차 석유 최고가격 동결",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026072618001171148",
+            "outlet": "busan.com",
+            "publishedAt": "Sun, 26 Jul 2026 18:02:00 +0900"
+          },
+          {
+            "title": "홍해까지 막히자 국제유가 다시 들썩…하반기 물가 비상",
+            "url": "https://www.joongang.co.kr/article/25448234",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 17:46:00 +0900"
+          },
+          {
+            "title": "美 대체관세에 3% 성장률 경고등… 정부는 대미투자로 관세율 15% 사수",
+            "url": "https://www.hankookilbo.com/news/article/A2026072615180003647?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 26 Jul 2026 19:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "폭염 속 노동 환경 및 안전 문제",
+        "summary": "연일 계속되는 폭염으로 인해 농촌 지역에서 사망 사고가 잇따르고 있으며, 옥외 근로자들의 안전 문제가 심각하게 대두되고 있습니다. 노동 환경 개선 및 안전 대책 마련이 시급합니다.",
+        "articles": [
+          {
+            "title": "[사설] 지역보건소 의료공백, '땜질식' 대책만으론 안 된다",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1065847",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 19:02:00 +0900"
+          },
+          {
+            "title": "“폭염 속 논·밭 작업 절대 안 돼요”···전국 농촌서 사망 잇따라",
+            "url": "https://www.khan.co.kr/article/202607261906001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sun, 26 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "“태풍이 몰아쳐도 우산 챙긴다”…K직장인 10명 중 4명 “근무 조정 못...",
+            "url": "https://www.etnews.com/20260726000132",
+            "outlet": "etnews.com",
+            "publishedAt": "Sun, 26 Jul 2026 18:53:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
