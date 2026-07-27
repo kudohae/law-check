@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T10:34:58.077Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-07-27T12:21:24.714Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000326052",
@@ -1778,7 +1778,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327532/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1790,7 +1790,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "이 법률안은 시설물의 안전 및 유지관리에 관한 특별법 시행규칙을 일부 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:13:44.026Z"
     },
     {
       "id": "government-progress-2000000327524",
@@ -1808,7 +1810,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327524/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1820,7 +1822,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "시설물의 안전 및 유지관리에 관한 특별법 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:14:06.971Z"
     },
     {
       "id": "government-progress-2000000327300",
@@ -1870,7 +1874,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326358/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1882,7 +1886,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "사할린동포 지원에 관한 특별법 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:14:29.932Z"
     },
     {
       "id": "government-progress-2000000326352",
@@ -1900,7 +1906,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326352/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1912,7 +1918,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "사할린동포 지원에 관한 특별법 시행령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:14:52.978Z"
     },
     {
       "id": "government-progress-2000000316382",
@@ -1930,7 +1938,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000316382/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1942,7 +1950,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "축산물 위생관리법 시행규칙은 축산물 위생 관리에 관한 사항을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:15:16.003Z"
     },
     {
       "id": "government-progress-2000000329204",
@@ -1992,7 +2002,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328244/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2004,7 +2014,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "어선원 및 어선 재해보상보험법 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:15:39.054Z"
     },
     {
       "id": "government-progress-2000000329234",
@@ -2022,7 +2034,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329234/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 전부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2034,7 +2046,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "드론작전사령부령은 드론작전사령부의 설치 및 임무 등에 관한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:16:02.052Z"
     },
     {
       "id": "government-progress-2000000329150",
@@ -2084,7 +2098,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326642/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2096,7 +2110,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "이 법률안은 대기환경보전법 시행규칙을 일부 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:16:25.029Z"
     },
     {
       "id": "government-progress-2000000327294",
@@ -2114,7 +2130,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327294/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2126,7 +2142,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "댐 건설 및 관리, 그리고 주변 지역 지원에 관한 법률 시행령을 일부 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:16:48.026Z"
     },
     {
       "id": "government-progress-2000000329058",
@@ -2144,7 +2162,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329058/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2156,7 +2174,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "주택법 시행령 일부개정안은 주택 관련 법령을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:17:11.054Z"
     },
     {
       "id": "government-progress-2000000325304",
@@ -2174,7 +2194,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325304/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2186,7 +2206,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "농어촌정비법 시행령 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:17:33.989Z"
     },
     {
       "id": "government-progress-2000000326856",
@@ -2204,7 +2226,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326856/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2216,7 +2238,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "지방보조금통합관리망의 관리 및 운영에 관한 규칙은 지방보조금통합관리망의 설치 및 운영에 필요한 사항을 규정한다. 이 규칙은 지방보조금의 투명하고 효율적인 집행을 지원하기 위해 마련되었다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:17:57.501Z"
     },
     {
       "id": "government-progress-2000000327296",
@@ -2266,7 +2290,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327340/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2278,7 +2302,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "생활주변방사선 안전관리법 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:18:20.608Z"
     },
     {
       "id": "government-progress-2000000329106",
@@ -2296,7 +2322,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329106/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2308,7 +2334,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "고용보험법 시행령 일부개정령안은 고용보험법에서 위임된 사항과 그 시행에 필요한 사항을 규정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:18:43.716Z"
     },
     {
       "id": "government-progress-2000000326880",
@@ -2326,7 +2354,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326880/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2338,7 +2366,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "이 법률안은 무형유산의 보전 및 진흥에 관한 법률 시행규칙을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:19:06.760Z"
     },
     {
       "id": "government-progress-2000000328242",
@@ -2356,7 +2386,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328242/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2368,7 +2398,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "어선원 및 어선 재해보상보험법 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:19:29.744Z"
     },
     {
       "id": "government-progress-2000000326512",
@@ -2546,7 +2578,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329096/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2558,7 +2590,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "생물다양성 보전 및 이용에 관한 법률 시행령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:19:52.796Z"
     },
     {
       "id": "government-progress-2000000329194",
@@ -2608,7 +2642,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329098/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2620,7 +2654,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "생물다양성 보전 및 이용에 관한 법률 시행규칙 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:20:15.860Z"
     },
     {
       "id": "government-progress-2000000329136",
@@ -2638,7 +2674,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329136/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 국무총리훈령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2650,7 +2686,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "범정부 형벌 합리화 추진단을 설치하고 운영하는 규정을 제정한다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:20:38.784Z"
     },
     {
       "id": "government-progress-2000000325888",
@@ -2668,7 +2706,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325888/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2680,7 +2718,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "도시교통정비 촉진법 시행령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-27T12:21:02.086Z"
     },
     {
       "id": "government-progress-2000000326556",
