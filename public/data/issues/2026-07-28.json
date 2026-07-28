@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T10:58:50.092Z",
+  "title": "2026년 07월 28일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "조정식 의장 '대통령 연임' 발언 논란",
+        "summary": "조정식 의장의 대통령 연임 발언에 대한 논란",
+        "articles": [
+          {
+            "title": "趙의장 '연임 개헌은 국민 선택' 후폭풍...\"진정한 내란\" \"헌정파괴\"",
+            "url": "https://www.slist.kr/news/articleView.html?idxno=754831",
+            "outlet": "slist.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:44:00 +0900"
+          },
+          {
+            "title": "조정식 \"연임 개헌은 국민 선택\"…장동혁 \"검은 속내, 그것이 내란\"",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208793",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:31:00 +0900"
+          },
+          {
+            "title": "趙의장 \"現대통령 연임개헌 국민선택\" 논란…의장실 \"원론적 입장\"(종합...",
+            "url": "https://www.yna.co.kr/view/AKR20260728050453001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "노동법 개정과 노동위 재심",
+        "summary": "노동법 개정과 노동위 재심에 대한 논란",
+        "articles": [
+          {
+            "title": "'노봉법' 불복 소송 봇물 터졌다",
+            "url": "https://www.hidomin.com/news/articleView.html?idxno=715095",
+            "outlet": "hidomin.com",
+            "publishedAt": "Tue, 28 Jul 2026 19:38:00 +0900"
+          },
+          {
+            "title": "정부 \"8월까지 나프타 전년 수준 이상 확보\"",
+            "url": "https://www.dt.co.kr/article/12075294?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:06:00 +0900"
+          },
+          {
+            "title": "정부, 중동 리스크 재확산에 나프타 점검…\"8월까지 전년 수준 이상 확...",
+            "url": "http://www.4th.kr/news/articleView.html?idxno=2115379",
+            "outlet": "4th.kr",
+            "publishedAt": "Tue, 28 Jul 2026 18:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "전남광주통합특별시와 행정수도 특별법",
+        "summary": "전남광주통합특별시와 행정수도 특별법에 대한 논란",
+        "articles": [
+          {
+            "title": "조정식 의장 \"행정수도 특별법 연내 통과 노력\"…조상호 시장 \"올해가 골...",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=820629",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Tue, 28 Jul 2026 19:52:00 +0900"
+          },
+          {
+            "title": "전남광주통합특별시 운명 가를 핵심 법안 국회 처리 촉각",
+            "url": "http://www.jndn.com/article.php?aid=1785232619436856001",
+            "outlet": "jndn.com",
+            "publishedAt": "Tue, 28 Jul 2026 19:00:00 +0900"
+          },
+          {
+            "title": "'행정수도 특별법 연내 처리'…세종시, 국회의장 의지에 입법 총력전",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=346176",
+            "outlet": "greened.kr",
+            "publishedAt": "Tue, 28 Jul 2026 18:44:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "기준 중위소득 인상과 생계급여",
+        "summary": "기준 중위소득 인상과 생계급여에 대한 논란",
+        "articles": [
+          {
+            "title": "기준 중위소득 6.7% '역대 최고' 인상했지만... \"과소 책정, 현실과 괴리...",
+            "url": "https://www.hankookilbo.com/news/article/A2026072815010004302?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 28 Jul 2026 19:30:00 +0900"
+          },
+          {
+            "title": "내년 기준중위소득 6.7% 인상…4인 가구 692만9천885원 '역대 최대'",
+            "url": "http://www.hemophilia.co.kr/news/articleView.html?idxno=43459",
+            "outlet": "hemophilia.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:18:00 +0900"
+          },
+          {
+            "title": "국회·헌재로 간 도수치료 관리급여…원점 재검토되나",
+            "url": "https://www.imaeil.com/page/view/2026072809304437608",
+            "outlet": "imaeil.com",
+            "publishedAt": "Tue, 28 Jul 2026 19:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "국회 법안 처리와 교육 정책",
+        "summary": "국회 법안 처리와 교육 정책에 대한 논란",
+        "articles": [
+          {
+            "title": "장관·당 지도부 교육위에 집결…현안 해결 힘 받나",
+            "url": "https://www.hangyo.com/news/article.html?no=108638",
+            "outlet": "hangyo.com",
+            "publishedAt": "Tue, 28 Jul 2026 19:00:00 +0900"
+          },
+          {
+            "title": "안민석 경기 교육 감 '급하다' 지적에 \"20년 동안 계획\" 일축",
+            "url": "https://gg.newdaily.co.kr/site/data/html/2026/07/28/2026072800271.html",
+            "outlet": "gg.newdaily.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:50:00 +0900"
+          },
+          {
+            "title": "정규헌 \"김해시 교권침해 무혐의\" 교사 여전히 고통 속",
+            "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=853038",
+            "outlet": "hansbiz.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "산업은행 부산 이전과 공공기관 지방이전",
+        "summary": "산업은행 부산 이전과 공공기관 지방이전에 대한 논란",
+        "articles": [
+          {
+            "title": "[국책은행 지방이전①] 산업은행 부산 이전 논의···정책금융 경쟁력...",
+            "url": "http://www.finomy.com/news/articleView.html?idxno=258195",
+            "outlet": "finomy.com",
+            "publishedAt": "Tue, 28 Jul 2026 18:44:00 +0900"
+          },
+          {
+            "title": "추경호·이철우 첫 공식 회동…대구·경북 현안 해법 찾는다",
+            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079610",
+            "outlet": "kyongbuk.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:22:00 +0900"
+          },
+          {
+            "title": "정부 \"8월까지 나프타 전년 수준 이상 확보\"",
+            "url": "https://www.dt.co.kr/article/12075294?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "세계유산과 부산 선언",
+        "summary": "세계유산과 부산 선언에 대한 논란",
+        "articles": [
+          {
+            "title": "[기고] 세계유산의 진짜 시간, 등재 이후 시작된다",
+            "url": "https://zdnet.co.kr/view/?no=20260728101653",
+            "outlet": "zdnet.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:34:00 +0900"
+          },
+          {
+            "title": "趙의장 \"現대통령 연임개헌 국민선택\" 논란…의장실 \"원론적 입장\"(종합...",
+            "url": "https://www.yna.co.kr/view/AKR20260728050453001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 28 Jul 2026 19:14:00 +0900"
+          },
+          {
+            "title": "국회·헌재로 간 도수치료 관리급여…원점 재검토되나",
+            "url": "https://www.imaeil.com/page/view/2026072809304437608",
+            "outlet": "imaeil.com",
+            "publishedAt": "Tue, 28 Jul 2026 19:34:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
