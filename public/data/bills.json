@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T12:21:24.714Z",
+  "generatedAt": "2026-07-28T11:14:00.444Z",
   "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
@@ -2738,7 +2738,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326556/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2750,7 +2750,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 일부를 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-07-28T11:11:13.205Z"
     },
     {
       "id": "government-progress-2000000324574",
@@ -2768,7 +2770,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324574/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2780,7 +2782,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "국립대학병원 설치법 시행령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-28T11:11:39.927Z"
     },
     {
       "id": "government-progress-2000000329112",
@@ -2798,7 +2802,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329112/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2810,7 +2814,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "영유아보육법 시행규칙 일부개정안은 영유아 보육 관련 사항을 정하고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-07-28T11:12:03.046Z"
     },
     {
       "id": "government-progress-2000000329110",
@@ -2828,7 +2834,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329110/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2840,7 +2846,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "영유아보육법 시행령 일부개정령안은 영유아보육법에서 위임된 사항과 그 시행에 필요한 사항을 규정하고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-07-28T11:12:27.000Z"
     },
     {
       "id": "government-progress-2000000326102",
@@ -2858,7 +2866,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326102/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2870,7 +2878,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "국립대학치과병원 설치법 시행령 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-07-28T11:12:50.198Z"
     },
     {
       "id": "government-progress-2000000322926",
@@ -2888,7 +2898,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000322926/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2900,7 +2910,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "공동주택관리법 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-07-28T11:13:13.505Z"
     },
     {
       "id": "government-progress-2000000329074",
@@ -2918,7 +2930,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329074/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2930,7 +2942,9 @@
         }
       ],
       "createdAt": "2026-07-26T10:30:33.053Z",
-      "updatedAt": "2026-07-26T10:30:33.053Z"
+      "updatedAt": "2026-07-26T10:30:33.053Z",
+      "aiSummary": "이 법령은 소형모듈원자로의 개발을 촉진하고 지원하기 위한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-07-28T11:13:37.652Z"
     },
     {
       "id": "government-progress-2000000322050",
