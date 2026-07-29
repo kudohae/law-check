@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T11:04:32.210Z",
+  "title": "2026년 07월 29일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "검사 보완수사권 폐지",
+        "summary": "형소법 개정안, 법사위 통과",
+        "articles": [
+          {
+            "title": "'檢보완수사권 폐지' 형소법 개정안, 與 주도 법사위 통과…野 반발",
+            "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279314",
+            "outlet": "jeonmae.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 20:00:00 +0900"
+          },
+          {
+            "title": "거여 앞 속수무책 국민의힘…'검찰 보완수사권 폐지' 초읽기",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=381653",
+            "outlet": "sisajournal.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:29:00 +0900"
+          },
+          {
+            "title": "검사 '보완수사권' 폐지 법사위 통과…수사 주체 경찰로",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2291364",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "계엄 정당화 메시지",
+        "summary": "김태효 전 차장 구속기소",
+        "articles": [
+          {
+            "title": "특검, '계엄 정당화 메시지' 김태효 전 안보실 1차장 구속 기소",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026072918072728963",
+            "outlet": "busan.com",
+            "publishedAt": "Wed, 29 Jul 2026 18:40:00 +0900"
+          },
+          {
+            "title": "종합특검, 김태효 전 차장 구속기소…계엄 정당화 메시지",
+            "url": "https://www.joongang.co.kr/article/25449220",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 18:58:00 +0900"
+          },
+          {
+            "title": "종합특검, 계엄 정당화 메시지 의혹 김태효 전 1차장 구속기소",
+            "url": "https://www.seoul.co.kr/news/society/2026/07/29/20260729500257?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "현직 대통령 연임 개헌",
+        "summary": "청와대와 국회의장, 진화에 나서",
+        "articles": [
+          {
+            "title": "靑·국회의장 \"개헌 대통령 연임 불가\" 동시 진화",
+            "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=642059",
+            "outlet": "gnnews.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 20:02:00 +0900"
+          },
+          {
+            "title": "강훈식-홍익표까지 '현직 대통령 연임 개헌' 선 긋기…당권 주자들도 부...",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209056",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:37:00 +0900"
+          },
+          {
+            "title": "정성호 \"檢보완수사권 폐지, 대통령에 거부권 권유할 사항 아냐\"(종합)",
+            "url": "https://www.newsis.com/view/NISX20260729_0003728823",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "한국 스테이블코인 규제",
+        "summary": "2027년 가상자산 과세가 최대 변수",
+        "articles": [
+          {
+            "title": "한국 스테이블코인 규제 본격화…2027년 가상자산 과세가 최대 변수",
+            "url": "http://coinreaders.com/250170",
+            "outlet": "coinreaders.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:44:00 +0900"
+          },
+          {
+            "title": "금융 당국 두 수장 \"이 대통령 근저당, 사적 거래⋯규제 대상 아니야\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5209070",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:23:00 +0900"
+          },
+          {
+            "title": "금융위·금감원 수장 “대통령 아파트 근저당, 규제 대상 아냐”",
+            "url": "https://www.kukinews.com/article/view/kuk202607290204",
+            "outlet": "kukinews.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "이주 노동자 폭염 사망",
+        "summary": "3일 만에 사망",
+        "articles": [
+          {
+            "title": "한국 온 지 '3일' 만에 사망한 외국인...푹푹 찌는 폭염 속에서 일했다",
+            "url": "https://www.wikitree.co.kr/articles/1149271",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:50:00 +0900"
+          },
+          {
+            "title": "인권단체 \"평택 미군기지, 백린 유출 재발방지 대책 내놔라\"",
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030298",
+            "outlet": "kihoilbo.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:24:00 +0900"
+          },
+          {
+            "title": "'태움 사망'에도 병원은 솜방망이 처벌뿐 …14개 단체 '진상규명 시민지...",
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030299",
+            "outlet": "kihoilbo.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "수사공무원 친족특례",
+        "summary": "제한 추진",
+        "articles": [
+          {
+            "title": "더불어민주당 소병훈 국회의원, 수사공무원 '친족특례' 제한 추진…증거...",
+            "url": "http://www.inews24.com/view/1990037",
+            "outlet": "inews24.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:39:00 +0900"
+          },
+          {
+            "title": "검사 '보완수사권' 폐지 법사위 통과…수사 주체 경찰로",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2291364",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:32:00 +0900"
+          },
+          {
+            "title": "특검, '계엄 정당화 메시지' 김태효 전 안보실 1차장 구속 기소",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026072918072728963",
+            "outlet": "busan.com",
+            "publishedAt": "Wed, 29 Jul 2026 18:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue7",
+        "label": "정부 교육교부금 개편",
+        "summary": "인천 정치권, 교육권 침해 우려",
+        "articles": [
+          {
+            "title": "정부 교육교부금 개편…인천 정치 권 \"교육권 침해 우려\"",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328440",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Wed, 29 Jul 2026 19:56:00 +0900"
+          },
+          {
+            "title": "장애인교육법의 천국, 무법의 현실 [세상읽기]",
+            "url": "https://www.hani.co.kr/arti/opinion/column/1270570.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:58:00 +0900"
+          },
+          {
+            "title": "3기 진화위 3년, 단순한 조사 기한이 아니다 [왜냐면]",
+            "url": "https://www.hani.co.kr/arti/opinion/because/1270567.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 29 Jul 2026 19:42:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
