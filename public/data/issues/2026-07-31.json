@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-31T11:07:46.901Z",
+  "title": "2026년 07월 31일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "형사소송법 개정안 통과 등",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "형사소송법 개정안 통과",
+        "summary": "검찰 수사권 폐지 등",
+        "articles": [
+          {
+            "title": "靑 \"형사소송법 차질없는 시행에 최선\"…'거부권' 선 긋기",
+            "url": "https://www.pressian.com/pages/articles/2026073117172333063?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Fri, 31 Jul 2026 19:30:00 +0900"
+          },
+          {
+            "title": "文, 형소법 개정에 “검찰개혁 완수 다행…국민과 함께 환영”",
+            "url": "https://www.joongang.co.kr/article/25449918",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 31 Jul 2026 19:20:00 +0900"
+          },
+          {
+            "title": "檢 수사·기소권 완전 분리…문 전 대통령 \"못다 한 검찰개혁 마침내 완...",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2291771",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Fri, 31 Jul 2026 19:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "한미약품 오너 논란",
+        "summary": "법인카드 사용 등",
+        "articles": [
+          {
+            "title": "한미약품 \"송영숙 회장 법인카드 의혹 왜곡\"···사적 유용 보도 전면 ...",
+            "url": "https://www.smartbizn.com/news/articleView.html?idxno=150104",
+            "outlet": "smartbizn.com",
+            "publishedAt": "Fri, 31 Jul 2026 19:30:00 +0900"
+          },
+          {
+            "title": "세무조사 후에도 법인카드·9억 차량 지원…한미그룹 '오너 예외' 논란...",
+            "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097593",
+            "outlet": "discoverynews.kr",
+            "publishedAt": "Fri, 31 Jul 2026 19:56:00 +0900"
+          },
+          {
+            "title": "[인사] 외교 부 외",
+            "url": "https://www.hankookilbo.com/news/article/A2026073117080000326?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 31 Jul 2026 17:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "폭염 대응",
+        "summary": "온열질환 예방 등",
+        "articles": [
+          {
+            "title": "폭염에 턱끝까지 숨차도 배달‥\"쉬는 순간 돈도 끊겨\"",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841600_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 31 Jul 2026 20:00:00 +0900"
+          },
+          {
+            "title": "[사설] 관측 사상 역대 최고 경신한 극한 폭염, ‘사회적 재난 대책’으...",
+            "url": "https://www.khan.co.kr/article/202607311820001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Fri, 31 Jul 2026 18:20:00 +0900"
+          },
+          {
+            "title": "윤석대 K-water 사장, 폭염 속 건설현장 안전점검…\"근로자 생명·안전 ...",
+            "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201927",
+            "outlet": "energydaily.co.kr",
+            "publishedAt": "Fri, 31 Jul 2026 20:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "문재인 전 대통령 검찰개혁 완수 다행",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "문재인 전 대통령 \"검찰개혁 완수 다행…국민 권익 침해 없도록 준비 당...",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR20260731193643ZTl",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 31 Jul 2026 19:37:00 +0900"
+          },
+          {
+            "title": "더스쿠프 '사모펀드, 일상 탐하다' 인터넷신문 경제보도 부문 우수상",
+            "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=311062",
+            "outlet": "thescoop.co.kr",
+            "publishedAt": "Fri, 31 Jul 2026 19:20:00 +0900"
+          },
+          {
+            "title": "홍준표 \"이재명 정부 내치 난맥상… 강성 지지층만 바라보면 국정 파탄...",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070953",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Fri, 31 Jul 2026 19:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "檢보완수사권 폐지법 국회 통과",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "檢보완수사권 폐지법 국회 통과…與주도로 표결 처리·국힘 불참",
+            "url": "https://www.goodkyung.com/news/articleView.html?idxno=289840",
+            "outlet": "goodkyung.com",
+            "publishedAt": "Fri, 31 Jul 2026 19:34:00 +0900"
+          },
+          {
+            "title": "검찰총장 직무대행 사직서 제출...\"책임 통감\"",
+            "url": "http://www.inews24.com/view/1990900",
+            "outlet": "inews24.com",
+            "publishedAt": "Fri, 31 Jul 2026 19:34:00 +0900"
+          },
+          {
+            "title": "'검사 보완수사권 폐지' 형소법 개정안 국회 통과…70여 년 형사사법체...",
+            "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93105",
+            "outlet": "newsian.co.kr",
+            "publishedAt": "Fri, 31 Jul 2026 19:48:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
