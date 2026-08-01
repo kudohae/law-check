@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T10:17:38.564Z",
+  "title": "2026년 08월 01일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "한동훈 2030년 대선 출마 선언",
+        "summary": "한동훈, 2030년 대선 출마 선언",
+        "articles": [
+          {
+            "title": "[속보] 유시민, '이재명 정부 필패론' 비판에 정면 응수… \"관계 깨져도...",
+            "url": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260801512&PRO_CODE=99",
+            "outlet": "cjb.co.kr",
+            "publishedAt": "Sat, 01 Aug 2026 18:29:00 +0900"
+          },
+          {
+            "title": "한동훈 “李, 우왕좌왕 간 본 것 욕 안 할 테니 거부권 행사하라”",
+            "url": "https://www.sedaily.com/article/20074640?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sat, 01 Aug 2026 16:15:00 +0900"
+          },
+          {
+            "title": "검찰 보완수사 폐지에…한동훈 \"161명이 좀비처럼 저질러버린 사태\"",
+            "url": "https://www.imaeil.com/page/view/2026080115083877147",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sat, 01 Aug 2026 17:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "보완수사권 폐지",
+        "summary": "보완수사권 폐지",
+        "articles": [
+          {
+            "title": "국힘 '보완수사권 폐지' 저지 총력전…3일 청와대 앞 최고위",
+            "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046805",
+            "outlet": "shinailbo.co.kr",
+            "publishedAt": "Sat, 01 Aug 2026 16:26:00 +0900"
+          },
+          {
+            "title": "이언주 \"국민 다수 반대에도 보완수사권 폐지…무리한 처리 이해 어려워...",
+            "url": "https://www.kyeonggi.com/article/20260801580055",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Sat, 01 Aug 2026 19:00:00 +0900"
+          },
+          {
+            "title": "'檢 보완수사권 폐지'법 국회 통과… 진보·보수 진영 모두 반발",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3421708",
+            "outlet": "newscj.com",
+            "publishedAt": "Sat, 01 Aug 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경제 부시장 후보 시민배심원단 현장심사",
+        "summary": "경제 부시장 후보 시민배심원단 현장심사",
+        "articles": [
+          {
+            "title": "전남광주 경제 부시장 후보들, 배심원 질문에 '4色 격론'",
+            "url": "https://www.namdonews.com/news/articleView.html?idxno=918664",
+            "outlet": "namdonews.com",
+            "publishedAt": "Sat, 01 Aug 2026 15:28:00 +0900"
+          },
+          {
+            "title": "전남광주통합특별시 경제 부시장 후보들, 정책 비전 맞대결",
+            "url": "https://www.namdonews.com/news/articleView.html?idxno=918662",
+            "outlet": "namdonews.com",
+            "publishedAt": "Sat, 01 Aug 2026 14:46:00 +0900"
+          },
+          {
+            "title": "전남광주특별시 정무부시장 후보 시민배심원단 현장심사",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000053792",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sat, 01 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "문대림 사실상 연중 농업재해",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "문대림 \"사실상 연중 농업재해, 대응 필요\"",
+            "url": "https://www.jejusori.net/news/articleView.html?idxno=505210",
+            "outlet": "jejusori.net",
+            "publishedAt": "Sat, 01 Aug 2026 15:40:00 +0900"
+          },
+          {
+            "title": "7월 물가 3% 밑돌까…한은 ‘8월 연속 인상’ 향방 가른다",
+            "url": "https://biz.heraldcorp.com/article/10827878?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sat, 01 Aug 2026 19:01:00 +0900"
+          },
+          {
+            "title": "광복 81주년, 평화는 기다리는 게 아니라 만들어 가는 것",
+            "url": "http://www.dtnews24.com/news/articleView.html?idxno=813871",
+            "outlet": "dtnews24.com",
+            "publishedAt": "Sat, 01 Aug 2026 17:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "홍준표 李 정부 내치 난맥상",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "홍준표 \"李 정부 내치 난맥상…강성 지지층만 보면 국정 파탄\"",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2291817",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Sat, 01 Aug 2026 15:10:00 +0900"
+          },
+          {
+            "title": "[장덕수의 원샷원킬] '송구합니다'라는 문자…국회는 왜 권력 앞에서만...",
+            "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520640",
+            "outlet": "ilyoseoul.co.kr",
+            "publishedAt": "Sat, 01 Aug 2026 19:10:00 +0900"
+          },
+          {
+            "title": "김민석 후보 \"말 아닌 행동으로 대통령 지켜야\"…정청래 후보 압박",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2291843",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Sat, 01 Aug 2026 19:07:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
