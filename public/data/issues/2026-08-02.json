@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T10:16:15.091Z",
+  "title": "2026년 08월 02일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "쿠팡사태",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[李대통령, 이번주 2차 업무보고] 쿠팡사태·사관학교 통합 이슈… 對美...",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260803010000279",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "이 대통령, 4일부터 2차 업무보고 재개… 산업·기후·노동·중기부부터",
+            "url": "https://www.hankookilbo.com/news/article/A2026080217400001100?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "곽상언 “노무현 전 대통령, 검수완박 추진한 적 없다”",
+            "url": "https://www.hani.co.kr/arti/politics/politics_general/1271052.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 18:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "李대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李대통령, 순방 귀국 다음 날부터 '2차 업무보고' 재개",
+            "url": "https://www.ajunews.com/view/20260802175257634",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 02 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "[일요와이드] 돌연 이란 공격 취소…트럼프의 속내는?",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260802190201yMm",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 19:03:00 +0900"
+          },
+          {
+            "title": "남대문 시장 돌며 한국어로 소통…스틸 미 대사 '스킨십 외교 ' 눈길",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260802185955a59",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 19:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "한반도 덮친 극단 폭염",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 한반도 덮친 극단 폭염, 안전대책 사각지대 없어야",
+            "url": "https://www.hani.co.kr/arti/opinion/editorial/1271057.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 18:42:00 +0900"
+          },
+          {
+            "title": "印 교육부 장관 사퇴시킨 ‘바퀴벌레당’…전국 조직화 확대",
+            "url": "https://www.munhwa.com/article/11606657?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:23:00 +0900"
+          },
+          {
+            "title": "김병주 \"충청서 김민석 승리, 이재명 정부 안정과 성공 선택 결과\" 해석",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5209803",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 18:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "실탄 없는 총으로 전방 지킨다니",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이재준 문화칼럼] 실탄 없는 총으로 전방 지킨다니",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3421877",
+            "outlet": "newscj.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "\"李, 거부권 행사하라\" 헌법소원 꺼낸 국힘... '보완수사 폐지' 겨냥 총...",
+            "url": "https://www.hankookilbo.com/news/article/A2026080212530004941?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:01:00 +0900"
+          },
+          {
+            "title": "반도체 명분 삼아 '노동 우클릭'…집권 2년차 '역주행'",
+            "url": "http://www.newstomato.com/ReadNews.aspx?no=1308993&inflow=N",
+            "outlet": "newstomato.com",
+            "publishedAt": "Sun, 02 Aug 2026 17:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "서울 집값 부담에 경기로",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "서울 집값 부담에 경기로… 상반기 집합건물 매수 4년 만에 최대",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363732938",
+            "outlet": "joongboo.com",
+            "publishedAt": "Sun, 02 Aug 2026 17:46:00 +0900"
+          },
+          {
+            "title": "\"밤에도 덥다\" 한강공원 북적…내일부터 '가마솥 폭염' 절정",
+            "url": "https://news.jtbc.co.kr/article/NB12311313?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 19:08:00 +0900"
+          },
+          {
+            "title": "검사 수사권 72년만에 완전 폐지",
+            "url": "https://www.namdonews.com/news/articleView.html?idxno=918790",
+            "outlet": "namdonews.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "檢 보완수사권 폐지 놓고 여야 격돌",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "檢 보완수사권 폐지 놓고 여야 격돌…\"역사적 순간\" vs \"위헌 악법\"",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02594486645543384",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 18:53:00 +0900"
+          },
+          {
+            "title": "유승민 \"이재명 정권 막으려면 총선 이겨야…국민의힘 통합·혁신 시급...",
+            "url": "https://www.kizmom.com/news/articleView.html?idxno=111854",
+            "outlet": "kizmom.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:42:00 +0900"
+          },
+          {
+            "title": "[독자기고] 폭염·가뭄, 함께 극복하는 동반자 '의용소방대'",
+            "url": "https://www.jemin.com/news/articleView.html?idxno=841198",
+            "outlet": "jemin.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "유승민 통합",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "유승민 \"통합·혁신해 총선 이겨야…내부싸움, 해당행위\"",
+            "url": "https://www.ajunews.com/view/20260802181201667",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 02 Aug 2026 18:24:00 +0900"
+          },
+          {
+            "title": "서영교 “‘7대 범죄’ 전건송치 도입, 10월 내 마무리”…민주당, 3일 ...",
+            "url": "https://www.khan.co.kr/article/202608021817001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 18:17:00 +0900"
+          },
+          {
+            "title": "[프리존TV] 하반기 정책공감 토크 마무리한 안성사람들 이야기",
+            "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702036",
+            "outlet": "newsfreezone.co.kr",
+            "publishedAt": "Sun, 02 Aug 2026 18:14:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
