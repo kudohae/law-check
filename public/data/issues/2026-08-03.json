@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T11:58:27.861Z",
+  "title": "2026년 08월 03일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "하남시",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "하남시, 교통·교육· 재난 공동 대응 강화…화상회의로 현안 해법 모색",
+            "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1097731",
+            "outlet": "discoverynews.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:34:00 +0900"
+          },
+          {
+            "title": "“메가특구 노동 규제 완화, 여성 노동 자에게 이중차별”…여성 노동 계 ...",
+            "url": "https://www.hani.co.kr/arti/society/women/1271236.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:14:00 +0900"
+          },
+          {
+            "title": "폭염 뚫고 국회 앞 ‘칼군무’…유쾌한 기후 시위",
+            "url": "https://www.segye.com/newsView/20260803520847?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Mon, 03 Aug 2026 20:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "고위험 AI 국가관리 추진",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "고위험 AI 국가관리 추진…김성원 의원, AI기본법 개정안 발의",
+            "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201963",
+            "outlet": "energydaily.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:16:00 +0900"
+          },
+          {
+            "title": "[유리창] 보이지 않는 곳에서 돌아가는 안전의 톱니바퀴",
+            "url": "https://www.dynews.co.kr/news/articleView.html?idxno=860346",
+            "outlet": "dynews.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:12:00 +0900"
+          },
+          {
+            "title": "청와대 찾은 국힘 “李, 거부권 행사 안하면 탄핵 요구 더 커질 것”",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260804.22004000613",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 19:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "밤에 잠을 못 자요..폭염과 사투를 벌이는 사람들",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "(R)[현장리포트]\"밤에 잠을 못 자요\"..폭염과 사투를 벌이는 사람들",
+            "url": "https://www.tjb.co.kr/news05/bodo/view/id/101903",
+            "outlet": "tjb.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:54:00 +0900"
+          },
+          {
+            "title": "[위클리오늘] 법은 멈췄지만 현장은 움직인다…경북 교육 청 유보통합, 실...",
+            "url": "http://www.weeklytoday.com/news/articleView.html?idxno=788733",
+            "outlet": "weeklytoday.com",
+            "publishedAt": "Mon, 03 Aug 2026 20:54:00 +0900"
+          },
+          {
+            "title": "추미애 지사, 화성동부소방서 공사현장 폭염대책 점검",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455429",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "정치권 강타한 보완수사권 폐지의 후폭풍",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 정치권 강타한 '보완수사권' 폐지의 후폭풍",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=555642",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:14:00 +0900"
+          },
+          {
+            "title": "민주노총 “메가특구 노동특례 즉각 삭제해야”",
+            "url": "http://www.kjdaily.com/article.php?aid=1785754506683754005",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Mon, 03 Aug 2026 20:02:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, 수사권 폐지 ‘뒤집기’… 가능성 낮다",
+            "url": "https://www.kyeongin.com/article/1768376",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Mon, 03 Aug 2026 19:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "보고회 열고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "보고회 열고, 청와대 가고…여야 '보완수사권 폐지' 여론전",
+            "url": "https://news.jtbc.co.kr/article/NB12311513?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:14:00 +0900"
+          },
+          {
+            "title": "특검 “尹, 계엄 직후 우방국에 정당화 메시지 전달하라 지시”",
+            "url": "https://www.donga.com/news/Society/article/all/20260803/134414425/1",
+            "outlet": "donga.com",
+            "publishedAt": "Mon, 03 Aug 2026 20:02:00 +0900"
+          },
+          {
+            "title": "이소영 \"세제개편안 속 '주가누르기 방지법' 개혁 의지 후퇴 우려\"",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071091",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 19:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "반도체",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "반도체·배터리 국내 생산 늘리면 세액공제...정부, '한국형 IRA' 신설",
+            "url": "https://www.hg-times.com/news/articleView.html?idxno=304118",
+            "outlet": "hg-times.com",
+            "publishedAt": "Mon, 03 Aug 2026 19:38:00 +0900"
+          },
+          {
+            "title": "미국 쪽 거부에도…“김태효, 계엄 옹호 문건 전달 독촉”",
+            "url": "https://www.hani.co.kr/arti/society/society_general/1271224.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 19:04:00 +0900"
+          },
+          {
+            "title": "인천 ‘장애인 성폭행 의혹’ 사업장… 노동 부, 사법조치 나서",
+            "url": "https://www.kyeonggi.com/article/20260803580540",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Mon, 03 Aug 2026 20:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "도심 주택가 속 위험물 창고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 도심 주택가 속 위험물 창고·공장, 이대로 둘 건가",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066206",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:38:00 +0900"
+          },
+          {
+            "title": "與 전당대회, '초박빙'에 과열‥鄭 \"두 번 배신은 못할까\" 金 \"명청대전...",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842131_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Mon, 03 Aug 2026 20:31:00 +0900"
+          },
+          {
+            "title": "정부, 초고가·비거주 주택 종부세 강화 … 양도세 장특공제 10억원 한도...",
+            "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=87497",
+            "outlet": "worktoday.co.kr",
+            "publishedAt": "Mon, 03 Aug 2026 20:30:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
