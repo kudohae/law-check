@@ -1,0 +1,158 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T11:04:58.475Z",
+  "title": "2026년 08월 04일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "형소법 개정",
+        "summary": "형소법 개정과 관련된 이슈",
+        "children": [
+          {
+            "id": "issue11",
+            "label": "검찰 수사권",
+            "summary": "검찰 수사권과 관련된 이슈",
+            "articles": [
+              {
+                "title": "[사설] 형소법 거부권 행사 안한 대통령, 후폭풍 책임져야",
+                "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260805.22019000814",
+                "outlet": "kookje.co.kr",
+                "publishedAt": "Tue, 04 Aug 2026 19:02:00 +0900"
+              },
+              {
+                "title": "[단독] 중국에 최신 OLED 도면 넘겼는데 ‘구속 불발’ 논란",
+                "url": "https://www.kmib.co.kr/article/view.asp?arcid=1785832301&code=11131900&cp=nv",
+                "outlet": "kmib.co.kr",
+                "publishedAt": "Tue, 04 Aug 2026 18:53:00 +0900"
+              },
+              {
+                "title": "피해자 우려도, 檢 수장 사의도 안 먹혔다... 새 형소법 시행 확정, 후속...",
+                "url": "https://www.hankookilbo.com/news/article/A2026080410040000089?did=NA",
+                "outlet": "hankookilbo.com",
+                "publishedAt": "Tue, 04 Aug 2026 19:01:00 +0900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "부동산 세제개편",
+        "summary": "부동산 세제개편과 관련된 이슈",
+        "articles": [
+          {
+            "title": "李 “10억 근로자 세금 절반 내는데…부동산은 거의 안내”",
+            "url": "https://www.munhwa.com/article/11607226?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Tue, 04 Aug 2026 19:47:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"부동산 양도소득 100억 대여도 세금 몇억 밖에\"",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210305",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Tue, 04 Aug 2026 19:43:00 +0900"
+          },
+          {
+            "title": "정치권, 정부 부동산 세제개편안 놓고 술렁⋯與 \"정교하게 다듬겠다\", 국...",
+            "url": "https://www.goodkyung.com/news/articleView.html?idxno=289931",
+            "outlet": "goodkyung.com",
+            "publishedAt": "Tue, 04 Aug 2026 19:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "일본의 독도 영유권 주장",
+        "summary": "일본의 독도 영유권 주장과 관련된 이슈",
+        "articles": [
+          {
+            "title": "또 꺼낸 일본의 '독도 카드'… 정부·경북도 \"역사 왜곡 즉각 철회\"",
+            "url": "https://www.newswhoplus.com/news/articleView.html?idxno=66189",
+            "outlet": "newswhoplus.com",
+            "publishedAt": "Tue, 04 Aug 2026 18:46:00 +0900"
+          },
+          {
+            "title": "민주당 \"다카이치 내각 '독도 영유권 주장' 되풀이... 주권 침탈 야욕 드...",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256514&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Tue, 04 Aug 2026 19:16:00 +0900"
+          },
+          {
+            "title": "또 꺼낸 일본의 '독도 카드'… 정부·경북도 \"역사 왜곡 즉각 철회\"",
+            "url": "https://www.newswhoplus.com/news/articleView.html?idxno=66189",
+            "outlet": "newswhoplus.com",
+            "publishedAt": "Tue, 04 Aug 2026 18:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "AI 혁명과 교주고슬의 대한민국",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[강정모의 실사구시 경제] AI 혁명과 교주고슬(膠柱鼓瑟)의 대한민국",
+            "url": "https://www.kyeonggi.com/article/20260804580553",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Tue, 04 Aug 2026 19:23:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, \"AI 대격변기, 과감한 투자·속도전 필요\" [뉴시스Pic]",
+            "url": "https://www.newsis.com/view/NISX20260804_0003736375",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 04 Aug 2026 18:38:00 +0900"
+          },
+          {
+            "title": "국힘 \"대통령 공소기각과 추악한 거래\"...형소법 국무회의 통과 반발",
+            "url": "https://www.dkilbo.com/news/articleView.html?idxno=550516",
+            "outlet": "dkilbo.com",
+            "publishedAt": "Tue, 04 Aug 2026 18:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "북핵 기밀 누설 의혹 정동영 장관 고발 사건 경찰이...",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'북핵 기밀 누설 의혹' 정동영 장관 고발 사건 경찰이 수사",
+            "url": "https://www.ytn.co.kr/_ln/0103_202608041914232999",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 04 Aug 2026 19:14:00 +0900"
+          },
+          {
+            "title": "\"부동산 조세 정상화…폭염 국가재난 총력 대응\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260804190754zll",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Tue, 04 Aug 2026 19:08:00 +0900"
+          },
+          {
+            "title": "조상호 세종시장 \"세가지 관점, 강도 높은 시정혁신이 시민 효능감 높일...",
+            "url": "http://www.cctimes.kr/news/articleView.html?idxno=920157",
+            "outlet": "cctimes.kr",
+            "publishedAt": "Tue, 04 Aug 2026 19:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
