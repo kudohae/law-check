@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T11:01:29.382Z",
+  "title": "2026년 08월 05일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "한동훈 2030년 대선 출마 선언",
+        "summary": "한동훈의 대선 출마 선언",
+        "articles": [
+          {
+            "title": "鄭 “지선 승리 규정 당정청 조율” 金 “대통령 없다고 아무 말”",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=1785922173&code=11121100&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Wed, 05 Aug 2026 18:50:00 +0900"
+          },
+          {
+            "title": "검찰개혁·신천지 의혹 놓고 정면충돌…민주 당권 토론 ‘난타전’",
+            "url": "https://www.kukinews.com/article/view/kuk202608050206",
+            "outlet": "kukinews.com",
+            "publishedAt": "Wed, 05 Aug 2026 19:44:00 +0900"
+          },
+          {
+            "title": "민주당 당대표 2차 TV토론회…검찰개혁 시점·신천지 개입·배신자 프레...",
+            "url": "https://www.newspim.com/news/view/20260805001471",
+            "outlet": "newspim.com",
+            "publishedAt": "Wed, 05 Aug 2026 19:13:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "이재명 정부의 부동산세재 개편안",
+        "summary": "이재명 정부의 부동산세재 개편안",
+        "articles": [
+          {
+            "title": "\"세금폭탄? 서울 원룸 월세가 64만원인데, 30억 주택 보유세는 월 47만원...",
+            "url": "https://www.pressian.com/pages/articles/2026080513381115888?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Wed, 05 Aug 2026 19:34:00 +0900"
+          },
+          {
+            "title": "진보서도 등 돌린 세제개편안… 여야 안가리고 '십자포화'",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3422721",
+            "outlet": "newscj.com",
+            "publishedAt": "Wed, 05 Aug 2026 19:02:00 +0900"
+          },
+          {
+            "title": "與 '주가누르기 방지' 보완 추진",
+            "url": "http://www.fnnews.com/news/202608051834273770",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 05 Aug 2026 18:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "이재명 정부의 대북 구상",
+        "summary": "이재명 정부의 대북 구상",
+        "articles": [
+          {
+            "title": "조현, 정동영 '4자 대화' 추진에 \"이상주의\"…이견 표출",
+            "url": "https://news.tf.co.kr/read/ptoday/2351030.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Wed, 05 Aug 2026 19:22:00 +0900"
+          },
+          {
+            "title": "北 ‘주적’ 용어 대체하고 ‘조선’ 호칭… 평화공존 구상 논란 [대통...",
+            "url": "https://www.segye.com/newsView/20260805520055?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Wed, 05 Aug 2026 19:12:00 +0900"
+          },
+          {
+            "title": "李대통령 이어 외교장관까지…정동영 대북구상에 힘빠지나(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260805127551504?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Wed, 05 Aug 2026 19:35:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "추미애 민선 8기",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "추미애 \"민선 8기, 민생·필수사업 9개월 분만 편성\"",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328950",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Wed, 05 Aug 2026 20:00:00 +0900"
+          },
+          {
+            "title": "여야, 선관위 특검 추천위원 6명 추천…“특검 후보 최대한 빨리 선정”",
+            "url": "https://www.seoul.co.kr/news/politics/2026/08/05/20260805500270?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Wed, 05 Aug 2026 19:34:00 +0900"
+          },
+          {
+            "title": "지방정부를 바꾸면 사회 전체도 바뀔까",
+            "url": "https://vop.co.kr/A00001696099.html",
+            "outlet": "vop.co.kr",
+            "publishedAt": "Wed, 05 Aug 2026 19:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "청년 국정참여 확대",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "청년 국정참여 확대·공직 처우개선·AI 법제까지…정부, 국민체감 개혁...",
+            "url": "https://www.news1.kr/politics/president/6250312",
+            "outlet": "news1.kr",
+            "publishedAt": "Wed, 05 Aug 2026 19:04:00 +0900"
+          },
+          {
+            "title": "'정책의 함정' 빠진 정부…30대 민심도 돌아섰다",
+            "url": "https://www.hankyung.com/article/2026080570531",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 05 Aug 2026 19:01:00 +0900"
+          },
+          {
+            "title": "[위클리오늘] 李 '국군사관학교 신속 추진'에 김병삼 세 번째 입장…\"3사...",
+            "url": "http://www.weeklytoday.com/news/articleView.html?idxno=789198",
+            "outlet": "weeklytoday.com",
+            "publishedAt": "Wed, 05 Aug 2026 19:44:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
