@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T11:02:44.271Z",
+  "title": "2026년 08월 06일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "북한 미사일 발사",
+        "summary": "북한의 미사일 발사와 관련한 안보 상황",
+        "articles": [
+          {
+            "title": "靑, '北 탄도미사일 발사' 긴급점검회의…\" 안보 리 결의 위반\"",
+            "url": "https://news.tf.co.kr/read/ptoday/2351537.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Thu, 06 Aug 2026 19:08:00 +0900"
+          },
+          {
+            "title": "北 미사일 발사…與 \"평화 동참해야\"·野 \"굴종적 기조 버려야\"",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2293093",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:36:00 +0900"
+          },
+          {
+            "title": "北 미사일 도발에 여야 한목소리 규탄… 안보 대응엔 온도차",
+            "url": "https://www.ajunews.com/view/20260806193638090",
+            "outlet": "ajunews.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "최저임금 법정으로",
+        "summary": "최저임금과 관련한 법적 분쟁",
+        "articles": [
+          {
+            "title": "[르포]최저임금 법정으로…자영업 '마지막 결단'",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20250721010011945",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 06 Aug 2026 19:48:00 +0900"
+          },
+          {
+            "title": "北 탄도미사일 발사에…국가 안보 실, 긴급 안보 상황점검회의 개최",
+            "url": "https://www.etoday.co.kr/news/view/2611934",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Thu, 06 Aug 2026 19:08:00 +0900"
+          },
+          {
+            "title": "김정관 산업부 장관 \"주 52시간 손봐야, 경쟁상대 中과 비교해야\"",
+            "url": "https://www.newspim.com/news/view/20260806001205",
+            "outlet": "newspim.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:43:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "정부의 경제 정책",
+        "summary": "정부의 경제 정책과 관련한 뉴스",
+        "articles": [
+          {
+            "title": "김정관 산업부 장관 \"주 52시간 손봐야, 경쟁상대 中과 비교해야\"",
+            "url": "https://www.newspim.com/news/view/20260806001205",
+            "outlet": "newspim.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:43:00 +0900"
+          },
+          {
+            "title": "[주식마감] '범LG가' 구미현 전 아워홈 회장 인수 소식에 본느 상한가.....",
+            "url": "https://www.ggilbo.com/news/articleView.html?idxno=1173981",
+            "outlet": "ggilbo.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:40:00 +0900"
+          },
+          {
+            "title": "정부 ‘AI 기본 의료 전략’ 발표…AI로 지역·필수·공공 의료 공백 메워",
+            "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510976454",
+            "outlet": "medicalworldnews.co.kr",
+            "publishedAt": "Thu, 06 Aug 2026 19:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "종합특검",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "종합특검, 최재해 전 감사원장 참고인 조사…'관저 부실 감사' 관련",
+            "url": "https://www.newsis.com/view/NISX20260806_0003739635",
+            "outlet": "newsis.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:52:00 +0900"
+          },
+          {
+            "title": "오세훈 \"세제개편, 국가폭력 수준 표현에 공감\"… \"그린벨트 해제는 반...",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3423121",
+            "outlet": "newscj.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:00:00 +0900"
+          },
+          {
+            "title": "전기요금 감면·작업중지권 확대 등…폭염 대응에 나선 국회",
+            "url": "https://www.seoul.co.kr/news/politics/2026/08/06/20260806500258?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Thu, 06 Aug 2026 19:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "농어민 가슴에 대못 박는 CPTPP",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "농어민 가슴에 '대못' 박는 CPTPP···\"즉각 중단하라\"",
+            "url": "http://www.ikpnews.net/news/articleView.html?idxno=71128",
+            "outlet": "ikpnews.net",
+            "publishedAt": "Thu, 06 Aug 2026 19:56:00 +0900"
+          },
+          {
+            "title": "[이슈분석]\"지방국립대 등록금 '0원'…사립대 차별에 균형발전 효과도 ...",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=07927766645544696",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 06 Aug 2026 19:57:00 +0900"
+          },
+          {
+            "title": "[속보] 靑, 북한 미사일 발사에 긴급 안보 상황점검회의 개최",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3658007",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Thu, 06 Aug 2026 19:02:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
