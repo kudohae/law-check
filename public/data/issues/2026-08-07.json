@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T09:34:42.252Z",
+  "title": "2026년 08월 07일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 7일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "민주당 황희 의원 '폐기 버스 청년 주택' 제안 논란",
+        "summary": "더불어민주당 황희 의원이 폐기되는 버스를 개조해 청년 주거 공간으로 활용하자는 아이디어를 제안하면서 정치권과 청년층 사이에서 논란이 일고 있습니다.",
+        "articles": [
+          {
+            "title": "민주당 황희, 폐버스 개조해 청년 주거 공간으로 쓰자며 ‘버스하우스’...",
+            "url": "https://www.khan.co.kr/article/202608071804001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Fri, 07 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "與황희 “폐버스 청년주택으로” 글 올렸다가…“정부정책 아냐” 해명",
+            "url": "https://www.joongang.co.kr/article/25451660",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 07 Aug 2026 17:52:00 +0900"
+          },
+          {
+            "title": "국힘, 황희 '버스하우스' 제안에 \"청년 모욕‥본인부터 들어가라\"",
+            "url": "https://imnews.imbc.com/news/2026/politics/article/6843219_36911.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 07 Aug 2026 18:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "집중호우 피해 지역 특별 재난 지역 선포",
+        "summary": "정부가 집중호우로 큰 피해를 입은 경북 안동시와 의성군 관할 4개 면을 특별 재난 지역으로 선포했습니다.",
+        "articles": [
+          {
+            "title": "[속보] 정부, ‘호우 피해’ 안동·의성 4개면 특별 재난 지역 선포",
+            "url": "https://www.yeongnam.com/web/view.php?key=20260807028010857",
+            "outlet": "yeongnam.com",
+            "publishedAt": "Fri, 07 Aug 2026 18:08:00 +0900"
+          },
+          {
+            "title": "정부 '집중호우 피해' 안동·의성 관할 4개면 특별 재난 지역 선포",
+            "url": "https://www.hidomin.com/news/articleView.html?idxno=716400",
+            "outlet": "hidomin.com",
+            "publishedAt": "Fri, 07 Aug 2026 18:12:00 +0900"
+          },
+          {
+            "title": "李대통령, ‘호우 피해’ 경북 안동·의성 관할 4개 면 특별 재난 지역 선...",
+            "url": "https://www.segye.com/newsView/20260807518038?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Fri, 07 Aug 2026 18:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "주 52시간제 예외 적용 논란",
+        "summary": "정부가 추진하는 메가특구 특별법에 관리직 및 연구개발자에 대한 주 52시간제 예외 적용(화이트칼라 이그젬션) 도입이 포함된 사실이 알려지면서 논란이 일고 있습니다.",
+        "articles": [
+          {
+            "title": "조국혁신당 \"메가특구 '주52시간 예외' 철회하라…건강권 흥정대상 아냐...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336297",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Fri, 07 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "[사설] 산업장관 주장한 “주 52시간 특례”, 인재유출 등 부작용 더 클...",
+            "url": "https://www.hani.co.kr/arti/opinion/editorial/1271947.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Fri, 07 Aug 2026 18:28:00 +0900"
+          },
+          {
+            "title": "일부 양곡판매소 돈주가 실질 운영…“개인 쌀장사와 다를 게 없다”",
+            "url": "https://www.dailynk.com/20260807-6",
+            "outlet": "dailynk.com",
+            "publishedAt": "Fri, 07 Aug 2026 18:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "부동산 정책 및 세제 관련 쟁점",
+        "summary": "부동산 공급 및 세제 개편 관련 여야 간의 공방과 함께 종부세, 디지털자산 과세 등 세금 관련 쟁점이 부각되고 있습니다.",
+        "articles": [
+          {
+            "title": "민주당, 부동산 이슈에 “국민의힘 탓”... 오세훈 “적반하장도 정도 ...",
+            "url": "https://www.mediawatch.kr/news/article.html?no=260613",
+            "outlet": "mediawatch.kr",
+            "publishedAt": "Fri, 07 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "\"20억대는 종부세 안전지대\"는 착시···몇 년 뒤 고지서 날아온다",
+            "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307240",
+            "outlet": "greenpostkorea.co.kr",
+            "publishedAt": "Fri, 07 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "[크립토퀵서치] 디지털자산 과세 쟁점 ‘손실금 이월공제’란 무엇인가...",
+            "url": "https://it.donga.com/109324/",
+            "outlet": "it.donga.com",
+            "publishedAt": "Fri, 07 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "정치권 내부 갈등 및 혐오 표현 논란",
+        "summary": "국민의힘 윤리위의 징계 개시 소식과 함께 정치인의 혐오 표현 규제 법안 추진 등 정치권 내부의 갈등과 관련 이슈가 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "국민의힘, 윤리위원 내홍…서범수·진종오 징계 개시",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=513919",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Fri, 07 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "이준석 '여성혐오' 이후… 정치인 혐오표현 대응 법안 추진중",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336237",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Fri, 07 Aug 2026 17:40:00 +0900"
+          },
+          {
+            "title": "[현장영상] 김민수 \"북한을 '조선'이라 부르자?…국방 무너지는데 명칭...",
+            "url": "http://www.fnnews.com/news/202608071807304456",
+            "outlet": "fnnews.com",
+            "publishedAt": "Fri, 07 Aug 2026 18:10:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
