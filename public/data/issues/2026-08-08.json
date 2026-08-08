@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T09:12:32.435Z",
+  "title": "2026년 08월 08일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "ISA 및 주가 누르기 방지법 재검토",
+        "summary": "이재명 대통령, ISA 및 주가 누르기 방지법 재검토 지시",
+        "articles": [
+          {
+            "title": "[속보] '황희 버스하우스 제안'에 여당서도 \"탁상공론·내로남불“",
+            "url": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260808508&PRO_CODE=99",
+            "outlet": "cjb.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 17:25:00 +0900"
+          },
+          {
+            "title": "국힘 \"李, ISA·주가누르기 방지법 재검토…졸속 국정 중단하라\"",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2293206",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Sat, 08 Aug 2026 14:53:00 +0900"
+          },
+          {
+            "title": "李대통령, ISA·'주가 누르기 방지법' 전면 재검토 지시…국민의힘 \"졸속...",
+            "url": "https://www.econovill.com/news/articleView.html?idxno=747480",
+            "outlet": "econovill.com",
+            "publishedAt": "Sat, 08 Aug 2026 15:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "부동산 정책 논란",
+        "summary": "부동산 정책에 대한 여야 논란",
+        "articles": [
+          {
+            "title": "부동산 세제 개편 두고 여야 공방…野 “세입자에게 부담 전가” 與 “...",
+            "url": "https://www.sedaily.com/article/20077224?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sat, 08 Aug 2026 17:06:00 +0900"
+          },
+          {
+            "title": "\"내로남불·탁상공론\"…황희 '버스 청년주택' 제안에 與 내부서도 쓴소...",
+            "url": "https://www.imaeil.com/page/view/2026080816081406773",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sat, 08 Aug 2026 16:39:00 +0900"
+          },
+          {
+            "title": "이 대통령도 질타한 ‘주가 누르기 방지법’ 정부안, 핵심 문제 4가지",
+            "url": "https://vop.co.kr/A00001696137.html",
+            "outlet": "vop.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 14:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "폭염과 기후위기",
+        "summary": "폭염과 기후위기 대책",
+        "articles": [
+          {
+            "title": "\"폭염 속 기후위기 시대... 불평등이 가장 큰 재난\"",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257491&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Sat, 08 Aug 2026 17:56:00 +0900"
+          },
+          {
+            "title": "입추 당일 이럴 수가...3명 목숨 앗아간 '살인 폭염'",
+            "url": "https://www.mt.co.kr/society/2026/08/08/2026080817011214289",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 17:26:00 +0900"
+          },
+          {
+            "title": "노동장관, 김포공항 불시 점검…휴게시설 확충 지시",
+            "url": "https://www.ajunews.com/view/20260808175211183",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sat, 08 Aug 2026 18:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "유승민 결혼 앞둔 청년 좌절 하루 만에",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "유승민 \"결혼 앞둔 청년 좌절\" 하루 만에…이재명 \"결혼 페널티 없애라...",
+            "url": "https://www.ddaily.co.kr/page/view/2026080817232936423",
+            "outlet": "ddaily.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 17:24:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 \"청년들이 국가 정책 때문에 결혼 망설이는 일 없어야\"",
+            "url": "https://www.wikitree.co.kr/articles/1151208",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 17:40:00 +0900"
+          },
+          {
+            "title": "‘민주당 정책통’ 최병천 “민주 정부 이념적 부동산 정책에 2030 분노...",
+            "url": "https://biz.heraldcorp.com/article/10834830?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sat, 08 Aug 2026 17:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "오세훈 용산공원 아파트",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "오세훈 “용산공원 아파트, 盧·文 원칙 스스로 뒤집는 것”",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000001382&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 16:54:00 +0900"
+          },
+          {
+            "title": "“왜 그렇게 했나”…李대통령 질타 ‘ISA·주가누르기 방지법’ 재검토...",
+            "url": "https://www.mk.co.kr/article/12121713",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 14:25:00 +0900"
+          },
+          {
+            "title": "형소법 개정안 \"안 읽어봤다\"는 이재명 대통령, 주요 언론 일제히 비판",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336279",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sat, 08 Aug 2026 17:11:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
