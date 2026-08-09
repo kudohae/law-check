@@ -1,0 +1,150 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T09:19:29.273Z",
+  "title": "2026년 08월 09일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 9일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "정부 세제 개편안 재검토 논란 (ISA, 주가 누르기 방지법)",
+        "summary": "정부가 ISA 개편안과 주가 누르기 방지법 등 세제 개편안에 대해 전면 재검토를 지시하며 정치권과 시장의 논란이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "정부, ISA와 부동산 세제 개편 재검토…시장의 변화 예고",
+            "url": "https://www.tokenpost.kr/news/economy/387201",
+            "outlet": "tokenpost.kr",
+            "publishedAt": "Sun, 09 Aug 2026 18:08:00 +0900"
+          },
+          {
+            "title": "李 ‘ISA 재검토’ 지시에…與 “현행 유지, 생산적 금융 선택적 추가”",
+            "url": "https://www.donga.com/news/Politics/article/all/20260809/134444002/1",
+            "outlet": "donga.com",
+            "publishedAt": "Sun, 09 Aug 2026 17:10:00 +0900"
+          },
+          {
+            "title": "정부, ISA·‘주가 누르기 방지법’ 재검토…부동산세제도 보완 검토",
+            "url": "http://www.segyebiz.com/newsView/20260809513013?OutUrl=naver",
+            "outlet": "segyebiz.com",
+            "publishedAt": "Sun, 09 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "폭염 대응 및 관련 정책 논의",
+        "summary": "연일 이어지는 기록적인 폭염에 대한 정부의 대응책과 관련 정책들이 논의되고 있습니다.",
+        "articles": [
+          {
+            "title": "[기고] 42.5도의 경고, '사람 잡는 폭염'의 근본 대책",
+            "url": "https://www.idomin.com/news/articleView.html?idxno=2011976",
+            "outlet": "idomin.com",
+            "publishedAt": "Sun, 09 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "민주당 \" 재난 적 폭염에 전기료 누진세 추가 완화 정부 요청\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3423629",
+            "outlet": "newscj.com",
+            "publishedAt": "Sun, 09 Aug 2026 17:34:00 +0900"
+          },
+          {
+            "title": "하루 6번 '삐삐'…계속 울리는 울산 재난 문자 '피로주의보'",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066450",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Sun, 09 Aug 2026 17:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "여야, 국회 현안 및 법안 처리 공방",
+        "summary": "여야는 계류 중인 법안 처리와 특검 추천 등을 두고 공방을 벌이며 8월 임시국회 운영에 난항을 예고하고 있습니다.",
+        "articles": [
+          {
+            "title": "계류 법안 ·선관위 특검 추천 진통…8월 임시국회 난항 예고",
+            "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2293468",
+            "outlet": "cctoday.co.kr"
+          },
+          {
+            "title": "여당조차 \"정신 차려라\"…세제개편 동력 떨어진 재경부",
+            "url": "https://www.hankookilbo.com/news/article/A2026080915480003215?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 09 Aug 2026 17:31:00 +0900"
+          },
+          {
+            "title": "형소법 개정안 후폭풍…민생 특사경 도입 ‘안갯 속’",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02646966645545680",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sun, 09 Aug 2026 17:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "청년층 주거 및 자산 형성 지원 정책",
+        "summary": "정부는 청년층의 결혼 및 주거 안정을 위한 정책을 발표하고 있으며, 관련 지원 방안이 논의되고 있습니다.",
+        "articles": [
+          {
+            "title": "이 대통령 \"국가 정책 탓 결혼 망설이는 일 없어야…22개 '결혼 페널티'...",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696955&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sun, 09 Aug 2026 17:46:00 +0900"
+          },
+          {
+            "title": "李 ‘ISA 재검토’ 지시에…與 “현행 유지, 생산적 금융 선택적 추가”",
+            "url": "https://www.donga.com/news/Politics/article/all/20260809/134444002/1",
+            "outlet": "donga.com",
+            "publishedAt": "Sun, 09 Aug 2026 17:10:00 +0900"
+          },
+          {
+            "title": "李 정부, 13일 전후 주택공급대책…'수도권 5만가구+α' 속도전",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990135.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sun, 09 Aug 2026 18:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "여당 전당대회 및 당권 경쟁",
+        "summary": "여당의 전당대회를 앞두고 당권 경쟁이 치열하게 전개되고 있으며, 이는 향후 정국 운영 및 총선 공천에 영향을 미칠 전망입니다.",
+        "articles": [
+          {
+            "title": "민주당 전대, 이번주 전북 선택 임박",
+            "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1048865",
+            "outlet": "jjn.co.kr",
+            "publishedAt": "Sun, 09 Aug 2026 18:16:00 +0900"
+          },
+          {
+            "title": "[뉴스1번지] 與 2주차 순회경선…막바지 치열한 설전",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260809165722UnD",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sun, 09 Aug 2026 16:58:00 +0900"
+          },
+          {
+            "title": "與 강원·TK 순회경선…鄭 \"李·당과 의리 지키겠다\" vs 金 \"완벽한 당정...",
+            "url": "https://www.newsis.com/view/NISX20260809_0003741866",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 09 Aug 2026 17:57:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
