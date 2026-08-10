@@ -1,0 +1,158 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T09:59:19.574Z",
+  "title": "2026년 08월 10일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "메가특구 특별법",
+        "summary": "메가특구 특별법 관련 논의",
+        "children": [
+          {
+            "id": "issue11",
+            "label": "주 52시간 예외",
+            "summary": "주 52시간 예외 적용 논의",
+            "articles": [
+              {
+                "title": "靑 \"메가특구 주52시간 예외, 일방 추진 사안 아냐…노동계 동의 전제\"",
+                "url": "https://biz.sbs.co.kr/article_hub/20000327791?division=NAVER",
+                "outlet": "biz.sbs.co.kr",
+                "publishedAt": "Mon, 10 Aug 2026 18:54:00 +0900"
+              },
+              {
+                "title": "靑 \"메가특구특별법 연내 제정 추진…광주 군공항 기능분산 2028년까지\"",
+                "url": "https://news.tf.co.kr/read/ptoday/2352604.htm",
+                "outlet": "news.tf.co.kr",
+                "publishedAt": "Mon, 10 Aug 2026 18:44:00 +0900"
+              },
+              {
+                "title": "靑 \"메가특구특별법 연내 제정…충청 246조·영남 107조 투자도 올해 시...",
+                "url": "https://www.etoday.co.kr/news/view/2612932",
+                "outlet": "etoday.co.kr",
+                "publishedAt": "Mon, 10 Aug 2026 18:58:00 +0900"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "주택 공급",
+        "summary": "주택 공급 관련 논의",
+        "articles": [
+          {
+            "title": "한병도 \"주택 공급 절벽, 윤석열 정부·오세훈 시정 책임\"",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1533533",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 18:08:00 +0900"
+          },
+          {
+            "title": "여야, 청년·부동산 민심 놓고 전면전… “공급 절벽 국힘 탓” “與 당...",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000001886&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 18:53:00 +0900"
+          },
+          {
+            "title": "'공급 절벽' 네 탓 공방...'버스하우스' 결국 사과",
+            "url": "https://www.ytn.co.kr/_ln/0101_202608101808226446",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 18:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-3",
+        "label": "반도체 전격전",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "반도체 ‘전격전’, 소음과 전선이 가는 곳",
+            "url": "https://newscham.net/articles/117042",
+            "outlet": "newscham.net",
+            "publishedAt": "Mon, 10 Aug 2026 18:56:00 +0900"
+          },
+          {
+            "title": "靑 \"메가특구특별법 연내 제정…광주 군공항 2028년 분산배치\"",
+            "url": "https://www.yna.co.kr/view/AKR20260810142000001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 18:44:00 +0900"
+          },
+          {
+            "title": "\"손주 돌봄인데\"…'비거주 1주택' 불만 등 5천건 접수",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260810184856Dtr",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 18:49:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "폭염도 보장해 드립니다",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“폭염도 보장해 드립니다”…기후 위기 시대 주목받는 ‘기후보험’ [...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632987&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 18:08:00 +0900"
+          },
+          {
+            "title": "[경제칼럼] 알파고에서 카타고까지",
+            "url": "https://www.jbnews.com/news/articleView.html?idxno=1509205",
+            "outlet": "jbnews.com",
+            "publishedAt": "Mon, 10 Aug 2026 18:24:00 +0900"
+          },
+          {
+            "title": "[김능구·차재원의 정국진단 8월②] 김민석, 호남 강세·송영길 2순위표...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=739657",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 17:19:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "靑 메가특구 주 52시간 예외는 노동 계 동의 받아...",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "靑 “메가특구 ‘주 52시간 예외’는 노동 계 동의 받아야”",
+            "url": "https://biz.chosun.com/policy/politics/president_office/2026/08/10/Q2YNYBWAF5G6HOIUGH4755BSDI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Mon, 10 Aug 2026 18:49:00 +0900"
+          },
+          {
+            "title": "천하람 \"'난장' 민주당 전대, 李대통령 무덤 돼...40% 붕괴 초읽기, '콘크...",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202608100065",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Mon, 10 Aug 2026 18:41:00 +0900"
+          },
+          {
+            "title": "‘外人’ 복귀, 코스피 반등 열쇠로…“세제개편안 보완이 변수”",
+            "url": "https://www.g-enews.com/view.php?ud=202608101534402518923c501012_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Mon, 10 Aug 2026 18:10:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
