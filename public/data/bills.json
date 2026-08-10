@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T09:35:24.741Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-08-10T10:18:46.973Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000329680",
@@ -1746,7 +1746,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328518/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1758,7 +1758,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "주차장법 시행령 일부개정안은 주차장 설치 기준을 변경하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:10:21.454Z"
     },
     {
       "id": "government-progress-2000000329556",
@@ -1776,7 +1778,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329556/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1788,7 +1790,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "국가데이터처와 그 소속기관의 직제에 관한 시행규칙을 일부 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:10:44.360Z"
     },
     {
       "id": "government-progress-2000000327558",
@@ -1806,7 +1810,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327558/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1818,7 +1822,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "제주4·3사건 진상규명 및 희생자 명예회복에 관한 특별법 시행령이 일부 개정됩니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:11:07.267Z"
     },
     {
       "id": "government-progress-2000000328118",
@@ -1836,7 +1842,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328118/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1848,7 +1854,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "국가유산수리 등에 관한 법률 시행규칙 일부개정안은 국가유산의 수리 및 관리에 관한 사항을 규정하고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:11:30.275Z"
     },
     {
       "id": "government-progress-2000000327252",
@@ -1866,7 +1874,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327252/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1878,7 +1886,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "화물자동차 운수사업법 일부개정안은 화물자동차 운송사업의 등록 기준을 완화하는 내용을 담고 있습니다. 또한, 화물자동차 운송사업의 등록 취소 및 사업 정지 기준을 명확히 하고, 위반 시 과징금 부과 기준을 조정하는 내용을 포함합니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:11:53.606Z"
     },
     {
       "id": "government-progress-2000000328070",
@@ -2440,7 +2450,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329134/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2452,7 +2462,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "관세청과 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:12:16.514Z"
     },
     {
       "id": "government-progress-2000000327300",
@@ -2470,7 +2482,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327300/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2482,7 +2494,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "여객자동차 운수사업법 일부개정법률안은 여객자동차 운송사업의 등록 기준을 완화하여 신규 사업자의 진입을 촉진하는 내용을 담고 있습니다. 또한, 운송사업자의 운행 기록 제출 의무를 신설하여 안전 관리를 강화하고자 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:12:39.591Z"
     },
     {
       "id": "government-progress-2000000329414",
@@ -2500,7 +2514,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329414/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2512,7 +2526,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "가맹사업법 시행령은 가맹본부의 정보공개서 작성 및 제공 의무를 강화하고, 가맹점사업자의 권익 보호를 위한 사항을 담고 있습니다. 또한, 가맹본부의 부당한 영업지역 침해 행위를 금지하고, 가맹점사업자의 계약 갱신 요구권을 보장하는 내용을 포함합니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:13:02.821Z"
     },
     {
       "id": "government-progress-2000000329340",
@@ -2530,7 +2546,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329340/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2542,7 +2558,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "법무부와 그 소속기관 직제 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:13:25.751Z"
     },
     {
       "id": "government-progress-2000000329430",
@@ -2560,7 +2578,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329430/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2572,7 +2590,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "청소년복지 지원법 시행령 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:13:48.610Z"
     },
     {
       "id": "government-progress-2000000324952",
@@ -2590,7 +2610,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324952/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2602,7 +2622,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "선박안전법 시행규칙 일부개정안은 선박의 안전 기준을 강화하고 관련 절차를 명확히 하기 위해 마련되었습니다. 개정안은 선박의 구조, 설비 및 운항에 관한 안전 기준을 신설하거나 강화하는 내용을 담고 있습니다. 또한, 선박 검사 및 승인 절차를 개선하고, 안전 관리 의무를 구체화하는 내용을 포함합니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:14:11.819Z"
     },
     {
       "id": "government-progress-2000000327166",
@@ -2620,7 +2642,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327166/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2632,7 +2654,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "복권 및 복권기금법 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:14:34.715Z"
     },
     {
       "id": "government-progress-2000000328748",
@@ -2650,7 +2674,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328748/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 국무총리훈령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2662,7 +2686,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "과거사 관련 업무 지원단을 설치하고 운영하는 규정을 제정한다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:14:57.649Z"
     },
     {
       "id": "government-progress-2000000329596",
@@ -2680,7 +2706,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329596/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2692,7 +2718,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:57.969Z",
-      "updatedAt": "2026-08-09T09:30:57.969Z"
+      "updatedAt": "2026-08-09T09:30:57.969Z",
+      "aiSummary": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령 일부를 개정하는 대통령령입니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:15:20.589Z"
     },
     {
       "id": "government-progress-2000000329336",
@@ -3191,7 +3219,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220510/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220510/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3204,7 +3232,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:15:43.633Z"
     },
     {
       "id": "assembly-status-2220509",
@@ -3223,7 +3253,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220509/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220509/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3236,7 +3266,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:16:06.602Z"
     },
     {
       "id": "assembly-status-2220508",
@@ -3255,7 +3287,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220508/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220508/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3268,7 +3300,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "상세 원문을 가져오지 못했습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:16:29.454Z"
     },
     {
       "id": "assembly-status-2220507",
@@ -3287,7 +3321,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220507/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220507/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3300,7 +3334,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "죄송합니다. AI 요약 원문에서 상세 내용을 가져오지 못하여 법률안의 내용을 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:16:52.284Z"
     },
     {
       "id": "assembly-status-2220506",
@@ -3319,7 +3355,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220506/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220506/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3332,7 +3368,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 파악할 수 없습니다. 따라서 요약을 생성할 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:17:15.362Z"
     },
     {
       "id": "assembly-status-2220505",
@@ -3351,7 +3389,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220505/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220505/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3364,7 +3402,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:17:38.390Z"
     },
     {
       "id": "assembly-status-2220503",
@@ -3383,7 +3423,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220503/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220503/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3396,7 +3436,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "해당 법률안은 방위사업법의 일부를 개정하려는 것입니다. 구체적인 개정 내용은 원문에 제시되지 않아 요약할 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:18:01.363Z"
     },
     {
       "id": "assembly-status-2220502",
@@ -3415,7 +3457,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220502/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220502/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3428,7 +3470,9 @@
         }
       ],
       "createdAt": "2026-08-09T09:30:32.602Z",
-      "updatedAt": "2026-08-09T09:30:32.602Z"
+      "updatedAt": "2026-08-09T09:30:32.602Z",
+      "aiSummary": "죄송합니다. AI 요약 원문에서 상세 내용을 가져오지 못하여 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-10T10:18:24.361Z"
     },
     {
       "id": "assembly-status-2220501",
