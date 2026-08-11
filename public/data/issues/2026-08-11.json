@@ -1,0 +1,150 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T09:33:13.114Z",
+  "title": "2026년 08월 11일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 11일 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "부동산 공급 정책 및 세제 개편 논쟁",
+        "summary": "여야 간 부동산 공급 법안 처리와 종합부동산세 등 세제 개편안을 둘러싼 공방이 치열합니다. 정부의 정책 추진 방식과 야당의 협조 여부가 쟁점입니다.",
+        "articles": [
+          {
+            "title": "여 “공급 법안 처리하자”…야 “남 탓 말고 정책 전환”",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634100&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Tue, 11 Aug 2026 18:05:00 +0900"
+          },
+          {
+            "title": "與, 주택공급 법안 처리 압박…국힘에 \"13일 본회의 열자\"",
+            "url": "https://www.hankyung.com/article/2026081150391",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 11 Aug 2026 17:52:00 +0900"
+          },
+          {
+            "title": "종부세 법안 입법예고에 의견 4천건 돌파…구윤철 “20일까지 의견수렴 ...",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06314006645546336",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Tue, 11 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "노동조합법(노란봉투법) 시행령 관련 논란",
+        "summary": "이재명 대통령의 '노란봉투법' 쟁의 대상 시행령화 지시에 대해 민주노총이 반발하며 재계 편들기이자 월권 행위라고 비판하고 있습니다.",
+        "articles": [
+          {
+            "title": "민주노총 \"李대통령, 노조법 쟁의기준 시행령 지시는 월권\"",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=06409126645546336",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Tue, 11 Aug 2026 18:23:00 +0900"
+          },
+          {
+            "title": "민주노총 “노란봉투법 쟁의 대상 규정하라는 李 지시, 재계 편들기”",
+            "url": "https://biz.chosun.com/policy/policy_sub/2026/08/11/M5JWZYWFSJATFFT6F7Y2XW2GQM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Tue, 11 Aug 2026 18:27:00 +0900"
+          },
+          {
+            "title": "민주노총 “이재명 대통령의 ‘쟁의대상 시행령화’ 지시, 재계 편들기...",
+            "url": "https://vop.co.kr/A00001696182.html",
+            "outlet": "vop.co.kr",
+            "publishedAt": "Tue, 11 Aug 2026 18:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "메가특구 추진 및 노동권 관련 쟁점",
+        "summary": "정부가 추진하는 메가특구 사업에서 52시간제 예외 적용 등 노동권 관련 조항에 대해 진보당 등에서 비판하며 노동자 권리 희생을 우려하고 있습니다.",
+        "articles": [
+          {
+            "title": "민주, '메가 프로젝트' 뒷받침 총력...국힘 \"제2 레버리지 우려\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202608111817437630",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 11 Aug 2026 18:17:00 +0900"
+          },
+          {
+            "title": "진보당, 메가특구 '52시간제 예외' 중단 촉구",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3661975",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Tue, 11 Aug 2026 18:14:00 +0900"
+          },
+          {
+            "title": "‘메가특구 52시간제 예외’ 여당 내 이견···“‘노동시간 단축’ 국...",
+            "url": "https://www.khan.co.kr/article/202608111804021",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 11 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "정부 부처 간 정책 이견 및 조율 과정",
+        "summary": "이재명 대통령이 부처 간 이견 조정을 '민주적 과정'으로 설명하며 정책 혼선 우려에 대해 선을 긋고 있습니다. 검경 수사본부 운영, 대북 정책 등에서 이견이 드러나고 있습니다.",
+        "articles": [
+          {
+            "title": "이 대통령 \"부처 간 엇박자? 민주적 과정...세제 개편안, 반론 수용 바람...",
+            "url": "https://www.ytn.co.kr/_ln/0101_202608111800419899",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 11 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "李 “부처 간 이견 조정은 민주적”… 엇박자 선 긋기",
+            "url": "https://www.segye.com/newsView/20260811519843?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Tue, 11 Aug 2026 18:28:00 +0900"
+          },
+          {
+            "title": "추미애 지사, 북부청사에서 '경기북동부 대전환' 챙긴다",
+            "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=76123",
+            "outlet": "consumernews.co.kr"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "청년 주거권 및 주거 환경 개선 문제",
+        "summary": "폐버스를 활용한 청년 주거 정책 비판 속에서, 전남광주 등 지역의 청년 주거비 완화 정책과 반지하 거주 독립운동가 후손의 열악한 주거 환경 문제가 조명되고 있습니다.",
+        "articles": [
+          {
+            "title": "'폐버스'로 부각된 청년 주거권…전남광주 관련 정책 '눈길'",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000056116",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Tue, 11 Aug 2026 18:29:00 +0900"
+          },
+          {
+            "title": "[부끄러운 자화상②] 반지하 계단이 두려운 독립운동가 후손의 오늘",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363733616",
+            "outlet": "joongboo.com",
+            "publishedAt": "Tue, 11 Aug 2026 18:32:00 +0900"
+          },
+          {
+            "title": "오세훈 “용산서 1695세대 순증 가능”",
+            "url": "https://www.segye.com/newsView/20260811519703?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Tue, 11 Aug 2026 18:25:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
