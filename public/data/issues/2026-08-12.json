@@ -1,0 +1,149 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T09:43:02.421Z",
+  "title": "2026년 08월 12일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "오늘의 주요 시사 이슈",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "윤석열·신원식 기소",
+        "summary": "종합특검, 윤석열·신원식 기소",
+        "articles": [
+          {
+            "title": "[속보] 종합특검, '계엄 정당화 메시지 전파' 윤석열·신원식 기소",
+            "url": "https://www.yonhapnewstv.co.kr/news/MYH202608121841479LG",
+            "outlet": "yonhapnewstv.co.kr"
+          },
+          {
+            "title": "[속보]종합특검, ‘비상계엄 정당 메시지 전파’ 윤석열·신원식 기소",
+            "url": "https://www.donga.com/news/Society/article/all/20260812/134467643/1",
+            "outlet": "donga.com",
+            "publishedAt": "Wed, 12 Aug 2026 18:38:00 +0900"
+          },
+          {
+            "title": "[속보] 종합특검, '계엄 정당화 메시지' 尹·신원식 불구속 기소‥내란...",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6844287_36918.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Wed, 12 Aug 2026 18:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "주52시간 예외",
+        "summary": "주52시간 예외 논란",
+        "articles": [
+          {
+            "title": "메가특구 ‘주 52시간제 예외’에…여 “신중해야”·야 “전국 확대해...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635261&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:32:00 +0900"
+          },
+          {
+            "title": "'주52시간 예외' 노동 장관 재차 신중론 \"장시간 노동 이 창의적 인재로 ...",
+            "url": "https://www.hankookilbo.com/news/article/A2026081216550005789?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Wed, 12 Aug 2026 18:31:00 +0900"
+          },
+          {
+            "title": "김영훈, 메가특구 주 52시간 관련 \"기업생산성 해법도 고민\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5212030",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "집 맞교환",
+        "summary": "집 맞교환 논란",
+        "articles": [
+          {
+            "title": "“집 맞교환으로 양도세 덜자”… 정책은 땜질, 집주인은 꼼수",
+            "url": "https://www.seoul.co.kr/news/economy/estate/2026/08/13/20260813003001?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:16:00 +0900"
+          },
+          {
+            "title": "민주, 부동산 정책 전반 점검…첫 회의서 '우려' 목소리도[영상]",
+            "url": "https://www.nocutnews.co.kr/news/6562117?utm_source=naver&utm_medium=article&utm_campaign=20260812063707",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:08:00 +0900"
+          },
+          {
+            "title": "與 \"정부, 주택공급·금융대책 내일 발표...국민 체감 속도감 있는 실행...",
+            "url": "http://www.joseilbo.com/news/articleView.html?uid=573730&class=32&grp=",
+            "outlet": "joseilbo.com"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "공급 발목잡기 그만 vs 집값 대신 국민만 잡아",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"공급 발목잡기 그만\" vs \"집값 대신 국민만 잡아\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202608121800390504",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "보완수사권 폐지 비판한 장동혁 \"팔다리만 수술하면 될 걸 목숨 끊어\"",
+            "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404856",
+            "outlet": "todaykorea.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:36:00 +0900"
+          },
+          {
+            "title": "[속보] 특검, '계엄 정당화 메시지' 윤석열·신원식 기소",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202608121841479LG",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "건보 재정 갉아먹는 불법 의료기관 근절 의지 있나",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설]건보 재정 갉아먹는 불법 의료기관 근절 의지 있나",
+            "url": "http://www.kjdaily.com/article.php?aid=1786526435684373018",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Wed, 12 Aug 2026 18:24:00 +0900"
+          },
+          {
+            "title": "“이재명 정부 1년… 정책 착수 충실, 국민 체감은 아직”",
+            "url": "https://www.seoul.co.kr/news/society/2026/08/12/20260812500228?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:24:00 +0900"
+          },
+          {
+            "title": "[사설] 노란봉투법 쟁의대상 시행령으로 좁혀서는 안돼",
+            "url": "https://www.hani.co.kr/arti/opinion/editorial/1272622.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 12 Aug 2026 18:28:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
