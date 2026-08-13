@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T09:42:09.030Z",
+  "title": "2026년 08월 13일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "짧은 설명",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "이재명 대통령, 부동산 문제 해결을 위한 대책 발표",
+        "summary": "부동산 공급 확대 및 세제 개편",
+        "articles": [
+          {
+            "title": "[금주의 여의도유리창] 부동산 공방부터 5·18 논란까지…여야 '정면충...",
+            "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4100756",
+            "outlet": "news.bbsi.co.kr",
+            "publishedAt": "Thu, 13 Aug 2026 18:36:00 +0900"
+          },
+          {
+            "title": "이재명 \"법·제도 고쳐서라도 택지 확보\", 8·13대책 공급 총력전 주문",
+            "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444741",
+            "outlet": "businesspost.co.kr",
+            "publishedAt": "Thu, 13 Aug 2026 18:28:00 +0900"
+          },
+          {
+            "title": "李대통령, 부동산 문제 ‘시한폭탄’에 비유… “공급 특단 노력” 주문...",
+            "url": "https://www.segye.com/newsView/20260813520301?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Thu, 13 Aug 2026 18:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회, 민생 법안 처리 지연",
+        "summary": "여야 간 대립으로 인한 법안 처리 지연",
+        "articles": [
+          {
+            "title": "[이슈] 이진숙, 국회서 '5·18 폄훼' 포럼 강행…민주, 고성 반대 \"제명...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=740104",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Thu, 13 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "민주 \"일부 법안 필리버스터 우려\" 국힘 \"협의 없이 들러리 서란거냐\"",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260814010004794",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 13 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "[기자의 눈]자본시장 따라오지 못한 교육세",
+            "url": "https://www.sedaily.com/article/20079214?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 13 Aug 2026 18:19:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "기후 위기 대응을 위한 탄소중립법 개정",
+        "summary": "기후 위기 대응을 위한 법적 근거 마련",
+        "articles": [
+          {
+            "title": "기후 위기특위, '2040 탄소감축 목표 69∼80%' 탄소중립법 의결",
+            "url": "https://biz.sbs.co.kr/article_hub/20000328641?division=NAVER",
+            "outlet": "biz.sbs.co.kr",
+            "publishedAt": "Thu, 13 Aug 2026 18:28:00 +0900"
+          },
+          {
+            "title": "[사설] 지방소멸, 국가적 불균형의 결과다",
+            "url": "https://www.kbsm.net/news/view.php?idx=530385",
+            "outlet": "kbsm.net",
+            "publishedAt": "Thu, 13 Aug 2026 18:36:00 +0900"
+          },
+          {
+            "title": "안성시, 시청사 주차장에 300kW급 태양광 발전시설 가동",
+            "url": "https://gg.newdaily.co.kr/site/data/html/2026/08/13/2026081300282.html",
+            "outlet": "gg.newdaily.co.kr",
+            "publishedAt": "Thu, 13 Aug 2026 18:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "靑 李대통령",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "靑 \"李대통령, 지지율 유심히 보는 중…부동산으로 답 드리겠다\"",
+            "url": "https://www.hankyung.com/article/2026081302447",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 13 Aug 2026 18:28:00 +0900"
+          },
+          {
+            "title": "[오목대] 국정과제 1호와 대통령의 시간",
+            "url": "https://www.jjan.kr/article/20260813500267",
+            "outlet": "jjan.kr",
+            "publishedAt": "Thu, 13 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "송영길 국회의원, 한수원노조 만나 월성 압력관 논의…예타 면제 정부 ...",
+            "url": "http://www.knpnews.com/news/articleView.html?idxno=34297",
+            "outlet": "knpnews.com",
+            "publishedAt": "Thu, 13 Aug 2026 18:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "300∼500세대 사업 인허가권",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“300∼500세대 사업 인허가권, 자치구 이양 필요”",
+            "url": "https://www.segye.com/newsView/20260813520281?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Thu, 13 Aug 2026 18:34:00 +0900"
+          },
+          {
+            "title": "신상진 “이주비가 투기자금이냐…정부 규제로 수진1구역 재개발 지연”",
+            "url": "https://view.asiae.co.kr/article/2026081318385595235",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Thu, 13 Aug 2026 18:38:00 +0900"
+          },
+          {
+            "title": "[단독] “총인건비 원청 결정땐 교섭”…하청노조 입김 더 세진다",
+            "url": "https://www.sedaily.com/article/20079222?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 13 Aug 2026 18:29:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
