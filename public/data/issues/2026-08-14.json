@@ -1,0 +1,150 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T09:37:45.765Z",
+  "title": "2026년 08월 14일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "짧은 설명",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "부동산 대책 논란",
+        "summary": "여야의 부동산 대책에 대한 논란",
+        "articles": [
+          {
+            "title": "‘8·13 부동산 대책’ 여야 연일 여론전…“신속한 실행” “재탕에 불...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637428&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 17:14:00 +0900"
+          },
+          {
+            "title": "野 부동산 정책 전방위 '난타'…與에서도 '폭망' 위기감",
+            "url": "https://biz.sbs.co.kr/article_hub/20000328905?division=NAVER",
+            "outlet": "biz.sbs.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 18:18:00 +0900"
+          },
+          {
+            "title": "청년엔 폐버스·고시원엔 욕조…본질 잃은 주거 대책에 비판 쇄도",
+            "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128766",
+            "outlet": "ntoday.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 18:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "AI 기술과 경제",
+        "summary": "AI 기술의 경제적 영향",
+        "articles": [
+          {
+            "title": "AI시대, '일자리 감소·사회적 격차' 해결 과제로 부상⋯\"AI 전환 대응법...",
+            "url": "https://www.goodkyung.com/news/articleView.html?idxno=290318",
+            "outlet": "goodkyung.com",
+            "publishedAt": "Fri, 14 Aug 2026 17:02:00 +0900"
+          },
+          {
+            "title": "[의정칼럼]AI 대전환 시대, 당진은 무엇을 준비해야 하는가",
+            "url": "http://www.djtimes.co.kr/news/articleView.html?idxno=113034",
+            "outlet": "djtimes.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "안요진 당진시의원, 'AI 대전환' 지금이 기회",
+            "url": "https://news.tf.co.kr/news/articleView.html?idxno=2354525",
+            "outlet": "tf"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "식량 안보와 농업",
+        "summary": "식량 안보와 농업의 중요성",
+        "articles": [
+          {
+            "title": "\"식량 안보 , 국내 생산기반 유지가 핵심\"···위기 대응체계 구축해야",
+            "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406444",
+            "outlet": "agrinet.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 17:52:00 +0900"
+          },
+          {
+            "title": "반도체 용수공급 '문제 없다'지만···극한 가뭄시 농업용수 대책 '공백...",
+            "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406449",
+            "outlet": "agrinet.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 17:52:00 +0900"
+          },
+          {
+            "title": "제주도, 가뭄·폭염 특교세 14억 긴급 투입...농가 '숨통 터'",
+            "url": "https://www.newsjeju.net/news/articleView.html?idxno=424620",
+            "outlet": "newsjeju.net",
+            "publishedAt": "Fri, 14 Aug 2026 18:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-4",
+        "label": "정청래가 오늘 이재명 대통령에게 날린 수위 높은 발...",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정청래가 오늘(14일) 이재명 대통령에게 날린 '수위 높은 발언'",
+            "url": "https://www.wikitree.co.kr/articles/1152546",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 17:20:00 +0900"
+          },
+          {
+            "title": "[단독] '왕복 140km 전보, 해고'…NH투자증권 지배회사, 지노위서 잇단 ...",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=383724",
+            "outlet": "sisajournal.com",
+            "publishedAt": "Fri, 14 Aug 2026 18:19:00 +0900"
+          },
+          {
+            "title": "청와대 \"국회권한 강화한 4년 중임제, 국민수용성 가장 높다\"",
+            "url": "https://www.thereport.co.kr/news/articleView.html?idxno=90467",
+            "outlet": "thereport.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 18:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "auto-issue-5",
+        "label": "전대 앞 여의도에 떨어진 靑 개헌론",
+        "summary": "관련 기사 3건을 기준으로 추가한 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전대 앞 여의도에 떨어진 靑 개헌론…“4년 중임제 수용성 높아”",
+            "url": "https://www.joongang.co.kr/article/25453447",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "[위클리오늘] 민형배 시장ㆍ전남광주특별시(8.14)",
+            "url": "http://www.weeklytoday.com/news/articleView.html?idxno=790487",
+            "outlet": "weeklytoday.com",
+            "publishedAt": "Fri, 14 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "3시간 넘긴 청년 간담회…李 \"정부 청년정책 성과 못 내\" 반성(종합)",
+            "url": "https://view.asiae.co.kr/article/2026081418265858656",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Fri, 14 Aug 2026 18:26:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
