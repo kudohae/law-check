@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T08:56:50.630Z",
+  "title": "2026년 08월 15일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "조국 주거",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[속보] 조국 “ 주거 ·일자리·노동·교육·돌봄 등에서 소외되지 않는 나...",
+            "url": "https://www.segye.com/newsView/20260815509498?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sat, 15 Aug 2026 15:16:00 +0900"
+          },
+          {
+            "title": "최교진-박홍근 '교부금 담판' 결렬… \"장관직 걸겠다\" 정면충돌",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3425392",
+            "outlet": "newscj.com",
+            "publishedAt": "Sat, 15 Aug 2026 13:56:00 +0900"
+          },
+          {
+            "title": "張, 李대통령 경축사에 \" 안보 포기\"…與 \"옹졸·무책임\"(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260815033751001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 16:49:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "교부금 둘러싼 전화 담판 결렬",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "교부금 둘러싼 '전화 담판' 결렬…교육부·예산처 \"장관직 걸겠다\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5212681",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 13:57:00 +0900"
+          },
+          {
+            "title": "교육 부·예산처 수장, 교부금 개편 '전화 담판' 결렬...\"장관직 걸겠다...",
+            "url": "http://www.fnnews.com/news/202608151715301016",
+            "outlet": "fnnews.com",
+            "publishedAt": "Sat, 15 Aug 2026 17:26:00 +0900"
+          },
+          {
+            "title": "최교진-박홍근 '교부금 담판' 결렬…\"교육부-예산처 장관직 걸겠다\" 엄...",
+            "url": "https://biz.sbs.co.kr/article_hub/20000328962?division=NAVER",
+            "outlet": "biz.sbs.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 13:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "안민석",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "안민석, 베이징 유리창 거리서 “AI·RAS 교육으로 경기교육 대전환”",
+            "url": "http://www.beyondpost.co.kr/view.php?ud=2026081515572997944c878f8fa1_30",
+            "outlet": "beyondpost.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 16:12:00 +0900"
+          },
+          {
+            "title": "정부, 日야스쿠니 공물·참배 \"개탄\"…日관계자 초치해 항의(종합2보)",
+            "url": "https://www.yna.co.kr/view/AKR20260815036852504?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 17:13:00 +0900"
+          },
+          {
+            "title": "장동혁 “이재명 광복절 경축사, 안보 포기 선언”…與 “억지 정쟁 포...",
+            "url": "https://www.dt.co.kr/article/12078397?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 17:11:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "李대통령 임기 단축 용의",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이슈 직썰] 李대통령 \"임기 단축 용의\"…4년 중임제 개헌 승부수",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=143318",
+            "outlet": "ziksir.com",
+            "publishedAt": "Sat, 15 Aug 2026 16:54:00 +0900"
+          },
+          {
+            "title": "광복절 서울 도심서 진보·보수단체 대규모 집회…곳곳서 크고 작은 충...",
+            "url": "https://www.sedaily.com/article/20079847?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0900"
+          },
+          {
+            "title": "국힘, 李대통령 광복절 경축사 맹비난…\"국민·청년 포기 선언\"",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02525606645547648",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 15:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "광복절 사면 1년 맞은 조국 불평등 이기는 싸움 주...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "광복절 사면 1년 맞은 조국 “불평등 이기는 싸움 주저해선 안돼”",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02453446645547648",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 15:28:00 +0900"
+          },
+          {
+            "title": "국민의힘 \"이재명 대통령 광복절 경축사, 성찰이나 현실 타개책은 없어...",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=235609",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sat, 15 Aug 2026 15:22:00 +0900"
+          },
+          {
+            "title": "\"주택 신속 공급\"… 약속대로 실행해 부동산 시장 안정시켜야",
+            "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=311248",
+            "outlet": "thescoop.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 14:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "최교진 전화에도 교부금 합의 결렬",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "최교진 전화에도 교부금 합의 결렬…박홍근과 서로 “직 건다”",
+            "url": "https://www.joongang.co.kr/article/25453611",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 13:53:00 +0900"
+          },
+          {
+            "title": "정부, 日 야스쿠니 참배에 외교·국방 관계자 초치…\"과거사 반성 촉구...",
+            "url": "https://www.mt.co.kr/politics/2026/08/15/2026081517334363069",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 17:43:00 +0900"
+          },
+          {
+            "title": "장동혁 \"이 대통령 경축사, 청년·안보·민생·미래 포기 선언\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5212718",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 17:35:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "여한구 통상교섭본부장 전격 경질",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "여한구 통상교섭본부장 전격 경질…면직 사유는 비공개",
+            "url": "https://www.g-enews.com/view.php?ud=202608151728016168e30fcb1ba8_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sat, 15 Aug 2026 17:30:00 +0900"
+          },
+          {
+            "title": "비 내린 광복절 서울 도심 집회…\"부정선거\" vs \"美 나가라\"",
+            "url": "https://www.nocutnews.co.kr/news/6563510?utm_source=naver&utm_medium=article&utm_campaign=20260815051643",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Sat, 15 Aug 2026 17:17:00 +0900"
+          },
+          {
+            "title": "영풍 석포제련소, 낙동강 카드뮴 오염 기여율 최대 95.2% 추정…정화 책...",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=540342",
+            "outlet": "joongangenews.com",
+            "publishedAt": "Sat, 15 Aug 2026 17:14:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
