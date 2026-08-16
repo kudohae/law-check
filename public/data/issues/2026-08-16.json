@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T08:58:06.885Z",
+  "title": "2026년 08월 16일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "이주 노동 자 주말 집회",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이주 노동 자 주말 집회...\"나쁜 계약 철회해야\"",
+            "url": "https://www.ytn.co.kr/_ln/0103_202608161648302202",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:48:00 +0900"
+          },
+          {
+            "title": "따릉이·타슈·타랑께·누비자…전국 공영자전거 안전관리 기준 통일한...",
+            "url": "https://www.seoul.co.kr/news/plan/this-week-bill/2026/08/16/20260816500029?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 14:01:00 +0900"
+          },
+          {
+            "title": "국민의힘 “비핵화 포기는 안보 포기”…“한국 핵무장 필요”",
+            "url": "https://www.seoul.co.kr/news/politics/2026/08/16/20260816500071?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 17:44:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "더 강하고 촘촘해진 신종 재난",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"더 강하고 촘촘해진 신종 재난\"…기후위기 속 '방재·구호 체계' 어떻게...",
+            "url": "http://www.bizwnews.com/news/articleView.html?idxno=143444",
+            "outlet": "bizwnews.com",
+            "publishedAt": "Sun, 16 Aug 2026 17:42:00 +0900"
+          },
+          {
+            "title": "정부, 이르면 이번주 '100조' 미래대응기금 신설 방안 발표",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5212819",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 17:34:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 \"대통령 임기는 4년 중임 또는 4년 연임, 중간평가 통한...",
+            "url": "https://www.imaeil.com/page/view/2026081617140041448",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sun, 16 Aug 2026 17:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "K배터리",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "K배터리, AI데이터센터가 살린다…'ESS 대전' 막 올랐다",
+            "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580147287978",
+            "outlet": "megaeconomy.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 17:16:00 +0900"
+          },
+          {
+            "title": "국힘 \"李대통령 '종전 논의' 제안, 스스로 무장해제 평화구걸\"(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260816021951001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:58:00 +0900"
+          },
+          {
+            "title": "종합특검 수사기간 오는 23일 종료···김건희, 원희룡, 홍장원 등 기소...",
+            "url": "https://www.khan.co.kr/article/202608161648001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "이주 노동 자 서울 도심 집회",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이주 노동 자 서울 도심 집회…\"나쁜 계약 철회· 노동 권 보장하라\"",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=235646",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:36:00 +0900"
+          },
+          {
+            "title": "시민단체, 영풍 석포제련소 중금속 오염 후속조치 지연 고발",
+            "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=608613",
+            "outlet": "mdtoday.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:26:00 +0900"
+          },
+          {
+            "title": "‘마스가’ 시동 걸리나…“한국도 실익 챙길 협력구조 짜야”",
+            "url": "https://www.khan.co.kr/article/202608161611001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:11:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "복날 특수도 다 옛말",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "복날 특수도 다 옛말… 자영업자들 이중고에 비명 지르는 이유",
+            "url": "https://www.wikitree.co.kr/articles/1152780",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 15:46:00 +0900"
+          },
+          {
+            "title": "[시각과 전망-이상준] \"거대한 실험장에 갇힌 한국\"",
+            "url": "https://www.imaeil.com/page/view/2026081611124661765",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sun, 16 Aug 2026 15:33:00 +0900"
+          },
+          {
+            "title": "박성민 의원, 공공기관·발전 5사 통합본사 울산 유치 추진",
+            "url": "http://www.lawissue.co.kr/view.php?ud=202608161425562005f4ab64559d_12",
+            "outlet": "lawissue.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 14:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "李대통령 지키자 김민석에 힘 실어줘",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“李대통령 지키자” 김민석에 힘 실어줘 … ‘1차 과반’ 가능성 [與 8...",
+            "url": "https://www.segye.com/newsView/20260816511048?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sun, 16 Aug 2026 17:30:00 +0900"
+          },
+          {
+            "title": "국민의힘 \"李 종전 논의 제안은 무장해제…평화 구걸\"",
+            "url": "https://www.ajunews.com/view/20260816170308848",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 16 Aug 2026 17:08:00 +0900"
+          },
+          {
+            "title": "시민단체 \"석포제련소 카드뮴 최대 95.2% 기여 추정에도 정화 조치 미흡...",
+            "url": "https://www.starnewskorea.com/business-life/2026/08/16/2026081616582124665",
+            "outlet": "starnewskorea.com",
+            "publishedAt": "Sun, 16 Aug 2026 16:59:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "남인순 국회부의장",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "남인순 국회부의장, 중앙전파관리소 점검…\"송파 ICT보안 거점 기대\"",
+            "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704301",
+            "outlet": "newsfreezone.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:58:00 +0900"
+          },
+          {
+            "title": "종료 D-7 종합특검 막판 속도…김건희·윤한홍·홍장원 등 처분 임박",
+            "url": "https://www.news1.kr/society/court-prosecution/6260585",
+            "outlet": "news1.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:55:00 +0900"
+          },
+          {
+            "title": "산업통상부 장관이 오늘(16일) 미국으로 급히 떠난 이유",
+            "url": "https://www.wikitree.co.kr/articles/1152784",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Sun, 16 Aug 2026 16:30:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
