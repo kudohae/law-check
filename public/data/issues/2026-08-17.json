@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T09:11:08.828Z",
+  "title": "2026년 08월 17일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 17일 한국 사회의 주요 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "한미 훈련 축소 및 외교·안보 논란",
+        "summary": "트럼프 대통령의 한미 연합훈련 규모 축소 지시와 관련하여 야당은 정부의 외교·안보 정책을 비판하고 있으며, 청와대는 북미 대화 재개에 대한 기대를 표명하며 공조를 강조하고 있습니다.",
+        "articles": [
+          {
+            "title": "野 \"한미훈련 대폭 축소, 외교 참사\"...靑 \"북미 대화 논의 기대\"",
+            "url": "https://www.pennmike.com/news/articleView.html?idxno=125814",
+            "outlet": "pennmike.com",
+            "publishedAt": "Mon, 17 Aug 2026 17:38:00 +0900"
+          },
+          {
+            "title": "국힘 \"청와대 안보 인식 개탄스러워…흔들리는 한미동맹부터 바로 세워...",
+            "url": "https://www.newsis.com/view/NISX20260817_0003751592",
+            "outlet": "newsis.com",
+            "publishedAt": "Mon, 17 Aug 2026 17:55:00 +0900"
+          },
+          {
+            "title": "한미 훈련 축소 파장…野, 이재명 정부 외교·안보 난타",
+            "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=316501",
+            "outlet": "wolyo.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "8월 임시국회 입법 쟁점 및 여야 대치",
+        "summary": "늦어진 8월 임시국회에서 패스트트랙 법안, 부동산 법안 등 쟁점 법안 처리를 두고 여야 간 대치가 예상되며, 국회 정책위의장 공석 문제도 해결 과제로 남아 있습니다.",
+        "articles": [
+          {
+            "title": "늦어진 임시국회 '입법 전쟁' 예고",
+            "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2234992",
+            "outlet": "cctoday.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:04:00 +0900"
+          },
+          {
+            "title": "국회, 20일 본회의서 패트 단축 ‘국회법 개정안’ 처리…부동산 법안 ...",
+            "url": "https://www.kgnews.co.kr/news/article.html?no=907976",
+            "outlet": "kgnews.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:28:00 +0900"
+          },
+          {
+            "title": "쏟아지는 정책 이슈에도 비어 있는 국힘 정책위의장… 이번주 공석 채우...",
+            "url": "https://www.imaeil.com/page/view/2026081717000741831",
+            "outlet": "imaeil.com",
+            "publishedAt": "Mon, 17 Aug 2026 17:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "노동 현안 및 경영계 제언",
+        "summary": "경영계는 성과급을 쟁의 대상에서 제외하고 메가특구에서 노동 유연성을 확보할 것을 정부에 요청했으며, 산재 사망 시 영업이익의 일정 비율을 과징금으로 부과하는 법안이 국회 통과를 앞두고 있습니다.",
+        "articles": [
+          {
+            "title": "“성과급, 쟁의대상 제외해야…메가특구 노동 유연성 필요”",
+            "url": "https://www.seoul.co.kr/news/economy/2026/08/17/20260817500104?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:53:00 +0900"
+          },
+          {
+            "title": "산재로 연 3명 이상 사망시 ‘영업이익 5%’ 과징금…9월 국회 문턱 넘을...",
+            "url": "https://www.hani.co.kr/arti/society/labor/1273271.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 18:06:00 +0900"
+          },
+          {
+            "title": "[입법이 나라 바꾼다] 노동권도, 경영권도 지키는 길",
+            "url": "https://www.dt.co.kr/article/12078581?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 16:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "가습기 살균제 피해자 진상 규명 및 배상 요구",
+        "summary": "가습기 살균제 피해자들이 진상 규명과 온전한 배상을 촉구하며 농성을 이어가고 있으며, 관련 법안 개정에도 불구하고 피해자들의 요구가 완전히 충족되지 않고 있습니다.",
+        "articles": [
+          {
+            "title": "\"진상규명·온전한 배상하라\"… 가습기 살균제 피해자들, 광화문서 농성",
+            "url": "https://www.hankookilbo.com/news/article/A2026081715140005444?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 17 Aug 2026 17:15:00 +0900"
+          },
+          {
+            "title": "故서영철 대표 떠난 뒤…가습기살균제 피해자들 \"진상규명 재개\"",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057317",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Mon, 17 Aug 2026 17:22:00 +0900"
+          },
+          {
+            "title": "[20260817]요약은 더 힘들다 뉴스공장",
+            "url": "http://www.ddanzi.com/891943297",
+            "outlet": "ddanzi.com",
+            "publishedAt": "Mon, 17 Aug 2026 16:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "자연재해 및 복구 지원",
+        "summary": "남해안 지역에 집중된 극한 호우로 인명 및 재산 피해가 발생했으며, 정부는 특별교부세와 재난 구호 사업비를 긴급 지원하며 복구 대책을 논의하고 있습니다.",
+        "articles": [
+          {
+            "title": "거제 813㎜ 물폭탄… 아파트에 토사 덮쳐 1명 사망",
+            "url": "https://www.segye.com/newsView/20260817513891?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Mon, 17 Aug 2026 17:47:00 +0900"
+          },
+          {
+            "title": "남해안 극한 호우로 1명 사망·4명 부상...거제 피해 집중",
+            "url": "https://www.ytn.co.kr/_ln/0115_202608171746103848",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:46:00 +0900"
+          },
+          {
+            "title": "이 대통령, 인니 규모 7.7 강진에 \"안타까움 금할 수 없다…깊은 위로\"",
+            "url": "https://news.jtbc.co.kr/article/NB12313737?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "청년 정책 및 일자리 관련 논의",
+        "summary": "청년들이 머무는 도시의 조건으로 일자리뿐만 아니라 안정적인 주거, 자산 형성, 의료, 교육, 문화 등 삶의 기반이 중요하며, 정책의 성패는 지원 사업의 숫자가 아닌 삶의 질 향상에 달려 있다는 분석이 나왔습니다.",
+        "articles": [
+          {
+            "title": "[경제칼럼] 청년이 머무는 도시의 조건: 일자리에서 삶까지",
+            "url": "https://www.jjan.kr/article/20260817500238",
+            "outlet": "jjan.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:36:00 +0900"
+          },
+          {
+            "title": "늘 죄송하고 안타까운 대출 정책[기자수첩]",
+            "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01849926645548304",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 17:46:00 +0900"
+          },
+          {
+            "title": "[오늘의 DT인] “혁신조달 활용 AI산업·혁신기업 육성 등 체감형 성과창...",
+            "url": "https://www.dt.co.kr/article/12078593?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Mon, 17 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
