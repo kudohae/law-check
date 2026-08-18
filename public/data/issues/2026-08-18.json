@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T09:05:12.452Z",
+  "title": "2026년 08월 18일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 18일 주요 사회, 경제, 정치 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "트럼프발 통상·안보 압박과 한미 관계",
+        "summary": "트럼프 전 대통령의 관세 및 투자 이행 압박이 안보 문제로 번지며 한미 관계에 긴장감을 고조시키고 있습니다.",
+        "articles": [
+          {
+            "title": "트럼프, '관세·김정은 카드' 만지작...투자 이행 재촉? 반도체 투자 압...",
+            "url": "https://economist.co.kr/article/view/ecn202608180063",
+            "outlet": "economist.co.kr",
+            "publishedAt": "Tue, 18 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "[사설] 안보 ·통상 덮치는 ‘트럼프發 태풍’… 정교한 대미전략 화급하...",
+            "url": "https://www.dt.co.kr/article/12078813?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Tue, 18 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "北엔 \"좋은 사이\", 韓엔 \"왜 돕나\"…전방위 압박 나선 트럼프(종합)",
+            "url": "https://www.mt.co.kr/politics/2026/08/18/2026081817170396988",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 18 Aug 2026 18:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "용산공원 개발 계획 갈등 심화",
+        "summary": "서울시와 정부 간 용산공원 개발 계획을 두고 이견이 충돌하며 갈등이 심화되고 있습니다.",
+        "articles": [
+          {
+            "title": "서울시-정부 '용산 공원' 전면전...오세훈, 李대통령에 \"절대 불가\"",
+            "url": "http://www.fnnews.com/news/202608181514139692",
+            "outlet": "fnnews.com",
+            "publishedAt": "Tue, 18 Aug 2026 17:55:00 +0900"
+          },
+          {
+            "title": "\"용산 대신 이태원·후암 국공유지가 대안\"…'용산공원 아파트' 절대반...",
+            "url": "http://www.fnnews.com/news/202608181744517598",
+            "outlet": "fnnews.com",
+            "publishedAt": "Tue, 18 Aug 2026 17:56:00 +0900"
+          },
+          {
+            "title": "오세훈·권영세 \"용산공원 안돼⋯녹지 지키고 대체부지 찾아야\"",
+            "url": "http://www.inews24.com/view/1995999",
+            "outlet": "inews24.com",
+            "publishedAt": "Tue, 18 Aug 2026 18:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "노동 유연화 논란과 '메가특구' 추진",
+        "summary": "경영계가 '메가특구특별법'에 노동 시간 규제 완화를 요구하며 노동계와 첨예한 대립각을 세우고 있습니다.",
+        "articles": [
+          {
+            "title": "경총 '메가특구' 노동 유연화 요구···민주노총 \"주52시간제 형해화\"",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41317",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Tue, 18 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "정부, 반도체·AI 전력 수요 늘자 가스발전 확대 검토",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=143512",
+            "outlet": "ziksir.com",
+            "publishedAt": "Tue, 18 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "사무총장·정책위의장에 '한정애·권칠승'…'부동산·3대메가·개헌' 시...",
+            "url": "http://www.newstomato.com/ReadNews.aspx?no=1310616&inflow=N",
+            "outlet": "newstomato.com",
+            "publishedAt": "Tue, 18 Aug 2026 17:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "이 대통령, 혐오 표현 실질적 제재 강조",
+        "summary": "이재명 대통령이 특정 지역 비하 및 사건 피해자 조롱 등 혐오 표현에 대한 실질적 제재를 강조하며 사회적 적대 문화 완화를 주문했습니다.",
+        "articles": [
+          {
+            "title": "[속보] 이 대통령 \"특정 지역 비하·특정 사건 피해자 조롱, 실질적 제재...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336545",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Tue, 18 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "[속보] 이 대통령 \"특정 지역 비하·사건 피해자 조롱, 실질적 제재 있어...",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026081817561085446",
+            "outlet": "busan.com",
+            "publishedAt": "Tue, 18 Aug 2026 17:57:00 +0900"
+          },
+          {
+            "title": "\"이진숙, 의원직 사퇴하라\"…오월단체, 국회 항의 방문해 공식 사죄 촉...",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=383921",
+            "outlet": "sisajournal.com",
+            "publishedAt": "Tue, 18 Aug 2026 18:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "전기요금 개편 논의와 에너지 정책 방향",
+        "summary": "산업용 전기요금 차등 적용 방안과 신규 원전 건설 계획 등 에너지 정책 전반에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "김성환 \"신규 원전, 답 정해놓지 않아...국민과 토론결정\"",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260005&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Tue, 18 Aug 2026 18:01:00 +0900"
+          },
+          {
+            "title": "첨단산업엔 혜택, 도시철도는 외면…서울교통公, 전기요금 형평성 제기",
+            "url": "https://www.redaily.co.kr/news/articleView.html?idxno=17347",
+            "outlet": "redaily.co.kr",
+            "publishedAt": "Tue, 18 Aug 2026 17:50:00 +0900"
+          },
+          {
+            "title": "김성환 “8월 중 산업용 지역요금제, 신규댐 건설 계획 공개”",
+            "url": "https://biz.heraldcorp.com/article/10844473?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Tue, 18 Aug 2026 17:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "김민석 대표 체제 하 민주당 당직 인선 및 2030 정책 강화",
+        "summary": "김민석 신임 민주당 대표가 당직 인선을 마무리하고 2030 세대와의 소통 강화를 위한 컨트롤 타워 구축을 추진하고 있습니다.",
+        "articles": [
+          {
+            "title": "與김민석호, 신임 사무총장 한정애...정책위의장 권칠승 임명",
+            "url": "http://www.joseilbo.com/news/news_read.php?uid=574001&class=32&grp=",
+            "outlet": "joseilbo.com",
+            "publishedAt": "Tue, 18 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "김민석號, 2030 컨트롤타워 추진…“장관급 범부처 총괄기구 전환”",
+            "url": "https://www.sedaily.com/article/20080531?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 18 Aug 2026 17:55:00 +0900"
+          },
+          {
+            "title": "김민석 첫 당직 인선 '통합' 방점…한정애 사무총장·권칠승 정책위의장",
+            "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=309145",
+            "outlet": "straightnews.co.kr",
+            "publishedAt": "Tue, 18 Aug 2026 17:58:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
