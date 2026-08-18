@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T09:33:30.402Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-08-18T09:32:17.450Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000327300",
@@ -4066,7 +4066,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220584/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220584/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4079,7 +4079,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "가정폭력범죄의 처벌 등에 관한 특례법 일부개정법률안은 가정폭력범죄의 처벌에 관한 사항을 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:24:12.815Z"
     },
     {
       "id": "assembly-status-2220583",
@@ -4098,7 +4100,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220583/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220583/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4111,7 +4113,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "스토킹범죄의 처벌 등에 관한 법률 일부개정법률안은 스토킹범죄의 정의를 명확히 하고, 스토킹범죄에 대한 처벌을 강화하는 것을 목적으로 합니다. 또한, 스토킹범죄 피해자를 보호하기 위한 조치를 신설하거나 강화하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:24:35.982Z"
     },
     {
       "id": "assembly-status-2220582",
@@ -4130,7 +4134,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220582/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220582/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4143,7 +4147,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:24:59.050Z"
     },
     {
       "id": "assembly-status-2220581",
@@ -4162,7 +4168,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220581/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220581/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4175,7 +4181,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 확인할 수 없어 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:25:22.044Z"
     },
     {
       "id": "government-notice-88128",
@@ -4195,7 +4203,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88128?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 대통령령 / 법령분야: 지방제도 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4216,7 +4224,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 일부개정령안은 지방자치단체의 재정 운영에 관한 사항을 신설하려 합니다. 구체적으로 지방자치단체의 재정 운영의 투명성을 높이기 위한 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:25:45.144Z"
     },
     {
       "id": "government-notice-88126",
@@ -4236,7 +4246,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88126?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 부령 / 법령분야: 주택ㆍ건축ㆍ도로 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4257,7 +4267,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "주택법 시행규칙 일부개정령안은 주택 관련 법령의 개정을 통해 주택 공급 및 관리에 관한 사항을 정비하려는 것입니다. 구체적인 내용은 공개된 데이터 요지에 명시되어 있지 않으나, 주택 공급 절차나 주택 관리 기준 등에 대한 변경이 포함될 수 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:26:08.265Z"
     },
     {
       "id": "government-notice-88124",
@@ -4277,7 +4289,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88124?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 부령 / 법령분야: 육운ㆍ항공ㆍ관광 / 의견 제출 남은 기간: 58일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4298,7 +4310,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "자동차 및 자동차부품의 성능과 기준에 관한 규칙 일부개정령안은 자동차의 안전기준을 강화하고, 자동차 부품의 성능 시험 방법을 개선하는 내용을 담고 있습니다. 또한, 친환경 자동차의 보급 확대를 위한 지원 근거를 마련하고, 관련 규제를 합리적으로 조정하는 것을 목표로 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:26:31.394Z"
     },
     {
       "id": "government-notice-88122",
@@ -4318,7 +4332,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88122?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 법률 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4339,7 +4353,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "이 법률안은 청년 등의 사회진출을 지원하기 위해 실무경력 인정 범위를 확대하는 내용을 담고 있습니다. 이를 위해 4개 법률의 일부를 개정하고자 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:26:54.551Z"
     },
     {
       "id": "government-notice-88120",
@@ -4359,7 +4375,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88120?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 대통령령 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4380,7 +4396,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "이 대통령령안은 청년 등의 사회진출을 지원하기 위해 실무경력 인정 범위를 확대하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:27:17.601Z"
     },
     {
       "id": "government-notice-88118",
@@ -4400,7 +4418,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88118?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 부령 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4421,7 +4439,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "이 부령안은 청년 등의 사회진출을 지원하기 위해 실무경력 인정 범위를 확대하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:27:40.538Z"
     },
     {
       "id": "government-notice-88116",
@@ -4441,7 +4461,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88116?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 부령 / 법령분야: 교육ㆍ학술 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4462,7 +4482,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "체육시설의 설치·이용에 관한 법률 시행규칙 일부개정령안은 체육시설의 설치 및 이용에 관한 사항을 규정하는 법률의 시행규칙을 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:28:03.500Z"
     },
     {
       "id": "government-notice-88114",
@@ -4482,7 +4504,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88114?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 대통령령 / 법령분야: 교육ㆍ학술 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4503,7 +4525,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "초ㆍ중등교육법 시행령 일부개정령안은 학교의 장이 학생의 학습권 보장을 위해 필요한 경우 학생의 학교생활에 관한 규칙을 제정할 수 있도록 하는 내용을 담고 있습니다. 또한, 학교의 장은 학생의 학교생활에 관한 규칙을 제정할 때 학생, 학부모, 교직원 등 학교 구성원의 의견을 수렴해야 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:28:26.947Z"
     },
     {
       "id": "government-notice-88112",
@@ -4523,7 +4547,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88112?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 부령 / 법령분야: 군사 / 의견 제출 남은 기간: 4일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4544,7 +4568,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "국방부와 그 소속기관 직제 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:28:49.794Z"
     },
     {
       "id": "government-notice-88110",
@@ -4564,7 +4590,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88110?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 대통령령 / 법령분야: 약사 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4585,7 +4611,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "첨단재생의료 임상연구 대상자 선정 시 고려사항을 구체화하고, 첨단바이오의약품의 허가 및 심사 관련 사항을 정비하려는 대통령령 일부개정령안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:29:12.930Z"
     },
     {
       "id": "government-notice-88130",
@@ -4605,7 +4633,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88130?pageIndex=1&blockStartPage=1",
       "summarySourceLabel": "정부입법예고 본문",
       "rawSummary": "법령종류: 대통령령 / 법령분야: 상업ㆍ무역ㆍ공업 / 의견 제출 남은 기간: 37일",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4626,7 +4654,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:25.851Z",
-      "updatedAt": "2026-08-17T09:32:25.851Z"
+      "updatedAt": "2026-08-17T09:32:25.851Z",
+      "aiSummary": "항공우주산업개발 촉진법 시행령 일부개정령안은 항공우주산업의 육성 및 지원에 관한 사항을 담고 있습니다. 이 개정령안은 항공우주산업의 발전을 촉진하기 위한 새로운 제도나 의무, 절차를 신설하거나 개정하는 내용을 포함할 것으로 예상됩니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:29:36.113Z"
     },
     {
       "id": "assembly-status-2220580",
@@ -4646,7 +4676,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220580/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220580/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4659,7 +4689,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 파악할 수 없습니다. 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드리려면 원문 내용이 필요합니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:29:59.364Z"
     },
     {
       "id": "assembly-status-2220579",
@@ -4679,7 +4711,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220579/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220579/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4692,7 +4724,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 파악할 수 없습니다. 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차에 대한 정보를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:30:22.631Z"
     },
     {
       "id": "assembly-status-2220578",
@@ -4711,7 +4745,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220578/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220578/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4724,7 +4758,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "해당 법률안은 불평등을 대응하고 해소하기 위한 특별법안입니다. 법률안의 구체적인 내용은 상세 원문을 가져오지 못해 확인할 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:30:45.688Z"
     },
     {
       "id": "assembly-status-2220577",
@@ -4744,7 +4780,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220577/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220577/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4757,7 +4793,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:31:08.672Z"
     },
     {
       "id": "assembly-status-2220576",
@@ -4777,7 +4815,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220576/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220576/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4790,7 +4828,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "농지법 일부개정법률안은 농지의 소유 및 이용에 관한 사항을 개정하려는 법률안입니다. 구체적인 내용은 상세 원문에서 확인할 수 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:31:31.649Z"
     },
     {
       "id": "assembly-status-2220575",
@@ -4810,7 +4850,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220575/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220575/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4823,7 +4863,9 @@
         }
       ],
       "createdAt": "2026-08-17T09:32:08.520Z",
-      "updatedAt": "2026-08-17T09:32:08.520Z"
+      "updatedAt": "2026-08-17T09:32:08.520Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-18T09:31:54.716Z"
     },
     {
       "id": "assembly-status-2220574",
