@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T09:06:31.419Z",
+  "title": "2026년 08월 19일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 19일 한국 사회의 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "한미연합훈련 축소 및 외교적 파장",
+        "summary": "트럼프 대통령의 한미연합훈련 축소 지시와 관련하여 한국 정부의 사전 인지 여부, 외교적 대응, 그리고 이에 대한 여야의 공방이 주요 쟁점입니다.",
+        "articles": [
+          {
+            "title": "[속보]조현 외교 장관 \"한미훈련 축소 SNS 보고 알아…주한 美대사 초치...",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202608190058",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:48:00 +0900"
+          },
+          {
+            "title": "국회 외통위 '한미훈련 축소' 공방…與 \"남북관계 좋은 계기\" 野 \"패싱 ...",
+            "url": "https://www.newsis.com/view/NISX20260819_0003754904",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 19 Aug 2026 18:03:00 +0900"
+          },
+          {
+            "title": "조현 \"연합훈련 축소, 사전 통보 못 받아...주한미국대사 초치\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202608191800535336",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 18:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "용산공원 주택 공급 논란",
+        "summary": "용산공원 부지의 주택 공급 활용 방안을 두고 정부·여당과 야당 간의 공방이 이어지고 있으며, 관련 법안 처리 여부가 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "정부·여당, 용산공원 주택공급 활용에 총력전… 공론화 검토",
+            "url": "https://www.sisaweek.com/news/articleView.html?idxno=237376",
+            "outlet": "sisaweek.com",
+            "publishedAt": "Wed, 19 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "용산공원 주택공급 '격돌'...野 \"노무현 뜻 거스르나\"",
+            "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190690&t=NNv",
+            "outlet": "wowtv.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:38:00 +0900"
+          },
+          {
+            "title": "'용산공원 10만 주택' 결국 현실화 되나…與 특별법 개정 본격 착수",
+            "url": "https://www.newspim.com/news/view/20260819001012",
+            "outlet": "newspim.com",
+            "publishedAt": "Wed, 19 Aug 2026 17:21:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "부동산 대책 및 주거 안정 논의",
+        "summary": "정부의 부동산 대책과 관련하여 여야가 공방을 벌이고 있으며, 서울시의 주거 불안 해소 및 주택 공급 확대 방안이 논의되고 있습니다.",
+        "articles": [
+          {
+            "title": "여야, 부동산 대책 공방…부산 방문 김민석 \"당 통합\"",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=513989",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:12:00 +0900"
+          },
+          {
+            "title": "김길영 서울시의회 국민의힘 대표의원 \"의석보다 중요한 건 시민에게 내...",
+            "url": "https://daily.hankooki.com/news/articleView.html?idxno=1397265",
+            "outlet": "daily.hankooki.com",
+            "publishedAt": "Wed, 19 Aug 2026 17:48:00 +0900"
+          },
+          {
+            "title": "정부, 수도권 '150만호+α' 착공 속도전···공공·건설업계에 공급 확...",
+            "url": "https://www.koscaj.com/news/articleView.html?idxno=325891",
+            "outlet": "koscaj.com",
+            "publishedAt": "Wed, 19 Aug 2026 17:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "기후 위기 대응 및 에너지 정책",
+        "summary": "재생에너지 확대, 태양광 발전 정책, 전기료 개편 등 기후 위기 대응과 관련된 정책들이 논의되고 있으며, 관련 시민 사회 단체의 행진 예고도 있습니다.",
+        "articles": [
+          {
+            "title": "“‘태양광 농사’로 편하게 살라”는 이 대통령에…“희생 강요 말라”",
+            "url": "https://www.hani.co.kr/arti/society/environment/1273646.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:48:00 +0900"
+          },
+          {
+            "title": "메가특구 전력 급한데…전기본 토론 하루 전 ‘재생’ 빠졌다",
+            "url": "https://www.dailian.co.kr/news/view/1679921/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:47:00 +0900"
+          },
+          {
+            "title": "[포토] 노동·시민 사회 단체, 9월 19일 '기후정의행진' 예고",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41328",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 18:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "저출생 및 인구 정책 관련 논의",
+        "summary": "서울시의 출생아 증가 추세와 함께 저출생 및 고령화 문제 해결을 위한 국가적 과제로서의 정책 지원 필요성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "오세훈 “서울 출생아 26개월 연속 증가, 혼인 증가율도 1위”",
+            "url": "https://biz.heraldcorp.com/article/10845848?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Wed, 19 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "오세훈 \"서울 출생아 26개월 연속 증가…지원 필요\"",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534560",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "[단독]청년미래적금 소득 상한 없애나…아동 자립펀드도 내년 도입 검토",
+            "url": "https://www.khan.co.kr/article/202608191804001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "의료 시스템 및 응급 의료 관련 쟁점",
+        "summary": "응급실 미수용 사건을 계기로 응급 의료진의 법적 보호 장치 및 환자 지원 방안에 대한 논의가 이루어지고 있으며, 보건 의료 발전 계획 수립도 추진됩니다.",
+        "articles": [
+          {
+            "title": "대구 쌍둥이 응급실 미수용 사건 당사자 \"응급 의료 진 법적 보호 장치·환...",
+            "url": "https://www.medigatenews.com/news/1199368928",
+            "outlet": "medigatenews.com",
+            "publishedAt": "Wed, 19 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "정은경 \"연내 보건 의료 발전계획 수립…자살예방 대응 활성화\"(종합)",
+            "url": "https://www.news1.kr/bio/welfare-medical/6263546",
+            "outlet": "news1.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:57:00 +0900"
+          },
+          {
+            "title": "허종식 의원, 옹진·강화 '생명권 사각지대'",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460834",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Wed, 19 Aug 2026 17:10:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
