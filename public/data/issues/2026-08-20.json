@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-20T09:07:21.844Z",
+  "title": "2026년 08월 20일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "강삼영 강원 교육 감 교육 재정",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "강삼영 강원 교육 감 “ 교육 재정, 협상 대상이 돼선 안돼”",
+            "url": "https://www.kwnews.co.kr/article/20260820501778",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 18:05:00 +0900"
+          },
+          {
+            "title": "\"李정부 존재 자체가 시한폭탄... 민생경제 망가지고 안보 붕괴\"",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260821010006898",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 17:56:00 +0900"
+          },
+          {
+            "title": "'닥터나우 방지법' 국회 통과…초진 처방일수 제한 두고 2라운드 예고",
+            "url": "https://www.etnews.com/20260820000402",
+            "outlet": "etnews.com",
+            "publishedAt": "Thu, 20 Aug 2026 17:59:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "트럼프에 호응한 李대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "트럼프에 호응한 李대통령, 中엔 전략적 소통 당부[CBS뉴스룸]",
+            "url": "https://www.nocutnews.co.kr/news/6565697?utm_source=naver&utm_medium=article&utm_campaign=20260820060045",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 18:01:00 +0900"
+          },
+          {
+            "title": "李대통령, 왕이 中외교부장에 \"한반도 문제, 전략적 소통 이어가 달라\"",
+            "url": "https://www.news1.kr/politics/president/6264810",
+            "outlet": "news1.kr",
+            "publishedAt": "Thu, 20 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "이 대통령, 왕이 중국 외교부장 접견…'한중관계 전면 복원' 평가",
+            "url": "http://www.joseilbo.com/news/news_read.php?uid=574174&class=32&grp=",
+            "outlet": "joseilbo.com",
+            "publishedAt": "Thu, 20 Aug 2026 18:03:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "지역엔 껍데기만 두고 서울로?",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"지역엔 껍데기만 두고 서울로?\"…국립 의전원 원안 파기 우려",
+            "url": "http://news.lghellovision.net/news/articleView.html?idxno=551784",
+            "outlet": "news.lghellovision.net",
+            "publishedAt": "Thu, 20 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "김민석, 국회의장에 \"이진숙 같이 앉기 부끄러워…제명돼야\"",
+            "url": "https://news.jtbc.co.kr/article/NB12314309?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "어기구 의원 대표발의 '석탄화력 폐지지역 특별법' 국회 통과",
+            "url": "http://www.djtimes.co.kr/news/articleView.html?idxno=113082",
+            "outlet": "djtimes.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 17:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "李 대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李 대통령, 中 왕이 부장 접견…\"한반도 문제 긴밀한 전략적 소통 이어...",
+            "url": "https://news.tf.co.kr/read/ptoday/2356265.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 17:55:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"한중 양국 경제 분야에서 수평적‧호혜적 협력 강화\"",
+            "url": "https://www.imaeil.com/page/view/2026082017574881514",
+            "outlet": "imaeil.com",
+            "publishedAt": "Thu, 20 Aug 2026 18:06:00 +0900"
+          },
+          {
+            "title": "새만금, 공공주도 개발…AI·수소 산업 거점 구축",
+            "url": "https://www.hankyung.com/article/2026082030851",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 20 Aug 2026 18:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "용산공원 아파트? 역사의 죄인이라는 오세훈",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"용산공원 아파트? 역사의 죄인\"이라는 오세훈… 정부는 주택 공급 고수",
+            "url": "https://www.hankookilbo.com/news/article/A2026082013210001683?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Thu, 20 Aug 2026 18:01:00 +0900"
+          },
+          {
+            "title": "이 대통령 '중단없는 개혁' 강조…공직기강 다잡기",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202608201759566kG",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "지명직에 '청년 전용기· 노동 권미경'…친청 노림수 좌절",
+            "url": "http://www.newstomato.com/ReadNews.aspx?no=1310864&inflow=N",
+            "outlet": "newstomato.com",
+            "publishedAt": "Thu, 20 Aug 2026 17:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "이주노동자 산재 반복",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이주노동자 산재 반복·수사 지연···\"유족 지원 제도 필요\"",
+            "url": "https://www.newsmin.co.kr/news/136249/",
+            "outlet": "newsmin.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 17:56:00 +0900"
+          },
+          {
+            "title": "이철규 대표발의 ‘석탄화력발전소 노동 자 및 폐지지역 지원 특별법’ ...",
+            "url": "https://www.kwnews.co.kr/article/20260820501790",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "포항남·울릉 이상휘, 국민의힘 원내부대표 맡아",
+            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081700",
+            "outlet": "kyongbuk.co.kr",
+            "publishedAt": "Thu, 20 Aug 2026 17:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "국민의힘 새 정책위의장에 임이자",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국민의힘 새 정책위의장에 임이자… 대여 투쟁 동력 강화",
+            "url": "https://www.dkilbo.com/news/articleView.html?idxno=551862",
+            "outlet": "dkilbo.com",
+            "publishedAt": "Thu, 20 Aug 2026 17:50:00 +0900"
+          },
+          {
+            "title": "조정식·김민석, 민생·사법개혁·개헌 논의...“국회 역할 중요”",
+            "url": "https://www.m-economynews.com/news/article.html?no=69973",
+            "outlet": "m-economynews.com",
+            "publishedAt": "Thu, 20 Aug 2026 17:48:00 +0900"
+          },
+          {
+            "title": "문재인 전 대통령, 23일부터 8박9일 몽골 방문…UN 사막화방지총회 연설",
+            "url": "https://www.imaeil.com/page/view/2026082018034101818",
+            "outlet": "imaeil.com",
+            "publishedAt": "Thu, 20 Aug 2026 18:05:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
