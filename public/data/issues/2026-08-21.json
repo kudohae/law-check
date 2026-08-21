@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T09:09:28.858Z",
+  "title": "2026년 08월 21일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "내국세 20.79.% 자동 배정 교육교부금 폐지안에...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'내국세 20.79.% 자동 배정' 교육교부금 폐지안에 교육계 '강력 반발'",
+            "url": "https://www.idomin.com/news/articleView.html?idxno=2012858",
+            "outlet": "idomin.com",
+            "publishedAt": "Fri, 21 Aug 2026 17:36:00 +0900"
+          },
+          {
+            "title": "한국 李대통령, 왕이 외교 부장 접견",
+            "url": "http://kr.people.com.cn/n3/2026/0821/c203278-20491017.html",
+            "outlet": "kr.people.com.cn",
+            "publishedAt": "Fri, 21 Aug 2026 17:42:00 +0900"
+          },
+          {
+            "title": "송재봉 의원 발의 K-뷰티 육성 법안 등 국회 통과",
+            "url": "http://www.inews24.com/view/1997251",
+            "outlet": "inews24.com",
+            "publishedAt": "Fri, 21 Aug 2026 17:41:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "본회의",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "본회의, 패스트트랙 단축 법안 통과",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514000",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Fri, 21 Aug 2026 17:20:00 +0900"
+          },
+          {
+            "title": "[더나은미래 주간브리핑] 13년 만에 사회연대경제기본법 통과…기후재난...",
+            "url": "https://futurechosun.com/?p=158269",
+            "outlet": "futurechosun.com",
+            "publishedAt": "Fri, 21 Aug 2026 18:06:00 +0900"
+          },
+          {
+            "title": "[경북 브리핑 모음(8월 21일)] 경북도, 캄보디아 캄퐁톰주 의료진 9주 임...",
+            "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608210834327550802",
+            "outlet": "dnews.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 17:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "교육교부금 개편해 20조 절감",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "교육교부금 개편해 '20조 절감'… 이공계 인재·대학 경쟁력에 재투자",
+            "url": "https://www.mk.co.kr/article/12133426",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 17:41:00 +0900"
+          },
+          {
+            "title": "'경제안보 최우선' 이 대통령, 공급망 다변화 드라이브… 중국과 물꼬",
+            "url": "https://news.mtn.co.kr/news-detail/2026082116130395034",
+            "outlet": "news.mtn.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 17:38:00 +0900"
+          },
+          {
+            "title": "'빈집 정비 국가 지원법' 국회 본회의 통과",
+            "url": "https://news.knn.co.kr/news/article/191546",
+            "outlet": "news.knn.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 17:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "정부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정부, 100조 육박 '미래대응기금' 추진...당은 '교부금 연동 폐지' 부담",
+            "url": "http://www.joseilbo.com/news/news_read.php?uid=574271&class=32&grp=",
+            "outlet": "joseilbo.com",
+            "publishedAt": "Fri, 21 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "'청년' 문제 고심하는 김용범의 메시지 \"다시 기회주는 것도 정부 일\"",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260959&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Fri, 21 Aug 2026 18:01:00 +0900"
+          },
+          {
+            "title": "李대통령, 여한구 후임 통상교섭본부장에 박정성…소방청장엔 최용철 임...",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=384423",
+            "outlet": "sisajournal.com",
+            "publishedAt": "Fri, 21 Aug 2026 18:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "하나의 중국 존중하듯 한국 국회도 존중해야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설]'하나의 중국' 존중하듯 한국 국회도 존중해야",
+            "url": "https://www.sidae.com/article/2026082113523666301",
+            "outlet": "sidae.com",
+            "publishedAt": "Fri, 21 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "\"외국인 유학생, 지역‧국가 핵심 인력\"…'취업‧정착' 잇는 이민 모델...",
+            "url": "https://www.kyosu.net/news/articleView.html?idxno=209167",
+            "outlet": "kyosu.net",
+            "publishedAt": "Fri, 21 Aug 2026 17:54:00 +0900"
+          },
+          {
+            "title": "포항시의회, 포스코 노사에 ‘파업 없는 타결’ 촉구",
+            "url": "https://tk.newdaily.co.kr/site/data/html/2026/08/21/2026082100240.html",
+            "outlet": "tk.newdaily.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 17:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "AI로 사회문제 풀 아이디어 찾는다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"AI로 사회문제 풀 아이디어 찾는다\"···정부, 국민 챌린지 개최",
+            "url": "http://www.hellodd.com/news/articleView.html?idxno=112896",
+            "outlet": "hellodd.com",
+            "publishedAt": "Fri, 21 Aug 2026 17:22:00 +0900"
+          },
+          {
+            "title": "野주진우 청년 보좌관들과 '청년 보호·청년 참정권' 강화 법안 발의",
+            "url": "https://www.mt.co.kr/politics/2026/08/21/2026082117175241631",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 17:21:00 +0900"
+          },
+          {
+            "title": "김보라 안성시장, 을지연습 마무리…“시민 생명 지킬 통합 대응체계 강...",
+            "url": "http://www.beyondpost.co.kr/view.php?ud=2026082117542566384c878f8fa1_30",
+            "outlet": "beyondpost.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 18:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "종합특검",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "종합특검, ‘VIP 격노 은폐’ 황유성·김계환 기소…여인형도 재판행",
+            "url": "https://www.joongang.co.kr/article/25455163",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 18:07:00 +0900"
+          },
+          {
+            "title": "與임오경 \"K컬처 세계화한다는 문체부, 국악·한복 전략은 미비\"",
+            "url": "https://biz.sbs.co.kr/article_hub/20000330135?division=NAVER",
+            "outlet": "biz.sbs.co.kr",
+            "publishedAt": "Fri, 21 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "법사위, 조희대 대법원장 '현안질의 출석 요구' 與주도 의결…국힘 퇴장...",
+            "url": "https://www.newsis.com/view/NISX20260821_0003758134",
+            "outlet": "newsis.com",
+            "publishedAt": "Fri, 21 Aug 2026 18:03:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
