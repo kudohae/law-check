@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T08:58:35.554Z",
+  "title": "2026년 08월 22일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 22일 주요 사회, 정치, 경제 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "용산공원 조성 및 주택 공급 논란",
+        "summary": "용산공원 조성 계획과 관련하여 주택 공급 정책 및 지역 개발에 대한 여야 간의 이견이 충돌하고 있습니다.",
+        "articles": [
+          {
+            "title": "與김영배, 오세훈과 회동…\"吳 '용산공원 1cm도 안 된다'며 자기 정치\"",
+            "url": "https://www.dailian.co.kr/news/view/1681089/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Sat, 22 Aug 2026 16:56:00 +0900"
+          },
+          {
+            "title": "오세훈 만난 김영배 “용산공원 1 도 안 된다며 자기 정치 만”",
+            "url": "https://vop.co.kr/A00001696323.html",
+            "outlet": "vop.co.kr",
+            "publishedAt": "Sat, 22 Aug 2026 17:32:00 +0900"
+          },
+          {
+            "title": "김영배·오세훈 주택 공급 논의…용산공원·정비창·그린벨트 '평행선'",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000058706",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sat, 22 Aug 2026 17:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회, '사회연대경제기본법' 통과 및 의미",
+        "summary": "13년간의 논의 끝에 '사회연대경제기본법'이 국회에서 통과되어 사회적 경제 분야의 제도적 공백을 메우게 되었습니다.",
+        "articles": [
+          {
+            "title": "[금융·경제 트렌드] 복기왕 의원, 13년 숙원 '사회연대경제기본법' 국회...",
+            "url": "https://www.ibabynews.com/news/articleView.html?idxno=153901",
+            "outlet": "ibabynews.com",
+            "publishedAt": "Sat, 22 Aug 2026 13:04:00 +0900"
+          },
+          {
+            "title": "[금융·경제 트렌드] 복기왕 의원, 13년 숙원 '사회연대경제기본법' 국회...",
+            "url": "https://www.ibabynews.com/news/articleView.html?idxno=153901",
+            "outlet": "ibabynews.com",
+            "publishedAt": "Sat, 22 Aug 2026 13:04:00 +0900"
+          },
+          {
+            "title": "[금융·경제 트렌드] 복기왕 의원, 13년 숙원 '사회연대경제기본법' 국회...",
+            "url": "https://www.ibabynews.com/news/articleView.html?idxno=153901",
+            "outlet": "ibabynews.com",
+            "publishedAt": "Sat, 22 Aug 2026 13:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "한동훈, 이재명 '노웅래 무죄' 관련 공세",
+        "summary": "한동훈 의원이 이재명 대통령의 '노웅래 무죄' 판결에 대해 '정치 검찰' 의혹을 제기하며 반박했습니다.",
+        "articles": [
+          {
+            "title": "한동훈, 李 '노웅래 사과'에 \"공소취소 빌드업 뻔한 속셈\"",
+            "url": "https://www.dkilbo.com/news/articleView.html?idxno=551925",
+            "outlet": "dkilbo.com",
+            "publishedAt": "Sat, 22 Aug 2026 17:06:00 +0900"
+          },
+          {
+            "title": "한동훈, ‘노웅래 무죄’ 억울하다는 민주당 겨냥 “국회서 녹음파일 틀...",
+            "url": "https://www.munhwa.com/article/11611184?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 22 Aug 2026 17:43:00 +0900"
+          },
+          {
+            "title": "한동훈, ‘노웅래 무죄’ 억울하다는 민주당 겨냥 “국회서 녹음파일 틀...",
+            "url": "https://www.munhwa.com/article/11611184?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 22 Aug 2026 17:43:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "기후 위기 심화와 사회적 영향",
+        "summary": "지속되는 기후 위기가 식단 변화, 표준시 위협 등 다양한 사회적 문제로 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "닭가슴살 포기하라? 기후 위기에 식단 바꿔야 하는 이유",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260661&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Sat, 22 Aug 2026 16:21:00 +0900"
+          },
+          {
+            "title": "빙하 녹자 표준시도 위협... 기후 위기가 부른 나비효과 [자막뉴스]",
+            "url": "https://www.ytn.co.kr/_ln/0134_202608221748118992",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 22 Aug 2026 17:48:00 +0900"
+          },
+          {
+            "title": "빙하 녹자 표준시도 위협... 기후 위기가 부른 나비효과 [자막뉴스]",
+            "url": "https://www.ytn.co.kr/_ln/0134_202608221748118992",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 22 Aug 2026 17:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "수능 '서·논술형 전환' 논의와 교육계 파장",
+        "summary": "수능의 서·논술형 전환 논의가 급물살을 타면서 공정 채점, 사교육 증가, 교사 부담 등 교육계 전반에 걸쳐 파장이 예상됩니다.",
+        "articles": [
+          {
+            "title": "[기자수첩] 수능 '서·논술형 전환' 급물살…공정 채점·사교육·교사 부...",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=821502",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Sat, 22 Aug 2026 17:32:00 +0900"
+          },
+          {
+            "title": "[기자수첩] 수능 '서·논술형 전환' 급물살…공정 채점·사교육·교사 부...",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=821502",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Sat, 22 Aug 2026 17:32:00 +0900"
+          },
+          {
+            "title": "[기자수첩] 수능 '서·논술형 전환' 급물살…공정 채점·사교육·교사 부...",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=821502",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Sat, 22 Aug 2026 17:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "초과세수 활용 및 재정 정책 논쟁",
+        "summary": "반도체 호황으로 인한 초과세수를 미래대응기금으로 활용하려는 정부 방침에 대해 야당은 '혈세 낭비'라며 비판하고 있습니다.",
+        "articles": [
+          {
+            "title": "野 재정위 간사 \"초과세수 미래대응기금 추진은 혈세 맘대로 쓰겠다는 ...",
+            "url": "http://www.metroseoul.co.kr/article/20260822500036",
+            "outlet": "metroseoul.co.kr",
+            "publishedAt": "Sat, 22 Aug 2026 17:18:00 +0900"
+          },
+          {
+            "title": "野 재정위 간사 \"초과세수 미래대응기금 추진은 혈세 맘대로 쓰겠다는 ...",
+            "url": "http://www.metroseoul.co.kr/article/20260822500036",
+            "outlet": "metroseoul.co.kr",
+            "publishedAt": "Sat, 22 Aug 2026 17:18:00 +0900"
+          },
+          {
+            "title": "野 재정위 간사 \"초과세수 미래대응기금 추진은 혈세 맘대로 쓰겠다는 ...",
+            "url": "http://www.metroseoul.co.kr/article/20260822500036",
+            "outlet": "metroseoul.co.kr",
+            "publishedAt": "Sat, 22 Aug 2026 17:18:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
