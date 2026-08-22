@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T09:32:29.263Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-08-22T09:27:41.415Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000329416",
@@ -754,7 +754,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327552/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 전부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -766,7 +766,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "가습기살균제 피해구제를 위한 특별법 시행규칙 전부개정안은 가습기살균제 피해구제에 관한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:19:38.234Z"
     },
     {
       "id": "government-progress-2000000329532",
@@ -784,7 +786,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329532/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -796,7 +798,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "관세법 일부를 개정하여 관세청장이 공개하는 정보의 범위를 확대하려 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:20:01.241Z"
     },
     {
       "id": "government-progress-2000000327480",
@@ -814,7 +818,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327480/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -826,7 +830,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "농업협동조합법 시행령 일부개정령안은 농업협동조합법에서 위임된 사항과 그 시행에 필요한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:20:24.417Z"
     },
     {
       "id": "government-progress-2000000326850",
@@ -844,7 +850,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326850/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -856,7 +862,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "선박교통관제에 관한 법률 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:20:47.360Z"
     },
     {
       "id": "government-progress-2000000329464",
@@ -874,7 +882,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329464/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -886,7 +894,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "기획예산처와 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:21:10.290Z"
     },
     {
       "id": "government-progress-2000000329622",
@@ -904,7 +914,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329622/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -916,7 +926,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "개인정보 보호위원회 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:21:33.317Z"
     },
     {
       "id": "government-progress-2000000329566",
@@ -1030,7 +1042,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327980/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1042,7 +1054,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "국제경기대회 지원법 시행령은 국제경기대회에 대한 지원을 강화하기 위해 일부 개정되었습니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:21:56.324Z"
     },
     {
       "id": "government-progress-2000000328206",
@@ -1284,7 +1298,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329638/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정(일괄)",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1296,7 +1310,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "이 대통령령안은 개인정보보호 및 정보보호 인력 보강을 위해 36개 법령을 일괄 제정하는 것을 목적으로 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:22:19.262Z"
     },
     {
       "id": "government-progress-2000000324022",
@@ -1474,7 +1490,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327300/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1486,7 +1502,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "여객자동차 운수사업법 일부개정법률안은 여객자동차 운송사업의 등록 기준을 완화하여 사업 진입을 용이하게 하려는 내용을 담고 있습니다. 또한, 운송사업자가 운송사업을 경영할 때 필요한 차량의 대수 기준을 완화하여 사업 운영의 유연성을 높이려는 목적을 가지고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:22:42.440Z"
     },
     {
       "id": "government-progress-2000000329480",
@@ -1536,7 +1554,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000325134/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1548,7 +1566,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "조달사업에 관한 법률 시행령 일부개정안은 국가기관 등이 물품을 구매할 때 적용되는 추정가격 산정 기준을 명확히 하려는 내용을 담고 있습니다. 또한, 물품의 제조·구매 계약 시 추정가격 산정 시 고려해야 할 사항을 구체적으로 규정하고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:23:05.528Z"
     },
     {
       "id": "government-progress-2000000327252",
@@ -1566,7 +1586,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327252/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1578,7 +1598,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "화물자동차 운수사업법 일부를 개정하여 화물자동차 운송사업의 등록 기준을 완화하고, 화물자동차 운송사업자의 운송 개시 의무를 명확히 하려는 것입니다. 또한, 화물자동차 운송사업자가 운송 개시 의무를 위반했을 경우의 제재 규정을 신설하려는 내용이 포함되어 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:23:28.746Z"
     },
     {
       "id": "government-progress-2000000328018",
@@ -1628,7 +1650,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327256/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1640,7 +1662,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "이 법령은 지역중소기업의 육성 및 혁신 촉진에 관한 법률 시행령을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:23:51.641Z"
     },
     {
       "id": "government-progress-2000000329764",
@@ -1658,7 +1682,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329764/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1670,7 +1694,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "성평등가족부 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:24:14.664Z"
     },
     {
       "id": "government-progress-2000000326512",
@@ -1688,7 +1714,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326512/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1700,7 +1726,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "소비자기본법 시행령은 소비자의 권익 증진을 위한 법률로, 소비자의 권리 보호와 관련된 사항을 규정하고 있습니다. 이 법령은 소비자의 안전을 확보하고, 사업자의 책임 있는 영업 활동을 유도하며, 소비자의 피해를 예방하고 구제하는 데 목적이 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:24:37.816Z"
     },
     {
       "id": "government-progress-2000000329908",
@@ -1750,7 +1778,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000323748/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1762,7 +1790,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "이 법령은 탄소중립에 따른 한우산업의 전환과 지원에 관한 사항을 규정한다. 한우산업의 지속가능한 발전을 도모하고 관련 지원 정책의 근거를 마련하는 것을 목적으로 한다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:25:01.085Z"
     },
     {
       "id": "government-progress-2000000328550",
@@ -1780,7 +1810,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328550/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1792,7 +1822,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "위생용품 관리법 시행규칙 일부개정안은 위생용품의 안전 관리를 강화하기 위한 내용을 담고 있습니다. 구체적으로는 위생용품의 제조 및 판매에 관한 기준을 일부 개정하여 소비자의 안전을 더욱 확보하고자 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:25:24.115Z"
     },
     {
       "id": "government-progress-2000000328584",
@@ -1810,7 +1842,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328584/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1822,7 +1854,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "이 법령은 위생용품 관리법 시행령을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:25:47.006Z"
     },
     {
       "id": "government-progress-2000000329944",
@@ -1840,7 +1874,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329944/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1852,7 +1886,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "해양경찰청과 그 소속기관 직제 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:26:09.912Z"
     },
     {
       "id": "government-progress-2000000329612",
@@ -1870,7 +1906,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329612/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1882,7 +1918,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "식품의약품안전처와 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:26:32.856Z"
     },
     {
       "id": "government-progress-2000000328572",
@@ -2316,7 +2354,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328214/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2328,7 +2366,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "정부업무평가 기본법 시행령은 정부업무평가에 관한 대통령령의 일부를 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:26:55.781Z"
     },
     {
       "id": "government-progress-2000000328386",
@@ -2346,7 +2386,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328386/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -2358,7 +2398,9 @@
         }
       ],
       "createdAt": "2026-08-21T09:27:46.407Z",
-      "updatedAt": "2026-08-21T09:27:46.407Z"
+      "updatedAt": "2026-08-21T09:27:46.407Z",
+      "aiSummary": "4·16세월호참사 피해구제 및 지원 등을 위한 특별법 시행령이 일부 개정됩니다.",
+      "aiSummaryUpdatedAt": "2026-08-22T09:27:18.773Z"
     },
     {
       "id": "government-progress-2000000328846",
