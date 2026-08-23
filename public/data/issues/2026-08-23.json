@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T08:59:08.587Z",
+  "title": "2026년 08월 23일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "울산교육연대 정부는 지방교육재정 개악 시도 즉각 멈...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "울산교육연대 \"정부는 지방교육재정 개악 시도 즉각 멈춰라!\"",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066939",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:50:00 +0900"
+          },
+          {
+            "title": "국힘 \"동맹에는 패싱, 북한에는 조롱\"… 李정부 외교 안보 비판",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2296109",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Sun, 23 Aug 2026 16:45:00 +0900"
+          },
+          {
+            "title": "“ 교육 재정 근간 흔드는 일”… 교육 교부금 개편안 반발 확산",
+            "url": "http://www.jndn.com/article.php?aid=1787475001438281005",
+            "outlet": "jndn.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "이재명 대통령은 소통령인가 대통령인가",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[안보칼럼] 이재명 대통령은 소통령인가 대통령인가",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3427128",
+            "outlet": "newscj.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:48:00 +0900"
+          },
+          {
+            "title": "국힘 \"동맹에는 패싱·북한에는 조롱당해…안보무능 심판할 것\" 혹평",
+            "url": "https://www.kbsm.net/news/view.php?idx=531261",
+            "outlet": "kbsm.net",
+            "publishedAt": "Sun, 23 Aug 2026 16:52:00 +0900"
+          },
+          {
+            "title": "김기현, 中 입국 거부에 \"李 외교 무능\"…박지혜 \"정치공세 말라\"",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/23/2026082390076.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sun, 23 Aug 2026 16:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "국힘 서울시장 인허가권 구청장에게",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국힘 \"서울시장 인허가권 구청장에게…오세훈 권한 무력화\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR20260823172922XZh",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:30:00 +0900"
+          },
+          {
+            "title": "국힘 \"미래대응기금, 정권 쌈짓돈 통장돼선 안돼…고시원 욕조? 폐버스...",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260823.99099006354",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:19:00 +0900"
+          },
+          {
+            "title": "이재명 정부·민주당 운명 가를 ‘김민석 3대 미션’",
+            "url": "https://shindonga.donga.com/3/all/13/6356002/1",
+            "outlet": "shindonga.donga.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "10년 공백 해소되나",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "10년 공백 해소되나… 李대통령, 특별감찰관 지명 촉각",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260824010007551",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:56:00 +0900"
+          },
+          {
+            "title": "당정 “비거주자 거주 인정 확대 공감... 곧 가닥 잡힐 것”",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=02125446645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:51:00 +0900"
+          },
+          {
+            "title": "이 대통령, 이번 주 與지도부·의원 연쇄 회담… 정기국회 앞 국정 동력...",
+            "url": "https://www.hankookilbo.com/news/article/A2026082316230003779?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:31:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "당정",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "당정, 비거주 1주택자 실거주 인정 확대…500세대 이하 정비사업 권한도...",
+            "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/102728",
+            "outlet": "tjb.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:18:00 +0900"
+          },
+          {
+            "title": "“비거주 1주택자 실거주 범위 확대”… 정부안 수정 추진하는 당정",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026082312062399797",
+            "outlet": "busan.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:18:00 +0900"
+          },
+          {
+            "title": "석탄화력발전소 폐쇄 충격파 막을 안전망…석탄화력특별법 통과",
+            "url": "https://www.newsgn.com/news/articleView.html?idxno=569138",
+            "outlet": "newsgn.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "당정 모두 끄덕 불가피한 비거주자 거주 인정 확대 ...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "당정 모두 끄덕 “불가피한 비거주자 거주 인정 확대 공감대”",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=02099206645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:09:00 +0900"
+          },
+          {
+            "title": "경제 전문가 63% \"한은, 두 달 연속 금리 올릴 것\"",
+            "url": "https://www.hankyung.com/article/2026082371081",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:58:00 +0900"
+          },
+          {
+            "title": "[이슈]안도걸 의원 대표발의 ‘전력망 확충 3법’ 국회 통과…호남 반도...",
+            "url": "https://www.thepowernews.co.kr/view.php?ud=202608231741279786e7de6d86b0_7",
+            "outlet": "thepowernews.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "울산 공공기관 2차 이전 에너지",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "울산 공공기관 2차 이전 에너지·인공지능·금융 '정조준'",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066938",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:46:00 +0900"
+          },
+          {
+            "title": "한은 기준금리 올릴까, 워시 의장 첫 기조연설…이번주(24~30일) 주요 일...",
+            "url": "https://www.news1.kr/politics/president/6266754",
+            "outlet": "news1.kr",
+            "publishedAt": "Sun, 23 Aug 2026 17:44:00 +0900"
+          },
+          {
+            "title": "보수정당 '기술적 통합'의 한계… 승리 방정식은 '선명한 자강'",
+            "url": "https://www.imaeil.com/page/view/2026082317353681192",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sun, 23 Aug 2026 17:44:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
