@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T09:25:24.605Z",
+  "title": "2026년 08월 24일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "58명 기소",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "58명 기소, 46건 경찰 이첩… 2차 종합특검 ‘반쪽 마무리’",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026082418202621738",
+            "outlet": "busan.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:24:00 +0900"
+          },
+          {
+            "title": "교육계 반발·경기도 교부세 구상도 차질 ‘미래대응기금’ 후폭풍",
+            "url": "https://www.kgnews.co.kr/news/article.html?no=908800",
+            "outlet": "kgnews.co.kr",
+            "publishedAt": "Mon, 24 Aug 2026 18:18:00 +0900"
+          },
+          {
+            "title": "국가기술시험서 스마트안경 부정행위 5건… 노동부 규정 개정 추진",
+            "url": "https://m.skyedaily.com/news_view.html?ID=310363",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "전남광주시민단체",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전남광주시민단체, “노동부, 반복되는 산재 사망에도 방관·침묵”",
+            "url": "http://www.jndn.com/article.php?aid=1787563151438338005",
+            "outlet": "jndn.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:22:00 +0900"
+          },
+          {
+            "title": "'위험의 외주화' 포스코에 철퇴...하청 노동 자 잇딴 사망에 과징금 87억",
+            "url": "https://www.pn.or.kr/news/articleView.html?idxno=34021",
+            "outlet": "pn.or.kr",
+            "publishedAt": "Mon, 24 Aug 2026 18:12:00 +0900"
+          },
+          {
+            "title": "[서진형 칼럼] 부동산 정책과 ‘의도치 않은 결과’",
+            "url": "https://www.sedaily.com/article/20082737?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "박성훈 국힘 수석대변인 정부여당",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "박성훈 국힘 수석대변인 “정부여당, 법치·치안 파괴” 비판",
+            "url": "http://www.breaknews.com/1231122",
+            "outlet": "breaknews.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:06:00 +0900"
+          },
+          {
+            "title": "\"이전 확정된 것 없다\"는 금융위… 25일 '세종행' 결론 나오나",
+            "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60420",
+            "outlet": "ilovepc.co.kr",
+            "publishedAt": "Mon, 24 Aug 2026 17:56:00 +0900"
+          },
+          {
+            "title": "[정기국회 점검]김태규 의원 \"트램 등 지역 현안 국비 사수…법치주의 ...",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1066958",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Mon, 24 Aug 2026 17:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "특검 경찰→대통령실→해병대로 채상병 사건 압수수색 ...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "특검 “경찰→대통령실→해병대로 ‘채상병 사건’ 압수수색 정보 유출...",
+            "url": "https://www.donga.com/news/Society/article/all/20260824/134533097/1",
+            "outlet": "donga.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:15:00 +0900"
+          },
+          {
+            "title": "'폭염 속 시한폭탄' 전북 노후 아파트 단지 5곳 중 4곳 변압기 교체 없다",
+            "url": "http://www.jeollailbo.com/news/articleView.html?idxno=809019",
+            "outlet": "jeollailbo.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:14:00 +0900"
+          },
+          {
+            "title": "\"이번엔 다르다\"… '행수법' 연내 처리 총력, 관건은 수도권 설득",
+            "url": "https://www.hankookilbo.com/news/article/A2026082416340002241?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 24 Aug 2026 17:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "한우산업법 21일 시행",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "한우산업법 21일 시행…생산자단체 \"10년 만의 제정 환영\"",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3673079",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Mon, 24 Aug 2026 17:48:00 +0900"
+          },
+          {
+            "title": "[사설]위기 경보 주의 단계로 상향된 해남 지진 경각심 갖자",
+            "url": "http://www.kjdaily.com/article.php?aid=1787562945685070018",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:20:00 +0900"
+          },
+          {
+            "title": "李대통령, 정의선·이재용과 비공개 회동 추진…'3대 메가' 속도전",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=144132",
+            "outlet": "ziksir.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "금감원",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "금감원·예보 노조, 정와대 앞 집회…\"맞벌이는 출산 포기\"",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490199.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:17:00 +0900"
+          },
+          {
+            "title": "부동산 대책에도… 李대통령 지지율 40.2% 또 최저치",
+            "url": "https://www.segye.com/newsView/20260824514785?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:16:00 +0900"
+          },
+          {
+            "title": "[이슈] 다시 마주 앉은 현대차 노사…제조업 쟁점 된 '성과배분 공식'",
+            "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=364162",
+            "outlet": "sisafocus.co.kr",
+            "publishedAt": "Mon, 24 Aug 2026 18:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "김민석 장동혁 상견례 대화",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김민석 장동혁 상견례 “대화”·“견제”…여야 부동산·조희대 공방도",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644423&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Mon, 24 Aug 2026 18:13:00 +0900"
+          },
+          {
+            "title": "더불어민주당 경남도당, 수해 지역 거제·통영 복구지원 총력",
+            "url": "https://www.newsgn.com/news/articleView.html?idxno=569498",
+            "outlet": "newsgn.com",
+            "publishedAt": "Mon, 24 Aug 2026 18:12:00 +0900"
+          },
+          {
+            "title": "종합특검 180일 수사 종료…내란 재발 방지 ‘합수본’ 제안",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644416&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Mon, 24 Aug 2026 18:05:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
