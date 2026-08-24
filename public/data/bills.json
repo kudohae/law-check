@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T09:24:50.256Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-08-24T09:46:20.382Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000330000",
@@ -3490,7 +3490,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220698/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220698/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3503,7 +3503,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 파악할 수 없습니다. 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차에 대한 정보를 요약해 드리기 어렵습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:38:39.317Z"
     },
     {
       "id": "assembly-status-2220697",
@@ -3522,7 +3524,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220697/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220697/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3535,7 +3537,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:39:02.395Z"
     },
     {
       "id": "assembly-status-2220696",
@@ -3554,7 +3558,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220696/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220696/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3567,7 +3571,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 확인할 수 없어 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:39:25.430Z"
     },
     {
       "id": "assembly-status-2220695",
@@ -3586,7 +3592,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220695/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220695/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3599,7 +3605,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "농업협동조합법 일부개정법률안은 농업협동조합의 사업 범위에 관한 사항을 개정하려 합니다. 구체적으로는 농업협동조합이 수행할 수 있는 사업의 종류를 확대하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:39:48.678Z"
     },
     {
       "id": "assembly-status-2220694",
@@ -3618,7 +3626,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220694/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220694/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3631,7 +3639,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:40:11.711Z"
     },
     {
       "id": "assembly-status-2220693",
@@ -3649,7 +3659,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220693/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220693/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3662,7 +3672,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 확인할 수 없어 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:40:34.756Z"
     },
     {
       "id": "assembly-status-2220692",
@@ -3681,7 +3693,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220692/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220692/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3694,7 +3706,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 파악할 수 없습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:40:57.824Z"
     },
     {
       "id": "assembly-status-2220691",
@@ -3713,7 +3727,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220691/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220691/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3726,7 +3740,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 확인할 수 없어 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:41:20.851Z"
     },
     {
       "id": "assembly-status-2220690",
@@ -3745,7 +3761,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220690/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220690/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3758,7 +3774,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 파악할 수 없습니다. 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차에 대한 정보를 요약해 드리기 어렵습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:41:43.994Z"
     },
     {
       "id": "assembly-status-2220689",
@@ -3777,7 +3795,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220689/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220689/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3790,7 +3808,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "도서관법 일부개정법률안은 도서관의 자료를 이용하는 데 필요한 사항을 규정하고 있습니다. 이 법률안은 도서관 자료의 대출 및 반납 절차, 이용자의 권리와 의무 등을 명확히 하려는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:42:07.223Z"
     },
     {
       "id": "assembly-status-2220688",
@@ -3809,7 +3829,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220688/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220688/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3822,7 +3842,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:42:30.243Z"
     },
     {
       "id": "assembly-status-2220687",
@@ -3841,7 +3863,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220687/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220687/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3854,7 +3876,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "교육기본법 일부개정법률안은 교육의 질을 높이기 위한 방안을 담고 있습니다. 구체적인 내용은 상세 원문에서 확인할 수 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:42:53.307Z"
     },
     {
       "id": "assembly-status-2220686",
@@ -3873,7 +3897,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220686/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220686/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3886,7 +3910,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "해당 법률안은 지방세특례제한법의 일부를 개정하려는 것입니다. 구체적인 개정 내용에 대한 정보는 제공되지 않았습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:43:16.495Z"
     },
     {
       "id": "assembly-status-2220685",
@@ -3905,7 +3931,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220685/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220685/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3918,7 +3944,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에서 상세 내용을 가져오지 못했습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:43:39.651Z"
     },
     {
       "id": "assembly-status-2220684",
@@ -3937,7 +3965,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220684/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220684/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3950,7 +3978,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. AI 요약 원문에서 상세 내용을 가져오지 못하여 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:44:02.646Z"
     },
     {
       "id": "assembly-status-2220683",
@@ -3969,7 +3999,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220683/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220683/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -3982,7 +4012,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "도시 및 주거환경정비법 일부개정법률안은 도시 및 주거환경정비법을 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:44:25.681Z"
     },
     {
       "id": "assembly-status-2220682",
@@ -4001,7 +4033,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220682/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220682/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4014,7 +4046,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "폐교재산의 활용촉진을 위한 특별법 일부개정법률안은 폐교재산의 활용을 촉진하기 위한 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:44:48.628Z"
     },
     {
       "id": "assembly-status-2220681",
@@ -4033,7 +4067,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220681/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220681/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4046,7 +4080,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 내용을 파악할 수 없습니다. 따라서 해당 법률안이 무엇을 신설, 개정, 폐지하려는지, 어떤 제도나 의무, 절차를 담고 있는지 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:45:11.661Z"
     },
     {
       "id": "assembly-status-2220680",
@@ -4065,7 +4101,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220680/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220680/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4078,7 +4114,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문에 내용이 없어 법률안의 신설, 개정, 폐지 내용이나 담고 있는 제도, 의무, 절차를 요약해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:45:34.673Z"
     },
     {
       "id": "assembly-status-2220679",
@@ -4097,7 +4135,7 @@
       "officialUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220679/detailRP",
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2220679/detailRP",
       "summarySourceLabel": "국회입법현황 제안이유 및 주요내용",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": false,
       "events": [
         {
@@ -4110,7 +4148,9 @@
         }
       ],
       "createdAt": "2026-08-23T09:19:37.771Z",
-      "updatedAt": "2026-08-23T09:19:37.771Z"
+      "updatedAt": "2026-08-23T09:19:37.771Z",
+      "aiSummary": "죄송합니다. 제공해주신 AI 요약 원문이 비어 있어 법률안의 내용을 파악할 수 없습니다. 따라서 요약문을 생성해 드릴 수 없습니다.",
+      "aiSummaryUpdatedAt": "2026-08-24T09:45:57.735Z"
     },
     {
       "id": "assembly-status-2220678",
