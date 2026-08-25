@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T09:10:00.738Z",
+  "title": "2026년 08월 25일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "전국 시도 교육 감",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전국 시도 교육 감, 교부금 축소 반발…\" 교육 자치 무시, 좌시 않을 것\"",
+            "url": "https://www.kyeonggi.com/article/20260825580536",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Tue, 25 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "공무원연맹, 교육부 '학교운영위 간사 활동비 제한' 지침 규탄",
+            "url": "https://view.asiae.co.kr/article/2026082518020925789",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "김대중 전남광주교육감 \"교부금 개편 강력 반대…국회서 저지하겠다\"",
+            "url": "https://www.pressian.com/pages/articles/2026082517154105582?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Tue, 25 Aug 2026 17:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "보건의료노조 인요한 적십자사 회장 선출 철회하라",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "보건의료노조 \"인요한 적십자사 회장 선출 철회하라\"…국회서 기자회견",
+            "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=79743",
+            "outlet": "mkhealth.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:08:00 +0900"
+          },
+          {
+            "title": "국회 26일 본회의 열고 주택공급 관련 주요 비쟁점 법안 처리 전망",
+            "url": "https://www.imaeil.com/page/view/2026082517212822058",
+            "outlet": "imaeil.com",
+            "publishedAt": "Tue, 25 Aug 2026 17:29:00 +0900"
+          },
+          {
+            "title": "'800조+α' 슈퍼예산…5대 사업 집중",
+            "url": "https://www.hankyung.com/article/2026082522491",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 25 Aug 2026 18:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "국민의힘 이란",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국민의힘 \"이란, 대한민국 선박 블랙리스트 지정… 외교 방치\"",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514040",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "\"왜곡된 역사인식, 교육이 바로잡아야\"…흥사단·YMCA, 국회서 해법 모색",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=236317",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "한자리 모인 오세훈·한동훈, 장동혁에 쓴소리…\"뺄셈 정치\" \"사당화\"",
+            "url": "https://news.jtbc.co.kr/article/NB12315043?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 17:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "충북교사노조 정부 교육교부금 개편안 철회하라",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "충북교사노조 \"정부 교육교부금 개편안 철회하라\"",
+            "url": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026082500048&story_seq=0&soCode=114&socttSn=NS2026082500048&socttSeq=0",
+            "outlet": "ccn.hcn.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 17:22:00 +0900"
+          },
+          {
+            "title": "[단독] 부처마다 정책펀드 쏟아내는데…집행실적은 가뭄에 콩나듯",
+            "url": "https://www.mk.co.kr/article/12136073",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 17:52:00 +0900"
+          },
+          {
+            "title": "당정, 내년 예산 AI·3대 메가프로젝트 집중 투자...‘반도체 특별회계...",
+            "url": "https://www.m-economynews.com/news/article.html?no=70098",
+            "outlet": "m-economynews.com",
+            "publishedAt": "Tue, 25 Aug 2026 18:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "與김병주",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의",
+            "url": "https://www.yna.co.kr/view/AKR20260825158000001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 17:53:00 +0900"
+          },
+          {
+            "title": "[ESGX 이슈 5] AI 데이터센터, 전력 다음은 ‘물’…구글 6000만달러 추가...",
+            "url": "https://www.etoday.co.kr/news/view/2617367",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 17:34:00 +0900"
+          },
+          {
+            "title": "경찰 기강해이 질타한 李대통령 \"가장 큰 권력…개혁기구 고민을\"",
+            "url": "https://www.mk.co.kr/article/12136077",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 17:53:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "지지율 하락에 반전 노리는 靑",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "지지율 하락에 반전 노리는 靑 … 내달 '중폭 개각' 카드 만지작",
+            "url": "https://www.mk.co.kr/article/12136058",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 17:49:00 +0900"
+          },
+          {
+            "title": "혁신당 \"전장연 시위 중단 환영...장벽없는 대한민국으로\"",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514039",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "권영희 회장 \"약 배송 전면 확대 막겠다\"…정부에 정면대응 선언",
+            "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=541532",
+            "outlet": "kpanews.co.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "이재명정부 기후에너지정책 1년",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[4th-Eco] 이재명정부 기후에너지정책 1년…\"공급 확대 넘어 수요관리로...",
+            "url": "http://www.4th.kr/news/articleView.html?idxno=2116839",
+            "outlet": "4th.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:02:00 +0900"
+          },
+          {
+            "title": "\"국민이 주인 되는 정부, AI로 만든다\"... 행안부, 'AI 민주정부' 실현 본...",
+            "url": "https://www.aitimes.kr/news/articleView.html?idxno=41594",
+            "outlet": "aitimes.kr",
+            "publishedAt": "Tue, 25 Aug 2026 18:00:00 +0900"
+          },
+          {
+            "title": "[인사] 기후 에너지환경부 외",
+            "url": "https://www.hankookilbo.com/news/article/A2026082516150002739?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 25 Aug 2026 18:00:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
