@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T09:21:06.713Z",
+  "title": "2026년 08월 26일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "이 대통령 극심한 불균형",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이 대통령 “극심한 불균형, 모든 문제 출발”…이철우 “우리 지역 대...",
+            "url": "https://www.khan.co.kr/article/202608261812001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:12:00 +0900"
+          },
+          {
+            "title": "추미애 경기지사, 지방소비세율 25.3→40% 인상 건의...지방재정 개편 3...",
+            "url": "https://www.news2day.co.kr/article/20260826500269",
+            "outlet": "news2day.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:10:00 +0900"
+          },
+          {
+            "title": "장특공제 10억원 한도 반대 청원 5만명 돌파…국회, 다시 심사해야",
+            "url": "https://www.newspim.com/news/view/20260826001110",
+            "outlet": "newspim.com",
+            "publishedAt": "Wed, 26 Aug 2026 18:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "적자 눈앞 건강보험",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "적자 '눈앞' 건강보험, 국고지원은 부족…시민 지적에 개선 나선 정부",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008897",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:14:00 +0900"
+          },
+          {
+            "title": "서울시의회 제23기 정책위원회 출범…양평호 위원장 선출",
+            "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065603938714778",
+            "outlet": "megaeconomy.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:14:00 +0900"
+          },
+          {
+            "title": "전장연 지하철 시위 둘러싸고 '2.6조 받았다?' 국회의원도 왜곡 동참",
+            "url": "https://www.beminor.com/news/articleView.html?idxno=30341",
+            "outlet": "beminor.com",
+            "publishedAt": "Wed, 26 Aug 2026 18:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "사는 곳에 따른 먹거리 격차 없앤다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"사는 곳에 따른 먹거리 격차 없앤다\", 식품접근성 국가책임 법안 국회...",
+            "url": "http://www.breaknews.com/1231814",
+            "outlet": "breaknews.com",
+            "publishedAt": "Wed, 26 Aug 2026 18:06:00 +0900"
+          },
+          {
+            "title": "거실까지 들어온 ESS…中에 밀려 포기땐 AI 주도권 내줄수도",
+            "url": "https://www.sedaily.com/article/20083708?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Wed, 26 Aug 2026 18:16:00 +0900"
+          },
+          {
+            "title": "김동석 미 한인유권자연대 대표 “미북 정상회담 가능성 50%” 전망",
+            "url": "http://www.breaknews.com/1231785",
+            "outlet": "breaknews.com",
+            "publishedAt": "Wed, 26 Aug 2026 17:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "파업 15분 만에 잠긴 공장 문",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "파업 15분 만에 잠긴 공장 문, 오늘 여덟 곳이 함께 모였다",
+            "url": "https://newscham.net/articles/117113",
+            "outlet": "newscham.net",
+            "publishedAt": "Wed, 26 Aug 2026 18:20:00 +0900"
+          },
+          {
+            "title": "전력 생산 넘치는 인천…'수도권 묶기'에 전기료 할인 역차별 현실화",
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032784",
+            "outlet": "kihoilbo.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:20:00 +0900"
+          },
+          {
+            "title": "\"용산 대신 탄천\"… 오세훈, 공급택지 역제안",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009074",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "국토장관",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국토장관, 서울시에 “‘용산 불가론’만 고수해선 안 돼”",
+            "url": "https://biz.heraldcorp.com/article/10853294?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Wed, 26 Aug 2026 18:15:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"강력한 균형발전정책 추진…중앙-지방은 운명 공동체\"",
+            "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970676&call_from=naver_news",
+            "outlet": "korea.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:15:00 +0900"
+          },
+          {
+            "title": "9·19 기후정의행진, 목표는 “메가프로젝트 ‘폭주’ 멈춰라”",
+            "url": "https://www.hani.co.kr/arti/society/environment/1274803.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 18:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "탄천변 통개발 땐 최대 2만가구",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'탄천변 통개발' 땐 최대 2만가구…용산공원은 여전히 평행선",
+            "url": "https://www.hankyung.com/article/2026082648431",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 26 Aug 2026 17:57:00 +0900"
+          },
+          {
+            "title": "“불량배들”“정부가 깡패”…고성 오간 국군사관학교 창설 첫 공청회",
+            "url": "https://www.joongang.co.kr/article/25456423",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 17:51:00 +0900"
+          },
+          {
+            "title": "[성기노의 뉴스 피처링] 장동혁 1년…당원이 지켜준 대표, 국민이 외면...",
+            "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=128993",
+            "outlet": "ntoday.co.kr",
+            "publishedAt": "Wed, 26 Aug 2026 17:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "용산 대신 탄천 급부상",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'용산' 대신 '탄천' 급부상…용적률 1.2배로 상향 검토",
+            "url": "https://www.hankyung.com/article/2026082648631",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 26 Aug 2026 17:50:00 +0900"
+          },
+          {
+            "title": "\"동명초 노조 활동가 차량 충돌 파문\", 대전시교육청 진상조사 촉구",
+            "url": "http://www.breaknews.com/1231824",
+            "outlet": "breaknews.com",
+            "publishedAt": "Wed, 26 Aug 2026 18:04:00 +0900"
+          },
+          {
+            "title": "[더나은미래 경제브리핑] 현대차 자사주 전량 소각...김윤덕·오세훈, 용...",
+            "url": "https://futurechosun.com/?p=158756",
+            "outlet": "futurechosun.com",
+            "publishedAt": "Wed, 26 Aug 2026 18:16:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
