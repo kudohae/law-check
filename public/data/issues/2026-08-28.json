@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-27T19:13:49.387Z",
+  "title": "2026년 08월 28일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 28일 한국 사회의 주요 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "네팔 대홍수 참사 및 한국 정부 대응",
+        "summary": "네팔에서 발생한 대규모 홍수로 인한 인명 피해와 한국 정부의 신속대응팀 파견 등 국제적 재난 대응 현황을 다룹니다.",
+        "articles": [
+          {
+            "title": "[종합] 네팔 히말라야 홍수 참사, 사망 359명·실종 900명 넘어…한국인...",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=543483",
+            "outlet": "joongangenews.com",
+            "publishedAt": "Fri, 28 Aug 2026 01:18:00 +0900"
+          },
+          {
+            "title": "정부 합동 신속대응팀 네팔 도착",
+            "url": "https://www.news1.kr/photos/8076183",
+            "outlet": "news1.kr",
+            "publishedAt": "Fri, 28 Aug 2026 03:03:00 +0900"
+          },
+          {
+            "title": "기후 위기가 불러온 네팔 참사⋯강원도도 안전지대 아니다",
+            "url": "https://www.kwnews.co.kr/article/20260827501691",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 00:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "공공기관 지방 이전 및 지역 균형 발전 논란",
+        "summary": "금융공공기관의 지방 이전 추진에 대한 금융노조의 반발과 혁신도시의 주말 공동화 문제 등 지역 균형 발전 정책의 실효성에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "“지방이전 중단하라”…금융노조 내달 4일 총파업",
+            "url": "https://www.sedaily.com/article/20084289?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 28 Aug 2026 02:57:00 +0900"
+          },
+          {
+            "title": "공공기관만 오면 뭐하나, 주말엔 텅텅!",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=672202",
+            "outlet": "gjdream.com",
+            "publishedAt": "Fri, 28 Aug 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[금요산책] 강원혁신도시 마지막 퍼즐, 공공기관 2차 이전",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2069018",
+            "outlet": "kado.net",
+            "publishedAt": "Fri, 28 Aug 2026 00:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "물가 상승 및 서민 경제 부담 가중",
+        "summary": "국제 유가 및 이상 기후로 인한 먹거리 물가 상승으로 생활비 부담이 커지는 가운데, 버스 요금 인상까지 예고되어 서민들의 한숨이 깊어지고 있습니다.",
+        "articles": [
+          {
+            "title": "추석 지나 버스비 인상…물가 상승에 서민들 한숨",
+            "url": "https://www.kwnews.co.kr/article/20260827501607",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[박근종 칼럼] 한은 통화정책과 정부 재정정책의 엇박자, 가계부채 선제...",
+            "url": "https://www.mhns.co.kr/news/articleView.html?idxno=758035",
+            "outlet": "mhns.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 02:46:00 +0900"
+          },
+          {
+            "title": "창원특례시, '특례시 재정 강화' 정부 건의∙∙∙'민생지원금' 지급 대...",
+            "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=706149",
+            "outlet": "newsfreezone.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 02:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "기후 변화와 사회 불평등",
+        "summary": "기후 위기가 사회적 불평등을 심화시킨다는 지적이 제기되는 가운데, 기후 변화의 재앙적 영향과 이에 대한 대응 방안이 논의되고 있습니다.",
+        "articles": [
+          {
+            "title": "[최준호의 뉴스터치] 초현실적 재난 네팔 대홍수",
+            "url": "https://www.joongang.co.kr/article/25456899",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 00:08:00 +0900"
+          },
+          {
+            "title": "기후 위기가 불러온 네팔 참사⋯강원도도 안전지대 아니다",
+            "url": "https://www.kwnews.co.kr/article/20260827501691",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 00:22:00 +0900"
+          },
+          {
+            "title": "추미애 경기도지사, \" 기후 위기는 사회 불평등 드러내…경기도가 기후 정...",
+            "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2280583",
+            "outlet": "webeconomy.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 00:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "주거 및 일자리 문제 해결을 위한 정책 제안",
+        "summary": "주거와 일자리를 연계한 도시 구조 제안, 청년 주거 정책 등 주거 문제 해결을 위한 다양한 정책적 논의가 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "이광재 국회의원, 불확실성 가중 시대 '정책제안서' 발간",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2069020",
+            "outlet": "kado.net",
+            "publishedAt": "Fri, 28 Aug 2026 00:05:00 +0900"
+          },
+          {
+            "title": "“탄천센터 입지 좋아 인기 끌것” “소형평형 밀집땐 교통난 우려”",
+            "url": "https://www.donga.com/news/Economy/article/all/20260827/134559353/2",
+            "outlet": "donga.com",
+            "publishedAt": "Fri, 28 Aug 2026 00:31:00 +0900"
+          },
+          {
+            "title": "\"두 번째 주민등록으로 출향인 품자\"",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=672193",
+            "outlet": "gjdream.com",
+            "publishedAt": "Fri, 28 Aug 2026 00:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "노동 현안 및 법 개정 논의",
+        "summary": "포스코 노사 갈등, MBC 기상캐스터 부당해고 인정 등 노동 현안과 함께, 법정공휴일 근무수당 관련 근로기준법 개정 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "포스코 '58년 무분규' 깨지나…임금보다 깊은 '불통' 갈등",
+            "url": "https://www.the-today.com/news/articleView.html?idxno=89070",
+            "outlet": "the-today.com",
+            "publishedAt": "Fri, 28 Aug 2026 00:22:00 +0900"
+          },
+          {
+            "title": "'故 오요안나 선배' 최아리, 부당해고 인정…MBC 기캐 폐지 여파 [MD이슈...",
+            "url": "https://www.mydaily.co.kr/page/view/2026082723562846810",
+            "outlet": "mydaily.co.kr",
+            "publishedAt": "Fri, 28 Aug 2026 03:00:00 +0900"
+          },
+          {
+            "title": "내년 노동 절부터 법정공휴일 근무수당→유급휴일 적용 대상 바뀔까? 새...",
+            "url": "https://www.topstarnews.net/news/articleView.html?idxno=16175488",
+            "outlet": "topstarnews.net",
+            "publishedAt": "Fri, 28 Aug 2026 02:18:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
