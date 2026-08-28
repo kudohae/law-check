@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-28T20:20:04.036Z",
+  "title": "2026년 08월 29일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 8월 29일 주요 사회, 경제, 정치 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "정부, 청년 지원 정책 확대 및 '아이자립펀드' 도입",
+        "summary": "정부가 내년 청년 일자리, 창업, 교육, 주거 지원에 43조원을 투입하고, 출생아에게 '아이자립펀드'를 지원하는 등 청년 및 출산 지원 정책을 강화합니다.",
+        "articles": [
+          {
+            "title": "내년 출생아 34세까지 2억 지원…‘아이자립펀드’ 연 120만원 매칭",
+            "url": "https://www.joongang.co.kr/article/25457228",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Sat, 29 Aug 2026 01:18:00 +0900"
+          },
+          {
+            "title": "정부, 청년 지원에 43조 투입…혼인지원금 100만원",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260829014354bll",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 29 Aug 2026 01:44:00 +0900"
+          },
+          {
+            "title": "[사설] 내년 청년예산 43조…현금 지원 아닌 '자립 사다리' 만들어야",
+            "url": "https://www.hankyung.com/article/2026082801711",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 29 Aug 2026 04:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "미 연준 의장, 추가 금리 인상 시사…긴축 기조 유지",
+        "summary": "케빈 워시 연준 의장이 잭슨홀 심포지엄에서 미국의 물가 지표에 대한 우려를 표하며 추가적인 금리 인상 가능성을 시사했습니다.",
+        "articles": [
+          {
+            "title": "워시 연준의장 \"미 물가지표 더욱 우려\"…추가 긴축 시사",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727525&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sat, 29 Aug 2026 01:52:00 +0900"
+          },
+          {
+            "title": "워시 연준의장 “美 물가지표 더욱 우려”…추가 긴축 시사",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649382&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 29 Aug 2026 00:54:00 +0900"
+          },
+          {
+            "title": "케빈 워시 연준 의장, 잭슨홀서 '매파 본색'...9월 금리 인상 가능성",
+            "url": "https://www.g-enews.com/view.php?ud=20260829050331537e250e8e188_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sat, 29 Aug 2026 05:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "지역별 전기료 차등 인하 추진…산업계 반응 엇갈려",
+        "summary": "정부가 산업용 전기요금을 지역별로 차등 인하하는 방안을 추진하면서 지방 투자 촉진 기대와 지역 차별 우려가 공존하고 있습니다.",
+        "articles": [
+          {
+            "title": "지역별 전기료 인하에 산업계 '온도차'…\"지방 투자 촉진\" vs \"지역 차별...",
+            "url": "https://www.ajunews.com/view/20260828180736581",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sat, 29 Aug 2026 05:02:00 +0900"
+          },
+          {
+            "title": "지역별 전기료 인하에 산업계 '온도차'…\"지방 투자 촉진\" vs \"지역 차별...",
+            "url": "https://www.ajunews.com/view/20260828180736581",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sat, 29 Aug 2026 05:02:00 +0900"
+          },
+          {
+            "title": "지역별 전기료 인하에 산업계 '온도차'…\"지방 투자 촉진\" vs \"지역 차별...",
+            "url": "https://www.ajunews.com/view/20260828180736581",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sat, 29 Aug 2026 05:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "주거 정책 및 용산 개발 논의",
+        "summary": "용산 개발 계획과 1인 가구 주거 문제 등 주거 관련 이슈가 논의되고 있으며, 부동산 정책의 목적성에 대한 질문도 제기됩니다.",
+        "articles": [
+          {
+            "title": "'1인 가구 시대, 주거 의 미래를 묻다'…부산도시공사, BMC 모닝 인사이트...",
+            "url": "http://www.inews24.com/view/1999580",
+            "outlet": "inews24.com",
+            "publishedAt": "Sat, 29 Aug 2026 00:20:00 +0900"
+          },
+          {
+            "title": "‘숫자’에 갇힌 용산 주택공급… 전문가들이 묻는다, “10년 뒤 서울은...",
+            "url": "https://www.dailyt.co.kr/newsView/dlt202608290001",
+            "outlet": "dailyt.co.kr",
+            "publishedAt": "Sat, 29 Aug 2026 00:20:00 +0900"
+          },
+          {
+            "title": "부동산 정책의 목적이 '오세훈 힘 빼기'?",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=236674",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sat, 29 Aug 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "정치권 동향 및 주요 정치 이슈",
+        "summary": "국민의힘 의원들의 박근혜 전 대통령 관련 관심, 이재명 정부와 민주당의 배임죄 폐지 재천명 논란, 정치인 성대모사 관련 논쟁 등이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "[주간政談<상>] 국민의힘 의원도 궁금했다…시선 끈 박근혜의 '입'",
+            "url": "https://news.tf.co.kr/read/ptoday/2359366.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 29 Aug 2026 00:01:00 +0900"
+          },
+          {
+            "title": "이재명 정부와 더불어민주당의 배임죄 폐지 재천명 명분?",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=236678",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sat, 29 Aug 2026 00:26:00 +0900"
+          },
+          {
+            "title": "이상민 크리에이터 \" 정치 인 성대모사가 왜 조롱입니까\" [세상에 나쁜 정...",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=54738",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Sat, 29 Aug 2026 05:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "경찰, 의무 위반 예방 위한 특단 조치 시행",
+        "summary": "경찰이 소속 직원 대상 의무 위반 예방 교육 강화 및 집중 감찰 등 특단 조치를 시행하며 의무 위반 방지에 나섰습니다.",
+        "articles": [
+          {
+            "title": "[이슈]경찰, 특단조치가 ‘열흘간 회식 금지?’",
+            "url": "https://www.munhwa.com/article/11612942?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 29 Aug 2026 04:01:00 +0900"
+          },
+          {
+            "title": "[이슈]경찰, 특단조치가 ‘열흘간 회식 금지?’",
+            "url": "https://www.munhwa.com/article/11612942?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 29 Aug 2026 04:01:00 +0900"
+          },
+          {
+            "title": "[이슈]경찰, 특단조치가 ‘열흘간 회식 금지?’",
+            "url": "https://www.munhwa.com/article/11612942?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 29 Aug 2026 04:01:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
