@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T14:12:01.885Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-08-31T16:38:26.394Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000330002",
@@ -434,7 +434,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329908/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -446,7 +446,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "북극항로 활용 촉진 및 연관산업 육성에 관한 특별법 시행령은 북극항로의 안전하고 효율적인 이용을 촉진하고, 관련 산업의 발전을 지원하기 위한 사항을 규정한다. 이 법령은 북극항로 이용에 필요한 정보 제공, 안전 관리 기준 마련, 그리고 북극항로 관련 산업의 육성을 위한 지원 방안 등을 포함한다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:34:11.167Z"
     },
     {
       "id": "government-progress-2000000329380",
@@ -464,7 +466,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329380/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 국무총리훈령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -476,7 +478,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "글로벌 인공지능 허브 유치위원회를 설치하고 운영하는 규정을 일부 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:34:34.541Z"
     },
     {
       "id": "government-progress-2000000329726",
@@ -494,7 +498,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329726/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -506,7 +510,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "아동수당법 시행령 일부개정안은 아동수당 지급 대상의 연령을 만 7세 미만에서 만 8세 미만으로 확대하는 내용을 담고 있습니다. 또한, 아동수당 지급 대상에서 제외되는 경우를 명확히 규정하고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:34:57.897Z"
     },
     {
       "id": "government-progress-2000000328744",
@@ -524,7 +530,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328744/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 전부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -536,7 +542,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "저출산ㆍ고령사회기본법 시행령 전부개정안은 저출산 및 고령사회 관련 정책의 실효성을 높이기 위해 마련되었습니다. 이 개정안은 기존의 법령 내용을 전면적으로 수정하여 새로운 정책 방향을 제시하고 관련 제도를 정비하는 것을 목표로 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:35:25.226Z"
     },
     {
       "id": "government-progress-2000000318630",
@@ -554,7 +562,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000318630/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -566,7 +574,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "계량에 관한 법률 시행규칙 일부개정안은 계량 관련 규정을 일부 수정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:36:06.252Z"
     },
     {
       "id": "government-progress-2000000323370",
@@ -584,7 +594,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000323370/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -596,7 +606,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "이 규칙은 우수물류기업 인증에 관한 사항을 일부 개정한다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:36:29.396Z"
     },
     {
       "id": "government-progress-2000000326072",
@@ -614,7 +626,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326072/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -626,7 +638,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "국가기술자격법 시행규칙 일부개정안은 국가기술자격 검정의 실기시험에 대한 평가 기준을 명확히 하고, 시험의 공정성과 신뢰성을 높이기 위한 내용을 담고 있습니다. 또한, 자격증 발급 및 관리 절차를 개선하여 국민 편의를 증진하는 것을 목표로 합니다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:37:17.280Z"
     },
     {
       "id": "government-progress-2000000328366",
@@ -644,7 +658,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328366/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -656,7 +670,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "공무직위원회 설치 및 운영에 관한 법률 시행령은 공무직위원회의 설치 및 운영에 필요한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:37:40.350Z"
     },
     {
       "id": "government-progress-2000000329878",
@@ -674,7 +690,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329878/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -686,7 +702,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "역사문화권 정비 등에 관한 특별법 시행령 일부를 개정하려는 대통령령입니다.",
+      "aiSummaryUpdatedAt": "2026-08-31T16:38:03.535Z"
     },
     {
       "id": "government-progress-2000000329948",
