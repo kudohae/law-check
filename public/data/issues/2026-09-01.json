@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-01",
+  "generatedAt": "2026-08-31T16:19:48.000Z",
+  "title": "2026년 09월 01일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 1일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "새 정부 경제팀, 부동산 및 세제 개편 정책 방향",
+        "summary": "새롭게 구성된 경제팀의 부동산 정책과 세제 개편안에 대한 기대와 우려가 교차하고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 새 경제팀, 세제개편안부터 '실용' 보이길",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260831010010638",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "홍지선 앞에 놓인 국토 난제…서울 집값부터 균형발전까지",
+            "url": "https://news.tf.co.kr/read/economy/2360029.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[사설] 새 경제 팀 민심 떠난 부동산 정책 방향 확 바꿔야",
+            "url": "https://www.segye.com/newsView/20260831515614?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Tue, 01 Sep 2026 01:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "정기국회 개막, 여야 부동산·예산안 놓고 전면전 예고",
+        "summary": "부동산 관련 법안과 역대 최대 규모의 내년도 예산안을 두고 여야 간 치열한 대치가 예상됩니다.",
+        "articles": [
+          {
+            "title": "여야, 내홍 안고 정기국회로…서로 \"저쪽이 더 심해\"",
+            "url": "https://news.tf.co.kr/read/ptoday/2360132.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:01:00 +0900"
+          },
+          {
+            "title": "오늘부터 100일간 정기국회…여야, 부동산·예산 전면전 예고",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651021&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[시사천국] 의원·내부승진 전진배치…이재명 정부 개각, 무엇을 바꿨나",
+            "url": "https://news.cpbc.co.kr/article/1175411?division=NAVER",
+            "outlet": "news.cpbc.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "개각 및 정치권 인사 배치 논란",
+        "summary": "새 정부의 개각 과정에서 군소정당 인사들의 약진과 특정 정치인에 대한 비판이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "개각 주인공 된 군소정당…범여권 통합·독자 노선 '갈림길'",
+            "url": "https://news.tf.co.kr/read/ptoday/2360130.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[사설] 위성정당 태생적 문제 드러낸 용혜인 후보자의 의원 겸직",
+            "url": "https://www.hankookilbo.com/news/article/A2026083115380001586?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 01 Sep 2026 00:10:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, 국가AI전략위 수석부위원장 하정우 중용",
+            "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74031",
+            "outlet": "babytimes.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "노동 시장 및 기업 관련 쟁점",
+        "summary": "노동법 개정 논란과 기업의 고용 유인책, 그리고 국제 통상 문제 등이 주요 현안으로 떠오르고 있습니다.",
+        "articles": [
+          {
+            "title": "[기고] 투자와 고용을 막아선 안 된다",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000007824&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:37:00 +0900"
+          },
+          {
+            "title": "[종합] SK하이닉스 \"일본 합작공장 검토 사실 아냐\"…최태원 회장 발언...",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=544342",
+            "outlet": "joongangenews.com",
+            "publishedAt": "Tue, 01 Sep 2026 00:16:00 +0900"
+          },
+          {
+            "title": "쿠팡(CPNG) 사태, 결국 관세로 번졌다...한미 통상 '비상'",
+            "url": "http://coinreaders.com/255746",
+            "outlet": "coinreaders.com",
+            "publishedAt": "Tue, 01 Sep 2026 00:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "사회 안전 및 범죄 관련 이슈",
+        "summary": "경산 중국인 유학생 살해 사건 피의자 신상 공개와 초고금리 사금융 피해 사건이 사회적 관심을 받고 있습니다.",
+        "articles": [
+          {
+            "title": "경산 중국인 유학생 살해 피의자 신상 오늘 공개",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260901002746p3S",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:28:00 +0900"
+          },
+          {
+            "title": "50만원 빌렸는데 105만원 뜯어갔다…‘연 4만%’ 악마의 이자 붙인 일당...",
+            "url": "https://www.sedaily.com/article/20085508?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 01 Sep 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[서울로…청년들 '광주 탈출' 리포트] (5) 그럼에도 광주에 산다",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=672269",
+            "outlet": "gjdream.com",
+            "publishedAt": "Tue, 01 Sep 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "기후 변화 및 재난 대응",
+        "summary": "네팔 대홍수 피해와 국내 극한 호우로 인한 재난 지원금 지급 등 기후 변화로 인한 재난 대응이 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[종합] 네팔 대홍수 사망 919명·실종 4793명…한국인 9명 수색, 터널서...",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=544353",
+            "outlet": "joongangenews.com",
+            "publishedAt": "Tue, 01 Sep 2026 00:16:00 +0900"
+          },
+          {
+            "title": "'짧고 강력한 비'에 사망까지‥남부 극한 호우",
+            "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6848662_36989.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Tue, 01 Sep 2026 00:22:00 +0900"
+          },
+          {
+            "title": "'호우 피해' 통영·거제 재난 지원금 66억 원 우선 교부",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260901001424xwg",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Tue, 01 Sep 2026 00:15:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
