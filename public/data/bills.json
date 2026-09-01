@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:38:26.394Z",
+  "generatedAt": "2026-09-01T13:54:41.019Z",
   "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
@@ -722,7 +722,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329948/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -734,7 +734,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "의약품 부작용 피해구제에 관한 규정 시행규칙 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:50:04.017Z"
     },
     {
       "id": "government-progress-2000000329934",
@@ -752,7 +754,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329934/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -764,7 +766,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "청년고용촉진 특별법 시행령은 청년고용촉진장려금 지급 대상에 대한 일부 개정을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:50:27.074Z"
     },
     {
       "id": "government-progress-2000000326042",
@@ -782,7 +786,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326042/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -794,7 +798,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "기상법 시행령 일부개정령안은 기상 관련 법령의 일부를 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:50:50.130Z"
     },
     {
       "id": "government-progress-2000000329728",
@@ -812,7 +818,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329728/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -824,7 +830,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "주택법 시행규칙 일부개정안은 주택 건설 사업의 효율성을 높이기 위해 사업계획 승인 절차를 간소화하는 내용을 담고 있습니다. 또한, 주택 공급 질서 교란 행위에 대한 제재를 강화하여 시장 질서를 확립하고자 합니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:51:13.261Z"
     },
     {
       "id": "government-progress-2000000327778",
@@ -842,7 +850,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327778/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 법률 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -854,7 +862,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "도로명주소법 일부를 개정하여 도로명주소의 부여 및 관리 등에 관한 사항을 정비하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:51:36.419Z"
     },
     {
       "id": "government-progress-2000000329638",
@@ -872,7 +882,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329638/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정(일괄)",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -884,7 +894,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "개인정보보호 및 정보보호 인력 보강을 위해 36개 대통령령의 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:51:59.687Z"
     },
     {
       "id": "government-progress-2000000329986",
@@ -902,7 +914,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329986/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -914,7 +926,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "이 법률안은 원자력안전위원회와 그 소속기관 직제 시행규칙을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:52:22.907Z"
     },
     {
       "id": "government-progress-2000000329622",
@@ -932,7 +946,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329622/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -944,7 +958,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "개인정보 보호 위원회의 직제 시행규칙을 일부 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:52:45.952Z"
     },
     {
       "id": "government-progress-2000000329556",
@@ -962,7 +978,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329556/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -974,7 +990,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "국가데이터처와 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:53:08.947Z"
     },
     {
       "id": "government-progress-2000000329464",
@@ -992,7 +1010,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329464/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1004,7 +1022,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "기획예산처와 그 소속기관 직제 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:53:31.992Z"
     },
     {
       "id": "government-progress-2000000329612",
@@ -1022,7 +1042,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329612/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1034,7 +1054,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "식품의약품안전처와 그 소속기관 직제 시행규칙 일부개정안은 총리령으로 제정되었습니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:53:54.956Z"
     },
     {
       "id": "government-progress-2000000329542",
@@ -1052,7 +1074,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329542/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1064,7 +1086,9 @@
         }
       ],
       "createdAt": "2026-08-30T14:08:55.291Z",
-      "updatedAt": "2026-08-30T14:08:55.291Z"
+      "updatedAt": "2026-08-30T14:08:55.291Z",
+      "aiSummary": "금융위원회와 그 소속기관 직제 시행규칙 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-01T13:54:18.090Z"
     },
     {
       "id": "government-progress-2000000329876",
