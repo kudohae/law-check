@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T12:55:45.154Z",
+  "title": "2026년 09월 02일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 2일 한국 사회의 주요 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "농어업 세제 혜택 연장 법안 발의 및 부동산 세제 완화 논의",
+        "summary": "농어업 분야 세제 특례 연장 법안 발의와 함께 비거주 1주택자 세제 완화에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "서천호 의원, 농어업 '세제 혜택 5년 연장' 법안 발의",
+            "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=644642",
+            "outlet": "gnnews.co.kr",
+            "publishedAt": "Wed, 02 Sep 2026 19:38:00 +0900"
+          },
+          {
+            "title": "이형일 \"비거주 1주택, 차등 완화해도 차이 둬야\" [부동산 세제 진통]",
+            "url": "https://www.fnnews.com/news/202609021905156160",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 02 Sep 2026 19:06:00 +0900"
+          },
+          {
+            "title": "신정훈 “국내 태양광 모듈 중국산 70% 육박”",
+            "url": "http://www.kjdaily.com/article.php?aid=1788347967685859002",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Wed, 02 Sep 2026 20:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "기후 위기 대응 및 관련 정책 논의",
+        "summary": "기후 변화로 인한 재난 발생 빈도 증가와 함께 기후 위기 대응을 위한 정책 논의가 활발합니다.",
+        "articles": [
+          {
+            "title": "빈번해진 극한 재난..대응 기술 현주소는?",
+            "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=288636",
+            "outlet": "busanmbc.co.kr",
+            "publishedAt": "Wed, 02 Sep 2026 21:30:00 +0900"
+          },
+          {
+            "title": "대홍수 사망자 1.100명 넘어…생존자 '2차 재난 ' 우려",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1536187",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Wed, 02 Sep 2026 20:54:00 +0900"
+          },
+          {
+            "title": "끝까지 안 놓은 어머니의 손…화장터에선 오열·실신 잇따라",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/02/2026090290239.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Wed, 02 Sep 2026 21:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경찰 인사 제도 및 직장협의회 입장",
+        "summary": "경찰 직장협의회가 '향찰' 논란으로 인한 강제 순환인사 재검토를 촉구하며, 인사 제도가 경찰관들의 삶에 미치는 영향에 대한 우려를 표명했습니다.",
+        "articles": [
+          {
+            "title": "\"향찰 한마디, 13만 경찰 흔들어\"…경찰 직협 '강제 순환인사' 재검토 요...",
+            "url": "https://www.fnnews.com/news/202609022053266841",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 02 Sep 2026 21:04:00 +0900"
+          },
+          {
+            "title": "경찰직협 \"확인 안 된 '향찰'로 13만 경찰관 삶 흔들어선 안 돼\"",
+            "url": "https://www.newsis.com/view/NISX20260902_0003773940",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 02 Sep 2026 20:55:00 +0900"
+          },
+          {
+            "title": "경찰직협 \"장윤기사건 '향찰' 탓 아냐…강제 순환인사 재검토하라\"",
+            "url": "https://www.news1.kr/society/incident-accident/6278187",
+            "outlet": "news1.kr",
+            "publishedAt": "Wed, 02 Sep 2026 21:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "지방 의회법 제정 및 지방 의회 독립성 강화 논의",
+        "summary": "지방 의회의 권한과 독립성을 높이기 위한 지방의회법 제정 필요성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[기획특집] 서호성 서대문구의회 의장 \"모든 시선을 구민에게…주민과...",
+            "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289741",
+            "outlet": "jeonmae.co.kr",
+            "publishedAt": "Wed, 02 Sep 2026 21:10:00 +0900"
+          },
+          {
+            "title": "대구시의회, 대구경북신공항 등 대구 핵심 현안 점검 시작",
+            "url": "https://dgmbc.com/NewsArticle/860197",
+            "outlet": "dgmbc.com",
+            "publishedAt": "Wed, 02 Sep 2026 21:11:00 +0900"
+          },
+          {
+            "title": "[여의도 브리핑] 서삼석 ‘무안청사 → 전남청사’ 특별법 개정안 발의",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1788348300802968004",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Wed, 02 Sep 2026 20:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "새벽배송 제한 법안 및 노동 환경 관련 논의",
+        "summary": "새벽배송 기사의 건강권 보호를 위한 법안 발의와 함께, 노동 환경 개선 및 이주 노동자의 처우에 대한 논의가 있습니다.",
+        "articles": [
+          {
+            "title": "건강권 지켜준다는데, 새벽배송 제한 반대 왜?…\"오히려 투잡 뛰어야\"",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5216567",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Wed, 02 Sep 2026 19:59:00 +0900"
+          },
+          {
+            "title": "외국인력 늘렸지만 위험한 일터 벗어날 길은 좁았다 [위험의 이주화]",
+            "url": "https://www.idomin.com/news/articleView.html?idxno=2013947",
+            "outlet": "idomin.com",
+            "publishedAt": "Wed, 02 Sep 2026 21:36:00 +0900"
+          },
+          {
+            "title": "노동자들이 청와대로 가는 이유 [세상읽기]",
+            "url": "https://www.hani.co.kr/arti/opinion/column/1275951.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 02 Sep 2026 19:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "정치권의 법안 처리 및 정책 방향 관련 발언",
+        "summary": "정치권에서 다양한 법안 처리와 정책 방향에 대한 발언이 이어지고 있으며, 특히 조국 전 장관 관련 발언과 국회 법사위 운영에 대한 비판이 있습니다.",
+        "articles": [
+          {
+            "title": "[뉴스하이킥] 하헌기 “조국, 관심 받고 싶어 메시지 낸 것…‘이재명 ...",
+            "url": "https://n.news.naver.com/mnews/article/214/0001521699?sid=100",
+            "outlet": "n.news.naver.com",
+            "publishedAt": "Wed, 02 Sep 2026 20:26:00 +0900"
+          },
+          {
+            "title": "[만물상] ‘대환장 법사위’",
+            "url": "https://www.chosun.com/opinion/manmulsang/2026/09/02/X2JCIBJD5ZEAVHE52QPTOSYITU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Wed, 02 Sep 2026 20:37:00 +0900"
+          },
+          {
+            "title": "[오늘 여의도] 용혜인 “청문회 잘 준비할 것”",
+            "url": "https://www.kyeongin.com/article/1770139",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Wed, 02 Sep 2026 20:16:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
