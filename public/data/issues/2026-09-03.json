@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T12:58:07.778Z",
+  "title": "2026년 09월 03일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 3일 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "공공기관 세종 이전 및 통폐합",
+        "summary": "법무부, 성평등부 등 일부 부처의 세종 이전과 발전, 항만, 에너지 공공기관의 대대적인 통폐합이 추진됩니다.",
+        "articles": [
+          {
+            "title": "법무부-성평등부 등 세종 이전, 109개 공공기관 통폐합",
+            "url": "https://www.viewsnnews.com/article?q=238325",
+            "outlet": "viewsnnews.com",
+            "publishedAt": "Thu, 03 Sep 2026 21:32:00 +0900"
+          },
+          {
+            "title": "발전·항만·에너지 공공기관 대대적 통폐합...LH는 '개발·주거' 분리",
+            "url": "https://www.ytn.co.kr/_ln/0102_202609032034067810",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 20:34:00 +0900"
+          },
+          {
+            "title": "수사기관 3000명 세종行…“서울 치안수요 큰데” 우려도",
+            "url": "https://www.donga.com/news/Economy/article/all/20260903/134602198/1",
+            "outlet": "donga.com",
+            "publishedAt": "Thu, 03 Sep 2026 21:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "정년 연장 논의 본격화",
+        "summary": "이재명 대통령과 양대 노총 위원장이 만나 정년 연장 법안에 대해 연내 결론 도출의 필요성에 공감대를 형성했습니다.",
+        "articles": [
+          {
+            "title": "李대통령, 양대 노총과 차담회…“정년연장 연내 결과 도출 필요”",
+            "url": "http://www.joseilbo.com/news/news_read.php?uid=575046&class=32&grp=",
+            "outlet": "joseilbo.com",
+            "publishedAt": "Thu, 03 Sep 2026 20:38:00 +0900"
+          },
+          {
+            "title": "이 대통령·양대 노총 위원장 “정년연장 연내 결과 도출”에 공감대",
+            "url": "https://www.khan.co.kr/article/202609032104001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:04:00 +0900"
+          },
+          {
+            "title": "李대통령, 양대 노총과 차담회… 정년연장 \"연내 결론\" 공감대(종합)",
+            "url": "https://www.news1.kr/politics/president/6279576",
+            "outlet": "news1.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:55:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "노동 관련 지침 발표 및 논란",
+        "summary": "정부가 '노란봉투법' 시행 이후 현장의 판단 기준을 구체화한 '경영성과급 등 노동 쟁의 대상 시행지침'을 발표했으나, 노동계는 반발하고 있습니다.",
+        "articles": [
+          {
+            "title": "[이슈] 노동 부, N% 성과급·호남반도체 반대 파업·의무교섭 불가 지침…...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=742134",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:33:00 +0900"
+          },
+          {
+            "title": "'노란봉투법' 지침, 성과급·투자 '의무 교섭' 제외… 노동 계 \"합법 쟁의...",
+            "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4104556",
+            "outlet": "news.bbsi.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:54:00 +0900"
+          },
+          {
+            "title": "[미리보는 이데일리 신문] 법무·성평등부 세종 이전…발전 5개사 통합",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=05694086645576512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "5·18 유공자 명단 공개 논란",
+        "summary": "5·18 유공자 명단 공개를 둘러싸고 정치권에서 공방이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "\"국회에서 내쫓아라\" vs \"유공자 명단 공개하라\"···5·18 포럼 파장 확...",
+            "url": "https://dgmbc.com/NewsArticle/859807",
+            "outlet": "dgmbc.com",
+            "publishedAt": "Thu, 03 Sep 2026 20:54:00 +0900"
+          },
+          {
+            "title": "“민간임대 稅혜택은 부자감세”라던 민주…말바꿔 “ 주거 안정 역할”",
+            "url": "https://www.mk.co.kr/article/12143958",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:45:00 +0900"
+          },
+          {
+            "title": "등록임대 세제혜택 축소에 매도 딜레마…임차인 갱신권과 충돌 우려",
+            "url": "https://www.ekn.kr/web/view.php?key=20260903022170395",
+            "outlet": "ekn.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:44:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "등록임대주택 제도 관련 논쟁",
+        "summary": "등록임대주택 사업자에 대한 세제 혜택 축소와 임차인 갱신권 충돌 우려, 그리고 민간 임대 공급 역할에 대한 논쟁이 있습니다.",
+        "articles": [
+          {
+            "title": "등록임대 세제혜택 축소에 매도 딜레마…임차인 갱신권과 충돌 우려",
+            "url": "https://www.ekn.kr/web/view.php?key=20260903022170395",
+            "outlet": "ekn.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:44:00 +0900"
+          },
+          {
+            "title": "“민간임대 稅혜택은 부자감세”라던 민주…말바꿔 “ 주거 안정 역할”",
+            "url": "https://www.mk.co.kr/article/12143958",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:45:00 +0900"
+          },
+          {
+            "title": "“민간임대 稅혜택은 부자감세”라던 민주…말바꿔 “ 주거 안정 역할”",
+            "url": "https://www.mk.co.kr/article/12143958",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:45:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "국회 외유성 출장 논란",
+        "summary": "국회의원들의 해외 출장에 대한 비판적인 시각과 함께, 공무원처럼 나랏돈으로 해외여행을 간다는 지적이 제기되었습니다.",
+        "articles": [
+          {
+            "title": "“이러면 누가 나랏일 돕나”... 박진영 지적한 국회에 터진 대형 역풍",
+            "url": "https://www.wikitree.co.kr/articles/1157124",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Thu, 03 Sep 2026 21:38:00 +0900"
+          },
+          {
+            "title": "'나혼산', 전현무 '즉흥여행' 논란에 대사관 늦장 문의…방미심위 민원...",
+            "url": "https://www.xportsnews.com/article/2191703",
+            "outlet": "xportsnews.com",
+            "publishedAt": "Thu, 03 Sep 2026 21:43:00 +0900"
+          },
+          {
+            "title": "수사기관 3000명 세종行…“서울 치안수요 큰데” 우려도",
+            "url": "https://www.donga.com/news/Economy/article/all/20260903/134602198/1",
+            "outlet": "donga.com",
+            "publishedAt": "Thu, 03 Sep 2026 21:46:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
