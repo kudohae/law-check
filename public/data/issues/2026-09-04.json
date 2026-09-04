@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T12:53:11.730Z",
+  "title": "2026년 09월 04일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "AI에 이상 기후 까지 공습 위기의 청년들",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "‘AI에 이상 기후 까지 공습’ 위기의 청년들...“ 기후 테크로 일자리 확장...",
+            "url": "https://www.mk.co.kr/article/12144862",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 19:58:00 +0900"
+          },
+          {
+            "title": "경북교육청, 교육교부금 제도 개편 우려…현행 재정구조 유지 촉구",
+            "url": "http://www.metroseoul.co.kr/article/20260904500250",
+            "outlet": "metroseoul.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 19:22:00 +0900"
+          },
+          {
+            "title": "민주노총 충북본부 \"재벌엔 특혜, 노동자엔 개악\"…하반기 총력투쟁 선...",
+            "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509934",
+            "outlet": "worknworld.kctu.org",
+            "publishedAt": "Fri, 04 Sep 2026 19:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "당정 메가특구특별법 이달 중 발의",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "당정 “메가특구특별법 이달 중 발의”…연구개발자 ‘주 52시간 예외’...",
+            "url": "https://www.hani.co.kr/arti/politics/politics_general/1276344.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 21:48:00 +0900"
+          },
+          {
+            "title": "\"학대 전력자, 다시 동물 키울 수 없게\"…사육금지 법안 국회 최종 관문",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=237294",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Fri, 04 Sep 2026 21:32:00 +0900"
+          },
+          {
+            "title": "전국 91개 팀 제친 화순 능주고, 모의국회 대회 정상",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=742254",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 21:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "녹색",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "녹색·디지털 ‘이중전환’ 시대… 박정현 의원, ‘AI 기후테크 인재정...",
+            "url": "https://www.wikitree.co.kr/articles/1157328",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 19:02:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, '집중호우 피해' 통영시 전체 특별 재난 지역 선포",
+            "url": "https://daily.hankooki.com/news/articleView.html?idxno=1403041",
+            "outlet": "daily.hankooki.com",
+            "publishedAt": "Fri, 04 Sep 2026 21:40:00 +0900"
+          },
+          {
+            "title": "[현장] 한지아 의원, 낙태·조력존엄사 논의 속 '의료인 양심적 거부권...",
+            "url": "https://www.news2day.co.kr/article/20260904500280",
+            "outlet": "news2day.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 21:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "노무현 때 이라크 파병 잔혹사 재현되나",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "‘노무현 때 이라크 파병 잔혹사 재현되나’…범여권, 호르무즈 파병에...",
+            "url": "https://www.seoul.co.kr/news/politics/congress/2026/09/04/20260904500364?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 20:24:00 +0900"
+          },
+          {
+            "title": "추미애 “포천~철원 고속도로, 70년 안보 희생에 대한 정당한 보상”",
+            "url": "http://www.beyondpost.co.kr/view.php?ud=2026090419155168054c878f8fa1_30",
+            "outlet": "beyondpost.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 19:28:00 +0900"
+          },
+          {
+            "title": "與, 메가특구법 ‘비상 입법’ 연내 처리…“노동 시간은 사회적 대화 ...",
+            "url": "https://www.seoul.co.kr/news/politics/2026/09/04/20260904500361?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 18:59:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "김민석",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김민석, '821조 예산' 들고 전국 순회... 메가특구특별법도 속도",
+            "url": "https://www.hankookilbo.com/news/article/A2026090417220001787?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 04 Sep 2026 18:42:00 +0900"
+          },
+          {
+            "title": "[아주 경제 오늘의 뉴스 종합] 금감원 노조, 대통령에 지방이전 반대 탄...",
+            "url": "https://www.ajunews.com/view/20260904212533033",
+            "outlet": "ajunews.com",
+            "publishedAt": "Fri, 04 Sep 2026 21:48:00 +0900"
+          },
+          {
+            "title": "[현장] 금융노조, 서울 도심서 총파업…\"지방이전 반대\" 한 목소리",
+            "url": "https://www.cnbizm.com/news/articleView.html?idxno=314043",
+            "outlet": "cnbizm.com",
+            "publishedAt": "Fri, 04 Sep 2026 21:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "국비 늘었지만",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국비 늘었지만...동부권 사업비 확보 '과제'",
+            "url": "https://ysmbc.co.kr/NewsArticle/1535522",
+            "outlet": "ysmbc.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 21:06:00 +0900"
+          },
+          {
+            "title": "전문성 논란에…이소영 \"중기부 예산 이해도 높아\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202609042047257fd",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 20:48:00 +0900"
+          },
+          {
+            "title": "세종시의회 '행정수도특별법 연내 제정하라' 국회 앞 릴레이 시위",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=822205",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Fri, 04 Sep 2026 20:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "전농 5호 미만도 보호해야..16일 항의 집회 예고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전농 \"5호 미만도 보호해야\"..16일 항의 집회 예고",
+            "url": "http://andongmbc.co.kr/adboard/NewsView84589",
+            "outlet": "andongmbc.co.kr",
+            "publishedAt": "Fri, 04 Sep 2026 20:38:00 +0900"
+          },
+          {
+            "title": "[앵커 선도대학을 가다/광주교육대학교] 광주를 교실로, 지역문제를 교...",
+            "url": "https://news.unn.net/news/articleView.html?idxno=596836",
+            "outlet": "news.unn.net",
+            "publishedAt": "Fri, 04 Sep 2026 20:08:00 +0900"
+          },
+          {
+            "title": "용혜인 블랙홀에 빠졌다…묻혀버린 개각 5인방 [신현보의 딥데이터]",
+            "url": "https://www.hankyung.com/article/202609044896H",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 04 Sep 2026 19:28:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
