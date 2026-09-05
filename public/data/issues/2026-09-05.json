@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T11:59:19.222Z",
+  "title": "2026년 09월 05일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "출산 지원금만 주면 끝?",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[지자체소식] \"출산 지원금만 주면 끝?\"... 주거 ·교육·일자리까지 책임...",
+            "url": "http://www.sisacast.kr/news/articleView.html?idxno=99641",
+            "outlet": "sisacast.kr",
+            "publishedAt": "Sat, 05 Sep 2026 19:14:00 +0900"
+          },
+          {
+            "title": "[한반도 브리핑] 국방장관 교체…'문민'에서 다시 '육사 출신 엘리트'로",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260905182536plp",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 18:26:00 +0900"
+          },
+          {
+            "title": "\"주휴수당 다 줘라\"…'용혜인 법안 ' 길 열어준 정부 지침 [김대영의 노무...",
+            "url": "https://www.hankyung.com/article/202609044803g",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 05 Sep 2026 18:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "장동혁 이 대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "장동혁 “이 대통령, 왼쪽만 챙기기로 작정한 모양”",
+            "url": "https://www.wikitree.co.kr/articles/1157472",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 20:52:00 +0900"
+          },
+          {
+            "title": "李대통령 \"한 번의 연체가 평생 발목 잡아선 안 돼\"",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2298864",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Sat, 05 Sep 2026 19:56:00 +0900"
+          },
+          {
+            "title": "이재명 정부 공공기관 이전에 영남일보 \"'TK패싱' 우려\" 중앙일보 \"감축...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336888",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 19:21:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "트럼프",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "트럼프, '천궁-Ⅱ 우크라 보내야' 칼럼 공유…' 안보 청구서'로 韓 압박",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/05/2026090590099.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sat, 05 Sep 2026 19:14:00 +0900"
+          },
+          {
+            "title": "이 대통령 인적 쇄신에도 민심 '냉랭'...정상 외교 로 반등 모색 주목",
+            "url": "https://www.ytn.co.kr/_ln/0101_202609051844230756",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 18:44:00 +0900"
+          },
+          {
+            "title": "‘땅 파보니 또 나왔다’…영풍 석포제련소, 오염토 추가 확인",
+            "url": "https://www.munhwa.com/article/11614734?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 05 Sep 2026 17:39:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "청와대",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "청와대, 시민사회 초청 장시간 소통…'의견 청취' 넘어 국정 참여로",
+            "url": "https://www.newswhoplus.com/news/articleView.html?idxno=68948",
+            "outlet": "newswhoplus.com",
+            "publishedAt": "Sat, 05 Sep 2026 17:10:00 +0900"
+          },
+          {
+            "title": "충남도, \"여당에 충남 현안 국비 지원 요청\"",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3685385",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sat, 05 Sep 2026 20:50:00 +0900"
+          },
+          {
+            "title": "[리포트]대전도 '참 교육 '⋯이달 말 교육 활동보호관 도입",
+            "url": "https://tjmbc.co.kr/NewsArticle/860684",
+            "outlet": "tjmbc.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 20:35:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "탄소 배출 14위 한국",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "탄소 배출 14위 한국, '후발국'이니 감축 천천히?",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003264766&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Sat, 05 Sep 2026 16:11:00 +0900"
+          },
+          {
+            "title": "[뉴스추적] 호르무즈에 천궁까지…거세지는 트럼프 '한국 압박'",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217247",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 19:49:00 +0900"
+          },
+          {
+            "title": "이 대통령, 호르무즈 파병에 \"진척된 것 없다\"…청와대 \"우리 필요가 최...",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217263",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 19:45:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "원청교섭",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "원청교섭, 정의로운 AI, 노동 기본권… 민주노총, 하반기투쟁 선포 \" 노동 ...",
+            "url": "http://worknworld.kctu.org/news/articleView.html?idxno=509938",
+            "outlet": "worknworld.kctu.org",
+            "publishedAt": "Sat, 05 Sep 2026 18:42:00 +0900"
+          },
+          {
+            "title": "호르무즈 파병 가능성...트럼프 \"이란전은 사소한 일\"",
+            "url": "https://www.ytn.co.kr/_ln/0104_202609051842466904",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 18:42:00 +0900"
+          },
+          {
+            "title": "민주노총 광주·전남본부 \" 노동 시간 단축·양질 일자리 창출\"",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000062722",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sat, 05 Sep 2026 18:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "민주노총",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "민주노총, 하반기에도 'AI 정의'·' 노동 기본권'·'원청 교섭' 외친다",
+            "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058759",
+            "outlet": "shinailbo.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 18:26:00 +0900"
+          },
+          {
+            "title": "[기고] 전쟁발 나프타 대란 리스크 현실화…‘재생원료’에 눈 돌릴 때",
+            "url": "https://www.ekn.kr/web/view.php?key=20260905022091002",
+            "outlet": "ekn.kr",
+            "publishedAt": "Sat, 05 Sep 2026 18:18:00 +0900"
+          },
+          {
+            "title": "트럼프, '천궁-Ⅱ 우크라에 팔아야' 칼럼 SNS 공유…韓 압박하나",
+            "url": "https://view.asiae.co.kr/article/2026090517422375785",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Sat, 05 Sep 2026 18:06:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
