@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T12:17:01.259Z",
+  "title": "2026년 09월 06일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "제로 슈거 음료에도 세금 매긴다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "제로 슈거 음료에도 세금 매긴다…1조원 '설탕세법' 이번주 발의",
+            "url": "https://www.hankyung.com/article/2026090669291",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 06 Sep 2026 18:27:00 +0900"
+          },
+          {
+            "title": "당정, 메가특구 기업 부담금 3년 면제•주택 특공 혜택",
+            "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862569",
+            "outlet": "hansbiz.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 21:00:00 +0900"
+          },
+          {
+            "title": "대정부질문에 인사청문회까지…정기국회 초반 여야 '강대강'",
+            "url": "https://news.tf.co.kr/read/ptoday/2362463.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 20:44:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "정기국회 초반부터 여야 격돌",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정기국회 초반부터 여야 격돌… 대정부질문 이어 인사청문회 슈퍼위크...",
+            "url": "http://www.ujeil.com/news/articleView.html?idxno=391594",
+            "outlet": "ujeil.com",
+            "publishedAt": "Sun, 06 Sep 2026 20:22:00 +0900"
+          },
+          {
+            "title": "경기도, 정부 8·13 주택공급에 '현장 해법'…보상·교통 등 13개 제도개...",
+            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=714824",
+            "outlet": "newstown.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 19:38:00 +0900"
+          },
+          {
+            "title": "[포토뉴스]더불어민주당 춘천갑 여성위원회 발대식",
+            "url": "https://www.kwnews.co.kr/article/20260906501140",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 21:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "투자협약",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이슈프리뷰]투자협약·8CGL 착공…지역 현안 본격화",
+            "url": "https://ysmbc.co.kr/NewsArticle/1535617",
+            "outlet": "ysmbc.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 20:56:00 +0900"
+          },
+          {
+            "title": "\"호르무즈에 군함 보내지 마라\"…시민사회, 정부 파병 검토에 강력 '반...",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=237368",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sun, 06 Sep 2026 20:46:00 +0900"
+          },
+          {
+            "title": "[부고] 박정부씨 별세 외",
+            "url": "https://www.segye.com/newsView/20260906508831?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sun, 06 Sep 2026 20:21:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "행정안전부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[인사] 행정안전부",
+            "url": "https://www.segye.com/newsView/20260906508830?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sun, 06 Sep 2026 20:19:00 +0900"
+          },
+          {
+            "title": "7일부터 대정부질문…경제·외교·안보 전방위 격돌",
+            "url": "http://www.kjdaily.com/article.php?aid=1788693078686104002",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Sun, 06 Sep 2026 20:14:00 +0900"
+          },
+          {
+            "title": "추미애 \"포천~철원 고속도로, 70년 안보 희생에 대한 보상\"…예타 통과...",
+            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=714825",
+            "outlet": "newstown.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 20:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "정부 노동 기본권 보장하라 민노총 경남본부 결의대회",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“정부 노동 기본권 보장하라” 민노총 경남본부 결의대회",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1550211",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 20:34:00 +0900"
+          },
+          {
+            "title": "\"택지-첨단산단 길 터달라\"…박관열 경기 광주시장, 정부에 규제개선 건...",
+            "url": "https://www.cnbnews.com/news/articleView.html?idxno=1014495",
+            "outlet": "cnbnews.com",
+            "publishedAt": "Sun, 06 Sep 2026 19:16:00 +0900"
+          },
+          {
+            "title": "발전 5사 통합 본사 신축 확정…‘예산 절감’ 경남도 전략 비상",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1550195",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 19:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "메가특구 주52시간 예외 기준안",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "메가특구 ‘주52시간 예외’ 기준안, 산업부 1억-노동부 1.4억",
+            "url": "https://www.hani.co.kr/arti/economy/marketing/1276502.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 18:46:00 +0900"
+          },
+          {
+            "title": "경기도 주택 신속공급 '보상·교통'이 발목… 道, 신도시 포함 해법 제시",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3430423",
+            "outlet": "newscj.com",
+            "publishedAt": "Sun, 06 Sep 2026 17:44:00 +0900"
+          },
+          {
+            "title": "민선9기 첫 추경‥울산 핵심 사업은?",
+            "url": "https://www.usmbc.co.kr/NewsArticle/860709",
+            "outlet": "usmbc.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 20:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "메가특구 입주기업 3년간 전력부담금 면제",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[단독]메가특구 입주기업 3년간 전력부담금 면제…지방이전 교사·의료...",
+            "url": "https://www.sedaily.com/article/20087656?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sun, 06 Sep 2026 17:43:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, 마크롱과 호르무즈 파병 논의할 듯",
+            "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862566",
+            "outlet": "hansbiz.co.kr",
+            "publishedAt": "Sun, 06 Sep 2026 20:30:00 +0900"
+          },
+          {
+            "title": "추미애 ‘재정 비상’ 예산 깎더니…12억 전세 관사 사용 논란",
+            "url": "https://www.donga.com/news/Society/article/all/20260906/134614581/1",
+            "outlet": "donga.com",
+            "publishedAt": "Sun, 06 Sep 2026 20:21:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
