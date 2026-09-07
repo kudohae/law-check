@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T14:24:13.421Z",
+  "title": "2026년 09월 07일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "김건",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김건, '우주외교법' 대표발의…\"국제 우주규범 주도해야\"",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5217652",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 20:39:00 +0900"
+          },
+          {
+            "title": "[시론담론] 폭염 속 일터 멈춤, '제주형 기후보험'이 답이다",
+            "url": "https://www.jemin.com/news/articleView.html?idxno=842613",
+            "outlet": "jemin.com",
+            "publishedAt": "Mon, 07 Sep 2026 19:00:00 +0900"
+          },
+          {
+            "title": "HD현대重, 올해만 중대재해로 5명 사망… 정기선 HD현대 회장 국감 증언...",
+            "url": "https://m.skyedaily.com/news_view.html?ID=311162",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Mon, 07 Sep 2026 22:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "노란봉투법 시행지침이 교섭회피 빌미",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“노란봉투법 시행지침이 교섭회피 빌미”…민주노총, 전국 동시 농성",
+            "url": "https://www.hani.co.kr/arti/society/labor/1276688.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 20:36:00 +0900"
+          },
+          {
+            "title": "25년 만의 발전공기업 통합… 박해철 의원, 한국발전공사법 대표 발의",
+            "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34674",
+            "outlet": "rightknow.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 23:20:00 +0900"
+          },
+          {
+            "title": "'협력사·자회사 노동자도 고용 보장' 한국발전공사 법안 발의",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41434",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 19:09:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "노란봉투법 지침 폐기하라",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"노란봉투법 지침 폐기하라\"…민주노총, 대정부 투쟁 예고",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260907230504m8n",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 23:05:00 +0900"
+          },
+          {
+            "title": "올여름 그렇게 더웠는데…세금 들인 ‘기후보험’ 지급 실적 ‘전무’",
+            "url": "https://www.ekn.kr/web/view.php?key=20260907022361707",
+            "outlet": "ekn.kr",
+            "publishedAt": "Mon, 07 Sep 2026 22:04:00 +0900"
+          },
+          {
+            "title": "[정동칼럼]국회의원 4선 연임 제한해야",
+            "url": "https://www.khan.co.kr/article/202609072010015",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 20:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "산단",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "산단·반도체·항만 한 축으로…유의동 국회의원, 경기남부 메가시티 밑...",
+            "url": "https://www.etnews.com/20260907000491",
+            "outlet": "etnews.com",
+            "publishedAt": "Mon, 07 Sep 2026 23:23:00 +0900"
+          },
+          {
+            "title": "서울시의회, 실효성 없는 사업 예산 집중 삭감…민주당 \"민생 예산엔 협...",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3687702",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Mon, 07 Sep 2026 23:04:00 +0900"
+          },
+          {
+            "title": "민주당 새 지도부에 \"당정청 힘 모아 민생 성과 만들어야\"",
+            "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=181991",
+            "outlet": "newsmaker.or.kr",
+            "publishedAt": "Mon, 07 Sep 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "가스",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "가스·석유공사 노조, '통합' 강력 반발…'후폭풍' 거세진다",
+            "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=227975",
+            "outlet": "energy-news.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 22:46:00 +0900"
+          },
+          {
+            "title": "“설탕세는 숨은 증세…저소득층·청년층 부담” 학계 신중론",
+            "url": "https://www.munhwa.com/article/11615162?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Mon, 07 Sep 2026 22:06:00 +0900"
+          },
+          {
+            "title": "구윤철 \"개각 무관히 소임 다할 것…정책 후속조치 철저\"",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/07/2026090790255.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Mon, 07 Sep 2026 21:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "기상청 산하기관 채용 비리",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"기상청 산하기관 채용 비리·행정 부실 반복\"",
+            "url": "https://www.ulsanpress.net/news/articleView.html?idxno=582574",
+            "outlet": "ulsanpress.net",
+            "publishedAt": "Mon, 07 Sep 2026 21:43:00 +0900"
+          },
+          {
+            "title": "\"청년 자립·기회 확대 우선\" 성남시, 청년기본소득 조례안 재의요구",
+            "url": "https://www.cstimes.com/news/articleView.html?idxno=719711",
+            "outlet": "cstimes.com",
+            "publishedAt": "Mon, 07 Sep 2026 21:42:00 +0900"
+          },
+          {
+            "title": "[뉴스하이킥] 박원석 \"한동훈 폭로에도 결론은 기소유예…'김승원 수사...",
+            "url": "https://n.news.naver.com/mnews/article/214/0001522540?sid=100",
+            "outlet": "n.news.naver.com",
+            "publishedAt": "Mon, 07 Sep 2026 21:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "영덕군",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "영덕군, 민선 9기 공약 이행 '매니페스토 특강'",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=558933",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 21:34:00 +0900"
+          },
+          {
+            "title": "[시론]\"한불 정상회담, LEU 핵잠·핵연료주기 실질협력 전환점 돼야\"… ...",
+            "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=63931",
+            "outlet": "newsroad.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 21:34:00 +0900"
+          },
+          {
+            "title": "\"김포시 이기형 시장, 지방재정 위기 해법 모색…'보통교부세 감소 우려...",
+            "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708012",
+            "outlet": "newsfreezone.co.kr",
+            "publishedAt": "Mon, 07 Sep 2026 22:20:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
