@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T12:34:17.671Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-09-07T14:43:22.700Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000330252",
@@ -1426,7 +1426,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330106/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1438,7 +1438,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "지역의사 양성 및 지원 등에 관한 법률 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:38:22.934Z"
     },
     {
       "id": "government-progress-2000000326792",
@@ -1456,7 +1458,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326792/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1468,7 +1470,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "택시운송사업 발전에 관한 법률 시행규칙 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:38:46.188Z"
     },
     {
       "id": "government-progress-2000000328134",
@@ -1614,7 +1618,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330076/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1626,7 +1630,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "도로교통법 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:39:09.245Z"
     },
     {
       "id": "government-progress-2000000326358",
@@ -1644,7 +1650,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326358/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1656,7 +1662,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "사할린동포 지원에 관한 특별법 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:39:32.206Z"
     },
     {
       "id": "government-progress-2000000328958",
@@ -1674,7 +1682,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328958/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1686,7 +1694,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "이 법령은 공공재정 부정청구를 금지하고 부정이익을 환수하는 것에 관한 법률의 시행령을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:39:55.207Z"
     },
     {
       "id": "government-progress-2000000328992",
@@ -1704,7 +1714,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328992/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1716,7 +1726,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "공익신고자 보호법 시행령 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:40:18.174Z"
     },
     {
       "id": "government-progress-2000000328990",
@@ -1734,7 +1746,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328990/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1746,7 +1758,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령이 일부 개정됩니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:40:41.284Z"
     },
     {
       "id": "government-progress-2000000328204",
@@ -1764,7 +1778,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328204/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1776,7 +1790,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "국유림의 경영 및 관리에 관한 법률 시행규칙 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:41:04.603Z"
     },
     {
       "id": "government-progress-2000000328898",
@@ -1794,7 +1810,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328898/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1806,7 +1822,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "이공계 지원 특별법 시행령 일부를 개정하는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:41:27.566Z"
     },
     {
       "id": "government-progress-2000000326374",
@@ -1824,7 +1842,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000326374/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1836,7 +1854,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "수입식품안전관리 특별법 시행규칙은 수입식품의 안전 관리를 위한 일부 내용을 개정하는 법규입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:41:50.520Z"
     },
     {
       "id": "government-progress-2000000328738",
@@ -1854,7 +1874,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328738/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1866,7 +1886,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "공무원수당 등에 관한 규정 일부개정령안은 공무원에게 지급되는 각종 수당에 대한 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:42:13.495Z"
     },
     {
       "id": "government-progress-2000000328440",
@@ -1884,7 +1906,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328440/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1896,7 +1918,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "담배사업법 시행령은 담배 제조 및 판매에 관한 사항을 규정하고 있습니다. 이 법령은 담배의 제조, 판매, 유통 등 전반적인 과정을 관리하며, 관련 사업자에게는 일정한 의무와 절차를 부과합니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:42:36.622Z"
     },
     {
       "id": "government-progress-2000000329670",
@@ -1914,7 +1938,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000329670/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -1926,7 +1950,9 @@
         }
       ],
       "createdAt": "2026-09-06T12:29:32.863Z",
-      "updatedAt": "2026-09-06T12:29:32.863Z"
+      "updatedAt": "2026-09-06T12:29:32.863Z",
+      "aiSummary": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-07T14:42:59.643Z"
     },
     {
       "id": "government-progress-2000000328458",
