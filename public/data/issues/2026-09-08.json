@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T13:01:32.738Z",
+  "title": "2026년 09월 08일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 8일 한국 사회의 주요 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회, 메가특구법 등 주요 법안 처리 두고 여야 공방",
+        "summary": "국회 후반기 정기국회를 앞두고 여야 간 주요 법안 처리를 둘러싼 논의가 활발하며, 특히 '메가특구 특별법'이 핵심 쟁점으로 부상하고 있습니다.",
+        "articles": [
+          {
+            "title": "대정부질문·청문회 곳곳 '지뢰밭'…메가특구법 현안 급부상",
+            "url": "https://www.ajunews.com/view/20260908182614638",
+            "outlet": "ajunews.com",
+            "publishedAt": "Tue, 08 Sep 2026 19:10:00 +0900"
+          },
+          {
+            "title": "혁신당 서왕진 \"메가특구법, 국회 차원 초당적 협의체 구성 제안\"",
+            "url": "https://www.goodkyung.com/news/articleView.html?idxno=291157",
+            "outlet": "goodkyung.com",
+            "publishedAt": "Tue, 08 Sep 2026 19:10:00 +0900"
+          },
+          {
+            "title": "김영훈 노동 장관 “N% 성과급 파업, 노란봉투법 새 지침대로면 불법”",
+            "url": "https://www.mk.co.kr/article/12147581",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 21:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "정치권, 개헌 논의에 대한 입장 차이 확인",
+        "summary": "현 정부에서의 개헌 가능성에 대해 여야 간 입장 차이가 분명하게 드러나고 있으며, 이는 향후 정치권의 주요 쟁점이 될 수 있습니다.",
+        "articles": [
+          {
+            "title": "정점식 \"이번 정부에서 개헌 없다\"…김민석 제안에 하루 만에 '선 긋기'",
+            "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317524",
+            "outlet": "wolyo.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 21:22:00 +0900"
+          },
+          {
+            "title": "[정점식 국회연설 전문] \"손대는 것마다 재앙. 李대통령은 '잼데믹'\"",
+            "url": "https://www.viewsnnews.com/article?q=238394",
+            "outlet": "viewsnnews.com",
+            "publishedAt": "Tue, 08 Sep 2026 21:02:00 +0900"
+          },
+          {
+            "title": "윤용근 \"김승원 '신약 청탁 의혹', 단순 청탁 아닌 주가조작 사건…한동...",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514173",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Tue, 08 Sep 2026 21:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "국회, 청년 주거 문제 해결 위한 법안 및 정책 논의",
+        "summary": "청년층의 주거 불안정 해소를 위한 다양한 법안과 정책이 논의되고 있으며, 특히 매입임대주택 공급 확대 및 전세난 해소 방안이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "LH, 서울 매입임대 2만 호 3년 내 입주 공고…청년 1만5천 호",
+            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=715124",
+            "outlet": "newstown.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 20:07:00 +0900"
+          },
+          {
+            "title": "전세 품귀 장기화..청년·신혼부부 주거 사다리 '흔들'",
+            "url": "https://mpmbc.co.kr/NewsArticle/1536026",
+            "outlet": "mpmbc.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 21:06:00 +0900"
+          },
+          {
+            "title": "[인구감소지역 리포트] 소멸 막으라면서 일자리 막는 규제… 가평·연천...",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363736155",
+            "outlet": "joongboo.com",
+            "publishedAt": "Tue, 08 Sep 2026 20:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "노동 현안, 중대재해법 및 산별 갈등 등 복합적 쟁점 부각",
+        "summary": "노동 현장에서는 중대재해법 관련 조사, 산별 노조와 피해 노동자 간 갈등, 공공부문 하도급 문제 등 다양한 이슈가 동시다발적으로 발생하며 사회적 논의를 요구하고 있습니다.",
+        "articles": [
+          {
+            "title": "여수서 30대 노동 자 잠수 작업 중 사망…중대재해법 조사",
+            "url": "https://www.newsis.com/view/NISX20260908_0003781602",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 08 Sep 2026 21:44:00 +0900"
+          },
+          {
+            "title": "\"산별 독립성 핑계로 내부 괴롭힘 방관\"… 민주노총 앞 고공농성 파장",
+            "url": "https://www.eroun.net/news/articleView.html?idxno=89570",
+            "outlet": "eroun.net",
+            "publishedAt": "Tue, 08 Sep 2026 21:20:00 +0900"
+          },
+          {
+            "title": "공공부문 2차 하도급 원칙적 금지…노무비 전용계좌 지급 의무화",
+            "url": "http://www.srtimes.kr/news/articleView.html?idxno=211919",
+            "outlet": "srtimes.kr",
+            "publishedAt": "Tue, 08 Sep 2026 22:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "기본소득 논의, 재원 마련 및 농업 예산과의 관계 주목",
+        "summary": "기본소득 도입 논의가 이어지는 가운데, 재원 마련 방안과 농업 예산 잠식 가능성이 주요 쟁점으로 떠오르고 있습니다.",
+        "articles": [
+          {
+            "title": "기본소득 최대 쟁점은 '재원'···\"농업예산 잠식 막아야\"",
+            "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=406464",
+            "outlet": "농축유통신문"
+          },
+          {
+            "title": "[매일시론] 정치인 용혜인",
+            "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1067643",
+            "outlet": "iusm.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 19:52:00 +0900"
+          },
+          {
+            "title": "정책서민금융 이용자 절반 이상 20와 30대",
+            "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=204451&mode=view",
+            "outlet": "phmbc.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 20:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "국회, 지역 균형 발전 및 국비 확보 노력 지속",
+        "summary": "국회에서는 지역별 국비 확보 노력과 함께, 지역 균형 발전을 위한 법안 논의가 진행되고 있으며, 특히 특정 지역의 현안 해결을 위한 정치권의 지원 요청이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "안도걸 의원, 동구남구을 국비 2066억원 확보",
+            "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664088",
+            "outlet": "kfenews.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 21:56:00 +0900"
+          },
+          {
+            "title": "경북도-국민의힘, 국비 확보·지역 현안 해결 ‘맞손’",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=621069",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 20:44:00 +0900"
+          },
+          {
+            "title": "\"9월 정기 국회가 마지막 기회\"",
+            "url": "https://www.tbc.co.kr/news/view?pno=20260908130613AE05240&id=210833",
+            "outlet": "tbc.co.kr",
+            "publishedAt": "Tue, 08 Sep 2026 21:16:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
