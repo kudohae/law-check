@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T13:07:04.549Z",
+  "title": "2026년 09월 09일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "교육 벼랑 끝으로",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"교육 벼랑 끝으로\"…교육감들, 정부 교부금 개편안에 강력 제동",
+            "url": "https://view.asiae.co.kr/article/2026090918200788148",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:01:00 +0900"
+          },
+          {
+            "title": "부채 전쟁에 포위된 중앙은행...\"금리 인상 문턱 높아졌다\"",
+            "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317576",
+            "outlet": "wolyo.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:04:00 +0900"
+          },
+          {
+            "title": "권석환 여수시의원 “26만 무너졌는데 인구사업 159개가 무슨 성과 냈나...",
+            "url": "https://www.geconomy.co.kr/news/article.html?no=323553",
+            "outlet": "geconomy.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "제주에너지공사",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "제주에너지공사, 거제·통영 수해 복구 지원…기후재난 대응 ESG 강화",
+            "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203059",
+            "outlet": "energydaily.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:14:00 +0900"
+          },
+          {
+            "title": "정부, 국내 탄소 크레딧 무결성 개선에 주력",
+            "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16663",
+            "outlet": "esgeconomy.com",
+            "publishedAt": "Wed, 09 Sep 2026 19:52:00 +0900"
+          },
+          {
+            "title": "길어진 여름, 짧아진 겨울..광주, 유독 극한기후 취약하다",
+            "url": "https://kjmbc.co.kr/NewsArticle/1536241",
+            "outlet": "kjmbc.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 20:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "남종섭 전국의장협의회장",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "남종섭 전국의장협의회장, 9일 ‘지방의회법 제정 촉구’ 국회 공동 기...",
+            "url": "https://www.suwonilbo.kr/news/articleView.html?idxno=318110",
+            "outlet": "suwonilbo.kr",
+            "publishedAt": "Wed, 09 Sep 2026 20:32:00 +0900"
+          },
+          {
+            "title": "국가 경쟁력 확보 총력, 국회 경제대도약위 출범",
+            "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=645082",
+            "outlet": "gnnews.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 19:56:00 +0900"
+          },
+          {
+            "title": "[비교섭단체 대표연설][전문] 신장식 \"검찰 개혁 후퇴 용납하면 민주당...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=742658",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 19:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "금리 오르면 주가 폭락?",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "금리 오르면 주가 폭락?…\"오히려 호재\" 증권가 목표가 '줄상향'",
+            "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609090817&t=NN",
+            "outlet": "wowtv.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 22:04:00 +0900"
+          },
+          {
+            "title": "[아주경제 오늘의 뉴스 종합] 이재명 대통령 \"내 임기 헌법상 명확히 제...",
+            "url": "https://www.ajunews.com/view/20260909214431647",
+            "outlet": "ajunews.com",
+            "publishedAt": "Wed, 09 Sep 2026 22:00:00 +0900"
+          },
+          {
+            "title": "이현재 '뜨거운 구애' 하남교육지원청 신설 가시화",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=05576006645578480&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "전북도",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"전북도·지자체, 노동 자와 원청 교섭 나서야\"",
+            "url": "https://jtv.co.kr/news/article.php?id=71047",
+            "outlet": "jtv.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:32:00 +0900"
+          },
+          {
+            "title": "공공과기연노조, 강릉과학산업진흥원장 파면 촉구",
+            "url": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=348513",
+            "outlet": "g1tv.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:16:00 +0900"
+          },
+          {
+            "title": "국가기밀 해제에 청와대 경호원 밝힌 한·소 정상회담 비화 “몸싸움 벌...",
+            "url": "https://www.newsen.com/news_view.php?uid=202609091903016110",
+            "outlet": "newsen.com",
+            "publishedAt": "Wed, 09 Sep 2026 21:13:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "與 김현 방송통신진흥원",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "與 김현 \"방송통신진흥원·보편적시청권 법안 , 더욱 꼼꼼히 챙길 것\"",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/09/2026090990222.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Wed, 09 Sep 2026 19:27:00 +0900"
+          },
+          {
+            "title": "“블록체인기본법 시급”…11일 민주당 토론회",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=05694086645578480&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 22:05:00 +0900"
+          },
+          {
+            "title": "영양군, 경북 최초 ‘기본 사회 조례’ 제정",
+            "url": "https://biz.heraldcorp.com/article/10868285?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Wed, 09 Sep 2026 21:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "9월 9일 뉴스투나잇",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이시각헤드라인] 9월 9일 뉴스투나잇",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260909214512FrR",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:46:00 +0900"
+          },
+          {
+            "title": "\"국가가 국민 버렸다\"…구조대 철수 소식에 네팔 실종자 가족 '울분'",
+            "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5218196",
+            "outlet": "mbn.mk.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:45:00 +0900"
+          },
+          {
+            "title": "[9월9일 부고종합] 조인철(더불어민주당 국회의원)씨 모친상 외",
+            "url": "https://www.dt.co.kr/article/12083128?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Wed, 09 Sep 2026 21:35:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
