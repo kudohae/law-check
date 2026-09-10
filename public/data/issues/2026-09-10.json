@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T13:04:57.230Z",
+  "title": "2026년 09월 10일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "李 정부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"李 정부, 외교 는 내로남불·안보는 안일\"",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559349",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:34:00 +0900"
+          },
+          {
+            "title": "주연창 특별시의원, \" 재난 안전 예산, 불용 반복 없도록 편성부터 촘촘해...",
+            "url": "http://www.netongs.com/news/articleView.html?idxno=335197",
+            "outlet": "netongs.com",
+            "publishedAt": "Thu, 10 Sep 2026 21:04:00 +0900"
+          },
+          {
+            "title": "[충북] 취업 고민부터 예산 참여까지...청년정책 '틀' 바꾼다",
+            "url": "https://www.ytn.co.kr/_ln/0115_202609102134037414",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "호르무즈 해협 파병 신중해야 언제하나?",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "호르무즈 해협 파병 “신중해야” “언제하나?”…대정부질문 둘째날",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660458&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:13:00 +0900"
+          },
+          {
+            "title": "[9월10일 인사종합] 기후에너지환경부 외",
+            "url": "https://www.dt.co.kr/article/12083382?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:13:00 +0900"
+          },
+          {
+            "title": "여당 의원들, 대정부질문서 잇단 ‘파병 신중론’",
+            "url": "https://www.khan.co.kr/article/202609102132005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "은평구",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[은평 소식] 은평구, '제14회 서울특별시 정원도시상' 최우수상 수상··...",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469107",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:26:00 +0900"
+          },
+          {
+            "title": "[데일리안 오늘뉴스 종합] 李대통령 공소청 직제안 수정 지시, 용혜인 의...",
+            "url": "https://www.dailian.co.kr/news/view/1689054/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:05:00 +0900"
+          },
+          {
+            "title": "한동훈 \"총리실이 야당 의원 사찰하나\"…한성숙 \"과한 말씀\"",
+            "url": "https://www.newsverse.kr/news/articleView.html?idxno=11415",
+            "outlet": "newsverse.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "북한군 군사분계선 넘어 지뢰밭 조성 징후",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "북한군 군사분계선 넘어 지뢰밭 조성 징후…軍 “지뢰 매설 가능성, 유...",
+            "url": "https://www.munhwa.com/article/11616152?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Thu, 10 Sep 2026 21:38:00 +0900"
+          },
+          {
+            "title": "' TK 홀대론'만으로 안 끝나…국회의원 책임론 부각",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=621549",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 20:24:00 +0900"
+          },
+          {
+            "title": "TK 홀대, 이제는 국회의원이 답해야 한다",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=621555",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 20:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "한동훈 총리가 낄 때냐",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "한동훈 \"총리가 낄 때냐\"…'야당 의원 사찰' 논란 확산",
+            "url": "https://www.hankyung.com/article/2026091076177",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 10 Sep 2026 22:03:00 +0900"
+          },
+          {
+            "title": "이언주, AI 산업 대전환에 전력수요 급증…서남권 반도체 클러스터 해법...",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3691599",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Thu, 10 Sep 2026 21:38:00 +0900"
+          },
+          {
+            "title": "“컨테이너에 차량까지 들렸다”…인천 남항서 70대 기사 끼임사고 사망",
+            "url": "https://www.kgnews.co.kr/news/article.html?no=911180",
+            "outlet": "kgnews.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "정부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정부, 호르무즈 파병 거듭 '신중' 답변…\"여러 시나리오 검토\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260910211529nRF",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:16:00 +0900"
+          },
+          {
+            "title": "출산율 반등했지만 ′분만 인프라′는 열악",
+            "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=288907",
+            "outlet": "busanmbc.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:08:00 +0900"
+          },
+          {
+            "title": "\"고인의 명복을 빈다\" 이재명 대통령 SNS에 방금 뜬 글, 눈길 확 쏠렸다",
+            "url": "https://www.wikitree.co.kr/articles/1158724",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 21:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "호르무즈에 군대 보내지 마라",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"호르무즈에 군대 보내지 마라\"…시민사회, 대이란 군사개입 '반대'",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=237816",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Thu, 10 Sep 2026 20:58:00 +0900"
+          },
+          {
+            "title": "조국혁신당 강원도당 \"강원 취약 노동자 지키는 '일하는 사람 기본법' 제...",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2071985",
+            "outlet": "kado.net",
+            "publishedAt": "Thu, 10 Sep 2026 20:12:00 +0900"
+          },
+          {
+            "title": "여야 의원 되고 무소속은 제한…의정 홍보 현수막 형평성 논란",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260911.22004003355",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Thu, 10 Sep 2026 19:41:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
