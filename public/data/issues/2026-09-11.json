@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T12:58:42.118Z",
+  "title": "2026년 09월 11일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "전북교육감-도의회 기싸움",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[데스크 진단] 전북교육감-도의회 기싸움…피해는 누구 몫?",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661464&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:46:00 +0900"
+          },
+          {
+            "title": "李대통령 \"국제질서 극심한 혼돈의 터널⋯힘 키우고 외교 지평 넓혀야\"",
+            "url": "https://www.goodkyung.com/news/articleView.html?idxno=291318",
+            "outlet": "goodkyung.com",
+            "publishedAt": "Fri, 11 Sep 2026 20:18:00 +0900"
+          },
+          {
+            "title": "10만ha 무너진 들녘···'식량 안보 ' 비상",
+            "url": "https://jtv.co.kr/news/article.php?id=71075",
+            "outlet": "jtv.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "인플루엔자 유행주의보 9월 11일 0시부터 발령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "인플루엔자 유행주의보 9월 11일 0시부터 발령…학령기·고위험군 확산...",
+            "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510977203",
+            "outlet": "medicalworldnews.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:10:00 +0900"
+          },
+          {
+            "title": "총리실 사찰 논란에 ‘불편한 한동훈’과 한 목소리 낸 국힘",
+            "url": "https://www.segye.com/newsView/20260911514220?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Fri, 11 Sep 2026 20:52:00 +0900"
+          },
+          {
+            "title": "SK 21건·포스코 16건·LG 15건… 대기업 화학안전 불감증 심각",
+            "url": "https://m.skyedaily.com/news_view.html?ID=311430",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Fri, 11 Sep 2026 20:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "삼성전자 노조 간부 송치에 뿔난 여론",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'삼성전자 노조 간부 송치'에 뿔난 여론…\"개인정보 침해 규명\" 국회 청...",
+            "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95237",
+            "outlet": "newsian.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:46:00 +0900"
+          },
+          {
+            "title": "[2보] 美 8월 근원 소비자물가 전월 대비 0.3%↑…예상치 웃돌아",
+            "url": "https://www.yna.co.kr/view/AKR20260911166551072?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:43:00 +0900"
+          },
+          {
+            "title": "김승원, 자녀 위장전입 이력...\"교육 목적, 송구\"",
+            "url": "https://www.ytn.co.kr/_ln/0103_202609112115041110",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "靑 호르무즈 파병 정보 유출 엄중히 점검",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "靑 \"호르무즈 파병 정보 유출 엄중히 점검…국익에 악영향\"",
+            "url": "http://www.inews24.com/view/2004849",
+            "outlet": "inews24.com",
+            "publishedAt": "Fri, 11 Sep 2026 21:11:00 +0900"
+          },
+          {
+            "title": "\"이종섭 대사 임명, 도피 단정 어려워\"…尹 무죄",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260911210910CJy",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:10:00 +0900"
+          },
+          {
+            "title": "김승원, 미성년 자녀 위장전입 의혹…“교육 목적…송구하다”",
+            "url": "https://biz.chosun.com/topics/law_firm/2026/09/11/FWGWGNTRIZFNPBBGQIJSTPNVJQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Fri, 11 Sep 2026 21:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "문자는 왔지만",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[당진에 묻다] 문자는 왔지만, 정보는 오지 않았다",
+            "url": "https://www.idjnews.kr/news/articleView.html?idxno=302693",
+            "outlet": "idjnews.kr",
+            "publishedAt": "Fri, 11 Sep 2026 21:00:00 +0900"
+          },
+          {
+            "title": "'이종섭 도피' 윤석열 1심 무죄…\"도피 목적 단정 못 해\"",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008749343&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 20:50:00 +0900"
+          },
+          {
+            "title": "전세 품귀 장기화..청년·신혼부부 주거 사다리 '흔들'",
+            "url": "https://kjmbc.co.kr/NewsArticle/1536605",
+            "outlet": "kjmbc.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 20:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "이 대통령 순방에도 30%대 지지율",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이 대통령 순방에도 30%대 지지율...기자회견 돌파구 될까",
+            "url": "https://www.ytn.co.kr/_ln/0101_202609112036300888",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 20:36:00 +0900"
+          },
+          {
+            "title": "김승원, 딸·아들 분당 학군지로 위장전입…“교육 목적 송구”",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000011269&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 20:29:00 +0900"
+          },
+          {
+            "title": "설탕에도 담배처럼 부담금 부과?…'국민 건강 vs 물가 인상' 찬반 팽팽",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5218698",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 20:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "비트코인 7만7000달러 위태",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[코인 시황] 비트코인 7만7000달러 위태…美 물가 쇼크에 금리인상 공포",
+            "url": "https://www.newspim.com/news/view/20260911001114",
+            "outlet": "newspim.com",
+            "publishedAt": "Fri, 11 Sep 2026 19:31:00 +0900"
+          },
+          {
+            "title": "“고통·감정 너머 ‘감응력’도 동물 개념에”…“생소한 단어, 법안 ...",
+            "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1277439.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 18:48:00 +0900"
+          },
+          {
+            "title": "\"하수도에 담배꽁초 등 쓰레기 버리면 50만원 과태료\"…강명구 의원, 법...",
+            "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292596",
+            "outlet": "jeonmae.co.kr",
+            "publishedAt": "Fri, 11 Sep 2026 18:14:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
