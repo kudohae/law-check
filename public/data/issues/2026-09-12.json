@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T12:19:32.498Z",
+  "title": "2026년 09월 12일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "국민의힘",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국민의힘, 이재명 정부의 안보 정책 비판... '국방 포기' 논란 확대",
+            "url": "https://www.gokorea.kr/news/articleView.html?idxno=878146",
+            "outlet": "gokorea.kr",
+            "publishedAt": "Sat, 12 Sep 2026 20:58:00 +0900"
+          },
+          {
+            "title": "\"우리 청년을 전쟁터로 내몰지 말라\"…대전 시민사회, 호르무즈 '파병 ...",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=237960",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sat, 12 Sep 2026 20:24:00 +0900"
+          },
+          {
+            "title": "\"모든 노동 자에 근로기준법 적용하라\"",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266773&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Sat, 12 Sep 2026 19:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "이란 대통령 美 겨냥 중동에 지역 경찰관 필요 없어",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이란 대통령 美 겨냥 “중동에 지역 경찰관 필요 없어”",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260912010004603",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 19:46:00 +0900"
+          },
+          {
+            "title": "한미일 훈련 끝나자 北 탄도미사일 도발…靑 \" 안보 리 결의 위반\"",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/12/2026091290110.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sat, 12 Sep 2026 19:30:00 +0900"
+          },
+          {
+            "title": "한미일 훈련 끝나자 北 또 탄도미사일…靑 \" 안보 리 결의 위반\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202609121921564E4",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 19:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "靑 대법관 후보",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "靑 “대법관 후보, 신속히 재제청 해주길” vs 曺 “법원, 부당 간섭·영...",
+            "url": "https://www.segye.com/newsView/20260912505060?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sat, 12 Sep 2026 18:02:00 +0900"
+          },
+          {
+            "title": "김승원 법무부장관 후보자 자녀 2명 위장전입…\"교육 목적, 송구\"",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5218804",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 19:51:00 +0900"
+          },
+          {
+            "title": "한동훈 돕지 않는 국힘도 비판한 조선일보 \"못난 야당\"",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337056",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 19:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "일 사도광산 추도식 조선인 강제 노동 또 빠져",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "일 사도광산 추도식 ‘조선인 강제 노동 ’ 또 빠져",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661838&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 19:06:00 +0900"
+          },
+          {
+            "title": "김승원, '자녀 위장전입' 논란…\"교육 목적, 송구\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260912185340U3N",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 18:54:00 +0900"
+          },
+          {
+            "title": "재정난에 폭염·고금리까지…프랑스 성장률 0.5%로 또 하향",
+            "url": "https://www.g-enews.com/view.php?ud=202609121758483200ea13369bfa_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sat, 12 Sep 2026 18:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "이재명대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[스틸컷] 이재명대통령, 티빙(TVING) \"엄정처벌\" 지시 [전문]",
+            "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6725",
+            "outlet": "dailybrief.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 17:52:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"개혁 한 순간도 포기한 적 없어…과잉·과속 경계\"",
+            "url": "https://news.cpbc.co.kr/article/1175694?division=NAVER",
+            "outlet": "news.cpbc.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 20:50:00 +0900"
+          },
+          {
+            "title": "청문회 공방...\"볼수록 잘된 인사\" vs \"상식에 반해\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202609121647490507",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 16:47:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "호르무즈",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "호르무즈·홍해 동시 위기..이재명 \"국내 유가 계속 안정될 것\"",
+            "url": "http://www.4th.kr/news/articleView.html?idxno=2117930",
+            "outlet": "4th.kr",
+            "publishedAt": "Sat, 12 Sep 2026 20:26:00 +0900"
+          },
+          {
+            "title": "[현장 36.5] ] \"안방도 내준다\"‥대학생과 어르신 '홈쉐어링'",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851406_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Sat, 12 Sep 2026 20:22:00 +0900"
+          },
+          {
+            "title": "이재명 \"유가 걱정 마세요\"... 중동 의존 70→50% 낮췄다",
+            "url": "https://www.insight.co.kr/news/573184",
+            "outlet": "insight.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 20:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "李대통령 개혁 포기한 적 없다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李대통령 \"개혁 포기한 적 없다, 과격한 선명성 선동 경계해야\"",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202609120030",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Sat, 12 Sep 2026 20:18:00 +0900"
+          },
+          {
+            "title": "이 대통령, 국제유가 급등에 \"중동 의존도 50%대로 낮춰\"",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851397_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Sat, 12 Sep 2026 20:06:00 +0900"
+          },
+          {
+            "title": "미국 중간선거 50여 일 앞으로…트럼프 지지율 바닥, 민주당 '+11%p' 파고",
+            "url": "https://www.ilemonde.com/news/articleView.html?idxno=30614",
+            "outlet": "ilemonde.com",
+            "publishedAt": "Sat, 12 Sep 2026 19:56:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
