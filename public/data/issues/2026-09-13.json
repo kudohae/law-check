@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T13:25:56.918Z",
+  "title": "2026년 09월 13일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "성수석 시장 안심도시 구상",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이천 민선 9기 공약 대해부④] 성수석 시장 '안심도시' 구상…생활안전...",
+            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=715623",
+            "outlet": "newstown.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 21:13:00 +0900"
+          },
+          {
+            "title": "민주노총 ‘서울 노동 청→청와대’ 행진…이주 노동 자 차별 철폐 방안 마...",
+            "url": "https://www.munhwa.com/article/11616629?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sun, 13 Sep 2026 22:08:00 +0900"
+          },
+          {
+            "title": "민주당, 충북서 예산정책협의회…\"충북 미래 산업 예산 챙길 것\"",
+            "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2440350",
+            "outlet": "ccdailynews.com",
+            "publishedAt": "Sun, 13 Sep 2026 22:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "취임 100일 조정식 개헌 논의 본궤도 올릴 것",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'취임 100일' 조정식 \"개헌 논의 본궤도 올릴 것\"",
+            "url": "http://www.newstomato.com/ReadNews.aspx?no=1313532&inflow=N",
+            "outlet": "newstomato.com",
+            "publishedAt": "Sun, 13 Sep 2026 19:36:00 +0900"
+          },
+          {
+            "title": "안민석 교육감, 與野 당대표 연쇄 회동…경기교육 현안 국회 협조 요청",
+            "url": "https://www.cstimes.com/news/articleView.html?idxno=720408",
+            "outlet": "cstimes.com",
+            "publishedAt": "Sun, 13 Sep 2026 21:14:00 +0900"
+          },
+          {
+            "title": "독립유공자 후손 보금자리 고친다…기부 마라톤·정부 지원",
+            "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34701",
+            "outlet": "rightknow.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 20:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "이준원 전 차관",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이준원 전 차관, 30년 공직 경험 담은 칼럼집…국가 이슈에 답하다",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3693696",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sun, 13 Sep 2026 20:04:00 +0900"
+          },
+          {
+            "title": "용혜인 사퇴로 한시름 던 이 대통령…'김승원·파병' 고심",
+            "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=645303",
+            "outlet": "gnnews.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 19:54:00 +0900"
+          },
+          {
+            "title": "[경인일보 뉴스 후] 법원 직권 ‘개인정보 보호’ 조치… ‘광주 능평동...",
+            "url": "https://www.kyeongin.com/article/1770746",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Sun, 13 Sep 2026 19:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "86주 연속 집값 상승 경고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[박근종 칼럼] 86주 연속 집값 상승 경고, '말뿐인 공급'이 부른 주거 포...",
+            "url": "https://www.mhns.co.kr/news/articleView.html?idxno=760150",
+            "outlet": "mhns.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 22:06:00 +0900"
+          },
+          {
+            "title": "\"기후위기, 남의 일이 아니다\"…대구 도심서 시민 200명 자전거로 탄소...",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=822624",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Sun, 13 Sep 2026 22:06:00 +0900"
+          },
+          {
+            "title": "당정 \"사법통제부, '불송치사건심사부'로\"…金, 檢개혁 질타",
+            "url": "https://www.m-i.kr/news/articleView.html?idxno=1413249",
+            "outlet": "m-i.kr",
+            "publishedAt": "Sun, 13 Sep 2026 21:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "당정 사법통제부 명칭",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "당정 \"'사법통제부' 명칭, '불송치 사건 심사부'로 변경…경찰개혁 더 ...",
+            "url": "https://www.newsis.com/view/NISX20260913_0003787512",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 13 Sep 2026 21:29:00 +0900"
+          },
+          {
+            "title": "당정 \"사법통제부 '불송치사건심사부' 검토… 경찰개혁 더 강력하게\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3432293",
+            "outlet": "newscj.com",
+            "publishedAt": "Sun, 13 Sep 2026 21:00:00 +0900"
+          },
+          {
+            "title": "서울 아파트값 86주 연속 상승, 역대 최장 기록",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000064959",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sun, 13 Sep 2026 21:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "특별 재난 지역 거제통영 보상 부족",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“특별 재난 지역 거제통영 보상 부족, 일상회복 더디다”",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1550736",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 20:54:00 +0900"
+          },
+          {
+            "title": "당정 \"중수청 차질없는 출범 만전...검찰개혁 완성\"",
+            "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=452286",
+            "outlet": "goodmorningcc.com",
+            "publishedAt": "Sun, 13 Sep 2026 20:44:00 +0900"
+          },
+          {
+            "title": "당정, 공소청 '사법통제부' 명칭 바꾼다… 수사기획관 폐지도 검토",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202609130029",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 20:41:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "밀수 158건에 1",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "밀수 158건에 1,524마리 방치… 야생동물 불법 유통·유기 관리 ‘구멍’",
+            "url": "https://www.wikitree.co.kr/articles/1159222",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 20:38:00 +0900"
+          },
+          {
+            "title": "당정, 공소청 직제 손질…'사법통제부' 명칭도 바꾼다 (종합)",
+            "url": "https://www.g-enews.com/view.php?ud=202609132004353661cd0bfacc1c_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sun, 13 Sep 2026 20:08:00 +0900"
+          },
+          {
+            "title": "당정 \"사법통제부, '불송치사건심사부'로\"…金, 檢개혁 질타(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260913051851001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sun, 13 Sep 2026 19:47:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
