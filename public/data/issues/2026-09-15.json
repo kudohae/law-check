@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-14T15:13:04.588Z",
+  "title": "2026년 09월 15일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "4억 빌라와 지식산업센터",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[노트북을 열며] 4억 빌라와 지식산업센터",
+            "url": "https://www.joongang.co.kr/article/25461812",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:08:00 +0900"
+          },
+          {
+            "title": "울주 불법성토, 정부 차원 종합대책 마련 촉구",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067279",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[자정 뉴스브리핑] ETHB 출시에도 ETHA 우위 外",
+            "url": "https://www.tokenpost.kr/news/briefing/407754",
+            "outlet": "tokenpost.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "우상호 미래대응기금 지방 불이익 없어야⋯강원도",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "우상호 “미래대응기금 지방 불이익 없어야\"⋯강원도, 교부세 4천억 잃...",
+            "url": "https://www.kwnews.co.kr/article/20260914501092",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:04:00 +0900"
+          },
+          {
+            "title": "조국혁신당 충남도당, 충남도에 실질적 민생대책 마련 촉구",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=718296",
+            "outlet": "newstnt.com",
+            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+          },
+          {
+            "title": "\"우주 쓰레기 충돌 위험 잡는다\"…정부 우주위험 대비 '10년→5년' 단축",
+            "url": "https://www.newsis.com/view/NISX20260914_0003788701",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "李",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 李, 법치·시장경제 원칙 아래 국정 난맥상 해소를",
+            "url": "https://www.sedaily.com/article/20090837?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 15 Sep 2026 00:03:00 +0900"
+          },
+          {
+            "title": "사회 적 약자 대상 '7대범죄' 보완수사 골자, 중수청법 개정안 與 주도로...",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067246",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설]극한기후 시대, 산업도시 울산은 안전한가",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067255",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "홍해로 번진 중동 위기",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 홍해로 번진 중동 위기… “유가 걱정 말라”는 대통령",
+            "url": "https://www.hankookilbo.com/news/article/A2026091415020002001?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 15 Sep 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[김병철 시선②] 안양시의회 보도자료 312건…작성부서·결재기록은 빠...",
+            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=715823",
+            "outlet": "newstown.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[확대경]삶의 고통으로부터 함께 여는 희망",
+            "url": "https://www.kwnews.co.kr/article/20260901500859",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "서울 버스 파업 D-1",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "서울 버스 파업 D-1…오늘 노사 막판 협상 나서",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663307&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[김대호 진단] AI 속도조절론",
+            "url": "https://www.g-enews.com/view.php?ud=20260914055415562906806b77b_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설] 끝날 줄 모르는 중동전…해외 자원 개발 더 속도 내야",
+            "url": "https://www.sedaily.com/article/20090835?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 15 Sep 2026 00:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "26살 딸이 죽었는데 7년이라고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“26살 딸이 죽었는데 7년이라고”…‘마포 데이트폭력’ 유족 눈물 [오...",
+            "url": "https://www.sedaily.com/article/20090878?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "삭감 예산 부활…울산시-시의회 대치 수면 아래로",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067254",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "\"2차 공공기관 이전, 울산을 국가 에너지 거점으로\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067252",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "금투세는 폐지했는데",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "금투세는 폐지했는데… 내년 1월 시행 ‘코인과세’ 여전한 논란",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000011988&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:09:00 +0900"
+          },
+          {
+            "title": "[사설] 증인 없는 '맹탕 인사 청문회', 뉴노멀인가",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260914010005265",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[잡채기 칼럼] 조롱당하는 대통령",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075321",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
