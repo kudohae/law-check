@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-09-15",
-  "generatedAt": "2026-09-14T15:13:04.588Z",
+  "generatedAt": "2026-09-15T13:49:03.781Z",
   "title": "2026년 09월 15일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -23,176 +23,176 @@
     "children": [
       {
         "id": "fallback1",
-        "label": "4억 빌라와 지식산업센터",
+        "label": "네팔 재난 남 일 아니다..백석대 재난모금",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "[노트북을 열며] 4억 빌라와 지식산업센터",
-            "url": "https://www.joongang.co.kr/article/25461812",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:08:00 +0900"
+            "title": "\"네팔 재난 남 일 아니다\"..백석대 재난모금·정규과목 편성",
+            "url": "https://www.tjb.co.kr/news05/bodo/view/id/103656",
+            "outlet": "tjb.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:04:00 +0900"
           },
           {
-            "title": "울주 불법성토, 정부 차원 종합대책 마련 촉구",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067279",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "이 대통령, 18일 기자회견…공소취소·연임 메시지 ‘수위’ 주목",
+            "url": "https://www.khan.co.kr/article/202609152110005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 21:10:00 +0900"
           },
           {
-            "title": "[자정 뉴스브리핑] ETHB 출시에도 ETHA 우위 外",
-            "url": "https://www.tokenpost.kr/news/briefing/407754",
-            "outlet": "tokenpost.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:04:00 +0900"
+            "title": "교육감 1호 사업 '흔들'‥예산 대폭 삭감",
+            "url": "https://www.usmbc.co.kr/NewsArticle/862562",
+            "outlet": "usmbc.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:32:00 +0900"
           }
         ]
       },
       {
         "id": "fallback2",
-        "label": "우상호 미래대응기금 지방 불이익 없어야⋯강원도",
+        "label": "정쟁 속 입법 협치",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "우상호 “미래대응기금 지방 불이익 없어야\"⋯강원도, 교부세 4천억 잃...",
-            "url": "https://www.kwnews.co.kr/article/20260914501092",
-            "outlet": "kwnews.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:04:00 +0900"
+            "title": "정쟁 속 입법 협치…민생법안 처리 '물꼬'",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559719",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 21:14:00 +0900"
           },
           {
-            "title": "조국혁신당 충남도당, 충남도에 실질적 민생대책 마련 촉구",
-            "url": "https://www.newstnt.com/news/articleView.html?idxno=718296",
-            "outlet": "newstnt.com",
-            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+            "title": "‘메가특구 주 52시간 예외’ 논란에…정부, 사회적 대화 추진",
+            "url": "https://www.khan.co.kr/article/202609152118005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 21:18:00 +0900"
           },
           {
-            "title": "\"우주 쓰레기 충돌 위험 잡는다\"…정부 우주위험 대비 '10년→5년' 단축",
-            "url": "https://www.newsis.com/view/NISX20260914_0003788701",
-            "outlet": "newsis.com",
-            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+            "title": "여야, 32개 민생 법안 정기국회 처리 합의",
+            "url": "http://www.kjdaily.com/article.php?aid=1789470572686963002",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Tue, 15 Sep 2026 20:12:00 +0900"
           }
         ]
       },
       {
         "id": "fallback3",
-        "label": "李",
+        "label": "홍지선 국토부 장관 후보자",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "[사설] 李, 법치·시장경제 원칙 아래 국정 난맥상 해소를",
-            "url": "https://www.sedaily.com/article/20090837?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 15 Sep 2026 00:03:00 +0900"
+            "title": "홍지선 국토부 장관 후보자, 영국 출장 보고서에 \"날씨가 아쉬움\"",
+            "url": "https://www.wikitree.co.kr/articles/1159759",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:10:00 +0900"
           },
           {
-            "title": "사회 적 약자 대상 '7대범죄' 보완수사 골자, 중수청법 개정안 與 주도로...",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067246",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "이 대통령, 18일 기자회견…\"주요 현안에 분명한 입장 설명\"",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754742&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:09:00 +0900"
           },
           {
-            "title": "[사설]극한기후 시대, 산업도시 울산은 안전한가",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067255",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "33.8%까지 밀린 이 대통령… 18일 90분 회견서 공소취소·연임개헌 답할...",
+            "url": "https://www.jibs.co.kr/news/articles/articlesDetail/65554?feed=na",
+            "outlet": "jibs.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 21:45:00 +0900"
           }
         ]
       },
       {
         "id": "fallback4",
-        "label": "홍해로 번진 중동 위기",
+        "label": "추미애 지사",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "[사설] 홍해로 번진 중동 위기… “유가 걱정 말라”는 대통령",
-            "url": "https://www.hankookilbo.com/news/article/A2026091415020002001?did=NA",
-            "outlet": "hankookilbo.com",
-            "publishedAt": "Tue, 15 Sep 2026 00:10:00 +0900"
+            "title": "추미애 지사, 'AI+공인중개사' 부동산 안전망 구축...전세 위험 사전 진...",
+            "url": "https://www.news2day.co.kr/article/20260915500302",
+            "outlet": "news2day.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 21:30:00 +0900"
           },
           {
-            "title": "[김병철 시선②] 안양시의회 보도자료 312건…작성부서·결재기록은 빠...",
-            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=715823",
-            "outlet": "newstown.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:04:00 +0900"
+            "title": "온라인 플랫폼법, 이번 정기국회서 처리될까…\"국회가 답할 때\"",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=238301",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Tue, 15 Sep 2026 21:08:00 +0900"
           },
           {
-            "title": "[확대경]삶의 고통으로부터 함께 여는 희망",
-            "url": "https://www.kwnews.co.kr/article/20260901500859",
-            "outlet": "kwnews.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "\"美조지아주서 구금됐던 한국인 300여명, 트럼프 정부 법적 대응\"",
+            "url": "https://www.newsis.com/view/NISX20260915_0003790984",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 15 Sep 2026 22:46:00 +0900"
           }
         ]
       },
       {
         "id": "fallback5",
-        "label": "서울 버스 파업 D-1",
+        "label": "이재명 대통령",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "서울 버스 파업 D-1…오늘 노사 막판 협상 나서",
-            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663307&ref=A",
-            "outlet": "news.kbs.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:01:00 +0900"
-          },
-          {
-            "title": "[김대호 진단] AI 속도조절론",
-            "url": "https://www.g-enews.com/view.php?ud=20260914055415562906806b77b_1",
+            "title": "이재명 대통령, 18일 기자회견…\"주요 현안 직접 설명\"",
+            "url": "https://www.g-enews.com/view.php?ud=202609152149502566112616b072_1",
             "outlet": "g-enews.com",
-            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+            "publishedAt": "Tue, 15 Sep 2026 21:52:00 +0900"
           },
           {
-            "title": "[사설] 끝날 줄 모르는 중동전…해외 자원 개발 더 속도 내야",
-            "url": "https://www.sedaily.com/article/20090835?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 15 Sep 2026 00:08:00 +0900"
+            "title": "청문회 직후 李 직접 등판…추석 밥상 선점 나서나",
+            "url": "https://www.suwonilbo.kr/news/articleView.html?idxno=318251",
+            "outlet": "suwonilbo.kr",
+            "publishedAt": "Tue, 15 Sep 2026 21:34:00 +0900"
+          },
+          {
+            "title": "김승원, 조작기소 특검 '공소취소권' 반대…\"인위적 처리 불필요\"",
+            "url": "http://www.newstomato.com/ReadNews.aspx?no=1313826&inflow=N",
+            "outlet": "newstomato.com",
+            "publishedAt": "Tue, 15 Sep 2026 21:08:00 +0900"
           }
         ]
       },
       {
         "id": "fallback6",
-        "label": "26살 딸이 죽었는데 7년이라고",
+        "label": "조지아 구금 한국인 300명",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "“26살 딸이 죽었는데 7년이라고”…‘마포 데이트폭력’ 유족 눈물 [오...",
-            "url": "https://www.sedaily.com/article/20090878?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "‘조지아 구금’ 한국인 300명, 트럼프 정부 상대 소송 시작···사태 1...",
+            "url": "https://www.khan.co.kr/article/202609152204001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:04:00 +0900"
           },
           {
-            "title": "삭감 예산 부활…울산시-시의회 대치 수면 아래로",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067254",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "검찰청 폐지 후속 법안 다수 상임위서 與 주도 통과… 野 반발 퇴장",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3432999",
+            "outlet": "newscj.com",
+            "publishedAt": "Tue, 15 Sep 2026 21:00:00 +0900"
           },
           {
-            "title": "\"2차 공공기관 이전, 울산을 국가 에너지 거점으로\"",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067252",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "서울 시내버스, 노사 협상 결렬…16일 오전 4시부터 파업",
+            "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062654",
+            "outlet": "shinailbo.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:38:00 +0900"
           }
         ]
       },
       {
         "id": "fallback7",
-        "label": "금투세는 폐지했는데",
+        "label": "이 대통령",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "금투세는 폐지했는데… 내년 1월 시행 ‘코인과세’ 여전한 논란",
-            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000011988&cp=nv",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:09:00 +0900"
+            "title": "이 대통령, 오는 18일 기자회견...\"현안 분명한 입장 밝힐 것\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202609152236112497",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:36:00 +0900"
           },
           {
-            "title": "[사설] 증인 없는 '맹탕 인사 청문회', 뉴노멀인가",
-            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260914010005265",
-            "outlet": "asiatoday.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:02:00 +0900"
+            "title": "국회까지 갔다… '중국인 무비자 입국 금지' 청원 6만 명 돌파",
+            "url": "https://www.wikitree.co.kr/articles/1159757",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:34:00 +0900"
           },
           {
-            "title": "[잡채기 칼럼] 조롱당하는 대통령",
-            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075321",
-            "outlet": "newsclaim.co.kr",
-            "publishedAt": "Tue, 15 Sep 2026 00:00:00 +0900"
+            "title": "이 대통령, \"피해자가 숨는 게 아니라 가해자 멈춰 세워야\"",
+            "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=106240",
+            "outlet": "womentimes.co.kr",
+            "publishedAt": "Tue, 15 Sep 2026 22:34:00 +0900"
           }
         ]
       }
