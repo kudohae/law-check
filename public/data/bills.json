@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T15:29:51.108Z",
-  "sourceNote": "공개 데이터에서 수집한 데이터입니다. 국회 API 5페이지, 국민참여입법센터 5페이지 범위로 갱신했습니다.",
+  "generatedAt": "2026-09-15T14:07:04.541Z",
+  "sourceNote": "공개 API 수집에 실패해 기존 데이터를 유지했습니다.",
   "bills": [
     {
       "id": "government-progress-2000000330458",
@@ -50,7 +50,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330410/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -62,7 +62,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "이 법률안은 전자장치 부착 등에 관한 법률 시행규칙의 일부를 개정하려는 것입니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:02:34.009Z"
     },
     {
       "id": "government-progress-2000000330058",
@@ -80,7 +82,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330058/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 제정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -92,7 +94,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "이 대통령령은 검사와 특별사법경찰관 간의 상호협력에 관한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:02:57.041Z"
     },
     {
       "id": "government-progress-2000000330910",
@@ -110,7 +114,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330910/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 폐지",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -122,7 +126,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "본 법률안은 전문수사자문위원 운영규칙을 폐지하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:03:36.899Z"
     },
     {
       "id": "government-progress-2000000330884",
@@ -140,7 +146,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330884/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -152,7 +158,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "영장심의위원회 규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:03:59.861Z"
     },
     {
       "id": "government-progress-2000000326602",
@@ -298,7 +306,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328958/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -310,7 +318,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "이 법령은 공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률에서 위임된 사항과 그 시행에 필요한 사항을 규정한다. 구체적으로는 부정청구의 범위, 부정이익의 산정 및 환수 절차, 관련 기관의 협조 의무 등을 정하고 있다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:04:23.184Z"
     },
     {
       "id": "government-progress-2000000328992",
@@ -328,7 +338,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328992/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -340,7 +350,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "이 법령은 공익신고자 보호법 시행령을 일부 개정하는 내용을 담고 있습니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:04:46.134Z"
     },
     {
       "id": "government-progress-2000000328990",
@@ -358,7 +370,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000328990/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 대통령령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -370,7 +382,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령 일부를 개정하려는 내용입니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:05:09.211Z"
     },
     {
       "id": "government-progress-2000000330334",
@@ -388,7 +402,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330334/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 총리령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -400,7 +414,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "인사혁신처와 그 소속기관 직제 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:05:32.549Z"
     },
     {
       "id": "government-progress-2000000324324",
@@ -418,7 +434,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000324324/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -430,7 +446,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "국가채권 관리법 시행규칙 일부개정안은 국가채권의 관리 및 운용에 관한 사항을 규정한다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:05:55.588Z"
     },
     {
       "id": "government-progress-2000000327224",
@@ -448,7 +466,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000327224/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -460,7 +478,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "시체 해부 및 보존 등에 관한 법률 시행규칙 일부를 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:06:18.609Z"
     },
     {
       "id": "government-progress-2000000330916",
@@ -478,7 +498,7 @@
       "summarySourceUrl": "https://opinion.lawmaking.go.kr/lmSts/govLm/2000000330916/detailRP",
       "summarySourceLabel": "정부입법현황 주요내용",
       "rawSummary": "법령종류: 부령 / 제·개정구분: 일부개정",
-      "aiSummaryStatus": "none",
+      "aiSummaryStatus": "done",
       "needsReview": true,
       "events": [
         {
@@ -490,7 +510,9 @@
         }
       ],
       "createdAt": "2026-09-14T15:29:34.820Z",
-      "updatedAt": "2026-09-14T15:29:34.820Z"
+      "updatedAt": "2026-09-14T15:29:34.820Z",
+      "aiSummary": "마약류 범죄로 인한 피해를 입은 사람에게 지급되는 보상금에 관한 규칙을 일부 개정하려는 법률안입니다.",
+      "aiSummaryUpdatedAt": "2026-09-15T14:06:41.711Z"
     },
     {
       "id": "government-progress-2000000330918",
