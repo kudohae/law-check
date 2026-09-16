@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T13:41:14.790Z",
+  "title": "2026년 09월 16일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "교육교부금 개편 재검토 안정적 교육재정 확보해야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"교육교부금 개편 재검토 안정적 교육재정 확보해야\"",
+            "url": "https://www.ulsanpress.net/news/articleView.html?idxno=583273",
+            "outlet": "ulsanpress.net",
+            "publishedAt": "Wed, 16 Sep 2026 21:43:00 +0900"
+          },
+          {
+            "title": "광주·전남 외국인 노동자 사망 5년간 19명..안전 대책 시급",
+            "url": "https://ysmbc.co.kr/NewsArticle/1537335",
+            "outlet": "ysmbc.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 21:12:00 +0900"
+          },
+          {
+            "title": "성폭력처벌법 두고 여당끼리 '공방'…법사위 법안 소위 '파행'",
+            "url": "http://www.newstomato.com/ReadNews.aspx?no=1313991&inflow=N",
+            "outlet": "newstomato.com",
+            "publishedAt": "Wed, 16 Sep 2026 21:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "朴 통일대박",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "朴 '통일대박'·YS '금융실명제'처럼…李 기자회견 공소취소·연임개헌...",
+            "url": "https://www.imaeil.com/page/view/2026091610212123777",
+            "outlet": "imaeil.com",
+            "publishedAt": "Wed, 16 Sep 2026 22:00:00 +0900"
+          },
+          {
+            "title": "“육아휴직 썼다고 권고사직·불이익”… 관련 진정 5년 새 218% 급증",
+            "url": "https://www.wikitree.co.kr/articles/1160050",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 21:34:00 +0900"
+          },
+          {
+            "title": "강신철 국방장관 후보 청문회 \"李 정부 출범 후 청문회 45건 중 38건 증인...",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=559926",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 21:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "종로구 추석 앞두고 주정차 단속 유예",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "종로구 추석 앞두고 주정차 단속 유예, 학교 시설 임시주차장 개방 나서",
+            "url": "https://www.cnbizm.com/news/articleView.html?idxno=315426",
+            "outlet": "cnbizm.com",
+            "publishedAt": "Wed, 16 Sep 2026 21:18:00 +0900"
+          },
+          {
+            "title": "\"7조 늘었다더니 실질 순증은 2259억 뿐\"…전국 교육감들, 교부금 개편안...",
+            "url": "https://view.asiae.co.kr/article/2026091619265081158",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 20:47:00 +0900"
+          },
+          {
+            "title": "검사도 징계로 '파면' 가능…검찰개혁 후속 법안 42건 법사위 통과",
+            "url": "https://www.imaeil.com/page/view/2026091620265810753",
+            "outlet": "imaeil.com",
+            "publishedAt": "Wed, 16 Sep 2026 20:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "검찰청 폐지 후속법 법사위 통과",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'검찰청 폐지 후속법' 법사위 통과...與 강경파 대 온건파 충돌도",
+            "url": "https://www.hankookilbo.com/news/article/A2026091618030002668?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Wed, 16 Sep 2026 21:57:00 +0900"
+          },
+          {
+            "title": "파티 비롤 IEA 사무총장 “앞으로 펼쳐질 ‘전기 시대’, 韓에 황금 같은...",
+            "url": "https://www.segye.com/newsView/20260916516411?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Wed, 16 Sep 2026 21:32:00 +0900"
+          },
+          {
+            "title": "충북도, '민선 9기 정책자문위원회' 출범···10개 분야 전문가 141명 위...",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471461",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 21:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "北 해외 노동자 10만 명",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"北 해외 노동자 10만 명, 1조 거둬…러시아에선 드론 생산\"",
+            "url": "https://news.tf.co.kr/read/ptoday/2366850.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 21:27:00 +0900"
+          },
+          {
+            "title": "[국회 문턱 못 넘는 경남 핵심 법안 ] (상) 우주항공복합도시 특별법",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1551053",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 20:56:00 +0900"
+          },
+          {
+            "title": "'검찰청 폐지 후속법' 與 주도 법사위 통과…17일 본회의 처리",
+            "url": "https://www.hankyung.com/article/2026091695817",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 16 Sep 2026 20:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "북",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "북, 한미 대량살상무기 회의에 '경고'…\"핵무력법 발동하는 안보 도전\"",
+            "url": "https://www.mt.co.kr/politics/2026/09/16/2026091622005282538",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Wed, 16 Sep 2026 22:27:00 +0900"
+          },
+          {
+            "title": "기초연구 10%도 막아선 기획예산처…\"노력 의무마저 거부\"",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2301793",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Wed, 16 Sep 2026 22:20:00 +0900"
+          },
+          {
+            "title": "교육 부 \"'수시 먹통' 388건 구제대상…188건 추가 검토 중\"",
+            "url": "https://www.m-i.kr/news/articleView.html?idxno=1415044",
+            "outlet": "m-i.kr",
+            "publishedAt": "Wed, 16 Sep 2026 22:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "징계받고도 태양광 사업 계속",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "징계받고도 태양광 사업 계속…한전 '원스트라이크 아웃' 사후관리 구멍",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=350269",
+            "outlet": "greened.kr",
+            "publishedAt": "Wed, 16 Sep 2026 22:17:00 +0900"
+          },
+          {
+            "title": "민주당 전은수 의원 \"윤석열정부 대왕고래, 대국민 기만 프로젝트\"",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2301791",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Wed, 16 Sep 2026 21:58:00 +0900"
+          },
+          {
+            "title": "[단독] 해군 생명줄에 '짝퉁' 심었다…기술 빼돌린 방산업체 기소",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=387490",
+            "outlet": "sisajournal.com",
+            "publishedAt": "Wed, 16 Sep 2026 21:46:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
