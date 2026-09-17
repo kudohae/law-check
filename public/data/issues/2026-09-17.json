@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T13:43:56.858Z",
+  "title": "2026년 09월 17일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 17일, 한국 사회의 주요 이슈들을 공공 영향도, 진행성, 출처 교차 확인 가능성, 시의성, 구조화 가능성을 기준으로 선정했습니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "민주노총, 메가특구법 노동 특례 논의 위한 사회적 대화 참여 결정",
+        "summary": "민주노총이 정부가 추진하는 '메가특구 특별법'의 노동 특례 조항에 대한 사회적 대화에 참여하기로 결정했습니다. 이는 6년 만의 사회적 대화 복귀이며, 노동권 후퇴를 저지하겠다는 입장을 분명히 했습니다.",
+        "articles": [
+          {
+            "title": "민주노총, 메가특구 사회적 대화 참여… \"노동권 후퇴 저지해야\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3433661",
+            "outlet": "newscj.com",
+            "publishedAt": "Thu, 17 Sep 2026 22:30:00 +0900"
+          },
+          {
+            "title": "민주노총, 메가특구 사회적 대화 참여…\"주 52시간 예외 막겠다\"",
+            "url": "https://www.mt.co.kr/society/2026/09/17/2026091722073248662",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Thu, 17 Sep 2026 22:17:00 +0900"
+          },
+          {
+            "title": "민주노총, ‘메가특구법 원포인트 사회적 대화’ 참여 결정",
+            "url": "https://vop.co.kr/A00001696759.html",
+            "outlet": "vop.co.kr",
+            "publishedAt": "Thu, 17 Sep 2026 21:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "검찰개혁 후속 법안 51건 국회 통과, 여야 공방 지속",
+        "summary": "검찰청 폐지와 중대범죄수사청·공소청 출범을 앞두고 검찰개혁 후속 법안 51건이 더불어민주당 주도로 국회 본회의를 통과했습니다. 국민의힘은 '졸속 처리'라며 강하게 반발하고 있습니다.",
+        "articles": [
+          {
+            "title": "검찰청 폐지 보름 앞두고…檢개혁 후속법 51건 무더기 처리",
+            "url": "https://www.sedaily.com/article/20092391?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 17 Sep 2026 21:26:00 +0900"
+          },
+          {
+            "title": "나경원, 김승원 청문보고서·검찰개혁 후속법 처리…\"졸속·독주\"",
+            "url": "https://www.ppss.kr/news/articleView.html?idxno=311362",
+            "outlet": "ppss.kr",
+            "publishedAt": "Thu, 17 Sep 2026 21:23:00 +0900"
+          },
+          {
+            "title": "[사설]與 김승원 임명 강행 수순…'전략적 선회' 기대 난망인가",
+            "url": "https://www.sidae.com/article/2026091716103098695",
+            "outlet": "sidae.com",
+            "publishedAt": "Thu, 17 Sep 2026 22:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "호르무즈 파병 논란, 여야 및 종교계 입장 엇갈려",
+        "summary": "정부의 호르무즈 해협 파병 검토 소식에 대해 여야 간, 그리고 종교계에서 반대 및 신중론이 제기되며 논란이 일고 있습니다. 외교부 장관의 미국행과 관련한 비판도 나오고 있습니다.",
+        "articles": [
+          {
+            "title": "호르무즈 파병 논란에 성공회 사제단 \"전쟁 아닌 평화 선택해야\"",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=238629",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Thu, 17 Sep 2026 21:46:00 +0900"
+          },
+          {
+            "title": "'호르무즈 파병' 범여권 반발…野 \"당정 엇박자\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260917211332kVY",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 17 Sep 2026 21:14:00 +0900"
+          },
+          {
+            "title": "민주당·조국혁신당 \"호르무즈 파병 절대 반대\"",
+            "url": "http://www.ujeil.com/news/articleView.html?idxno=392317",
+            "outlet": "ujeil.com",
+            "publishedAt": "Thu, 17 Sep 2026 20:44:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "주거 문제 및 공공 임대주택 관련 이슈 부각",
+        "summary": "정부의 주거 정책과 공공 임대주택 관리 문제가 사회적 이슈로 떠오르고 있습니다. '방 한 칸의 죄'라는 표현과 함께 LH 임대 보수 지연 및 방치에 대한 비판이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[윤정호의 앵커칼럼] 방 한 칸의 죄",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/17/2026091790258.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Thu, 17 Sep 2026 21:52:00 +0900"
+          },
+          {
+            "title": "664일째 끝나지 않은 천장 방수…LH 임대보수 389건 대기인가 방치인가",
+            "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317963",
+            "outlet": "wolyo.co.kr",
+            "publishedAt": "Thu, 17 Sep 2026 22:12:00 +0900"
+          },
+          {
+            "title": "LH 노조 “총파업 절차 돌입”…분사 강행 땐 55만 연대",
+            "url": "https://www.sedaily.com/article/20092401?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 17 Sep 2026 22:11:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "대통령 회견 예고 및 국정 운영 방향 주목",
+        "summary": "이 대통령이 18일 회견을 앞두고 있으며, 공공기관 이전 등 국정 운영 방향에 대한 입장이 주목받고 있습니다. 부동산 및 외교 안보 정책 전환에 대한 기대도 있습니다.",
+        "articles": [
+          {
+            "title": "李 대통령, 18일 회견… 공공기관 이전 입장 주목",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1551158",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Thu, 17 Sep 2026 21:18:00 +0900"
+          },
+          {
+            "title": "李대통령, 미프진 관련 \"중요한 것은 여성 안전\"",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=06464886645581104&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 17 Sep 2026 22:26:00 +0900"
+          },
+          {
+            "title": "이 대통령, 교체 앞둔 '1기 내각' 장관들과 오찬… 노고 격려",
+            "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2302071",
+            "outlet": "daejonilbo.com",
+            "publishedAt": "Thu, 17 Sep 2026 22:20:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
