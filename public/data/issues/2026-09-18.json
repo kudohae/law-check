@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T13:06:39.037Z",
+  "title": "2026년 09월 18일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "학교급식 노동 자 폐암 손배소 승소..교육청 배상책...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "학교급식 노동 자 폐암 손배소 승소..\"교육청 배상책임 인정\"",
+            "url": "https://mpmbc.co.kr/NewsArticle/1537675",
+            "outlet": "mpmbc.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 21:08:00 +0900"
+          },
+          {
+            "title": "\"교장 징계 반발 vs 노동 환경 개선\"..교육청 해법은?",
+            "url": "https://www.tjb.co.kr/news05/bodo/view/id/103836",
+            "outlet": "tjb.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:44:00 +0900"
+          },
+          {
+            "title": "외신, 한국 대통령 ‘호르무즈 불개입·美투자 상업성·북미대화’ 집중...",
+            "url": "https://sateconomy.co.kr/news/view/1065617587385994",
+            "outlet": "sateconomy.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 22:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "국힘 청년조직",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국힘 청년조직, 정부 청년정책 정조준…대출 규제 등 6대 요구",
+            "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318030",
+            "outlet": "wolyo.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:38:00 +0900"
+          },
+          {
+            "title": "李 \"공소취소권 삭제\" 요청에…전운 짙어지는 국회",
+            "url": "https://www.ajunews.com/view/20260918190153431",
+            "outlet": "ajunews.com",
+            "publishedAt": "Fri, 18 Sep 2026 19:16:00 +0900"
+          },
+          {
+            "title": "[아주 경제 오늘의 뉴스 종합] 李대통령, 김성수 대법관 임명 재가…현 ...",
+            "url": "https://www.ajunews.com/view/20260918214833575",
+            "outlet": "ajunews.com",
+            "publishedAt": "Fri, 18 Sep 2026 21:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "드론 개발",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[허희영 칼럼] 드론 개발, 新시장 만드는 산업으로 접근해야",
+            "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184749",
+            "outlet": "weekly.hankooki.com",
+            "publishedAt": "Fri, 18 Sep 2026 21:18:00 +0900"
+          },
+          {
+            "title": "석유 최고가격 재동결...추석 앞두고 \"물가 안정\"",
+            "url": "https://www.ytn.co.kr/_ln/0102_202609182203020067",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 22:03:00 +0900"
+          },
+          {
+            "title": "[스틸컷] 이 대통령 \"모든 건 내 잘못, 초심으로 돌아가 더 살피겠습니...",
+            "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6793",
+            "outlet": "dailybrief.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:59:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "전국 교육감",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전국 교육감, 지방교육재정교부금 개편 대응 논의",
+            "url": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026091817291757766?feed=na",
+            "outlet": "jibs.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:51:00 +0900"
+          },
+          {
+            "title": "[단독] '부동산'으로 손잡은 국힘-이준석...연대 시동?",
+            "url": "https://www.ytn.co.kr/_ln/0101_202609182048119255",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:48:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"공소취소 조항 삭제\"…여야, 특검 수사범위 공방",
+            "url": "https://www.newswhoplus.com/news/articleView.html?idxno=70084",
+            "outlet": "newswhoplus.com",
+            "publishedAt": "Fri, 18 Sep 2026 19:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "李 대통령 공소취소 조항 삭제",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李 대통령 “공소취소 조항 삭제…연임 생각 전혀 없다”",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000551247",
+            "outlet": "ichannela.com",
+            "publishedAt": "Fri, 18 Sep 2026 19:07:00 +0900"
+          },
+          {
+            "title": "유가 급등에도 기름값 묶었다… 석유 최고가 3연속 동결",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3433952",
+            "outlet": "newscj.com",
+            "publishedAt": "Fri, 18 Sep 2026 21:36:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, 영광 백수읍 특별 재난 지역 선포",
+            "url": "https://mpmbc.co.kr/NewsArticle/1537676",
+            "outlet": "mpmbc.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 21:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "양향자 李 대통령 기자회견",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[뉴스하이킥] 양향자 “李 대통령 기자회견, 뭘 잘못했고 바꾸겠다는 건...",
+            "url": "https://n.news.naver.com/mnews/article/214/0001524848?sid=100",
+            "outlet": "n.news.naver.com",
+            "publishedAt": "Fri, 18 Sep 2026 21:00:00 +0900"
+          },
+          {
+            "title": "석유최고가 또 동결…\"유가 급등에도 민생안정\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20260918205716JJB",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:58:00 +0900"
+          },
+          {
+            "title": "남양주시-김병주 의원, 별내선 연장 등 지역 숙원 해결 '맞손'",
+            "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319912",
+            "outlet": "pointdaily.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "이민석 2050 탄소중립 차질 없는 이행",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[지방의회 리더에게 듣는다] 이민석 \"2050 탄소중립 차질 없는 이행…민...",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1538000",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 20:22:00 +0900"
+          },
+          {
+            "title": "국제유가 폭등에도 기름값 동결‥추석 연휴 고속도로 주유소 리터당 10...",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6852885_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 18 Sep 2026 20:04:00 +0900"
+          },
+          {
+            "title": "시민단체들, 이 대통령 ‘연임 불가’ 환영···호르무즈 ‘우회 파병...",
+            "url": "https://www.khan.co.kr/article/202609181919001",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Fri, 18 Sep 2026 19:19:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
