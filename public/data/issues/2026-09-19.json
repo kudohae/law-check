@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T12:39:27.205Z",
+  "title": "2026년 09월 19일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 19일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "기후정의행진, '3대 메가 프로젝트' 중단 촉구",
+        "summary": "기후 위기 대응과 정부의 '3대 메가 프로젝트' 추진 중단을 요구하는 대규모 시위가 전국 각지에서 열렸습니다.",
+        "articles": [
+          {
+            "title": "[오마이포토] \"지구 불태우는 폭주 멈춰!\" 919기후정의행진",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268785&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Sat, 19 Sep 2026 19:01:00 +0900"
+          },
+          {
+            "title": "'지구를 불태우는 폭주를 멈춰라' 919 기후정의행진",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076010",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 20:42:00 +0900"
+          },
+          {
+            "title": "\"지구 불태우는 폭주 멈춰라\"... 부산 달군 '기후정의' 함성",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268768&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Sat, 19 Sep 2026 17:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "김승원 법무부 장관 후보자 사퇴, 인사 검증 논란 지속",
+        "summary": "김승원 법무부 장관 후보자가 결국 자진 사퇴하며 인사 검증 과정에서의 논란이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "김승원 후보자 전격 사퇴…“정부에 부담 더해선 안돼”",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667879&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 21:01:00 +0900"
+          },
+          {
+            "title": "김승원 사퇴에도 인사검증 후폭풍…개각 후보 6명 중 2명 낙마",
+            "url": "https://www.kbmaeil.com/article/20260919500099",
+            "outlet": "kbmaeil.com",
+            "publishedAt": "Sat, 19 Sep 2026 18:20:00 +0900"
+          },
+          {
+            "title": "이 대통령 기자회견에 조선일보 \"강경파 다독여\" 한국경제 \"공소취소 여...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337223",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 20:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "이재명 대통령, 청년 정책 및 사회 구조 개혁 강조",
+        "summary": "이재명 대통령이 청년 문제 해결을 위한 전담 조직 신설을 고민하고 있으며, 사회 구조 개혁의 중요성을 강조했습니다.",
+        "articles": [
+          {
+            "title": "이재명 대통령 \"청년 볼 때마다 미안해 할 말 없어\"",
+            "url": "https://www.insight.co.kr/news/574348",
+            "outlet": "insight.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 20:40:00 +0900"
+          },
+          {
+            "title": "李대통령 \"별도 청년정책 전담 조직 신설 고민…나도 청년 가족\"(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260919042951001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 18:25:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, '집중호우 피해' 영광군 백수읍 특별 재난 지역 선포",
+            "url": "https://kjmbc.co.kr/NewsArticle/1537734",
+            "outlet": "kjmbc.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 20:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "사관학교 통합 반대 시위, 정치권 공방 가열",
+        "summary": "사관학교 통합에 반대하는 시위가 열렸으며, 정치권에서는 이재명 대통령을 '안보·국방의 주적'으로 규정하는 등 공방이 격화되고 있습니다.",
+        "articles": [
+          {
+            "title": "“사관학교 통합 밀어붙이면 안보 와 국방 주적은 이재명 될 것”…장동...",
+            "url": "https://www.munhwa.com/article/11618267?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 19 Sep 2026 21:31:00 +0900"
+          },
+          {
+            "title": "사관학교 폐교 저지 총궐기… 장동혁 \" 안보 ·국방의 주적은 이재명\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3434096",
+            "outlet": "newscj.com",
+            "publishedAt": "Sat, 19 Sep 2026 19:00:00 +0900"
+          },
+          {
+            "title": "장동혁 \"사관학교 통합 결사 반대\", 궐기대회 참석",
+            "url": "https://www.tjb.co.kr/news05/bodo/view/id/103857",
+            "outlet": "tjb.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 20:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "대유위니아 체불 사태, 정치권·노동계 엄벌 촉구",
+        "summary": "대유위니아그룹의 대규모 임금·퇴직금 체불 사태와 관련하여 정치권과 노동계가 박영우 회장의 엄벌을 촉구하고 있습니다.",
+        "articles": [
+          {
+            "title": "대유위니아 2천억대 체불 사태… 정치 권·노동계, 박영우 엄벌 촉구·박...",
+            "url": "https://m.skyedaily.com/news_view.html?ID=311807",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Sat, 19 Sep 2026 21:20:00 +0900"
+          },
+          {
+            "title": "국민의힘, 무서운 장외 투쟁(鬪爭)에 나설 투쟁준비 끝났나?...“살벌한...",
+            "url": "http://www.breaknews.com/1238023",
+            "outlet": "breaknews.com",
+            "publishedAt": "Sat, 19 Sep 2026 16:04:00 +0900"
+          },
+          {
+            "title": "\"배에 기름칠하면 그만인가\"···삼성 초기업노조, '배임 의혹' 폭로자...",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=350501",
+            "outlet": "greened.kr",
+            "publishedAt": "Sat, 19 Sep 2026 19:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "발달장애인 긴급돌봄센터 법적 근거 마련 및 후속 과제 논의",
+        "summary": "발달장애인 긴급돌봄센터의 법적 근거가 마련되었으며, 향후 인력 및 예산 확보 방안에 대한 논의가 진행될 예정입니다.",
+        "articles": [
+          {
+            "title": "발달장애인 긴급돌봄센터 법적 근거 마련…\"이제 인력·예산 뒷받침해야...",
+            "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80168",
+            "outlet": "mkhealth.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 12:12:00 +0900"
+          },
+          {
+            "title": "돌봄을 복지가 아닌 권리로…'돌봄기본 법안 ' 국회 발의",
+            "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80162",
+            "outlet": "mkhealth.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 12:10:00 +0900"
+          },
+          {
+            "title": "[포토] 광화문 앞에 죽은 듯 드러누운 시민들…“메가 프로젝트 중단을...",
+            "url": "https://www.hani.co.kr/arti/society/environment/1278621.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Sat, 19 Sep 2026 20:06:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
