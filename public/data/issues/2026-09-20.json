@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T13:11:11.634Z",
+  "title": "2026년 09월 20일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "민생지원금은 정책",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[김희철칼럼] 민생지원금은 정책, 교육복지는 '현금 살포'?",
+            "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74182",
+            "outlet": "babytimes.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 21:48:00 +0900"
+          },
+          {
+            "title": "정부, 22일 대미투자 관련 국회 비공개 보고",
+            "url": "https://www.sedaily.com/article/20093179?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sun, 20 Sep 2026 21:29:00 +0900"
+          },
+          {
+            "title": "‘2수도’ 강조한 李 회견, 지역은 없었다",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1551268",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 21:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "與 연임 생각 없다는데",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "與 \"연임 생각 없다는데… 국힘, 대통령 말 아직도 곡해\"",
+            "url": "http://www.ujeil.com/news/articleView.html?idxno=392404",
+            "outlet": "ujeil.com",
+            "publishedAt": "Sun, 20 Sep 2026 20:44:00 +0900"
+          },
+          {
+            "title": "진보당 울산시당, 대리운전 노동 자 제도적 안전대책 마련 촉구",
+            "url": "http://www.ujeil.com/news/articleView.html?idxno=392396",
+            "outlet": "ujeil.com",
+            "publishedAt": "Sun, 20 Sep 2026 20:44:00 +0900"
+          },
+          {
+            "title": "[전광우 칼럼] 격변의 세계, 대한민국의 길",
+            "url": "https://www.fnnews.com/news/202609201917571950",
+            "outlet": "fnnews.com",
+            "publishedAt": "Sun, 20 Sep 2026 19:19:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "北=주적 말 못하고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'北=주적' 말 못하고, 남북 민간 교류 빗장 푸는 동안 … 北은 연쇄 탄도...",
+            "url": "https://www.newdaily.co.kr/site/data/html/2026/09/20/2026092000083.html",
+            "outlet": "newdaily.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 19:00:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 “연임 생각 전혀 없다”",
+            "url": "https://www.kwnews.co.kr/article/20260920501787",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 18:54:00 +0900"
+          },
+          {
+            "title": "파주 플라스틱 공장에서 불...한때 대응 1단계",
+            "url": "https://www.ytn.co.kr/_ln/0103_202609202204513037",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 22:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "유시민 멸칭 쓰는 신발 속 돌멩이⋯대통령 고립시켜",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "유시민 \"멸칭 쓰는 '신발 속 돌멩이'⋯대통령 고립시켜\"",
+            "url": "http://www.inews24.com/view/2007597",
+            "outlet": "inews24.com",
+            "publishedAt": "Sun, 20 Sep 2026 21:56:00 +0900"
+          },
+          {
+            "title": "경기도 안산시 반석로 77번지 주택 화재 발생",
+            "url": "https://www.bntnews.co.kr/article/view/bnt202609200089",
+            "outlet": "bntnews.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 21:38:00 +0900"
+          },
+          {
+            "title": "'지방이전' 선 그은 김은경, 서금원·신복위 이용자 접근성 강조",
+            "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=43904",
+            "outlet": "s-journal.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 21:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "북한",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "북한, 또다시 동해상으로 탄도미사일 두 발 발사..올들어 14번째",
+            "url": "https://www.voakorea.com/a/korean-peninsula-09-20-26/8202026.html",
+            "outlet": "voakorea.com",
+            "publishedAt": "Sun, 20 Sep 2026 21:03:00 +0900"
+          },
+          {
+            "title": "안성시 '나눔의 녹색장터' 사고 수습 총력… 장례비 지원·합동분향소 ...",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076031",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 19:56:00 +0900"
+          },
+          {
+            "title": "[농정춘추] 지구 불태우는 폭주 기관차 '메가프로젝트' 멈춰 세우자",
+            "url": "http://www.ikpnews.net/news/articleView.html?idxno=71474",
+            "outlet": "ikpnews.net",
+            "publishedAt": "Sun, 20 Sep 2026 19:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "韓 게임 향해 장관은 뿌듯하다 위원장은 불효자가 효...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "韓 게임 향해 장관은 “뿌듯하다” 위원장은 “불효자가 효자 됐다”",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000013842&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 19:33:00 +0900"
+          },
+          {
+            "title": "[TGS 2026]이재정 “게임, 불효자에서 효자산업으로... 게임법 개정 성과...",
+            "url": "https://www.etnews.com/20260920000094",
+            "outlet": "etnews.com",
+            "publishedAt": "Sun, 20 Sep 2026 18:11:00 +0900"
+          },
+          {
+            "title": "청와대, 북한 미사일 발사에 긴급 안보 상황점검회의",
+            "url": "https://www.ytn.co.kr/_ln/0101_202609202151138633",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 21:51:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "북한",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "북한, 동해상으로 탄도미사일 잇따라 발사",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8668041&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sun, 20 Sep 2026 21:38:00 +0900"
+          },
+          {
+            "title": "북한, 3시간 간격 SRBM 2발 발사…각 450km·600km 이상 비행",
+            "url": "https://www.g-enews.com/view.php?ud=202609202132127773112616b072_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sun, 20 Sep 2026 21:34:00 +0900"
+          },
+          {
+            "title": "[아주경제 오늘의 뉴스 종합] 北, 탄도미사일 쏜 지 3시간 만에 또 쐈다...",
+            "url": "https://www.ajunews.com/view/20260920205202349",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 20 Sep 2026 21:26:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
