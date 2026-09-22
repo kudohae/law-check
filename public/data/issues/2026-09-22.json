@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-09-22",
-  "generatedAt": "2026-09-21T15:17:10.794Z",
+  "generatedAt": "2026-09-22T13:37:14.752Z",
   "title": "2026년 09월 22일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -19,180 +19,180 @@
   "root": {
     "id": "today",
     "label": "오늘의 주요 시사",
-    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "summary": "2026년 9월 22일, 한국 사회의 주요 이슈들을 다룹니다.",
     "children": [
       {
-        "id": "fallback1",
-        "label": "오늘 대미투자 국회보고",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue1",
+        "label": "DMZ 지뢰 사고 관련 정부 비판",
+        "summary": "국민의힘을 중심으로 DMZ 지뢰 사고와 관련하여 이재명 정부의 안보 대응 및 인사 문제를 비판하는 목소리가 나오고 있습니다.",
         "articles": [
           {
-            "title": "오늘 대미투자 국회보고...산자위·재경위 각각 진행",
-            "url": "https://www.ytn.co.kr/_ln/0101_202609220009078322",
-            "outlet": "ytn.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:09:00 +0900"
+            "title": "[데일리안 오늘뉴스 종합] \"대한민국 안보 주적은 李대통령\"…국민의힘...",
+            "url": "https://www.dailian.co.kr/news/view/1693794/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 20:56:00 +0900"
           },
           {
-            "title": "[사설] 인사 난맥에 靑 비서실장 사의, 국정 쇄신 전환점 돼야",
-            "url": "https://www.sedaily.com/article/20093614?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:03:00 +0900"
+            "title": "박충권 국힘 대변인 “이재명 정부 인사· 안보 농단 폭거”",
+            "url": "http://www.breaknews.com/1238758",
+            "outlet": "breaknews.com",
+            "publishedAt": "Tue, 22 Sep 2026 20:58:00 +0900"
           },
           {
-            "title": "[박태균의 역사와 비평] 미국의 투자 압박, 국제법 기반한 통상 정책으...",
-            "url": "https://www.joongang.co.kr/article/25463834",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:10:00 +0900"
+            "title": "“아들 낳은 게 죄냐” 파주 지뢰 추정 폭발 사고에 난리 난 곳",
+            "url": "https://www.wikitree.co.kr/articles/1161461",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 22:00:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback2",
-        "label": "배달 라이더도 소득 공백 없게",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue2",
+        "label": "문재인 전 대통령 뇌물 혐의 재판",
+        "summary": "문재인 전 대통령의 뇌물 혐의에 대한 국민참여재판이 내년 1월 예정되어 있으며, 딸 다혜 씨가 증인으로 채택되었습니다.",
         "articles": [
           {
-            "title": "배달 라이더도 소득 공백 없게…‘플랫폼판 노란우산’ 추진",
-            "url": "https://www.joongang.co.kr/article/25463810",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:02:00 +0900"
+            "title": "‘뇌물혐의’ 문재인 前대통령, 내년 1월 국민참여재판 받는다…딸 다혜...",
+            "url": "https://biz.heraldcorp.com/article/10882628?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Tue, 22 Sep 2026 21:32:00 +0900"
           },
           {
-            "title": "공공임대의 질과 보편성을 확대한 ' 주거 안정플랜'",
-            "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37858",
-            "outlet": "junggi.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:00:00 +0900"
+            "title": "문재인 ‘뇌물 혐의’ 재판, 내년 1월 국민참여재판…딸 다혜씨 증인 채...",
+            "url": "https://www.mk.co.kr/article/12159836",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 21:54:00 +0900"
           },
           {
-            "title": "[사설] 법원, ‘先교섭’ 노동 부 지침에 제동… 노봉법 보완 서둘러라",
-            "url": "https://www.sedaily.com/article/20093613?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:03:00 +0900"
+            "title": "‘뇌물혐의’ 文 국민참여재판…딸 다혜 증인 선다",
+            "url": "https://www.donga.com/news/Society/article/all/20260922/134723771/2",
+            "outlet": "donga.com",
+            "publishedAt": "Tue, 22 Sep 2026 21:41:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback3",
-        "label": "잇단 인사참사에 강훈식 사의",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue3",
+        "label": "가덕신공항 공사비 보전 지침 관련 갈등",
+        "summary": "부산상공회의소가 가덕신공항 공사비 보전 지침 개선을 요구하며, 지연 위기에 대한 우려가 제기되고 있습니다.",
         "articles": [
           {
-            "title": "잇단 인사참사에 강훈식 사의",
-            "url": "https://www.joongang.co.kr/article/25463838",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:13:00 +0900"
+            "title": "\"공사비 보전 지침 당장 고쳐라\"… 가덕신공항 지연 위기에 부산 들불",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=743902",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 21:59:00 +0900"
           },
           {
-            "title": "브렌트유 100달러 아래로…美채권과 주식 일제 상승",
-            "url": "https://www.hankyung.com/article/202609229353i",
-            "outlet": "hankyung.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:13:00 +0900"
+            "title": "[데일리안 오늘뉴스 종합] \"대한민국 안보 주적은 李대통령\"…국민의힘...",
+            "url": "https://www.dailian.co.kr/news/view/1693794/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 20:56:00 +0900"
           },
           {
-            "title": "[사설] DMZ 지뢰 참사, 최근 北 동향과 무관한가",
-            "url": "https://www.chosun.com/opinion/editorial/2026/09/22/MOIRH5II6VEOLN5LLV62POOYIU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "outlet": "chosun.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:11:00 +0900"
+            "title": "박충권 국힘 대변인 “이재명 정부 인사· 안보 농단 폭거”",
+            "url": "http://www.breaknews.com/1238758",
+            "outlet": "breaknews.com",
+            "publishedAt": "Tue, 22 Sep 2026 20:58:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback4",
-        "label": "울산의료원 추진위",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue4",
+        "label": "선거관리위원회 개혁 논의",
+        "summary": "국민의힘 박대출 의원을 중심으로 선거관리위원회 전면 개혁을 주장하며 관련 법안이 발의되었습니다.",
         "articles": [
           {
-            "title": "[사설]울산의료원 추진위, 공약을 국가사업으로 연결해야",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067991",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:02:00 +0900"
+            "title": "박대출 의원 \"선관위 전면 개혁\"…국힘 109명 참정권 수호법 발의",
+            "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=646172",
+            "outlet": "gnnews.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 19:40:00 +0900"
           },
           {
-            "title": "李 해명에도 여전한 농지 전수조사 불신…밑바닥엔 불안·불통·불일치...",
-            "url": "https://www.imaeil.com/page/view/2026092200100207146",
-            "outlet": "imaeil.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:11:00 +0900"
+            "title": "[데일리안 오늘뉴스 종합] \"대한민국 안보 주적은 李대통령\"…국민의힘...",
+            "url": "https://www.dailian.co.kr/news/view/1693794/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 20:56:00 +0900"
           },
           {
-            "title": "[사설] 민주노총의 사회 적 대화 참여 환영한다",
-            "url": "https://m.skyedaily.com/news_view.html?ID=311886",
-            "outlet": "m.skyedaily.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:04:00 +0900"
+            "title": "박충권 국힘 대변인 “이재명 정부 인사· 안보 농단 폭거”",
+            "url": "http://www.breaknews.com/1238758",
+            "outlet": "breaknews.com",
+            "publishedAt": "Tue, 22 Sep 2026 20:58:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback5",
-        "label": "출범 2년 차에 벌써 5명 낙마",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue5",
+        "label": "이주 노동자 인권 침해 사건",
+        "summary": "전남과 여수에서 이주 노동자를 대상으로 한 소화기 분사 및 임금 체불 사건이 발생하여 인권 침해 문제가 제기되고 있습니다.",
         "articles": [
           {
-            "title": "출범 2년 차에 벌써 5명 낙마… ‘인사 참사’ 총대 멘 비서실장",
-            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000014211&cp=nv",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:04:00 +0900"
+            "title": "[김종석의 리포트]60대 고용주, 이주 노동 자 얼굴에 소화기 분사",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000551857",
+            "outlet": "ichannela.com",
+            "publishedAt": "Tue, 22 Sep 2026 21:58:00 +0900"
           },
           {
-            "title": "대우버스 노조 \"울산공장 용지 매각, 시가 막아야\"",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067995",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:02:00 +0900"
+            "title": "여수]이주 노동 자에 '소화기 난사'…\"임금까지 체불\"",
+            "url": "https://ysmbc.co.kr/NewsArticle/1538169",
+            "outlet": "ysmbc.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 22:12:00 +0900"
           },
           {
-            "title": "청문정국서 野 '기세' 與 '부담'…국감·예산 주도권 싸움 본격화",
-            "url": "https://news.tf.co.kr/read/ptoday/2368618.htm",
-            "outlet": "news.tf.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:01:00 +0900"
+            "title": "[데일리안 오늘뉴스 종합] \"대한민국 안보 주적은 李대통령\"…국민의힘...",
+            "url": "https://www.dailian.co.kr/news/view/1693794/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 20:56:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback6",
-        "label": "눈물의 최후진술 김건희 항소심 결과는",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue6",
+        "label": "신규 원전 건설 공론화",
+        "summary": "기후 에너지환경부 장관이 신규 원전 건설 여부에 대해 3개월간 공론화를 진행할 계획이라고 밝혔습니다.",
         "articles": [
           {
-            "title": "'눈물의 최후진술' 김건희 항소심 결과는…1심 징역 7년",
-            "url": "https://news.tf.co.kr/read/life/2368620.htm",
-            "outlet": "news.tf.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:01:00 +0900"
+            "title": "기후 부 \"신규 원전 건설 여부, 3개월간 공론화\"",
+            "url": "https://www.tbc.co.kr/news/view?pno=20260922144006AE05964&id=211387",
+            "outlet": "tbc.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 22:22:00 +0900"
           },
           {
-            "title": "\"정비구역 지정 2배로 껑충\"…'일타강사' 자처한 오세훈 \"재개발·재건축...",
-            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=608648",
-            "outlet": "cbci.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:00:00 +0900"
+            "title": "[데일리안 오늘뉴스 종합] \"대한민국 안보 주적은 李대통령\"…국민의힘...",
+            "url": "https://www.dailian.co.kr/news/view/1693794/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 20:56:00 +0900"
           },
           {
-            "title": "5.18 광주 민주유공자 명단 공개는 왜 불가능한가?",
-            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076167",
-            "outlet": "newsclaim.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:00:00 +0900"
+            "title": "박충권 국힘 대변인 “이재명 정부 인사· 안보 농단 폭거”",
+            "url": "http://www.breaknews.com/1238758",
+            "outlet": "breaknews.com",
+            "publishedAt": "Tue, 22 Sep 2026 20:58:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback7",
-        "label": "의원 장관 겸직 논란의 미필적 고의",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue7",
+        "label": "중대재해처벌법 양형 기준 마련",
+        "summary": "중대산업재해 사망 사고 발생 시 사업주에 대한 최대 징역 15년의 양형 기준이 마련되었습니다.",
         "articles": [
           {
-            "title": "의원 '장관 겸직' 논란의 미필적 고의 [아침을 열며]",
-            "url": "https://www.hankookilbo.com/news/article/A2026092109440003291?did=NA",
-            "outlet": "hankookilbo.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:00:00 +0900"
+            "title": "중대산업재해 사망사고, 사업주 최대 징역 15년",
+            "url": "https://www.econovill.com/news/articleView.html?idxno=751621",
+            "outlet": "econovill.com",
+            "publishedAt": "Tue, 22 Sep 2026 22:18:00 +0900"
           },
           {
-            "title": "[사설] 공적주택 119만 가구 공급…숫자보다 실행 속도가 관건",
-            "url": "https://www.sedaily.com/article/20093611?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 22 Sep 2026 00:03:00 +0900"
+            "title": "[데일리안 오늘뉴스 종합] \"대한민국 안보 주적은 李대통령\"…국민의힘...",
+            "url": "https://www.dailian.co.kr/news/view/1693794/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Tue, 22 Sep 2026 20:56:00 +0900"
           },
           {
-            "title": "역세권·넓은 집…공적주택 119만호 공급 ‘청년 달래기’",
-            "url": "https://www.joongang.co.kr/article/25463832",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 22 Sep 2026 00:08:00 +0900"
+            "title": "박충권 국힘 대변인 “이재명 정부 인사· 안보 농단 폭거”",
+            "url": "http://www.breaknews.com/1238758",
+            "outlet": "breaknews.com",
+            "publishedAt": "Tue, 22 Sep 2026 20:58:00 +0900"
           }
         ]
       }
