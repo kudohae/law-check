@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T13:48:40.462Z",
+  "title": "2026년 09월 23일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 23일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "사법부와 행정부 간의 인사권 갈등 심화",
+        "summary": "대법관 임명 및 제청 과정에서 대통령과 대법원장 간의 이견이 표출되며 사법부 독립성과 인사권 행사를 둘러싼 논쟁이 가열되고 있습니다.",
+        "articles": [
+          {
+            "title": "한겨레 \"조희대, 대통령 위에 서겠다?\" vs 조선일보 \"대통령이 헌법대로...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337298",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 22:30:00 +0900"
+          },
+          {
+            "title": "김근식 “대법관 제청 묵살 이재명…‘재판관 미임명’ 한덕수는 내란특...",
+            "url": "https://www.dt.co.kr/article/12085684?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 22:28:00 +0900"
+          },
+          {
+            "title": "조국 \"李정부, 특정 계파 힘으로 만들어지지 않아…그 힘만으론 성공 못...",
+            "url": "https://www.pressian.com/pages/articles/2026092315535711535?utm_source=naver&utm_medium=search",
+            "outlet": "pressian.com",
+            "publishedAt": "Wed, 23 Sep 2026 17:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "추석 민심과 민생 경제 문제",
+        "summary": "추석 연휴를 맞아 고물가, 주거, 일자리 등 민생 경제에 대한 국민들의 우려와 정부 정책에 대한 평가가 엇갈리고 있습니다.",
+        "articles": [
+          {
+            "title": "[세계타워] 추석 밥상머리 민심의 경고",
+            "url": "https://www.segye.com/newsView/20260923510528?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Wed, 23 Sep 2026 21:22:00 +0900"
+          },
+          {
+            "title": "李 추석 민심, 긍정 42%…'부동산 정책 효과 없다' 69%",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=05054486645583072&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 21:08:00 +0900"
+          },
+          {
+            "title": "민주노총 \"평화와 평등의 한가위 되길\"",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41553",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 22:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "사회적 약자 및 소수자 권리 증진 요구",
+        "summary": "자립준비청년, 장애인, 이주노동자 등 사회적 약자들의 권리 보장과 차별 해소를 위한 법적, 제도적 개선 요구가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[청년뉴스] 보호 끝나고 홀로 선 자립준비청년, 5년간 44명 세상 떠났다...",
+            "url": "https://www.ibabynews.com/news/articleView.html?idxno=154780",
+            "outlet": "ibabynews.com",
+            "publishedAt": "Wed, 23 Sep 2026 17:00:00 +0900"
+          },
+          {
+            "title": "대전장애인단체, 시외·고속 저상버스 도입 촉구",
+            "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=452894",
+            "outlet": "goodmorningcc.com",
+            "publishedAt": "Wed, 23 Sep 2026 16:56:00 +0900"
+          },
+          {
+            "title": "김영훈 노동 부 장관 \"이주 노동 자 소화기 분사…엄중 책임 물을 것\"",
+            "url": "https://ysmbc.co.kr/NewsArticle/1538345",
+            "outlet": "ysmbc.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 22:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "노동 환경 개선 및 산재 예방 요구",
+        "summary": "산업 현장의 안전 문제, 임금 체불, 플랫폼 노동자 권익 보호 등 노동 환경 개선과 산재 예방을 위한 목소리가 높아지고 있습니다.",
+        "articles": [
+          {
+            "title": "직원 폭행·임금 갈취 대리점주 징역 3년..시민단체 “항소해야”",
+            "url": "https://mpmbc.co.kr/NewsArticle/1538316",
+            "outlet": "mpmbc.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 22:06:00 +0900"
+          },
+          {
+            "title": "어기구 \"산재예방 지원사업장서 2023년 이후 사망 재해 112건\"(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20260923071551063?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 20:14:00 +0900"
+          },
+          {
+            "title": "\"산재 예방\" 정부 인증 받았는데…열곳 중 한곳서 '산재'",
+            "url": "https://www.hankyung.com/article/202609234430i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 23 Sep 2026 21:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "기후 위기 대응 및 환경 정책 논의",
+        "summary": "기후 정의 실현과 지속 가능한 도시 전환을 위한 시민 사회의 요구와 함께, 지역별 기후 정책 추진 현황이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "기후 정의행진서 울려퍼진 \"농지·농민·농업용수 지키자\"",
+            "url": "http://www.ikpnews.net/news/articleView.html?idxno=71534",
+            "outlet": "ikpnews.net",
+            "publishedAt": "Wed, 23 Sep 2026 20:32:00 +0900"
+          },
+          {
+            "title": "민선9기 고양시, 기후도시 전환의 방향을 묻다",
+            "url": "http://www.mygoyang.com/news/articleView.html?idxno=90486",
+            "outlet": "mygoyang.com",
+            "publishedAt": "Wed, 23 Sep 2026 20:32:00 +0900"
+          },
+          {
+            "title": "이 대통령, 유엔서 'K-이니셔티브' 제안...AI·기후·에너지 협력 청사진",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2474193",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 21:57:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "지역 의료 공백 및 공공 의료 강화 필요성",
+        "summary": "경북 지역을 중심으로 지역 의료 인프라 부족으로 인한 도민들의 타지 진료 의존도가 높다는 문제가 제기되며, 공공 의료 강화의 필요성이 강조되고 있습니다.",
+        "articles": [
+          {
+            "title": "경북 도민 '관내 의료 이용률' 전국 최저",
+            "url": "https://www.tbc.co.kr/news/view?pno=20260922133304AE05959&id=211442",
+            "outlet": "tbc.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 22:46:00 +0900"
+          },
+          {
+            "title": "경북 의료 공백 언제까지…도민 40% 타지서 진료",
+            "url": "https://www.kbmaeil.com/article/20260923500196",
+            "outlet": "kbmaeil.com",
+            "publishedAt": "Wed, 23 Sep 2026 22:06:00 +0900"
+          },
+          {
+            "title": "\"급식 노동 자 폐암, 교육청 배상 책임\"..안전대책 촉구",
+            "url": "http://andongmbc.co.kr/adboard/NewsView84926",
+            "outlet": "andongmbc.co.kr",
+            "publishedAt": "Wed, 23 Sep 2026 22:06:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
