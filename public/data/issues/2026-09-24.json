@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T13:43:56.207Z",
+  "title": "2026년 09월 24일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "野",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "野, DMZ 지뢰 추정 사고 정부 대응에 연일 공세…\"즉각 현장조사 해야\"(...",
+            "url": "https://www.newsis.com/view/NISX20260924_0003803142",
+            "outlet": "newsis.com",
+            "publishedAt": "Thu, 24 Sep 2026 20:39:00 +0900"
+          },
+          {
+            "title": "\"전쟁·봉쇄에도 원유·핵심광물 10년 버틴다\"...자원 안보 로드맵 가동",
+            "url": "https://www.dongponews.net/news/articleView.html?idxno=60739",
+            "outlet": "dongponews.net",
+            "publishedAt": "Thu, 24 Sep 2026 21:28:00 +0900"
+          },
+          {
+            "title": "환경미화원 산재 사망 경기 98명 ‘전국 최다’…전국 24.5% 차지",
+            "url": "https://www.kyeonggi.com/article/20260924580143",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Thu, 24 Sep 2026 22:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "지지율 하락세 李대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "지지율 하락세 李대통령…추석 ‘밥상 민심’ 주목",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=02610886645583400&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 20:01:00 +0900"
+          },
+          {
+            "title": "월가 큰손 만난 이 대통령 \"韓 세계경제 선도하는 국가로 변모… 진화하...",
+            "url": "http://www.metroseoul.co.kr/article/20260924500097",
+            "outlet": "metroseoul.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 22:42:00 +0900"
+          },
+          {
+            "title": "박해철 국회의원 “산재 신청 5년 새 30%↑…지난해 18만건 역대 최대”",
+            "url": "https://www.etnews.com/20260924000054",
+            "outlet": "etnews.com",
+            "publishedAt": "Thu, 24 Sep 2026 22:37:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "젤렌스키 北 포로 2명 한국행 깜짝 공개",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[김종석의 리포트]젤렌스키 “北 포로 2명 한국행” 깜짝 공개",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552150",
+            "outlet": "ichannela.com",
+            "publishedAt": "Thu, 24 Sep 2026 22:01:00 +0900"
+          },
+          {
+            "title": "백화점 다 닫는 추석 당일, 롯데 21곳 휴점·신세계는 정오 개점",
+            "url": "https://www.imaeil.com/page/view/2026092417513186579",
+            "outlet": "imaeil.com",
+            "publishedAt": "Thu, 24 Sep 2026 17:54:00 +0900"
+          },
+          {
+            "title": "“ 기후 위기는 평등하지 않다”… 미래세대가 직접 쓴 기후 정의의 목소...",
+            "url": "https://www.kyeongin.com/article/1771458",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Thu, 24 Sep 2026 17:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "이상 기후 심각한데",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“이상 기후 심각한데”…‘과수 무병묘’ 보급률 17.5% 불과",
+            "url": "https://www.nongmin.com/article/20260922500189",
+            "outlet": "nongmin.com",
+            "publishedAt": "Thu, 24 Sep 2026 19:01:00 +0900"
+          },
+          {
+            "title": "[위클리오늘] 전남광주특별시의회 함평출신 모정환 통합특별시의원(9.2...",
+            "url": "http://www.weeklytoday.com/news/articleView.html?idxno=795893",
+            "outlet": "weeklytoday.com",
+            "publishedAt": "Thu, 24 Sep 2026 17:58:00 +0900"
+          },
+          {
+            "title": "“사실 왜곡” 합참 장문 해명했는데…10분 만에 한동훈 “한심”",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=03188166645583400&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 22:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "주거 안정플랜 실효성 높일 홍지선 복안은",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[730 출연] ' 주거 안정플랜' 실효성 높일 홍지선 복안은",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1538606",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 20:04:00 +0900"
+          },
+          {
+            "title": "[추석특집 청년민원추적기下] 정당도 창구는 넘치는데···내 민원은 어...",
+            "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129650",
+            "outlet": "ntoday.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 22:40:00 +0900"
+          },
+          {
+            "title": "\"장애인도 버스타고 고향에 가고 싶다\"",
+            "url": "http://www.tongilnews.com/news/articleView.html?idxno=217542",
+            "outlet": "tongilnews.com",
+            "publishedAt": "Thu, 24 Sep 2026 14:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "추미애",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "추미애, 추석 연휴 첫날 ‘안전 현장’으로…“도민 생명 지키는 비상대...",
+            "url": "http://www.beyondpost.co.kr/view.php?ud=2026092418163876924c878f8fa1_30",
+            "outlet": "beyondpost.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 18:34:00 +0900"
+          },
+          {
+            "title": "\"이재명 계속 지지해야 하나\"…집값에 흔들리는 2030",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=02400966645583400&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 19:05:00 +0900"
+          },
+          {
+            "title": "추석에도 네팔서 한국인 9명 기다리는 가족들…“생환 소식 없어 절망”",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017132&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 18:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "오늘 밤 미중 정상회담",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "오늘 밤 미중 정상회담...무역 휴전·AI 담판 주목",
+            "url": "https://www.ytn.co.kr/_ln/0104_202609242152051751",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 24 Sep 2026 21:52:00 +0900"
+          },
+          {
+            "title": "[아주경제 오늘의 뉴스 종합] 李대통령, '18년 표류' 한·멕 FTA 재가동 ...",
+            "url": "https://www.ajunews.com/view/20260924211108493",
+            "outlet": "ajunews.com",
+            "publishedAt": "Thu, 24 Sep 2026 21:42:00 +0900"
+          },
+          {
+            "title": "명절 로드킬 4건 중 1건 ‘경기도’…일부 도로 평소의 44배",
+            "url": "https://www.kyeonggi.com/article/20260924580145",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Thu, 24 Sep 2026 22:25:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
