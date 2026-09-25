@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T14:06:24.170Z",
+  "title": "2026년 09월 25일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 25일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "북한 포로 송환 관련 외교적 논란",
+        "summary": "이 대통령의 북한 포로 송환 관련 발언과 이에 대한 야당의 비판, 우크라이나 측의 입장 표명 등 외교적 파장이 일고 있습니다.",
+        "articles": [
+          {
+            "title": "이 대통령 \"포로 송환, 비공개 합의 어겨\"…야당 \"북한 눈치 보나\"",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5221434",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Fri, 25 Sep 2026 19:27:00 +0900"
+          },
+          {
+            "title": "우크라 \"北포로 한국행 비밀유지 약속한 적 없어\"…韓 비판 반박",
+            "url": "https://www.news1.kr/world/europe/6301765",
+            "outlet": "news1.kr",
+            "publishedAt": "Fri, 25 Sep 2026 22:17:00 +0900"
+          },
+          {
+            "title": "李, '북한 눈치 보고 숨겼나' 野 비판에 \"징 치고 광고할 일 아냐\" 직접...",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854127_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 25 Sep 2026 22:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "외국인 노동자 산재 사망 문제 심각",
+        "summary": "외국인 노동자의 산업재해 사망률이 높으며, 특히 추락, 끼임 등 후진국형 사고가 많아 안전망 강화가 시급합니다.",
+        "articles": [
+          {
+            "title": "[이슈추적] 안전 사각지대 놓인 외국인 노동자…산재 사망 10명 중 4명 건...",
+            "url": "http://www.sisacast.kr/news/articleView.html?idxno=100439",
+            "outlet": "sisacast.kr",
+            "publishedAt": "Fri, 25 Sep 2026 16:42:00 +0900"
+          },
+          {
+            "title": "외국인 산재 73% 추락·끼임... 경북이 전국 2번째로 많아",
+            "url": "https://www.hidomin.com/news/articleView.html?idxno=722585",
+            "outlet": "hidomin.com",
+            "publishedAt": "Fri, 25 Sep 2026 21:14:00 +0900"
+          },
+          {
+            "title": "외국인 노동 자 산재 사망 73% 추락·깔림·끼임…60세 이상 26명",
+            "url": "https://www.etnews.com/20260925000046",
+            "outlet": "etnews.com",
+            "publishedAt": "Fri, 25 Sep 2026 21:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "주택 공급 부족 및 집값 불안 심화",
+        "summary": "주택 공급 부족 우려와 입주 물량 감소 전망으로 실수요자의 불안이 커지고 있으며, 신임 국토장관의 과제가 산적해 있습니다.",
+        "articles": [
+          {
+            "title": "집값도 비싼데 착공까지 감감무소식…뿔난 민심, 신임 국토장관 과제 ‘...",
+            "url": "https://www.mk.co.kr/article/12161423",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Fri, 25 Sep 2026 19:01:00 +0900"
+          },
+          {
+            "title": "[위클립] 9월 4주",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41552",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Fri, 25 Sep 2026 16:05:00 +0900"
+          },
+          {
+            "title": "청주 30만 신도시 ‘북서벨트’...중심엔 ‘옥산’ 구상",
+            "url": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260921021&PRO_CODE=4",
+            "outlet": "cjb.co.kr",
+            "publishedAt": "Fri, 25 Sep 2026 22:09:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "이재명 정부의 주 4.5일제 정책 추진",
+        "summary": "이재명 정부의 주 4.5일제 정책 추진 1년 후, 경제계의 온도차와 정부의 시범 사업 진행 상황에 대한 분석이 있습니다.",
+        "articles": [
+          {
+            "title": "[심층기획: 이재명의 주4.5일제 1년후③] 경제계 온도차…경총은 '노사...",
+            "url": "https://www.news2day.co.kr/article/20260922500069",
+            "outlet": "news2day.co.kr"
+          },
+          {
+            "title": "버스는 '무료' 됐는데, 우리는 부를 수 없었다",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270133&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+            "outlet": "ohmynews.com",
+            "publishedAt": "Fri, 25 Sep 2026 17:46:00 +0900"
+          },
+          {
+            "title": "[윤경준의 이슈톡톡] \"청년 목소리를 정책으로\"…충남청년네트워크",
+            "url": "http://news.lghellovision.net/news/articleView.html?idxno=555398",
+            "outlet": "news.lghellovision.net",
+            "publishedAt": "Fri, 25 Sep 2026 16:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "미중 정상회담 및 국제 정세",
+        "summary": "트럼프 대통령과 시진핑 주석의 회담 결과와 이에 대한 미국 내 반응, 그리고 대만 문제 등 국제 정세에 대한 분석이 있습니다.",
+        "articles": [
+          {
+            "title": "트럼프 \"시진핑과 회담 매우 생산적…엄청난 일 벌어질 것\"",
+            "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609250061&t=NN",
+            "outlet": "wowtv.co.kr",
+            "publishedAt": "Fri, 25 Sep 2026 22:56:00 +0900"
+          },
+          {
+            "title": "[미중정상회담]트럼프·시진핑 회담에 美민주당 시큰둥…\"성과 없어\"",
+            "url": "https://www.newsis.com/view/NISX20260925_0003803425",
+            "outlet": "newsis.com",
+            "publishedAt": "Fri, 25 Sep 2026 15:03:00 +0900"
+          },
+          {
+            "title": "시진핑, 트럼프에 ‘대만 독립 반대’ 요구…한반도 문제도 논의",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017264&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Fri, 25 Sep 2026 22:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "국정감사 및 행정기관의 책임 문제",
+        "summary": "다가오는 국정감사를 앞두고 피감기관 증인 명단과 함께, 행정기관의 책임 미이행 및 관리 감독 소홀 문제가 지적되고 있습니다.",
+        "articles": [
+          {
+            "title": "역대 최대 규모 예산과 외교 안보 등 현안, 2026년 국정감사 일정은?",
+            "url": "https://slownews.kr/166956",
+            "outlet": "slownews.kr",
+            "publishedAt": "Fri, 25 Sep 2026 12:48:00 +0900"
+          },
+          {
+            "title": "\"국민은 이겼는데 행정기관은 버텼다…행정심판 미이행 4년간 122건\"",
+            "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60295",
+            "outlet": "sejungilbo.com",
+            "publishedAt": "Fri, 25 Sep 2026 21:50:00 +0900"
+          },
+          {
+            "title": "[단독] 토양오염 검사도 없이 방치된 주유소 87곳…정부는 책임 떠넘기...",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5221429",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Fri, 25 Sep 2026 19:37:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
