@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T13:20:37.910Z",
+  "title": "2026년 09월 26일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 26일 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "DMZ 지뢰 사고 관련 여야 공방 및 진상 규명 촉구",
+        "summary": "DMZ 지뢰 사고 발생 후, 사고 원인 규명과 정부 대응을 둘러싸고 여야 간의 공방이 이어지고 있으며, 진상 규명 요구가 거세지고 있습니다.",
+        "articles": [
+          {
+            "title": "DMZ 폭발에 국힘 \"정부, 북 눈치 보나\"…김병주 \"왜곡 말라\"",
+            "url": "https://news.jtbc.co.kr/article/NB12320098?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 19:16:00 +0900"
+          },
+          {
+            "title": "한동훈 “軍, 27일 DMZ 지뢰사고 합동조사”…유엔사 요청 거부 의혹 제...",
+            "url": "https://www.kwnews.co.kr/article/20260926500180",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 20:31:00 +0900"
+          },
+          {
+            "title": "한동훈 “유엔사 즉각 조사 요구했지만 軍 거부…누구 짓인지 밝혀야”",
+            "url": "https://www.kukinews.co.kr/article/view/kuk202609260035",
+            "outlet": "국민일보"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "북한 포로 한국 송환 논란 및 외교적 파장",
+        "summary": "북한군 포로의 한국 송환을 둘러싸고 국내 정치권의 논란과 함께 우크라이나와의 외교적 갈등 양상이 나타나고 있습니다.",
+        "articles": [
+          {
+            "title": "[이슈] 北 포로 한국 송환 논란 확산…李 \"우크라, 비공개 합의 어겨\" v...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=744108",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 21:37:00 +0900"
+          },
+          {
+            "title": "[북한 주간브리핑 9.20~9.26] 김정은 신형무기 참관·240㎜ 방사포 시험...",
+            "url": "http://kor.theasian.asia/archives/416714",
+            "outlet": "kor.theasian.asia",
+            "publishedAt": "Sat, 26 Sep 2026 21:54:00 +0900"
+          },
+          {
+            "title": "\"우크라, 북한 포로 '비밀 합의 없었다\"…청 \"일관된 원칙 따라 대응\"",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5221562",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 19:47:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "국회의원 명절 휴가비 논란 및 사회적 시선",
+        "summary": "국회의원의 명절 휴가비 수령액이 중소기업 평균 지급액과 비교되며 논란이 되고 있으며, 일부 의원의 기부 행보도 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "중소기업 평균 지급액 6.6배인 국회의원 추석 떡값... 전액 기부한 의원...",
+            "url": "https://www.wikitree.co.kr/articles/1162151",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 20:50:00 +0900"
+          },
+          {
+            "title": "국회의원 추석 휴가비 440만원…중소기업 상여금의 ‘6.6배’",
+            "url": "http://www.joseilbo.com/news/news_read.php?uid=576359&class=32&grp=",
+            "outlet": "joseilbo.com",
+            "publishedAt": "Sat, 26 Sep 2026 16:32:00 +0900"
+          },
+          {
+            "title": "국회의원 추석 휴가비 440만원…중소기업 상여금의 ‘6.6배’",
+            "url": "http://www.joseilbo.com/news/news_read.php?uid=576359&class=32&grp=",
+            "outlet": "joseilbo.com",
+            "publishedAt": "Sat, 26 Sep 2026 16:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "가상자산 과세 및 기본법 논의 지연",
+        "summary": "가상자산 과세 도입과 관련 법안 논의가 국정감사 및 예산안 처리 일정 등으로 인해 지연되고 있어 투자자들의 우려가 커지고 있습니다.",
+        "articles": [
+          {
+            "title": "가상자산 과세부터 기본법까지 '첩첩산중'…국회 논의는 언제",
+            "url": "https://www.ajunews.com/view/20260926084804638",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sat, 26 Sep 2026 18:02:00 +0900"
+          },
+          {
+            "title": "[N위크] 국내 최대 자본시장 'IR' 열린다...가상자산계 집결 'KBW'도",
+            "url": "https://www.tfmedia.co.kr/news/article.html?no=207488",
+            "outlet": "tfmedia.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 20:34:00 +0900"
+          },
+          {
+            "title": "[N위크] 국내 최대 자본시장 'IR' 열린다...가상자산계 집결 'KBW'도",
+            "url": "https://www.tfmedia.co.kr/news/article.html?no=207488",
+            "outlet": "tfmedia.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 20:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "노동 환경 및 산업 재해 문제",
+        "summary": "환경미화원 산재 사망, 하청 노동자 사망 사고 등 노동 현장의 안전 문제와 열악한 근무 환경에 대한 지적이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "환경미화원 산재 사망 5년 반동안 400명…경기·서울·경남순",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026092621343384617",
+            "outlet": "busan.com",
+            "publishedAt": "Sat, 26 Sep 2026 21:50:00 +0900"
+          },
+          {
+            "title": "[초점] 하청노동자 끼임 사망 두 달 만에 장례…수사·국감 책임규명은...",
+            "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34819",
+            "outlet": "rightknow.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 21:10:00 +0900"
+          },
+          {
+            "title": "\"아이 키우고 돌아갈 곳이 없다\"…50인 미만 중소기업, 1년 뒤 복귀 포기...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610061",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 19:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "경제 지표 및 금리 변동성",
+        "summary": "글로벌 금리 인상 기조와 미국 국채 금리 상승 가능성이 제기되며 국내 경제 및 가계 경제에 미칠 영향에 대한 우려가 나오고 있습니다.",
+        "articles": [
+          {
+            "title": "글로벌 금리 인상 도미노 ...\"미 국채 금리 연내 6% 돌파\"",
+            "url": "https://www.ytn.co.kr/_ln/0104_202609261859080104",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 18:59:00 +0900"
+          },
+          {
+            "title": "[김남현의 채권썰] 변수가 너무 많은 한 주, 일방향 플랫은 아닐듯",
+            "url": "https://www.etoday.co.kr/news/view/2629450",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 22:12:00 +0900"
+          },
+          {
+            "title": "글로벌 금리 인상 도미노 ...\"미 국채 금리 연내 6% 돌파\"",
+            "url": "https://www.ytn.co.kr/_ln/0104_202609261859080104",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 26 Sep 2026 18:59:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
