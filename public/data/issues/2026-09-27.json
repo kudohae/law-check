@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T14:13:59.164Z",
+  "title": "2026년 09월 27일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 9월 27일, 한국 사회의 주요 공공 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "이재명 대통령, 미국·멕시코 순방 마치고 귀국…국내 현안 산적",
+        "summary": "이재명 대통령이 5박 7일간의 미국·멕시코 순방을 마치고 귀국했으며, 귀국 후 청와대 인사, 대법관 재청구, 파병 등 국내 현안들이 산적해 있다.",
+        "articles": [
+          {
+            "title": "이 대통령 귀국길...여야 안보·인사 공방 격화",
+            "url": "https://www.ytn.co.kr/_ln/0101_202609272258279422",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 22:58:00 +0900"
+          },
+          {
+            "title": "李대통령, 5박7일 美·멕시코 순방 마치고 귀국…국내 현안 산적",
+            "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854868",
+            "outlet": "newsworks.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 22:40:00 +0900"
+          },
+          {
+            "title": "李대통령, 5박7일 유엔·멕시코 순방 마치고 귀국…靑인선·통합·부동산...",
+            "url": "https://view.asiae.co.kr/article/2026092622210708622",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 21:35:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "이형일 부총리, 취임 후 첫 경제 현안 간담회 개최",
+        "summary": "이형일 부총리 겸 기획재정부 장관이 취임 후 첫 경제 현안 간담회를 열고 전기차 산업 정책 방향과 퇴직연금 제도 개선 방안 등을 논의했다.",
+        "articles": [
+          {
+            "title": "이형일, 첫 경제현안간담회…전기차 정책 논의",
+            "url": "https://www.hankyung.com/article/202609277830i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 27 Sep 2026 21:01:00 +0900"
+          },
+          {
+            "title": "이형일 부총리, 첫 경제현안간담회서 전기차·퇴직연금 개선 논의",
+            "url": "https://www.ajunews.com/view/20260927204843518",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 27 Sep 2026 21:02:00 +0900"
+          },
+          {
+            "title": "이형일 부총리, 취임 후 첫 경제현안간담회 개최",
+            "url": "https://www.viva100.com/article/20260927500606",
+            "outlet": "viva100.com",
+            "publishedAt": "Sun, 27 Sep 2026 21:38:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "추석 민심과 여야의 정기국회 전략",
+        "summary": "여야는 추석 민심을 바탕으로 정기국회 전략을 짜고 있으며, 민주당은 '민생 올인'을, 국민의힘은 정부 정책 비판과 국정 대전환을 촉구하고 있다.",
+        "articles": [
+          {
+            "title": "민주당 \"추석 민심은 민생\"…조희대 대법권 향한 공세 이어가",
+            "url": "https://www.ajunews.com/view/20260927203016504",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 27 Sep 2026 20:48:00 +0900"
+          },
+          {
+            "title": "엇갈린 추석 민심…여 \"민생 뼈아파\" vs 야 \"일촉즉발\"",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1538744",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 19:58:00 +0900"
+          },
+          {
+            "title": "민주당, 정기국회 '민생 올인' 선언···\"성장 과실, 서민 식탁까지\"",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=147506",
+            "outlet": "ziksir.com",
+            "publishedAt": "Sun, 27 Sep 2026 18:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "공공주택 사업 지연 및 미래기금 운용 논란",
+        "summary": "공공주택 사업 지연으로 인한 주거 불안 문제와 200조 원 규모의 미래기금 운용의 투명성 및 국회 통제 필요성에 대한 지적이 제기되고 있다.",
+        "articles": [
+          {
+            "title": "[단독] \"정부 믿고 기다렸는데 전세 난민될 판\"…공공주택 사업 지연에...",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/27/2026092790137.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sun, 27 Sep 2026 22:30:00 +0900"
+          },
+          {
+            "title": "[사설] ‘정부 쌈짓돈’ 돼가는 200조 미래기금… 혈세 이렇게 써도 되...",
+            "url": "https://www.dt.co.kr/article/12086003?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 18:16:00 +0900"
+          },
+          {
+            "title": "초과세수 50조+α…미래대응기금 200조 원 가능성",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1538740",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 19:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "검찰 수사권 폐지 관련 헌법소원",
+        "summary": "검사의 수사권을 폐지하는 형사소송법 개정안에 반발하여 현직 검사가 헌법재판소에 국회를 상대로 권한쟁의심판을 청구했다.",
+        "articles": [
+          {
+            "title": "“수사권 박탈은 위헌”…현직 검사, 국회 상대로 권한쟁의심판 청구",
+            "url": "https://www.dt.co.kr/article/12085998?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 17:57:00 +0900"
+          },
+          {
+            "title": "민주당 \"추석 민심은 민생\"…조희대 대법권 향한 공세 이어가",
+            "url": "https://www.ajunews.com/view/20260927203016504",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 27 Sep 2026 20:48:00 +0900"
+          },
+          {
+            "title": "[단독] \"정부 믿고 기다렸는데 전세 난민될 판\"…공공주택 사업 지연에...",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/27/2026092790137.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sun, 27 Sep 2026 22:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "지방자치 부활과 지방의회법 필요성",
+        "summary": "지방자치 부활 35년을 맞아 진정한 지방의회법 제정을 통해 지방의회의 독립성과 권한을 강화해야 한다는 목소리가 나오고 있다.",
+        "articles": [
+          {
+            "title": "[월요논단] 지방자치 부활 35년, 진정한 '지방의회법' 필요하다",
+            "url": "https://www.joongdo.co.kr/web/view.php?key=20260927010007832",
+            "outlet": "joongdo.co.kr",
+            "publishedAt": "Sun, 27 Sep 2026 20:10:00 +0900"
+          },
+          {
+            "title": "민주당 \"추석 민심은 민생\"…조희대 대법권 향한 공세 이어가",
+            "url": "https://www.ajunews.com/view/20260927203016504",
+            "outlet": "ajunews.com",
+            "publishedAt": "Sun, 27 Sep 2026 20:48:00 +0900"
+          },
+          {
+            "title": "[단독] \"정부 믿고 기다렸는데 전세 난민될 판\"…공공주택 사업 지연에...",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/27/2026092790137.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Sun, 27 Sep 2026 22:30:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
