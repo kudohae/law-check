@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-28T16:57:53.621Z",
+  "title": "2026년 09월 29일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "농림축산식품부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[인사] 농림축산식품부",
+            "url": "https://www.etoday.co.kr/news/view/2630083",
+            "outlet": "etoday.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:22:00 +0900"
+          },
+          {
+            "title": "[시론] 집값 안정, 유연하고 정교한 정책 필요",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017987&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:37:00 +0900"
+          },
+          {
+            "title": "법사위, 여당 주도 조희대 국감 증인 채택…56개 법안 처리",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514330",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "北포로 1명은 귀순 거부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017959&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:06:00 +0900"
+          },
+          {
+            "title": "野 \"대통령이 北도발 진상 덮어\" - 與 \"장병희생 정쟁 도구화 말라\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068386",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "이 대통령, 오늘 ‘메가프로젝트 3차 회의’ 주재…정주여건 지원 등 논...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673265&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 01:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "젤렌스키",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“젤렌스키, 한국에서 패트리엇 못얻자 북한 포로 송환 공개로 보복”",
+            "url": "https://weekly.khan.co.kr/article/202609290033001",
+            "outlet": "weekly.khan.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:33:00 +0900"
+          },
+          {
+            "title": "\"'비공개 합의 없었다'는 거짓\"…대사대리 초치",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773713&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:19:00 +0900"
+          },
+          {
+            "title": "정부, CPTPP 경제영향 잠정치 공개",
+            "url": "https://www.farminsight.net/news/articleView.html?idxno=16948",
+            "outlet": "farminsight.net",
+            "publishedAt": "Tue, 29 Sep 2026 00:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "분만실 없는 강원 7개 군",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설]‘분만실 없는 강원 7개 군’, 소멸 위기 절벽으로",
+            "url": "https://www.kwnews.co.kr/article/20260928501202",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:03:00 +0900"
+          },
+          {
+            "title": "추미애 경기도지사, 37억9천760만원… 안민석 교육감, 18억1천559만원 신...",
+            "url": "https://www.kyeongin.com/article/1771652",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Tue, 29 Sep 2026 00:02:00 +0900"
+          },
+          {
+            "title": "北 포로 비공개 논란…한-우크라 결실, 외교 쟁점으로 부각",
+            "url": "https://news.tf.co.kr/read/ptoday/2370487.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "이병훈 산업인력공단 이사장",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이병훈 산업인력공단 이사장, 24억4600만원 신고…건물 36억[재산공개]",
+            "url": "https://www.newsis.com/view/NISX20260928_0003805455",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 29 Sep 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설] 30년째 묶인 상속세 공제…낡은 세제가 부른 '자동 증세' 멈춰야",
+            "url": "https://www.hankyung.com/article/2026092801521",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 29 Sep 2026 00:50:00 +0900"
+          },
+          {
+            "title": "외국인 노동 자 인권침해 근절대책 마련을",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1790608500803761074",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "1",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[반도체 시대] \"1,200조 AI 반도체 열린다\"…엔비디아 독주 속 韓 NPU 후발...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=610224",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 00:16:00 +0900"
+          },
+          {
+            "title": "[경기] \"공보의 공백 메운다\"...업무대행 의사 순회진료 재개",
+            "url": "https://www.ytn.co.kr/_ln/0115_202609290138055584",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 29 Sep 2026 01:38:00 +0900"
+          },
+          {
+            "title": "[사설] 법적 권한도 없이 시·군 부단체장 인사까지 세운 경기도",
+            "url": "https://www.suwonilbo.kr/view.html?id=L260929003833feae",
+            "outlet": "suwonilbo.kr",
+            "publishedAt": "Tue, 29 Sep 2026 01:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "여야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "여야, DMZ 폭발사고 공방…\"北 사죄 촉구\" vs \"늑장 대응\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3436264",
+            "outlet": "newscj.com",
+            "publishedAt": "Tue, 29 Sep 2026 00:50:00 +0900"
+          },
+          {
+            "title": "지뢰 사고 놓고 추석 끝까지 ‘매국’ 공방…여야, 정면충돌",
+            "url": "https://www.munhwa.com/article/11619987?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Tue, 29 Sep 2026 00:24:00 +0900"
+          },
+          {
+            "title": "[사설] 정치 적 목적 이상도 이하도 아닌 '내란 특수본'",
+            "url": "https://www.hankookilbo.com/news/article/A2026092815290003371?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 29 Sep 2026 00:10:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
