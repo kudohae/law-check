@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-01",
+  "generatedAt": "2026-09-30T15:11:54.823Z",
+  "title": "2026년 10월 01일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "강원교육재정 세수난",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "강원교육재정 세수난… 내년 500억원 더 끊긴다",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2075852",
+            "outlet": "kado.net",
+            "publishedAt": "Thu, 01 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "민주, 본회의서 산안법·도시정비법 등 처리 추진...필버 대치 가능성",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610010000106455",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "민주는 '지역민심' 국힘은 '농심(農心)' 잡기 총력",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068632",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "장애인 의무고용 외면하는 대기업",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "장애인 의무고용 외면하는 대기업, 미달 상위 50곳 부담금 1314억 납부",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068650",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "李대통령 “김지용 중수청장 후보자…친윤 검사 비난 납득 어려워”",
+            "url": "https://www.seoul.co.kr/news/politics/2026/10/01/20261001500001?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[국가 재정 진단] \"반도체 슈퍼사이클에 세수 역대 최대\"…올해 478조6천...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=611069",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "누구나 기본적인 삶 누리는 사회",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"누구나 기본적인 삶 누리는 사회·안전한 제주 만들 것\"",
+            "url": "http://www.samdailbo.com/news/articleView.html?idxno=270830",
+            "outlet": "samdailbo.com",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설] 광주 군 공항 이전, 속도전에 뒤탈 우려된다",
+            "url": "https://www.hankookilbo.com/news/article/A2026093015020005871?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Thu, 01 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "박승흡 근로복지공단 이사장 취임",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2075844",
+            "outlet": "kado.net",
+            "publishedAt": "Thu, 01 Oct 2026 00:09:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "한미일 토큰",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“한미일 토큰·스테이블코인 대토론”…오늘 국제 세미나",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=01085686645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "김종민 의원, AI 전환에 따른 산업·고용·소득분배 구조 분석 주문",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=720940",
+            "outlet": "newstnt.com",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[정책 인사이트] 응급실 수용만 하면 뺑뺑이 해결?…'최종치료'는 별개",
+            "url": "https://www.apsk.co.kr/news/articleView.html?idxno=540576",
+            "outlet": "apsk.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "약자 위한 정부에서 대",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] ‘약자 위한’ 정부에서 대·중소기업 임금 격차 더 벌어졌다니",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/01/IYDDWM4QERB7TG3E5D26PPH5CY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Thu, 01 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "\"11월 북미회담, 가능성 50%\"…트럼프는 '北 핵 능력' 언급",
+            "url": "https://news.tf.co.kr/read/ptoday/2371637.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[주요공시] 피델릭스, 씨싸이트, 국일신동, 제일기획, 신도기연, 우리기...",
+            "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=208979",
+            "outlet": "kdpress.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "서울시의회 청년 AI 예산 뒷받침해야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 서울시의회 ‘청년 AI 예산’ 뒷받침해야",
+            "url": "https://m.skyedaily.com/news_view.html?ID=312274",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Thu, 01 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"김지용, 친윤 검사 비난 납득 어려워...억지 주장은 국정 방...",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610010002210705",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "반도체 덕에 세수 껑충…올해 63조원 더 걷힌다",
+            "url": "https://www.joongang.co.kr/article/25466164",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "국가기관 믿고 심은 사과가 가짜라면 책임은 누가?",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[기자수첩] '국가기관 믿고 심은 사과'가 가짜라면 책임은 누가?",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077015",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "\"'친윤계 검사' 김지용 쓰지 말라고?\"...李대통령, 누리꾼에 직접 반박",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=06881446645585368&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "30대는 왜 서울에 있는 아파트를 사려 하는가",
+            "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37943",
+            "outlet": "junggi.co.kr",
+            "publishedAt": "Thu, 01 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
