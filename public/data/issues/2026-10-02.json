@@ -1,0 +1,172 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-01T15:36:46.496Z",
+  "title": "2026년 10월 02일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 2일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "북한 DMZ 지뢰 폭발 사고 관련 여야 공방",
+        "summary": "북한의 DMZ 지뢰 폭발 사고에 대한 책임론을 두고 여야 간의 공방이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "민주는 '北 책임론'…국힘은 '정부 책임론' 부각",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068744",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 지뢰 폭발 北 책임, 국군의 날에도 언급 없는 대통령 기념사",
+            "url": "https://www.hankookilbo.com/news/article/A2026100114320002955?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 02 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[취재석] 지뢰 폭발 사고 소모적 정쟁해야 하나",
+            "url": "https://news.tf.co.kr/read/ptoday/2372228.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "트럼프 '알래스카 LNG 한국 투자' 발표 관련 논란",
+        "summary": "트럼프 대통령의 알래스카 LNG 한국 투자 일방 발표에 대한 현실성, 시장성, 정치적 의도 등을 둘러싼 논란이 일고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 對美투자 일방발표…'사업성' 기준 반드시 지켜야",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261001010000459",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 트럼프 ‘韓 알래스카 투자’ 일방 발표, 상업적 합리성 지켜야",
+            "url": "https://www.segye.com/newsView/20261001517073?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Fri, 02 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[사설] 알래스카 LNG 韓투자 못 박은 美…진짜 협상은 지금부터",
+            "url": "https://www.hankyung.com/article/2026100186341",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 02 Oct 2026 00:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "추미애 지사, 홍지선 국토부 장관과 주택 공급 등 현안 논의",
+        "summary": "추미애 경기도지사가 홍지선 국토교통부 장관을 만나 산업과 주거 를 연계한 '경기도형 주택공급 전략' 등 주요 현안을 논의했습니다.",
+        "articles": [
+          {
+            "title": "추미애, 홍지선 국토장관과 회동… 철도·주택 현안 테이블 오른다",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363738323",
+            "outlet": "joongboo.com",
+            "publishedAt": "Fri, 02 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "추미애, 국토부 장관에 산업· 주거 연계한 경기도형 주택공급 제안",
+            "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=728681",
+            "outlet": "the-biz.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "추미애 지사, 홍지선 국토부 장관 만난다…주택공급 등 현안 논의 예정",
+            "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445147",
+            "outlet": "econonews.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "청와대 정책실장 및 경제 성장수석 인사",
+        "summary": "청와대 신임 정책실장에 하준경, 경제 성장수석에 문신학이 임명되었습니다.",
+        "articles": [
+          {
+            "title": "청와대 정책실장에 하준경, 경제성장수석은 문신학",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068739",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "청와대 신임 정책실장에 하준경 '승진 발탁'... 경제 성장수석 문신학",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610020030108761",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:30:00 +0900"
+          },
+          {
+            "title": "대통령, 신임 정책실장에 하준경 임명… 경제성장수석엔 문신학",
+            "url": "https://www.newsis.com/view/?id=NISX20261002_0000447106&c=10501",
+            "outlet": "newsis.com"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "설탕 부담금 도입 논의와 경제적 영향",
+        "summary": "가당음료 설탕 부담금 도입 논의와 관련하여 건강 개선 편익 대비 경제적 비용에 대한 분석이 제기되었습니다.",
+        "articles": [
+          {
+            "title": "[사설] \"100원 들여 얻을 편익 4~9원 불과\"…설탕부담금 도입 신중해야",
+            "url": "https://www.hankyung.com/article/2026100186321",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 02 Oct 2026 00:13:00 +0900"
+          },
+          {
+            "title": "설탕세 도입 논란…건강 증진 효과 vs 경제 부담",
+            "url": "https://www.sedaily.com/NewsView/2372226",
+            "outlet": "서울경제"
+          },
+          {
+            "title": "설탕 부담금, 건강 증진 효과보다 경제적 부담 크다",
+            "url": "https://www.fnnews.com/news/202610011730000000",
+            "outlet": "파이낸셜뉴스"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "국민의힘, 정부 규탄 장외집회 예고 및 보수 결집론",
+        "summary": "국민의힘이 정부 규탄 장외집회를 예고하며 보수 결집론이 부상하고 있습니다.",
+        "articles": [
+          {
+            "title": "국힘, 내일 이재명 정부 규탄 장외집회 예고",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068748",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "대여투쟁 앞 내홍 잠잠해진 국힘…'보수 결집론' 꿈틀?",
+            "url": "https://news.tf.co.kr/read/ptoday/2372226.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Fri, 02 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "국민의힘, '이재명 정부 심판' 장외집회…보수 결집 시동",
+            "url": "https://www.newdaily.co.kr/site/data/html/2026/10/02/2026100200015.html",
+            "outlet": "뉴데일리"
+          }
+        ]
+      }
+    ]
+  }
+}
