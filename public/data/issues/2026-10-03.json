@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T13:38:14.370Z",
+  "title": "2026년 10월 03일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "전국서 모인 4천여 노동 자‧시민",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전국서 모인 4천여 노동 자‧시민, \"10월항쟁 정신 계승\" 외치다!",
+            "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510079",
+            "outlet": "worknworld.kctu.org",
+            "publishedAt": "Sat, 03 Oct 2026 18:24:00 +0900"
+          },
+          {
+            "title": "기후 변화로 식량안보 환경 악화..강원 “농업재해 정책보험 굳건히 지원...",
+            "url": "https://biz.heraldcorp.com/article/10892619?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sat, 03 Oct 2026 16:51:00 +0900"
+          },
+          {
+            "title": "배준영, 공공기관 통폐합 농성장 방문... \"지역 권한 축소·검증 없는 강...",
+            "url": "https://www.tournews21.com/news/articleView.html?idxno=144907",
+            "outlet": "tournews21.com",
+            "publishedAt": "Sat, 03 Oct 2026 18:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "뺑뺑이 막으려 책임 전가 vs 환자 보호 장치는 빠...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"뺑뺑이 막으려 책임 전가\" vs \"환자 보호 장치는 빠져\"… '응급 의료 법 ...",
+            "url": "https://www.segye.com/newsView/20261002512014?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sat, 03 Oct 2026 20:38:00 +0900"
+          },
+          {
+            "title": "[현장] \"李 끌어내려야\" \"나라가 초상집\"…거리로 나온 국민의힘, '보수...",
+            "url": "https://www.dailian.co.kr/news/view/1697702/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 20:00:00 +0900"
+          },
+          {
+            "title": "장동혁, '단식 농성' 공공노련 위원장에 \"공공기관 통합 졸속 추진\"",
+            "url": "https://view.asiae.co.kr/article/2026100319255766428",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 19:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "김민석",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김민석, '단식농성' 공공노련 위원장에 \"공공기관 통폐합 소통\"",
+            "url": "https://www.yna.co.kr/view/AKR20261003044100001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 18:46:00 +0900"
+          },
+          {
+            "title": "' 외교 ·통일·국방부 등도 세종 이전' 근거 법안 발의",
+            "url": "https://www.tjb.co.kr/news05/bodo/view/id/104384",
+            "outlet": "tjb.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 22:10:00 +0900"
+          },
+          {
+            "title": "김여정 \"중거리전략미사일 훈련\"주장…합참 제원 발표 반박",
+            "url": "https://news.tf.co.kr/read/ptoday/2372815.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 20:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "與 北 도발 중단",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "與 \"北 도발 중단·우크라 사과\"…野 \"선택적 분노\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202610032014309cj",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 20:15:00 +0900"
+          },
+          {
+            "title": "전두환 내란 아니라는 김태규… 한겨레·경향 \"망언 책임져야\" \"사죄해...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337507",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 20:03:00 +0900"
+          },
+          {
+            "title": "靑 5인·김승원·김형근이 불러낸 음주운전 페널티 제도화 [시사뒷담]",
+            "url": "https://www.imaeil.com/page/view/2026100313111616196",
+            "outlet": "imaeil.com",
+            "publishedAt": "Sat, 03 Oct 2026 19:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "여야 대표",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "여야 대표, 공공기관 통폐합 반대 '단식 농성장' 각각 찾았다",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000070731",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sat, 03 Oct 2026 18:50:00 +0900"
+          },
+          {
+            "title": "[포토] \"민생파탄·사법파괴·이재명 OUT\" 외치는 국힘 의원들",
+            "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=365772",
+            "outlet": "sisafocus.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 22:10:00 +0900"
+          },
+          {
+            "title": "국힘, 1년 만에 장외집회…민주 \"반민생 정당\"",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782108&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 22:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "북 중거리 전략미사일 훈련",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "북 \"중거리 전략미사일 훈련\"...무력 과시 의도는?",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610032157392330",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 21:57:00 +0900"
+          },
+          {
+            "title": "“상법 개정하면 뭐하나”…국회 ‘역주행’에 시장 분통 [시그널INSIDE]",
+            "url": "https://www.sedaily.com/article/20097873?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sat, 03 Oct 2026 13:00:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"복지급여, 신청하지 않아도 국가가 먼저 챙긴다\"",
+            "url": "https://news.tf.co.kr/read/ptoday/2372794.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 16:47:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "현장 뛰던 홍문표 aT 사장",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "현장 뛰던 홍문표 aT 사장, 임기 남기고 해임",
+            "url": "https://www.farmnmarket.com/news/article.html?no=28044",
+            "outlet": "farmnmarket.com",
+            "publishedAt": "Sat, 03 Oct 2026 20:36:00 +0900"
+          },
+          {
+            "title": "국힘 1년 만에 장외집회…민주 “장동혁 세 과시”",
+            "url": "https://www.kwnews.co.kr/article/20261003500171",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Sat, 03 Oct 2026 20:07:00 +0900"
+          },
+          {
+            "title": "국힘, 1년 만에 서울 도심 집회‥\"이재명을 끌어내리자\"",
+            "url": "https://imnews.imbc.com/news/2026/politics/article/6855604_36911.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Sat, 03 Oct 2026 20:01:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
