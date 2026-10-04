@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T14:18:54.165Z",
+  "title": "2026년 10월 04일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "45조 미래기금에 30% 정부 재량",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "45조 미래기금에 ‘30% 정부 재량’…재경위 “국회 재정통제 약화 우려...",
+            "url": "https://www.ekn.kr/web/view.php?key=20261004028062188",
+            "outlet": "ekn.kr",
+            "publishedAt": "Sun, 04 Oct 2026 20:54:00 +0900"
+          },
+          {
+            "title": "\"정부 재정통제 우회 우려\"… 미래기금 견제 나선 국회",
+            "url": "https://www.mk.co.kr/article/12168159",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Sun, 04 Oct 2026 17:33:00 +0900"
+          },
+          {
+            "title": "이철우 경북도지사 “서울 광화문에 대한민국 영웅들 동상 세우자”",
+            "url": "https://www.yeongnam.com/web/view.php?key=20261004026472187",
+            "outlet": "yeongnam.com",
+            "publishedAt": "Sun, 04 Oct 2026 21:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "TV조선 기자",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "TV조선 기자, 李 SNS확대에 \"현안 풀어가는데 도움될지…\" 우려",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337522",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sun, 04 Oct 2026 20:54:00 +0900"
+          },
+          {
+            "title": "[김인만의 부동산 레이다] LH사장 발언이 현 정부의 시선이다",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=744866",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Sun, 04 Oct 2026 19:01:00 +0900"
+          },
+          {
+            "title": "박용갑 의원, 공공어린이재활병원 운영비 지원 의무화 법안 발의",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712955",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sun, 04 Oct 2026 18:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "민경선 시민 목소리",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "민경선 \"시민 목소리, 시정 변화로\"…고양 미래 '소통·일자리·사람' 제...",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363738381",
+            "outlet": "joongboo.com",
+            "publishedAt": "Sun, 04 Oct 2026 21:10:00 +0900"
+          },
+          {
+            "title": "1차 농협개혁안, 9월에도 상임위 못 넘어…국민의힘 반발 계속",
+            "url": "http://www.ikpnews.net/news/articleView.html?idxno=71604",
+            "outlet": "ikpnews.net",
+            "publishedAt": "Sun, 04 Oct 2026 20:00:00 +0900"
+          },
+          {
+            "title": "국감 모레 시작…'민생 성과' vs '실정 검증' 격돌 예고",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539467",
+            "outlet": "obsnews.co.kr",
+            "publishedAt": "Sun, 04 Oct 2026 19:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "민경선 시장 글로벌 AI 표준도시 만들겠다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "민경선 시장 \"글로벌 AI 표준도시 만들겠다\"",
+            "url": "http://www.mygoyang.com/news/articleView.html?idxno=90592",
+            "outlet": "mygoyang.com",
+            "publishedAt": "Sun, 04 Oct 2026 19:20:00 +0900"
+          },
+          {
+            "title": "박용갑 의원, 공공어린이재활병원 운영비 국비 지원 의무화 법안 대표발...",
+            "url": "https://www.jbnews.com/news/articleView.html?idxno=1512803",
+            "outlet": "jbnews.com",
+            "publishedAt": "Sun, 04 Oct 2026 19:06:00 +0900"
+          },
+          {
+            "title": "치솟는 청년 보금자리론 연체율… ‘수도권 빌라 청년’ 빚 뇌관 되나",
+            "url": "https://www.dailyt.co.kr/newsView/dlt202610040001",
+            "outlet": "dailyt.co.kr",
+            "publishedAt": "Sun, 04 Oct 2026 18:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "박용갑 의원",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "박용갑 의원, 공공어린이재활병원 '국비 지원 의무화' 법안 발의",
+            "url": "http://www.breaknews.com/1240936",
+            "outlet": "breaknews.com",
+            "publishedAt": "Sun, 04 Oct 2026 22:08:00 +0900"
+          },
+          {
+            "title": "[정치개혁Ⅱ-정당·국회개혁⑥] 공천권 독점이 정치를 망친다…제왕적...",
+            "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523344",
+            "outlet": "ilyoseoul.co.kr",
+            "publishedAt": "Sun, 04 Oct 2026 17:24:00 +0900"
+          },
+          {
+            "title": "\"진료 중 소아응급실 압수수색, 환자 안전 위협…수사 기준 마련해야\"",
+            "url": "http://www.ggmedinews.com/news/articleView.html?idxno=6900",
+            "outlet": "ggmedinews.com",
+            "publishedAt": "Sun, 04 Oct 2026 21:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "직장인 절반은 사직 압박",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "직장인 절반은 ‘사직 압박’…“나가라” 해도 부당해고 인정은 10%도 ...",
+            "url": "https://www.kyeonggi.com/article/20261004580189",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Sun, 04 Oct 2026 21:17:00 +0900"
+          },
+          {
+            "title": "전남 법정 공방...경북 의대 신설 지연 우려",
+            "url": "https://www.tbc.co.kr/news/view?pno=20261004144721AE06377&id=211717",
+            "outlet": "tbc.co.kr",
+            "publishedAt": "Sun, 04 Oct 2026 21:06:00 +0900"
+          },
+          {
+            "title": "[스트레이트] \"1cm도 안 된다\"? 미래 위한 선택은",
+            "url": "https://imnews.imbc.com/replay/straight/6855733_28993.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Sun, 04 Oct 2026 21:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "빌라 산 청년들이 먼저 무너진다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "빌라 산 청년들이 먼저 무너진다…보금자리론 연체 상승폭, 아파트의 5...",
+            "url": "https://www.suwonilbo.kr/view.html?id=L261004205344987f",
+            "outlet": "suwonilbo.kr",
+            "publishedAt": "Sun, 04 Oct 2026 20:58:00 +0900"
+          },
+          {
+            "title": "‘北포로 송환 공개’ 논란 속 우크라 전직군인, 이재명 대통령 향해 비...",
+            "url": "https://biz.heraldcorp.com/article/10893037?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sun, 04 Oct 2026 20:56:00 +0900"
+          },
+          {
+            "title": "국감 앞둔 재경위 \"미래대응기금, 국회 통제권 축소 우려\"",
+            "url": "https://www.hankookilbo.com/news/article/A2026100414520005539?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 04 Oct 2026 16:31:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
