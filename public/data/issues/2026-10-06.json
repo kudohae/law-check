@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-05T17:20:00.652Z",
+  "title": "2026년 10월 06일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "접경지 시장군수협 대북방송 재개 반대",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "접경지 시장군수협 \"대북방송 재개 반대\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2076479",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 06 Oct 2026 00:06:00 +0900"
+          },
+          {
+            "title": "김태선 대표발의 '산업안전보건법 개정안 3건' 본회의 통과",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068897",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 정쟁·호통·기업인 벌주기…이젠 국감 구태 벗고 송곳 검증을",
+            "url": "https://www.sedaily.com/article/20098255?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 06 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "주거 안정플랜서 소외된 지방",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[데스크 칼럼] 주거 안정플랜서 소외된 ‘지방’",
+            "url": "https://www.fntimes.com/html/view.php?ud=202610022354346337dd55077bc2_18",
+            "outlet": "fntimes.com",
+            "publishedAt": "Tue, 06 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "접경지 단체장들 \"대북확성기 재개 반대…주민안전이 최우선\"",
+            "url": "https://www.yna.co.kr/view/AKR20261005022100504?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "과징금 전성시대 유감[청계광장/이성엽]",
+            "url": "https://www.mt.co.kr/opinion/2026/10/06/2026100510240948822",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 02:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "이재명 정부 2년 차 국정감사 시작",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이재명 정부 2년 차 국정감사 시작…주요 현안 검증대",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678093&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 01:11:00 +0900"
+          },
+          {
+            "title": "[2026 국감] 지방 의료 원 35곳 중 30곳 적자…지난해 순손실 1679억원",
+            "url": "https://www.thedailypost.kr/news/articleView.html?idxno=116007",
+            "outlet": "thedailypost.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:40:00 +0900"
+          },
+          {
+            "title": "대북 확성기 재개론…접경지 단체장들 '반대 성명'",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR20261006001644s7I",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "정당",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"정당·지역 넘어 정치 신인 발굴·역량 강화 연대해야\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2076521",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 06 Oct 2026 00:08:00 +0900"
+          },
+          {
+            "title": "[2026 국감 일정] 6일 대법원-행안부 등 대상...조희대 출석할까",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713393",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Tue, 06 Oct 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[뉴스&이슈]결혼 늘면서 출생아 역대 최장 기간 증가⋯아이 낳고 기르기...",
+            "url": "https://www.kwnews.co.kr/article/20261005501223",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "국힘",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국힘, 개천절에 서울서 대규모 장외집회",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068890",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "광주는 반도체로 뚫었는데…TK신공항 6년째 '평행선'",
+            "url": "https://www.dailian.co.kr/news/view/1697949/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 01:24:00 +0900"
+          },
+          {
+            "title": "[사설] 6일 국감 시작…날카로운 정책검증으로 국민 눈높이에 맞추길",
+            "url": "https://www.hankyung.com/article/2026100537461",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 06 Oct 2026 00:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "김신 완도군수 취임 100일",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[기자수첩] 김신 완도군수 취임 100일…\"군민이 주인 되는 새로운 완도...",
+            "url": "http://www.weeklytoday.com/news/articleView.html?idxno=796907",
+            "outlet": "weeklytoday.com",
+            "publishedAt": "Tue, 06 Oct 2026 00:40:00 +0900"
+          },
+          {
+            "title": "오늘부터 국정감사 돌입...조희대·대미투자 등 최대 쟁점",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610060023128781",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:23:00 +0900"
+          },
+          {
+            "title": "[사설] 국감의 초점은 정쟁 아닌 경제와 민생이어야",
+            "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610052118471060463",
+            "outlet": "dnews.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "국내 암 환자 74만명 분석",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국내 암 환자 74만명 분석…연명 의료 법 이후 항생제 사용 오히려 증가",
+            "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210125",
+            "outlet": "thefirstmedia.net",
+            "publishedAt": "Tue, 06 Oct 2026 00:18:00 +0900"
+          },
+          {
+            "title": "[국감 미리보기-끝] 뒤바뀐 여야 국감 전략 시험대",
+            "url": "https://news.tf.co.kr/read/ptoday/2373017.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[사설] 국감, 정쟁 아닌 국민 위해 철저 검증하라",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261005010001138",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Tue, 06 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
