@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-06T15:24:57.564Z",
+  "title": "2026년 10월 07일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "북한",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[종합] 북한, 지뢰 폭발 '자작극' 주장 반복…우리 군 제거작전엔 무력...",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=553013",
+            "outlet": "joongangenews.com",
+            "publishedAt": "Wed, 07 Oct 2026 00:16:00 +0900"
+          },
+          {
+            "title": "2026 국감 첫날…도 국회의원들, 전기본·AI·부동산 ‘송곳 검증’",
+            "url": "https://www.kwnews.co.kr/article/20261006501441",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:09:00 +0900"
+          },
+          {
+            "title": "김현지 주례 섰던 하동근, 면접 꼴찌에도 공기업 사장 됐다",
+            "url": "https://www.joongang.co.kr/article/25467628",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "오늘 국방부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "오늘 국방부·통일부 국정감사...'DMZ 지뢰' 최대 쟁점",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610070002403823",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "우크라 '韓, 러 석유공급' 보도에 비판…\"제재 정책과 어긋나\"",
+            "url": "https://www.news1.kr/world/europe/6312157",
+            "outlet": "news1.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설]울산 미반영 국비 확보, '지역 몫' 아닌 국가 경쟁력이다",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068950",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "한동훈 북한과 달리 우크라만 쥐 잡듯 조현 답변 거...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "한동훈 “북한과 달리 우크라만 쥐 잡듯” 조현 “답변 거부”",
+            "url": "https://www.joongang.co.kr/article/25467662",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:08:00 +0900"
+          },
+          {
+            "title": "이창용 “주 52시간 상한 폐지 등 노동 특례, 전 산업으로”",
+            "url": "https://www.joongang.co.kr/article/25467641",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 국무회의 불려 간 공소·중수청 수장… 정치 중립성 우려된다",
+            "url": "https://www.hankookilbo.com/news/article/A2026100615120000743?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Wed, 07 Oct 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "비트코인",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[자정 뉴스브리핑] 비트코인, 고점 1년 뒤 32% 하락 外",
+            "url": "https://www.tokenpost.kr/news/briefing/418960",
+            "outlet": "tokenpost.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[사설] 사회적 대화, 노동 개혁 ‘시간 끌기’ 명분 돼선 안돼",
+            "url": "https://www.sedaily.com/article/20098748?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Wed, 07 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "“인천 양대 공사 사장 인선, 통폐합 저지·현안 해결할 ‘전문성’이 ...",
+            "url": "https://kpenews.com/View.aspx?No=4254140",
+            "outlet": "kpenews.com",
+            "publishedAt": "Wed, 07 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "지역 여야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "지역 여야, 에너지 공공기관 울산 이전 당위성 피력",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068985",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 집권 16개월에도 윤석열 탓, 사실관계도 안 맞아",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/07/ZALZ7QXLXVHPNHFO4DCZ524VL4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Wed, 07 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[고정애의 시시각각] 대통령 인사권의 역설",
+            "url": "https://www.joongang.co.kr/article/25467670",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "산부인과 수술실 영상",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "‘산부인과 수술실 영상, 해외로 유출됐다’…CCTV 해킹 의혹 경찰 수사...",
+            "url": "https://www.munhwa.com/article/11621766?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Wed, 07 Oct 2026 00:13:00 +0900"
+          },
+          {
+            "title": "메트로신문 10월7일자 한줄뉴스",
+            "url": "http://www.metroseoul.co.kr/article/20261006500438",
+            "outlet": "metroseoul.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] “국회·대통령, 대법원장 제청 관여 못해”…이것이 상식",
+            "url": "https://www.sedaily.com/article/20098749?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Wed, 07 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "이재명 대통령 중수청",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이재명 대통령 \"중수청, 편 가릴 것 없이 엄정 수사해달라\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068979",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "'잘 싸우는 한동훈' 통했지만…보수 선두권에도 '확장성' 시험대",
+            "url": "https://news.tf.co.kr/read/ptoday/2373559.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[단독] 수리비는 수입차가 비싼데… 보험료는 국산차가 더 비싸다",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020407&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Wed, 07 Oct 2026 00:19:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
