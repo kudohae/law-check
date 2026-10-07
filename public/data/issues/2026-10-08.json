@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-07T15:43:31.668Z",
+  "title": "2026년 10월 08일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 8일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "녹색 대전환 정책 추진 및 재원 마련",
+        "summary": "정부가 녹색 대전환을 위한 대규모 투자를 발표하고 관련 정책을 구체화하고 있습니다. 재원 마련 방안과 실행력 확보가 주요 과제입니다.",
+        "articles": [
+          {
+            "title": "[사설] 녹색 대전환에 1000조 투입, 실행력 갖추되 과속 경계를",
+            "url": "https://www.sedaily.com/article/20099267?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "이대통령 \"기후위기, 인류 생존 위협…녹색대전환 절실\"",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3715745",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:28:00 +0900"
+          },
+          {
+            "title": "10년간 1220조원 '녹색 대전환'에 쏟아붓는다...철강·석화 등 5대업종 공...",
+            "url": "https://news.jtbc.co.kr/article/NB12321903?influxDiv=NAVER",
+            "outlet": "news.jtbc.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:31:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "한미 관계 및 통상 갈등 심화",
+        "summary": "미국 정치권에서 한국의 대중국 외교 및 반도체 투자, 쿠팡 규제 등을 문제 삼으며 통상·외교 갈등 압박 수위를 높이고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 구체화하는 이상신호…韓美 불신방치 괜찮나",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261007010002161",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "트럼프 “한국, 관세 낮추려면 대가 지불해야”…밴스 “LNG, 한국 현 정...",
+            "url": "https://www.voakorea.com/a/trump-vance-korea-lng-100726/8208734.html",
+            "outlet": "voakorea.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:16:00 +0900"
+          },
+          {
+            "title": "호남 반도체 딴지 거는 ‘국힘’ 국익 정당 맞나",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1791385800804055074",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "부동산 시장 불안정과 정부 정책",
+        "summary": "주거 불안에 대한 여야의 한목소리가 나오고 있으며, 정부의 부동산 정책에 대한 비판과 함께 대책 마련 요구가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 국정 운영은 대통령 혼자 하는 것이 아니다",
+            "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071853047940833",
+            "outlet": "dnews.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:20:00 +0900"
+          },
+          {
+            "title": "[스코어보드-국토위] 주거 불안에 여야 없었다…\"대책 마련\" 한목소리",
+            "url": "https://www.mt.co.kr/politics/2026/10/08/2026100722190580972",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:19:00 +0900"
+          },
+          {
+            "title": "[단독] 곧 겨울인데… 강남권 열수송관 절반 이상 20년 넘은 ‘시한폭탄...",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020801&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "이재명 관련 사법 리스크 및 정치적 파장",
+        "summary": "이화영 측의 이재명 대표에 대한 언급과 과거 여론조사 결과 관련 판결 등 이재명 대표를 둘러싼 사법적, 정치적 쟁점이 지속되고 있습니다.",
+        "articles": [
+          {
+            "title": "이화영 측 \"이재명에 화 많이 나… 가석방 요구했지만 움직임 없어\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3438715",
+            "outlet": "newscj.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:42:00 +0900"
+          },
+          {
+            "title": "운석열 '명태균 여론조사' 무죄로 뒤집혀…\"의사 합치 증거 없다\"",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788038&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:36:00 +0900"
+          },
+          {
+            "title": "[사설] 우크라이나와 외교 갈등, 무슨 득이 되나",
+            "url": "https://www.hankookilbo.com/news/article/A2026100715110001129?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "교권 보호 및 교사 기본권 보장 논의",
+        "summary": "교사들의 정치 기본권 보장, 아동복지법 개정 등이 주요 요구사항으로 떠오르며 교권 보호와 관련된 사회적 논의가 활발합니다.",
+        "articles": [
+          {
+            "title": "교사들, 여의도로 향하는 이유는",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=673272",
+            "outlet": "gjdream.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[시사천국] 국감서 맞붙은 쟁점들…박진영부터 조희대·중수청까지",
+            "url": "https://news.cpbc.co.kr/article/1176209?division=NAVER",
+            "outlet": "news.cpbc.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:26:00 +0900"
+          },
+          {
+            "title": "부산지법, 부하 장교 성희롱과 언어폭력 부대장 정직 3개월 처분 '정당...",
+            "url": "http://www.lawissue.co.kr/view.php?ud=2026100720125738759a8c8bf58f_12",
+            "outlet": "lawissue.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "산업 안전 및 규제 관련 논의",
+        "summary": "중대재해 발생 기업에 대한 과징금 부과 등 산업 안전보건법 개정안 통과와 함께 기업 규제 완화에 대한 목소리도 나오고 있습니다.",
+        "articles": [
+          {
+            "title": "HD현대 조선 총괄부회장에 이상균 선임",
+            "url": "https://www.donga.com/news/Economy/article/all/20261007/134805141/2",
+            "outlet": "donga.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:31:00 +0900"
+          },
+          {
+            "title": "[사설] 기업인이 ‘심한 규제’ 느끼지 않게 하자",
+            "url": "https://m.skyedaily.com/news_view.html?ID=312609",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Thu, 08 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "공수처 수사대상 대통령·국회의원 빠지나… 與 개편안 논란",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020785&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Thu, 08 Oct 2026 00:08:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
