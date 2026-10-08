@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-08T15:48:58.373Z",
+  "title": "2026년 10월 09일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 9일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "농지 전수조사 논란 및 정책 신뢰도 하락",
+        "summary": "대통령 지시에 따른 농지 전수조사가 국민 혼란을 야기하고 정책 불신을 심화시킨다는 비판이 제기되었습니다.",
+        "articles": [
+          {
+            "title": "[사설] 대통령 지시 따른 농지 전수조사…국민 혼란만 키웠다",
+            "url": "https://www.joongang.co.kr/article/25468338",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:24:00 +0900"
+          },
+          {
+            "title": "상속·고령층 임대농지는 ‘노터치’…정부, 성난 농심에 후퇴",
+            "url": "https://www.joongang.co.kr/article/25468348",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:36:00 +0900"
+          },
+          {
+            "title": "[사설] 질러놓고 반발하면 후퇴, 이런 아마추어 정부 어딨나",
+            "url": "https://www.hankookilbo.com/news/article/A2026100813570003534?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "대북 송금 사건 관련 정치적 공방 및 사법적 쟁점",
+        "summary": "이화영 전 부지사의 대북 송금 사건과 관련하여 조작 기소 의혹 및 정치적 공방이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 대통령에 '대북송금 조작기소' 청구서 내민 이화영",
+            "url": "https://www.hankookilbo.com/news/article/A2026100815220002212?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[한반도포커스] 2015년엔 '적개심' 고취하더니…이번엔 침묵, 왜?",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789937&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:39:00 +0900"
+          },
+          {
+            "title": "[사설] 말뿐인 ‘단호한 대응’, “광대극 벌이냐”는 김여정 조롱",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/09/YBRJPMJ6OBFI5HLXR5PIHBYGMQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:21:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "레버리지 ETF 규제 및 투자자 보호 논쟁",
+        "summary": "레버리지 ETF 관련 규제와 투자자 보호 방안을 두고 정치권에서 공방이 벌어지고 있습니다.",
+        "articles": [
+          {
+            "title": "정무위 '레버리지 ETF' 공방…\"개미 약탈 게이트\"·\"음모론\"(종합2보)",
+            "url": "https://www.yna.co.kr/view/AKR20261008095452001?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:17:00 +0900"
+          },
+          {
+            "title": "[2026 국감] '레버리지 ETF' 책임 공방...이억원 \"청와대 지시 없었다\" (...",
+            "url": "https://www.newspim.com/news/view/20261008001406",
+            "outlet": "newspim.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:25:00 +0900"
+          },
+          {
+            "title": "野 '암살자(들)' 공세…與 \"투자 결정때 산은 회장, 尹정부 인사\"",
+            "url": "https://www.news1.kr/finance/bank/6315076",
+            "outlet": "news1.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "병역 특례 제도 개편 논의 가열",
+        "summary": "체육계 병역 특례 논란이 정치권으로 확산되며 제도 전면 개정 요구가 높아지고 있습니다.",
+        "articles": [
+          {
+            "title": "[뉴스로 보는 고사성어] 동족방뇨(凍足放溺), \"언 발에 오줌 누기\"",
+            "url": "https://www.imaeil.com/page/view/2026090315034579647",
+            "outlet": "imaeil.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:31:00 +0900"
+          },
+          {
+            "title": "\"다시는 대표팀 오지 마라\" 양민혁, 벨기에 금의환향 '활짝'→비판 댓글...",
+            "url": "http://www.osen.co.kr/article/G1112890271",
+            "outlet": "osen.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:19:00 +0900"
+          },
+          {
+            "title": "“군대 안 간다”...금메달 뒤 경솔한 환호가 부른 거센 '후폭풍' [이영...",
+            "url": "https://news.tf.co.kr/read/soccer/2374199.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "국채 발행 및 재정 건전성 논쟁",
+        "summary": "정부의 국채 발행 규모와 재정 관리 방식에 대한 여야 간 공방이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "국힘 “104조 놔두고 국채 발행, 역마진 빚투” 박홍근 “재정관리 가능...",
+            "url": "https://www.joongang.co.kr/article/25468344",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:33:00 +0900"
+          },
+          {
+            "title": "[사설]삼성 분기 영업익 107조 대기록…마냥 환호할 때 아니다",
+            "url": "https://www.sedaily.com/article/20099805?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:08:00 +0900"
+          },
+          {
+            "title": "이재준 수원시장 \"중앙 권한·재원 지방으로 이양해야\"… 분권 대전환 ...",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3438983",
+            "outlet": "newscj.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "노동 개혁 및 사회적 대화 관련 쟁점",
+        "summary": "민주노총의 사회적 대화 복귀 무산과 노동 규제 혁파 필요성이 제기되며 노동 개혁 관련 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "[사설] 사회 적 대화 복귀 표결마저 막은 민노총…노동개혁 후퇴 안 돼",
+            "url": "https://www.hankyung.com/article/2026100818141",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "노봉법 모범 되려다…오히려 발목잡힌 정부",
+            "url": "https://www.joongang.co.kr/article/25468313",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 09 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설]삼성 분기 영업익 107조 대기록…마냥 환호할 때 아니다",
+            "url": "https://www.sedaily.com/article/20099805?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 09 Oct 2026 00:08:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
