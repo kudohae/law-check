@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-09T15:31:14.281Z",
+  "title": "2026년 10월 10일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "안민석 경기교육감",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "안민석 경기교육감, 국회에 교육활동 보호법 개정 촉구…\"교사도 시민으...",
+            "url": "https://www.tournews21.com/news/articleView.html?idxno=145352",
+            "outlet": "tournews21.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:22:00 +0900"
+          },
+          {
+            "title": "[주간사모펀드] MBK파트너스, 홈플 지분 전량 소각...이제 '새 주인' 찾기",
+            "url": "https://news.tf.co.kr/read/economy/2374529.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "정청래 美비자 보류에… 與 “깊은 유감” 野 “ 외교 참사”",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021366&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "박관열 광주시장 용인 반도체 1인시위 지역비대위 방...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "박관열 광주시장 \"용인 반도체 1인시위 지역비대위 방해 ...1인시위 정당...",
+            "url": "https://www.tournews21.com/news/articleView.html?idxno=145345",
+            "outlet": "tournews21.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:24:00 +0900"
+          },
+          {
+            "title": "\"北 면전에 공식 사과 요구\"…지뢰 제거·첨단무기 시위 이어 유엔 외교 ...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613906",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "의료사고 사망해도 의사 처벌 면제, 피해자 보호 역행…재개정 목소리 ...",
+            "url": "https://news.tf.co.kr/read/life/2374535.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "OTT 때문에 사라진다더니",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"OTT 때문에 사라진다더니\"…'거실의 반격' TV 이용률 되레 늘었다",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613897",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:16:00 +0900"
+          },
+          {
+            "title": "[주간政談<상>] SNS가 곧 소통이다…李대통령의 'X'",
+            "url": "https://news.tf.co.kr/read/ptoday/2374697.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[포토뉴스] 외교 부·강원특별자치도 공동주관, 주한 외교 단 지방민생 현...",
+            "url": "https://gw.newdaily.co.kr/site/data/html/2026/10/10/2026101000001.html",
+            "outlet": "gw.newdaily.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "美의 잇단 비자 거부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 美의 잇단 비자 거부, 갈등 본질은 친북·친중 의심 아닌가",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/10/SG4AWC45FNCVPOWCL7B63LIVZM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:21:00 +0900"
+          },
+          {
+            "title": "[사설] 부동산·농지 이어 통상도 정책 유턴, 미래 성장까지 흔들어서야",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/10/ALDN2BXWLNDC7H4KW6AHQR72GU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:11:00 +0900"
+          },
+          {
+            "title": "[토요칼럼] 토지거래허가제 1년의 청구서",
+            "url": "https://www.hankyung.com/article/2026100928401",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "배 뒤집히는 데 단 3초",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[그해 오늘] \"배 뒤집히는 데 단 3초\"…292명 삼킨 서해훼리호의 비극",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=01085686645611608&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "김신영, 알고보니 자격증 부자...\"꽂히면 끝까지 판다\" (나 혼자 산다)",
+            "url": "https://www.xportsnews.com/article/2206049",
+            "outlet": "xportsnews.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[김대호 진단] 국채대란 역사의 교훈... YCC (수익률통제) vs QE (양적완화...",
+            "url": "https://www.g-enews.com/view.php?ud=202610081051011357906806b77b_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "호황인데 빚만 2680조?",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"호황인데 빚만 2680조?\"…美 재정적자 2조 달러 육박에 \"지속 불가능\" ...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613905",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:30:00 +0900"
+          },
+          {
+            "title": "[취재수첩] 각종 의혹에 시끄러운 '청년 창업 산실' 디캠프",
+            "url": "https://www.hankyung.com/article/2026100928411",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:13:00 +0900"
+          },
+          {
+            "title": "[사설] 사망 후에도 3년 넘게 기초연금 지급…'복지 누수' 이뿐인가",
+            "url": "https://www.hankyung.com/article/2026100928881",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:09:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "곳곳서 삐걱대는 한",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 곳곳서 삐걱대는 한·미 관계…방치 말고 신뢰 회복 서둘러야",
+            "url": "https://www.hankyung.com/article/2026100928891",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 10 Oct 2026 00:09:00 +0900"
+          },
+          {
+            "title": "“한국에서 태어난 건 축복이다” 입소문 탄 ‘80억 분의 1’ 뭐길래 [주...",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021369&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:03:00 +0900"
+          },
+          {
+            "title": "2.3조 vs 54조… 레버리지 손실 추정액 23배 차이나는 까닭 [팩트체크]",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021364&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
