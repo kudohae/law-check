@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-10-10",
-  "generatedAt": "2026-10-09T15:31:14.281Z",
+  "generatedAt": "2026-10-10T14:38:50.169Z",
   "title": "2026년 10월 10일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -19,180 +19,154 @@
   "root": {
     "id": "today",
     "label": "오늘의 주요 시사",
-    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "summary": "2026년 10월 10일 한국 사회의 주요 시사 이슈를 다룹니다.",
     "children": [
       {
-        "id": "fallback1",
-        "label": "안민석 경기교육감",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue1",
+        "label": "이재명 대통령, SNS 소통 방식에 대한 입장 표명",
+        "summary": "이재명 대통령이 '품격 없다'는 비판에도 불구하고 SNS 소통을 계속하겠다는 입장을 밝히며 노무현 전 대통령을 언급했습니다.",
         "articles": [
           {
-            "title": "안민석 경기교육감, 국회에 교육활동 보호법 개정 촉구…\"교사도 시민으...",
-            "url": "https://www.tournews21.com/news/articleView.html?idxno=145352",
-            "outlet": "tournews21.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:22:00 +0900"
+            "title": "[속보] 李 “품격 없다 비난해도 SNS 소통 계속하겠다…노무현님 떠올라...",
+            "url": "https://www.dt.co.kr/article/12088250?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 23:22:00 +0900"
           },
           {
-            "title": "[주간사모펀드] MBK파트너스, 홈플 지분 전량 소각...이제 '새 주인' 찾기",
-            "url": "https://news.tf.co.kr/read/economy/2374529.htm",
-            "outlet": "news.tf.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+            "title": "이 대통령, \"노무현 전 대통령도 댓글 소통... SNS 계속 할 것\"",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337647",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 23:01:00 +0900"
           },
           {
-            "title": "정청래 美비자 보류에… 與 “깊은 유감” 野 “ 외교 참사”",
-            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021366&cp=nv",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:02:00 +0900"
+            "title": "이 대통령 \"비난해도 SNS 소통 계속할 것…소통하다 조롱당한 盧 떠올라...",
+            "url": "https://www.newsis.com/view/NISX20261010_0003820720",
+            "outlet": "newsis.com",
+            "publishedAt": "Sat, 10 Oct 2026 23:18:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback2",
-        "label": "박관열 광주시장 용인 반도체 1인시위 지역비대위 방...",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue2",
+        "label": "외교 안보 관련 논란 및 비판",
+        "summary": "정부의 외교 안보 정책 및 대응에 대한 비판과 논란이 제기되고 있습니다.",
         "articles": [
           {
-            "title": "박관열 광주시장 \"용인 반도체 1인시위 지역비대위 방해 ...1인시위 정당...",
-            "url": "https://www.tournews21.com/news/articleView.html?idxno=145345",
-            "outlet": "tournews21.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:24:00 +0900"
+            "title": "국민의힘, 정동영 사퇴·경질 촉구…\"북한 책임 회피 빌미 줘\"",
+            "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394970",
+            "outlet": "fntoday.co.kr"
           },
           {
-            "title": "\"北 면전에 공식 사과 요구\"…지뢰 제거·첨단무기 시위 이어 유엔 외교 ...",
-            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613906",
-            "outlet": "cbci.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:10:00 +0900"
+            "title": "與 \"감사서한은 매국\" ...나경원 의원 \"참 지독한 친북정권\"",
+            "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360380",
+            "outlet": "biztribune.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 20:38:00 +0900"
           },
           {
-            "title": "의료사고 사망해도 의사 처벌 면제, 피해자 보호 역행…재개정 목소리 ...",
-            "url": "https://news.tf.co.kr/read/life/2374535.htm",
-            "outlet": "news.tf.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+            "title": "與 “젤렌스키에 감사서한은 매국”…나경원 “지독한 친북정권”",
+            "url": "https://www.munhwa.com/article/11622515?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 10 Oct 2026 20:07:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback3",
-        "label": "OTT 때문에 사라진다더니",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue3",
+        "label": "노동 시간 및 임금 관련 이슈",
+        "summary": "직장인의 야근수당 미지급 문제와 최저임금 관련 논의가 진행 중입니다.",
         "articles": [
           {
-            "title": "\"OTT 때문에 사라진다더니\"…'거실의 반격' TV 이용률 되레 늘었다",
-            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613897",
-            "outlet": "cbci.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:16:00 +0900"
-          },
-          {
-            "title": "[주간政談<상>] SNS가 곧 소통이다…李대통령의 'X'",
-            "url": "https://news.tf.co.kr/read/ptoday/2374697.htm",
-            "outlet": "news.tf.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
-          },
-          {
-            "title": "[포토뉴스] 외교 부·강원특별자치도 공동주관, 주한 외교 단 지방민생 현...",
-            "url": "https://gw.newdaily.co.kr/site/data/html/2026/10/10/2026101000001.html",
-            "outlet": "gw.newdaily.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:06:00 +0900"
-          }
-        ]
-      },
-      {
-        "id": "fallback4",
-        "label": "美의 잇단 비자 거부",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
-        "articles": [
-          {
-            "title": "[사설] 美의 잇단 비자 거부, 갈등 본질은 친북·친중 의심 아닌가",
-            "url": "https://www.chosun.com/opinion/editorial/2026/10/10/SG4AWC45FNCVPOWCL7B63LIVZM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "outlet": "chosun.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:21:00 +0900"
-          },
-          {
-            "title": "[사설] 부동산·농지 이어 통상도 정책 유턴, 미래 성장까지 흔들어서야",
-            "url": "https://www.chosun.com/opinion/editorial/2026/10/10/ALDN2BXWLNDC7H4KW6AHQR72GU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "outlet": "chosun.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:11:00 +0900"
-          },
-          {
-            "title": "[토요칼럼] 토지거래허가제 1년의 청구서",
-            "url": "https://www.hankyung.com/article/2026100928401",
+            "title": "\"야근수당 수억원 떼먹었는데\"…직장인 공짜노동 막을 '방패'",
+            "url": "https://www.hankyung.com/article/2026101036287",
             "outlet": "hankyung.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:18:00 +0900"
+            "publishedAt": "Sat, 10 Oct 2026 22:06:00 +0900"
+          },
+          {
+            "title": "업종별 최저임금 ‘시대 역행’ 비판…혁신당, 독자 노선 모색하나",
+            "url": "https://www.kukinews.com/article/view/kuk202610100031",
+            "outlet": "kukinews.com",
+            "publishedAt": "Sat, 10 Oct 2026 21:28:00 +0900"
+          },
+          {
+            "title": "[단독] \"건당 2만 원\"에 가입자 정보를…공단 직원 반전",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791276&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 20:32:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback5",
-        "label": "배 뒤집히는 데 단 3초",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue4",
+        "label": "부동산 정책 및 주거 문제",
+        "summary": "부동산 세제 개편과 내 집 마련의 어려움에 대한 논의가 이루어지고 있습니다.",
         "articles": [
           {
-            "title": "[그해 오늘] \"배 뒤집히는 데 단 3초\"…292명 삼킨 서해훼리호의 비극",
-            "url": "https://www.edaily.co.kr/News/Read?newsId=01085686645611608&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-            "outlet": "edaily.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:02:00 +0900"
+            "title": "[부동산 트렌드] 맞벌이해도 서울 집 멀어졌다…내 집 마련의 가혹한 현...",
+            "url": "http://www.sisacast.kr/news/articleView.html?idxno=100873",
+            "outlet": "sisacast.kr",
+            "publishedAt": "Sat, 10 Oct 2026 20:44:00 +0900"
           },
           {
-            "title": "김신영, 알고보니 자격증 부자...\"꽂히면 끝까지 판다\" (나 혼자 산다)",
-            "url": "https://www.xportsnews.com/article/2206049",
-            "outlet": "xportsnews.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+            "title": "배준영 “李 ‘호텔경제학’은 빚이라도 갚는다는데...‘호텔행정학’...",
+            "url": "https://www.kgnews.co.kr/news/article.html?no=914524",
+            "outlet": "kgnews.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 20:10:00 +0900"
           },
           {
-            "title": "[김대호 진단] 국채대란 역사의 교훈... YCC (수익률통제) vs QE (양적완화...",
-            "url": "https://www.g-enews.com/view.php?ud=202610081051011357906806b77b_1",
-            "outlet": "g-enews.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:00:00 +0900"
+            "title": "선착공 카드 꺼낸 최태원…'호남 반도체 속도전' 행정에 달렸다",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000072215",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sat, 10 Oct 2026 22:45:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback6",
-        "label": "호황인데 빚만 2680조?",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue5",
+        "label": "사회 복지 및 취약 계층 지원",
+        "summary": "생계급여 탈락 가구 증가와 보육 예산 관련 논란이 있습니다.",
         "articles": [
           {
-            "title": "\"호황인데 빚만 2680조?\"…美 재정적자 2조 달러 육박에 \"지속 불가능\" ...",
-            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=613905",
-            "outlet": "cbci.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:30:00 +0900"
+            "title": "생계급여 신청 10명 중 4명 탈락…‘경계선’ 탈락 1만1천 가구 넘어",
+            "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510977773",
+            "outlet": "medicalworldnews.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 22:10:00 +0900"
           },
           {
-            "title": "[취재수첩] 각종 의혹에 시끄러운 '청년 창업 산실' 디캠프",
-            "url": "https://www.hankyung.com/article/2026100928411",
-            "outlet": "hankyung.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:13:00 +0900"
+            "title": "추미애 \"보육예산 증액했지만 추경안 도의회 통과 못 해\"…삭감 논란 해...",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363738857",
+            "outlet": "joongboo.com",
+            "publishedAt": "Sat, 10 Oct 2026 22:32:00 +0900"
           },
           {
-            "title": "[사설] 사망 후에도 3년 넘게 기초연금 지급…'복지 누수' 이뿐인가",
-            "url": "https://www.hankyung.com/article/2026100928881",
-            "outlet": "hankyung.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:09:00 +0900"
+            "title": "[기고]北 MDL 지뢰도발로 안보 가 매우 위중한데, 사관학교 통폐합이 그...",
+            "url": "https://www.munhwa.com/article/11622518?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 10 Oct 2026 20:42:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback7",
-        "label": "곳곳서 삐걱대는 한",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue6",
+        "label": "병역 특례 제도 개편 논의",
+        "summary": "스포츠 경기 금메달리스트 등에 대한 병역 특례 제도 손질 논의가 진행 중입니다.",
         "articles": [
           {
-            "title": "[사설] 곳곳서 삐걱대는 한·미 관계…방치 말고 신뢰 회복 서둘러야",
-            "url": "https://www.hankyung.com/article/2026100928891",
-            "outlet": "hankyung.com",
-            "publishedAt": "Sat, 10 Oct 2026 00:09:00 +0900"
+            "title": "금메달 따도 군대 간다?...청와대 \"부처.국회 논의 먼저\" 병역특례 손질...",
+            "url": "https://www.jibs.co.kr/news/articles/articlesDetail/66372?feed=na",
+            "outlet": "jibs.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 17:50:00 +0900"
           },
           {
-            "title": "“한국에서 태어난 건 축복이다” 입소문 탄 ‘80억 분의 1’ 뭐길래 [주...",
-            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021369&cp=nv",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:03:00 +0900"
+            "title": "금메달 따도 군대 가나…청와대·국회 병역특례 손질 논의",
+            "url": "https://www.sidae.com/article/2026101015010142120",
+            "outlet": "sidae.com",
+            "publishedAt": "Sat, 10 Oct 2026 15:20:00 +0900"
           },
           {
-            "title": "2.3조 vs 54조… 레버리지 손실 추정액 23배 차이나는 까닭 [팩트체크]",
-            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021364&cp=nv",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Sat, 10 Oct 2026 00:01:00 +0900"
+            "title": "[김능구·차재원의 정국진단 10월②] 한동훈, 국가 지도자 되려면… 거...",
+            "url": "https://www.polinews.co.kr/news/articleView.html?idxno=745270",
+            "outlet": "polinews.co.kr",
+            "publishedAt": "Sat, 10 Oct 2026 22:03:00 +0900"
           }
         ]
       }
