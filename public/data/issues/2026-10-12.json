@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-11T15:02:24.184Z",
+  "title": "2026년 10월 12일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 12일, 한국 사회의 주요 공공 영향도, 진행성, 시의성, 구조화 가능성을 기준으로 선정된 핵심 이슈들입니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "중대범죄수사청(중수청) 출범과 초기 쟁점",
+        "summary": "새롭게 출범한 중대범죄수사청(중수청)의 초기 운영 및 수사 방향에 대한 논란과 검증이 시작되었습니다.",
+        "articles": [
+          {
+            "title": "[사설] 졸속 출범 중수청, 1호 사건이 ‘임은정 감찰’이라니",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/12/N77QBYW5A5BB3KIWMTQYWMAWVU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Mon, 12 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[2026 국감] 새 형사사법체계 맞은 경찰…수사 역량·쇄신안 검증",
+            "url": "https://news.tf.co.kr/read/life/2374799.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[2026 국감] 새 형사사법체계 맞은 경찰…수사 역량·쇄신안 검증",
+            "url": "https://news.tf.co.kr/read/life/2374799.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "금융권 보안 강화 및 디지털 전환 관련 이슈",
+        "summary": "금융권의 해킹 사고 발생 이후 보안 시스템 강화와 디지털 금융 서비스 확대에 따른 긍정적, 부정적 측면이 조명되고 있습니다.",
+        "articles": [
+          {
+            "title": "[기자의 눈] 보안 무너진 금융권이 되찾아야 할 '신뢰'",
+            "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93190",
+            "outlet": "insnews.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "금융권 '쪽문' 뚫은 해킹, 기본 보안·AI 방어 병행해야",
+            "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93229",
+            "outlet": "insnews.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "막오른 금융권 국정감사… ETF·가계대출·보안 쟁점 부상",
+            "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93251",
+            "outlet": "insnews.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "증시 및 거시 경제 지표 발표와 시장 전망",
+        "summary": "미국 주요 경제 지표 발표를 앞두고 국내외 증시의 변동성이 주목받고 있으며, 기업 실적과 환율 등이 주요 변수로 작용하고 있습니다.",
+        "articles": [
+          {
+            "title": "[코스피 반등할까] 삼전 호재도 안 먹힌 코스피…美 물가 지표에 쏠린 ...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614176",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[더페어 돋보기] \"어닝시즌속 변동성 국면\"…코스피, 실적·환율 지표 주...",
+            "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90180",
+            "outlet": "thefairnews.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[Weekly 뉴욕증시] 실적 랠리냐 물가 쇼크냐…뉴욕증시 '슈퍼위크' 온다",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614177",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "지역 경제 불균형 및 금융 접근성 문제",
+        "summary": "지방의 고령화와 금융 점포 감소로 인한 지역 간 금융 접근성 격차가 심화되고 있으며, 이에 대한 대책 마련이 요구됩니다.",
+        "articles": [
+          {
+            "title": "지방은 늙는데 금융은 비대면… 줄어드는 지역 '금융접점'",
+            "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93212",
+            "outlet": "insnews.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[국감 2026] 증권사들 중소·벤처 자금 1조9000억 중 70% '수도권 쏠림'",
+            "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=279702",
+            "outlet": "financialpost.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "고령층 금융, '디지털 소외'보다 '정보 판단'이 관건",
+            "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93210",
+            "outlet": "insnews.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "원전 수출 확대 및 에너지 안보 논의",
+        "summary": "기후 위기 대응과 에너지 안보 중요성이 부각되는 가운데, 정부의 원전 수출 확대 추진과 관련 기업들의 주가 흐름이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "우리기술 주가 6%대 하락…정부 원전수출 확대 추진 속 향후 흐름 주목",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614257",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "두산에너빌리티 주가 새주 반등 여부 주목…美 CPI·PPI 발표 변수",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614255",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "우리기술 주가 6%대 하락…정부 원전수출 확대 추진 속 향후 흐름 주목",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614257",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 12 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
