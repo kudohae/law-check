@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-12T18:12:10.359Z",
+  "title": "2026년 10월 13일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "원주 의료 기기산업진흥원 390만달러 수출계약 성과",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "원주 의료 기기산업진흥원 390만달러 수출계약 성과",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2077690",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 13 Oct 2026 00:09:00 +0900"
+          },
+          {
+            "title": "강원 교육·시민단체 \"지방교육재정교부금 개편 중단하라\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2077663",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 13 Oct 2026 00:08:00 +0900"
+          },
+          {
+            "title": "오늘 헌법재판소·공수처·경기도청 국정감사",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683777&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Tue, 13 Oct 2026 01:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "오늘 국감일정 10월 13일 2026 국정감사 일정",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "오늘 국감일정 10월 13일 '2026 국정감사 일정'",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3719364",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Tue, 13 Oct 2026 00:06:00 +0900"
+          },
+          {
+            "title": "1인치, 워싱턴서 디파이 교육 ·정책 포럼 16일 개최",
+            "url": "https://www.tokenpost.kr/news/cryptocurrency/421589",
+            "outlet": "tokenpost.kr",
+            "publishedAt": "Tue, 13 Oct 2026 02:50:00 +0900"
+          },
+          {
+            "title": "[뉴스 동서남북] 북러, 군사 협력 이어 재난 대응 논의…전문가 교육·기...",
+            "url": "https://www.voakorea.com/a/nkor-across-nation-101226/8210388.html",
+            "outlet": "voakorea.com",
+            "publishedAt": "Tue, 13 Oct 2026 01:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "메디케어 어드밴티지 대폭 축소",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "메디케어 어드밴티지 대폭 축소…내년 500만명 보험 갈아타야",
+            "url": "https://www.koreadaily.com/article/20261012090021662",
+            "outlet": "koreadaily.com",
+            "publishedAt": "Tue, 13 Oct 2026 01:02:00 +0900"
+          },
+          {
+            "title": "울산 조리실무사 체력검정 준비 본격화",
+            "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62372",
+            "outlet": "fsnews.co.kr",
+            "publishedAt": "Tue, 13 Oct 2026 01:00:00 +0900"
+          },
+          {
+            "title": "국가철도공단, 전국 철도현장 건설장비 특별점검 안전사고 선제 차단",
+            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416089",
+            "outlet": "ccnnews.co.kr",
+            "publishedAt": "Tue, 13 Oct 2026 00:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "폭스바겐 CEO 유럽에서 생산하고 일자리 만들어야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[유럽 특징주] 폭스바겐 CEO \"유럽에서 생산하고 일자리 만들어야\"…中...",
+            "url": "https://www.newspim.com/news/view/20261013000006",
+            "outlet": "newspim.com",
+            "publishedAt": "Tue, 13 Oct 2026 00:29:00 +0900"
+          },
+          {
+            "title": "오산시, 한미 민간 외교 기념공간 조성 추진…17일 청소년 축제 개최",
+            "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2331774",
+            "outlet": "webeconomy.co.kr",
+            "publishedAt": "Tue, 13 Oct 2026 00:22:00 +0900"
+          },
+          {
+            "title": "권순기 경남 교육 감 \" 교육 본질 회복해 학생 중심 변화 일으킬 것\"",
+            "url": "https://view.asiae.co.kr/article/2026101223512970988",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Tue, 13 Oct 2026 00:47:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "대학교수",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "대학교수·시민감사관이 현장 점검…부산 교육 청, 신설학교 시공 품질·...",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=722513",
+            "outlet": "newstnt.com",
+            "publishedAt": "Tue, 13 Oct 2026 02:48:00 +0900"
+          },
+          {
+            "title": "여야, '정청래발' 한미동맹 균열 공방…강경화 \"美, 동맹 중요 인식\"(종...",
+            "url": "https://www.news1.kr/world/usa-canada/6317574",
+            "outlet": "news1.kr",
+            "publishedAt": "Tue, 13 Oct 2026 02:31:00 +0900"
+          },
+          {
+            "title": "강경화 “백악관과 소통 한계… 고위급 협의는 답답할 정도”",
+            "url": "https://biz.chosun.com/international/international_general/2026/10/13/RX6P523CBVBGZP7S632MGBYJCA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Tue, 13 Oct 2026 01:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "강경화 구성 발언 후 정동영이 전화",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "강경화 “‘구성’ 발언 후 정동영이 전화…美 협의채널 통해 내용 전달...",
+            "url": "https://www.segye.com/newsView/20261013500867?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Tue, 13 Oct 2026 01:30:00 +0900"
+          },
+          {
+            "title": "[시사천국] 162조 미래대응기금…지방 몫 축소·국회 심의권 침해 우려",
+            "url": "https://news.cpbc.co.kr/article/1176255?division=NAVER",
+            "outlet": "news.cpbc.co.kr",
+            "publishedAt": "Tue, 13 Oct 2026 00:50:00 +0900"
+          },
+          {
+            "title": "KDI “韓산업, 반도체 빼면 경쟁력 하락세… 2030년 이후 역성장”",
+            "url": "https://www.donga.com/news/Economy/article/all/20261012/134828680/2",
+            "outlet": "donga.com",
+            "publishedAt": "Tue, 13 Oct 2026 00:31:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "정부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정부, 온실가스 감축 성과 거래할 새 탄소 시장 만든다",
+            "url": "https://www.donga.com/news/Economy/article/all/20261012/134828651/2",
+            "outlet": "donga.com",
+            "publishedAt": "Tue, 13 Oct 2026 00:31:00 +0900"
+          },
+          {
+            "title": "\" 노동 자 천명 당 10명\"...일 전국에 '성매매 시설' 39곳",
+            "url": "https://www.ytn.co.kr/_ln/0104_202610130030169342",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 13 Oct 2026 00:30:00 +0900"
+          },
+          {
+            "title": "김정관 산업장관 \"호남 반도체 투자, 기업 의지 넘어 절박\"…2029년 첫 공...",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=554304",
+            "outlet": "joongangenews.com",
+            "publishedAt": "Tue, 13 Oct 2026 00:30:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
