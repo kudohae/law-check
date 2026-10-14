@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-10-14",
-  "generatedAt": "2026-10-13T16:20:21.901Z",
+  "generatedAt": "2026-10-14T13:58:16.851Z",
   "title": "2026년 10월 14일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -19,180 +19,155 @@
   "root": {
     "id": "today",
     "label": "오늘의 주요 시사",
-    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "summary": "2026년 10월 14일, 한국 사회의 주요 이슈들을 다룹니다.",
     "children": [
       {
-        "id": "fallback1",
-        "label": "여야",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue1",
+        "label": "산업은행 부산 이전 논란 및 지역 균형 발전",
+        "summary": "산업은행 본점의 부산 이전을 둘러싼 정치권의 논쟁과 지역 균형 발전 정책의 실효성에 대한 논의가 이어지고 있습니다.",
         "articles": [
           {
-            "title": "여야, 교육·외통·문화 등 5개 상임위 국감 충돌",
-            "url": "https://www.ytn.co.kr/_ln/0101_202610140017203346",
+            "title": "[사설] 정부와 정치권, 산은 부산 이전 강력한 의지 보여라",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261015.22019003864",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 19:27:00 +0900"
+          },
+          {
+            "title": "박수영 \"李, 호남엔 800조 부산은 패싱\"…금융위 세종 이전 반발",
+            "url": "https://www.imaeil.com/page/view/2026101417065395382",
+            "outlet": "imaeil.com",
+            "publishedAt": "Wed, 14 Oct 2026 21:20:00 +0900"
+          },
+          {
+            "title": "안철수 “北에 ‘유사시 서울 포기’ 빌미 주나… 외교 ·통일·국방부 ‘...",
+            "url": "https://www.munhwa.com/article/11623532?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Wed, 14 Oct 2026 21:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "의료 관광 수도권 편중 및 지역 분산 대책",
+        "summary": "의료 관광객의 수도권 집중 현상이 심각하며, 지역별 분산 및 특화 전략 마련이 시급하다는 지적이 제기되었습니다.",
+        "articles": [
+          {
+            "title": "[2026 국정감사] 정연욱 \"의료관광 수도권 편중 심각, 지역 분산 대책 시...",
+            "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026048",
+            "outlet": "nbntv.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 22:42:00 +0900"
+          },
+          {
+            "title": "정연욱 의원 “방한객 늘었지만 체류·지출은 줄어”",
+            "url": "https://www.sentv.co.kr/article/view/sentv202610140219",
+            "outlet": "sentv.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 22:10:00 +0900"
+          },
+          {
+            "title": "[2026 국감] 정연욱 의원, 의료 관광 수도권 쏠림 질타...지역 특화 전략...",
+            "url": "https://www.news2day.co.kr/article/20261014500392",
+            "outlet": "news2day.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 22:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "대통령 비서실장 교체 및 인사 배경",
+        "summary": "이재명 대통령이 신임 비서실장에 임광현 국세청장을 임명하며, 정부 출범 이후 주요 인사 교체가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "신임 비서실장에 임광현 국세청장...\"국민 삶 변화 만들 것\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610142154286559",
             "outlet": "ytn.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:17:00 +0900"
+            "publishedAt": "Wed, 14 Oct 2026 21:54:00 +0900"
           },
           {
-            "title": "국회, 오늘 수도권 교육 청·국민연금 대상 국감 진행",
-            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684941&ref=A",
-            "outlet": "news.kbs.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 01:02:00 +0900"
+            "title": "이 대통령, 강훈식 후임 비서실장에 임광현 국세청장 임명",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480306",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 22:30:00 +0900"
           },
           {
-            "title": "5040클럽 진입 앞둔 한국 경제성장률 여타 선진국 대비 높은 수준",
-            "url": "https://www.viva100.com/article/20261014500006",
-            "outlet": "viva100.com",
-            "publishedAt": "Wed, 14 Oct 2026 00:18:00 +0900"
+            "title": "이재명 정부 2기 비서실장에 임광현 국세청장 전격 발탁",
+            "url": "https://www.dongponews.net/news/articleView.html?idxno=61048",
+            "outlet": "dongponews.net",
+            "publishedAt": "Wed, 14 Oct 2026 21:56:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback2",
-        "label": "노동 부 산하 공공기관 4곳 울산으로 이전을",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue4",
+        "label": "노동 현장 안전 문제 및 산업재해 은폐 의혹",
+        "summary": "DN오토모티브의 납 농도 조작 의혹과 쿠팡 물류센터 산재 은폐 논란 등 노동 현장의 안전 문제와 관련 기관의 관리 감독 소홀 의혹이 제기되고 있습니다.",
         "articles": [
           {
-            "title": "\" 노동 부 산하 공공기관 4곳 울산으로 이전을\"",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069455",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:02:00 +0900"
+            "title": "[단독] 납 농도 '조작용 채혈'에 검진기관 동원 의혹‥ 노동 부 알고도 조...",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857983_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Wed, 14 Oct 2026 22:14:00 +0900"
           },
           {
-            "title": "(사)한국 기후 변화연구소, 기후 ·탄소중립·AI 시대의 전환 전략 출간",
-            "url": "https://www.goodnews1.com/news/articleView.html?idxno=465103",
-            "outlet": "goodnews1.com",
-            "publishedAt": "Wed, 14 Oct 2026 00:10:00 +0900"
+            "title": "김상욱 울산시장, DN오토모티브 피해 노동 자들 직접 만나",
+            "url": "https://www.fnnews.com/news/202610142207426224",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 14 Oct 2026 22:43:00 +0900"
           },
           {
-            "title": "정보· 외교 수장 교체설 번지자… 李, 한·미 균열론 확산 선긋기",
-            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000022292&cp=nv",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:05:00 +0900"
+            "title": "고 장덕준 6주기···\"'쿠팡 산재 은폐' 감독 결과 공개·책임자 처벌하...",
+            "url": "https://dgmbc.com/NewsArticle/867408",
+            "outlet": "dgmbc.com",
+            "publishedAt": "Wed, 14 Oct 2026 22:43:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback3",
-        "label": "오늘 국감일정 10월 14일 2026 국정감사 일정",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue5",
+        "label": "미국 소비자물가 상승 및 경제 영향",
+        "summary": "미국의 9월 소비자물가 상승률이 예상치를 웃돌면서 국제 유가 및 금리 변동에 대한 우려가 커지고 있으며, 이는 국내 경제에도 영향을 미칠 수 있습니다.",
         "articles": [
           {
-            "title": "오늘 국감일정 10월 14일 '2026 국정감사 일정'",
-            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720626",
-            "outlet": "gukjenews.com",
-            "publishedAt": "Wed, 14 Oct 2026 00:02:00 +0900"
+            "title": "미국 9월 소비자물가 3.7% 상승…뉴욕증시 하락·국채금리 상승",
+            "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90710",
+            "outlet": "thefairnews.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 22:54:00 +0900"
           },
           {
-            "title": "김영훈 노동 장관 “공공기관 이전 갈등, 노정협의서 적극 역할”",
-            "url": "https://www.hankyung.com/article/202610139913i",
-            "outlet": "hankyung.com",
-            "publishedAt": "Wed, 14 Oct 2026 00:16:00 +0900"
+            "title": "9월 美 소비자물가, 이란 전쟁 여파에 3.7% 급등…트럼프 중간선거 '비상...",
+            "url": "https://www.dailian.co.kr/news/view/1701632/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 22:30:00 +0900"
           },
           {
-            "title": "이재명 대통령 \"양극화 골 메우고 불평등 벽 낮춰야\"",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069463",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:02:00 +0900"
+            "title": "반도체 호황에도 내수는 한파…커지는 ‘K자형 양극화’ 우려",
+            "url": "https://www.kukinews.com/article/view/kuk202610140192",
+            "outlet": "kukinews.com",
+            "publishedAt": "Wed, 14 Oct 2026 22:22:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback4",
-        "label": "책임자는 안나왔지만",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue6",
+        "label": "국회 국정감사 및 법안 처리 쟁점",
+        "summary": "국정감사에서 교부금 개편, 정치인 자녀 특혜 의혹 등이 도마 위에 올랐으며, 다중이용시설 안전 관련 법안 발의 등 국회에서의 논의가 활발합니다.",
         "articles": [
           {
-            "title": "[스코어보드-환노위]책임자는 안나왔지만…도마에 오른 '킬레이션·산재...",
-            "url": "https://www.mt.co.kr/politics/2026/10/14/2026101400504537235",
-            "outlet": "mt.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 01:17:00 +0900"
+            "title": "[2026 국감] 수도권 교육청 국감서 교부금 개편·정치인 자녀 특혜 의혹...",
+            "url": "https://www.dailian.co.kr/news/view/1701622/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Wed, 14 Oct 2026 22:04:00 +0900"
           },
           {
-            "title": "전쟁 압도한 반도체 실적… IMF, 올해 韓 성장률 3.3%로 상향",
-            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000022303&cp=nv",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:21:00 +0900"
+            "title": "지방교육교부금법 개정 추진 우려… 안민석 “사전 공론화 미흡” [경기...",
+            "url": "https://www.kyeongin.com/article/1772590",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Wed, 14 Oct 2026 20:34:00 +0900"
           },
           {
-            "title": "[사설] 최저임금 매년 올리는데…고용효과 연구는 8년째 손 놔",
-            "url": "https://www.hankyung.com/article/2026101396141",
-            "outlet": "hankyung.com",
-            "publishedAt": "Wed, 14 Oct 2026 01:02:00 +0900"
-          }
-        ]
-      },
-      {
-        "id": "fallback5",
-        "label": "정부가 레버 당긴다고 경제 안 움직인다",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
-        "articles": [
-          {
-            "title": "[사설] \"정부가 레버 당긴다고 경제 안 움직인다\"…노벨상 석학의 일침",
-            "url": "https://www.hankyung.com/article/2026101396161",
-            "outlet": "hankyung.com",
-            "publishedAt": "Wed, 14 Oct 2026 01:02:00 +0900"
-          },
-          {
-            "title": "[사설] 금융위 이전, 금융 경쟁력·위기 대응 후퇴 없어야",
-            "url": "https://www.sedaily.com/article/20101204?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Wed, 14 Oct 2026 00:02:00 +0900"
-          },
-          {
-            "title": "[ESG 리더스] 강성묵 하나증권 대표, 채용부터 탄소금융까지...'생활 속...",
-            "url": "https://www.greened.kr/news/articleView.html?idxno=351052",
-            "outlet": "greened.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:00:00 +0900"
-          }
-        ]
-      },
-      {
-        "id": "fallback6",
-        "label": "강경화 한미 정보협력 제일 어려운 현안",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
-        "articles": [
-          {
-            "title": "강경화(주미한국대사) \"한미 정보협력 제일 어려운 현안\"",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069501",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:02:00 +0900"
-          },
-          {
-            "title": "[정운찬 칼럼] ‘대통령의 사람’보다 ‘경륜과 소신의 장관’이 필요하...",
-            "url": "https://www.joongang.co.kr/article/25469499",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:20:00 +0900"
-          },
-          {
-            "title": "[신성식의 시시각각] 적과 싸운 군인이 국가와 싸운다",
-            "url": "https://www.joongang.co.kr/article/25469497",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:18:00 +0900"
-          }
-        ]
-      },
-      {
-        "id": "fallback7",
-        "label": "신정훈의원 호남도 먹고살게 둬라",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
-        "articles": [
-          {
-            "title": "신정훈의원 \"호남도 먹고살게 둬라\"…'기업 팔 비틀기' 주장 반박 [2006국...",
-            "url": "https://www.mhns.co.kr/news/articleView.html?idxno=764079",
-            "outlet": "mhns.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:12:00 +0900"
-          },
-          {
-            "title": "[사설] 한미 이상기류, ‘굴종·사대’ 문제 아닌 동맹관리 실패",
-            "url": "https://www.hankookilbo.com/news/article/A2026101315280002795?did=NA",
-            "outlet": "hankookilbo.com",
-            "publishedAt": "Wed, 14 Oct 2026 00:10:00 +0900"
-          },
-          {
-            "title": "[사설] 중국발 쇼크…반도체 믿고 짠 장밋빛 경제정책 손질해야",
-            "url": "https://www.joongang.co.kr/article/25469504",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Wed, 14 Oct 2026 00:24:00 +0900"
+            "title": "[참사의 재구성에서 내일의 안전으로] ⑤ 이태원 참사 4년…인파 안전관...",
+            "url": "https://www.namdonews.com/news/articleView.html?idxno=926137",
+            "outlet": "namdonews.com",
+            "publishedAt": "Wed, 14 Oct 2026 21:04:00 +0900"
           }
         ]
       }
