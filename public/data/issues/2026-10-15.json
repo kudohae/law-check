@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T13:38:24.533Z",
+  "title": "2026년 10월 15일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "교육 감들 교부금 개편",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "교육 감들 \"교부금 개편, 교육 재정 감소 우려\"…'야차룰' 대응책 논의",
+            "url": "https://www.newspim.com/news/view/20261015001324",
+            "outlet": "newspim.com",
+            "publishedAt": "Thu, 15 Oct 2026 22:24:00 +0900"
+          },
+          {
+            "title": "전국 시·도교육감, 지방교육재정교부금 법안 ·신종 학폭 ‘야차룰’ 공...",
+            "url": "https://www.kyeonggi.com/article/20261015580548",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Thu, 15 Oct 2026 19:43:00 +0900"
+          },
+          {
+            "title": "\"성남 라인\" \"정치 공세\"…자소서 제출 공방",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799938&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 21:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "보툴리눔 톡신 국가핵심기술 지정 해제해야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[AT 현장] \"보툴리눔 톡신 국가핵심기술 지정 해제해야\"…해외진출 '발...",
+            "url": "https://www.asiatime.co.kr/article/20261015500376",
+            "outlet": "asiatime.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 21:56:00 +0900"
+          },
+          {
+            "title": "[단독] 구강암 수술 뒤 보철치료는 지원 밖… 재난 적 의료비 6년간 3건뿐",
+            "url": "https://www.segye.com/newsView/20261015523733?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Thu, 15 Oct 2026 21:02:00 +0900"
+          },
+          {
+            "title": "김원기 의정부시장, 국회에 현안사업 2건 재정 지원 요청",
+            "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019566",
+            "outlet": "cnbnews.com",
+            "publishedAt": "Thu, 15 Oct 2026 21:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "기후 위기",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\" 기후 위기, 사전 적응으로\"…서영미 의원 \"행정 칸막이부터 부순다\"",
+            "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151642444600802",
+            "outlet": "dnews.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 21:40:00 +0900"
+          },
+          {
+            "title": "[세계는 지금] 트럼프 지지율 36% '역대 최저'… 인플레이션·경제 심판...",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=562419",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 20:34:00 +0900"
+          },
+          {
+            "title": "삼표시멘트 '다이옥신 22배'…폐기물 멈춘 재측정, 감시체계 도마",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=823918",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Thu, 15 Oct 2026 22:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "李 수사개편발 치안 우려 불식",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李 수사개편발 치안 우려 불식... 범정부 대응기구 구성",
+            "url": "https://www.sedaily.com/article/20102264?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 15 Oct 2026 22:05:00 +0900"
+          },
+          {
+            "title": "45일째 반발 확산...교육부 재심사 촉구",
+            "url": "https://mpmbc.co.kr/NewsArticle/1541136",
+            "outlet": "mpmbc.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 21:56:00 +0900"
+          },
+          {
+            "title": "'반도체 조기 착공' 국회·부처 장관까지 줄줄이 방문",
+            "url": "https://www.ikbc.co.kr/article/view/kbc202610150079",
+            "outlet": "ikbc.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 21:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "박진호 국민의힘 김포갑 당협위원장",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "박진호 국민의힘 김포갑 당협위원장, 중앙당 민생정책 기구 합류",
+            "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714180",
+            "outlet": "newsfreezone.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 20:44:00 +0900"
+          },
+          {
+            "title": "미성년 납치·유인 사건 28%… ‘양육권 다툼’ 친족 범죄였다",
+            "url": "https://www.seoul.co.kr/news/society/law/2026/10/16/20261016008002?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 19:50:00 +0900"
+          },
+          {
+            "title": "강승규 의원, 농지 임대차·위탁경영 양성화 법안 발의",
+            "url": "https://www.nongmin.com/article/20261015500470",
+            "outlet": "nongmin.com",
+            "publishedAt": "Thu, 15 Oct 2026 19:39:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "부실 입법이 부른 소송공화국",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "부실 입법이 부른 '소송공화국'…국회는 책임져라",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=625760",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 19:26:00 +0900"
+          },
+          {
+            "title": "AI에 넣은 7조 달러의 계산서, 코스피가 먼저 받았다",
+            "url": "https://newscham.net/130053/",
+            "outlet": "newscham.net",
+            "publishedAt": "Thu, 15 Oct 2026 18:46:00 +0900"
+          },
+          {
+            "title": "靑 “임광현, ‘대장동 변호사’ 처남과 인과 없어”",
+            "url": "https://www.munhwa.com/article/11623858?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Thu, 15 Oct 2026 22:21:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "검찰미래위",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "검찰미래위, 위례·서해·통계조작 진상조사…\"보완 필요\"(종합)",
+            "url": "https://www.news1.kr/society/court-prosecution/6321787",
+            "outlet": "news1.kr",
+            "publishedAt": "Thu, 15 Oct 2026 22:20:00 +0900"
+          },
+          {
+            "title": "한국공공조직은행장에 허윤정 전 심평원 연구소장 취임",
+            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014043",
+            "outlet": "bosa.co.kr",
+            "publishedAt": "Thu, 15 Oct 2026 22:08:00 +0900"
+          },
+          {
+            "title": "[김종석의 리포트]기관장 자소서에 “사랑 실천”",
+            "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000555312",
+            "outlet": "ichannela.com",
+            "publishedAt": "Thu, 15 Oct 2026 21:52:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
