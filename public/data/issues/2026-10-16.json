@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T13:28:25.462Z",
+  "title": "2026년 10월 16일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "근거 부족 비급여에 재난 적 의료비 지원 우려",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"근거 부족 비급여에 재난 적 의료비 지원 우려\"...건보공단 관리체계 도...",
+            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014162",
+            "outlet": "bosa.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 19:00:00 +0900"
+          },
+          {
+            "title": "노란봉투법 옹호한 중노위원장, \"반대로는 왜 생각 못하나?\"",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=05316886645613576&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 19:42:00 +0900"
+          },
+          {
+            "title": "국민의힘 \"'소방 재정 빨대'라더니 예산까지 삭감\"…추미애 지사 비판",
+            "url": "https://www.news1.kr/local/gyeonggi/6323063",
+            "outlet": "news1.kr",
+            "publishedAt": "Fri, 16 Oct 2026 22:03:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "한 판 4만원대 브라질산 계란",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[외통위 국감] 한 판 4만원대 브라질산 계란… 혈세 낭비·'정상외교 선...",
+            "url": "https://www.g-enews.com/view.php?ud=202610162146583955e207547429_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Fri, 16 Oct 2026 21:54:00 +0900"
+          },
+          {
+            "title": "\"베를린 소녀상 철거, 한일 외교 전 실패\"…외통위 국감서 지적",
+            "url": "https://www.yna.co.kr/view/AKR20261016175300082?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 21:52:00 +0900"
+          },
+          {
+            "title": "한동훈 “브라질 계란 수입, 이 대통령이 룰라에 준 선물”… 외교 부 “...",
+            "url": "https://www.hani.co.kr/arti/politics/politics_general/1282823.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 21:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "교육교부금 개편안 철회하라 반발",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"교육교부금 개편안 철회하라\" 반발",
+            "url": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026101618041855602?feed=na",
+            "outlet": "jibs.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 20:53:00 +0900"
+          },
+          {
+            "title": "브라질 계란 두고 \"선물\" 공방…한동훈 의혹 제기에 외교 부 반박",
+            "url": "https://www.hankyung.com/article/2026101673407",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 16 Oct 2026 20:41:00 +0900"
+          },
+          {
+            "title": "국감 선 삼표시멘트 '지역 의구점 사과'... 국회 밖 주민 '아쉽다'",
+            "url": "https://www.mbceg.co.kr/post/141062",
+            "outlet": "mbceg.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 20:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "킬레이션 다 파악했다더니‥노동부는 217명",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"킬레이션 다 파악했다\"더니‥노동부는 217명, MBC는 295명 확인",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858581_37004.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 16 Oct 2026 20:14:00 +0900"
+          },
+          {
+            "title": "한동훈 \"브라질 계란수입, 이 대통령 '룰라 선물' 의심\"… 외교 부는 반박",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026101619274333957",
+            "outlet": "busan.com",
+            "publishedAt": "Fri, 16 Oct 2026 19:58:00 +0900"
+          },
+          {
+            "title": "정부 “수도권 공급 목표 37% 착공…연말까지 80%대 가능”",
+            "url": "https://www.joongang.co.kr/article/25470402",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 21:41:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "외교 부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "외교 부, '회담 성과 위해 브라질 달걀 수입' 주장에 \"사실 아냐\"",
+            "url": "https://news.tf.co.kr/read/ptoday/2377416.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 21:05:00 +0900"
+          },
+          {
+            "title": "“정상회담 성과 내려고 룰라에게 선물 의심” 한동훈, 브라질 계란 수...",
+            "url": "https://www.munhwa.com/article/11624120?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Fri, 16 Oct 2026 21:01:00 +0900"
+          },
+          {
+            "title": "예멘 대통령궁에 미사일 '펑'…사우디 \"후티, 리야드 공항 20번 겨냥\"",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690219.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Fri, 16 Oct 2026 21:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "기후 위기 녹색 전환",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[현장] 기후 위기 녹색 전환, 해법은? \"흡수도 감축도 시민 손에\"",
+            "url": "https://www.k-health.com/news/articleView.html?idxno=101721",
+            "outlet": "k-health.com",
+            "publishedAt": "Fri, 16 Oct 2026 20:36:00 +0900"
+          },
+          {
+            "title": "여야, 영풍 석포제련소 환경오염 한목소리 질타",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026101620270821637",
+            "outlet": "busan.com",
+            "publishedAt": "Fri, 16 Oct 2026 20:28:00 +0900"
+          },
+          {
+            "title": "특검, 尹 '평양 무인기 투입' 2심 징역 30년 구형",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3440906",
+            "outlet": "newscj.com",
+            "publishedAt": "Fri, 16 Oct 2026 19:58:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "우희종 마사회장 과천경마장 6년 내 이전 어려워",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "우희종 마사회장 “과천경마장 6년 내 이전 어려워…정부에 비용 보장 ...",
+            "url": "https://www.mydaily.co.kr/page/view/2026101622242169124",
+            "outlet": "mydaily.co.kr",
+            "publishedAt": "Fri, 16 Oct 2026 22:25:00 +0900"
+          },
+          {
+            "title": "‘소방 재정 빨대’ 논란 속…경기도, 순직 소방관 추모 예산마저 전액...",
+            "url": "https://www.suwonilbo.kr/view.html?id=L261016220829bc76",
+            "outlet": "suwonilbo.kr",
+            "publishedAt": "Fri, 16 Oct 2026 22:18:00 +0900"
+          },
+          {
+            "title": "'빨대'라더니…국힘 \"추미애의 경기도, 소방차 구매 축소·추모 예산 삭...",
+            "url": "https://www.imaeil.com/page/view/2026101622002394456",
+            "outlet": "imaeil.com",
+            "publishedAt": "Fri, 16 Oct 2026 22:16:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
