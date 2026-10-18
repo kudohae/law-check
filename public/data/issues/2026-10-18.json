@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T12:45:42.316Z",
+  "title": "2026년 10월 18일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 18일 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "지방재정 악화 우려와 미래대응기금 논란",
+        "summary": "정부의 미래대응기금 신설 추진에 대해 지방자치단체와 시민사회에서 지방재정 악화를 우려하며 반발하고 있습니다. 지방교부세 산정 방식 유지 요구가 거셉니다.",
+        "articles": [
+          {
+            "title": "[데스크 진단] 지방의 미래는 없나?…미래대응기금 ‘논란’",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688471&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 21:16:00 +0900"
+          },
+          {
+            "title": "대한민국시도지사협의회 \"교부세 산정 방식, 현행 유지해야\"",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334395",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Sun, 18 Oct 2026 18:06:00 +0900"
+          },
+          {
+            "title": "IMF 총재 \"韓재정·통화 정책조합 적절...미래기금 경기대비\"",
+            "url": "https://www.tfmedia.co.kr/news/article.html?no=208110",
+            "outlet": "tfmedia.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 20:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국정감사에서의 환경 문제 및 기관 기강 해이 지적",
+        "summary": "국회 국정감사에서 한국환경공단의 기강 해이 사례와 영풍 석포제련소의 환경법 위반 문제 등이 도마 위에 올랐습니다.",
+        "articles": [
+          {
+            "title": "[단독]동료 사진에 노출 의상 합성, 근무 중 수영…기강 해이 환경공단",
+            "url": "https://www.donga.com/news/Society/article/all/20261018/134860905/1",
+            "outlet": "donga.com",
+            "publishedAt": "Sun, 18 Oct 2026 20:21:00 +0900"
+          },
+          {
+            "title": "‘4300억 썼다는데 위반 109건’…영풍 석포제련소, 국감서 뭇매",
+            "url": "https://www.munhwa.com/article/11624321?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sun, 18 Oct 2026 20:13:00 +0900"
+          },
+          {
+            "title": "김정호 의원, \"김해 환경시설 처리여건 한계\" 지하화·국비 증액 촉구",
+            "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=647658",
+            "outlet": "gnnews.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 20:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "가정폭력 관련 법안 처리 지연 및 반의사불벌죄 폐지 논의",
+        "summary": "가정폭력 재범 방지 및 피해자 보호를 위한 법안들이 국회 법제사법위원회에 계류 중이며, 반의사불벌죄 폐지 논의가 재점화되고 있습니다.",
+        "articles": [
+          {
+            "title": "“피해자 안전 뒷전”… 가정폭력 ‘반의사불벌’ 폐지론 재점화",
+            "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000023527&cp=nv",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 18:40:00 +0900"
+          },
+          {
+            "title": "가정폭력 재범 막을 입법 지연…개정안 32건 법사위 계류",
+            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087602",
+            "outlet": "kyongbuk.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 17:36:00 +0900"
+          },
+          {
+            "title": "국회 보건복지위, 건보공단 재정 지속가능성·불법개설기관 방지 등 지...",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724994",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sun, 18 Oct 2026 21:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "유럽발 민생고 시위와 한국 사회의 유사 문제",
+        "summary": "유럽 각지에서 고물가, 주거난 등으로 인한 민생고 시위가 확산되는 가운데, 한국 사회에서도 유사한 문제에 대한 우려가 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "명품관 털고 시청 불태웠다…몸집 커진 학생시위 변질",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803112&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 20:26:00 +0900"
+          },
+          {
+            "title": "고물가·주택난·부실 교육에… 유럽 곳곳서 ‘민생 분노’ 폭발",
+            "url": "https://www.segye.com/newsView/20261018512997?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sun, 18 Oct 2026 21:02:00 +0900"
+          },
+          {
+            "title": "[참성단] 유럽 ‘민생고(民生苦) 시위’",
+            "url": "https://www.kyeongin.com/article/1772872",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Sun, 18 Oct 2026 20:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "이주민 정책 및 미등록 아동 출생등록제 논의",
+        "summary": "경기도의 이주민 정책 필요성과 미등록 이주배경 아동의 출생등록제 도입 촉구 목소리가 나오고 있습니다.",
+        "articles": [
+          {
+            "title": "[월요논단] 경기도, 이주민은 어디에 있는가",
+            "url": "https://www.kyeongin.com/article/1772874",
+            "outlet": "kyeongin.com",
+            "publishedAt": "Sun, 18 Oct 2026 20:40:00 +0900"
+          },
+          {
+            "title": "“미등록 이주배경아동 출생등록제 신속 입법을”",
+            "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1553012",
+            "outlet": "knnews.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 21:08:00 +0900"
+          },
+          {
+            "title": "국회 교육위, 서울대 등 9개 대학 국정감사…입시·기숙사 문제 질의",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724988",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sun, 18 Oct 2026 21:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "농작물 재해 보험 사각지대 및 기후 위기 대응",
+        "summary": "이상 기후로 농작물 재해가 늘어나는 가운데, 농가 절반 이상이 보험 사각지대에 놓여있다는 지적이 나왔습니다.",
+        "articles": [
+          {
+            "title": "농작물 재해는 늘어나는데…농가 절반 이상 보험 ‘사각지대’",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1792321800804406277",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 20:16:00 +0900"
+          },
+          {
+            "title": "기초생활수급 61만 가구, 에너지바우처 지원 못 받았다",
+            "url": "https://www.idomin.com/news/articleView.html?idxno=2017230",
+            "outlet": "idomin.com",
+            "publishedAt": "Sun, 18 Oct 2026 18:26:00 +0900"
+          },
+          {
+            "title": "韓 극초음속 미사일 그을음 트집 잡은 北…美 전문가 “현무-5급이면 가...",
+            "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261018601013&wlog_tag3=naver",
+            "outlet": "nownews.seoul.co.kr",
+            "publishedAt": "Sun, 18 Oct 2026 21:32:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
