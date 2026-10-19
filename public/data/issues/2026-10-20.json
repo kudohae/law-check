@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-19T15:49:34.246Z",
+  "title": "2026년 10월 20일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "대통령직속국가AI전략위",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "대통령직속국가AI전략위, 평창군 의료 AI·디지털 헬스 현장 방문",
+            "url": "https://www.kwnews.co.kr/article/20261019500706",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:07:00 +0900"
+          },
+          {
+            "title": "한전 지원 미래대응기금 9405억 부실편성",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069976",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "재개발 중심 주택공급 비판...윤종오 의원, 서울시 국감",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069972",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "소방관 처우개선 법안 40건 넘게 쏟아졌지만",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "소방관 처우개선 법안 40건 넘게 쏟아졌지만… 절반 이상 국회 논의 無",
+            "url": "https://www.hankookilbo.com/news/article/A2026101916220000875?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[청년이 희망이다]일자리· 주거 개선 '청년이 살기 좋은 도시' 청년 삶 ...",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069971",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "한전 “송변전설비 매년 10조 필요” 투자 재원 놓고 논란",
+            "url": "https://www.donga.com/news/Economy/article/all/20261019/134869907/2",
+            "outlet": "donga.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:33:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "대기업에는 웃돈 중견기업에는 손배소",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "대기업에는 ‘웃돈’ 중견기업에는 ‘손배소’...한전 자회사의 두얼굴",
+            "url": "https://www.kwnews.co.kr/article/20261019501472",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[사설]성장엔진 5,000억원 투자, 지역경제 체질 개선으로",
+            "url": "https://www.kwnews.co.kr/article/20261019501418",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "집 없고 취업 안 돼…도내 청년 10명 중 3명 ‘전업자녀’",
+            "url": "https://www.kwnews.co.kr/article/20261019501581",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "택배노조",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "택배노조, 대리점 부당 노동 행위 규탄·고소",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070007",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "황경수 천안시의원, '학생통학버스 버스정류장 정차허용 「법」개정 촉...",
+            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416465",
+            "outlet": "ccnnews.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:24:00 +0900"
+          },
+          {
+            "title": "[사설] 재정적자서 촉발된 佛 학생 시위 교훈",
+            "url": "https://m.skyedaily.com/news_view.html?ID=313170",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "청년 분노 폭발한 프랑스",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 청년 분노 폭발한 프랑스, 반면교사 삼아야",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006112",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "李대통령 \"주식시장 저평가…조만간 정상화 조치, 부동산 충격 대비\"",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=56352",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:19:00 +0900"
+          },
+          {
+            "title": "[김병철 시선②] 경기도의회 킨텍스 방문 경비 67만3000원…의원 얼굴 전...",
+            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719017",
+            "outlet": "newstown.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "폭우에 양복 젖도록 낙엽 치운 국회의원",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "폭우에 양복 젖도록 낙엽 치운 국회의원…\"멋지다\" vs \"보여주기 쇼\"",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=56351",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:05:00 +0900"
+          },
+          {
+            "title": "[김대호 진단] 천덕꾸러기 데이터센터",
+            "url": "https://www.g-enews.com/view.php?ud=202610190843243974906806b77b_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[아시아 오늘의 역사·10.20] 마산·창원 위수령(1979)·일본 대중문화 개...",
+            "url": "http://kor.theasian.asia/archives/418379",
+            "outlet": "kor.theasian.asia",
+            "publishedAt": "Tue, 20 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "오늘 법사위",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "오늘 법사위·재경위·국방위 등 국정감사...주요 현안 점검",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610200013344300",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 00:13:00 +0900"
+          },
+          {
+            "title": "[사설] 육군 작전상황실에 즐비한 중국산 장비, 보안 경각심 있나",
+            "url": "https://www.hankookilbo.com/news/article/A2026101915250004778?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "\"돈줄 막막한 골목 살려야\"…장태환·경기신보, 창구 지키며 민생 해법...",
+            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334551",
+            "outlet": "incheonilbo.com",
+            "publishedAt": "Tue, 20 Oct 2026 00:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
