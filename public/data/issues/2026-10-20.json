@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-10-20",
-  "generatedAt": "2026-10-19T15:49:34.246Z",
+  "generatedAt": "2026-10-20T13:48:25.080Z",
   "title": "2026년 10월 20일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -23,176 +23,176 @@
     "children": [
       {
         "id": "fallback1",
-        "label": "대통령직속국가AI전략위",
+        "label": "국회 기후 노동위 현장 시찰",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "대통령직속국가AI전략위, 평창군 의료 AI·디지털 헬스 현장 방문",
-            "url": "https://www.kwnews.co.kr/article/20261019500706",
-            "outlet": "kwnews.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:07:00 +0900"
+            "title": "국회 기후 노동위 현장 시찰…“추자해상풍력 좋은 기회”",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690647&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:43:00 +0900"
           },
           {
-            "title": "한전 지원 미래대응기금 9405억 부실편성",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069976",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "박지원, 헴프산업 육성·안전관리 특별 법안 발의",
+            "url": "https://jtv.co.kr/news/article.php?id=71691",
+            "outlet": "jtv.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:32:00 +0900"
           },
           {
-            "title": "재개발 중심 주택공급 비판...윤종오 의원, 서울시 국감",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069972",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "권순기 경남교육감 \"일방적 재정 개편, 매우 위험해 … 의대 증원 혼란...",
+            "url": "https://view.asiae.co.kr/article/2026102022164193444",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 22:17:00 +0900"
           }
         ]
       },
       {
         "id": "fallback2",
-        "label": "소방관 처우개선 법안 40건 넘게 쏟아졌지만",
+        "label": "여 초광역특구법 발의 강행",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "소방관 처우개선 법안 40건 넘게 쏟아졌지만… 절반 이상 국회 논의 無",
-            "url": "https://www.hankookilbo.com/news/article/A2026101916220000875?did=NA",
-            "outlet": "hankookilbo.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:10:00 +0900"
+            "title": "여 ‘초광역특구법’ 발의 강행…노 “사회적 대화 중 기습 추진”",
+            "url": "https://www.khan.co.kr/article/202610202132005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:32:00 +0900"
           },
           {
-            "title": "[청년이 희망이다]일자리· 주거 개선 '청년이 살기 좋은 도시' 청년 삶 ...",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069971",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "기후위원회 소속 의원, 동서발전 제주 전력저장발전소 현장 점검",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026102022412971607",
+            "outlet": "busan.com",
+            "publishedAt": "Tue, 20 Oct 2026 22:43:00 +0900"
           },
           {
-            "title": "한전 “송변전설비 매년 10조 필요” 투자 재원 놓고 논란",
-            "url": "https://www.donga.com/news/Economy/article/all/20261019/134869907/2",
-            "outlet": "donga.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:33:00 +0900"
+            "title": "경제 6단체 \"초광역특구법안 환영…노동 특례 필요\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20261020221835dxE",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 22:19:00 +0900"
           }
         ]
       },
       {
         "id": "fallback3",
-        "label": "대기업에는 웃돈 중견기업에는 손배소",
+        "label": "아리셀 참사 848일",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "대기업에는 ‘웃돈’ 중견기업에는 ‘손배소’...한전 자회사의 두얼굴",
-            "url": "https://www.kwnews.co.kr/article/20261019501472",
-            "outlet": "kwnews.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:06:00 +0900"
+            "title": "아리셀 참사 848일···\"생명·안전 외면\" 2분짜리 대법 판결",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41680",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 22:11:00 +0900"
           },
           {
-            "title": "[사설]성장엔진 5,000억원 투자, 지역경제 체질 개선으로",
-            "url": "https://www.kwnews.co.kr/article/20261019501418",
-            "outlet": "kwnews.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "[기자수첩] 소방관이 받은 사과, 정부와 국회는 예산으로 답하라",
+            "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729610",
+            "outlet": "the-biz.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 22:04:00 +0900"
           },
           {
-            "title": "집 없고 취업 안 돼…도내 청년 10명 중 3명 ‘전업자녀’",
-            "url": "https://www.kwnews.co.kr/article/20261019501581",
-            "outlet": "kwnews.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "10월 3주 주요 제조업 전망",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41665",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:57:00 +0900"
           }
         ]
       },
       {
         "id": "fallback4",
-        "label": "택배노조",
+        "label": "경제6단체 초광역특구법 노동특례 포함해야",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "택배노조, 대리점 부당 노동 행위 규탄·고소",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070007",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "경제6단체 \"초광역특구법 노동특례 포함해야\" … 국회 신속 처리 촉구",
+            "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90688",
+            "outlet": "worktoday.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:40:00 +0900"
           },
           {
-            "title": "황경수 천안시의원, '학생통학버스 버스정류장 정차허용 「법」개정 촉...",
-            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416465",
-            "outlet": "ccnnews.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:24:00 +0900"
+            "title": "'전기요금 차등제' 울산 등 경상권·전라권에 동일 요금범위 적용… \"전...",
+            "url": "http://www.ujeil.com/news/articleView.html?idxno=393840",
+            "outlet": "ujeil.com",
+            "publishedAt": "Tue, 20 Oct 2026 21:38:00 +0900"
           },
           {
-            "title": "[사설] 재정적자서 촉발된 佛 학생 시위 교훈",
-            "url": "https://m.skyedaily.com/news_view.html?ID=313170",
-            "outlet": "m.skyedaily.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:04:00 +0900"
+            "title": "與, 지역 전략산업 육성 '초광역특구법' 발의",
+            "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=562840",
+            "outlet": "idaegu.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:24:00 +0900"
           }
         ]
       },
       {
         "id": "fallback5",
-        "label": "청년 분노 폭발한 프랑스",
+        "label": "정부",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "[사설] 청년 분노 폭발한 프랑스, 반면교사 삼아야",
-            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006112",
-            "outlet": "asiatoday.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "정부, 우크라 대사 소환 이어 '공관 절반' 철수…靑 안보실 주도로 결정...",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/20/2026102090227.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Tue, 20 Oct 2026 21:08:00 +0900"
           },
           {
-            "title": "李대통령 \"주식시장 저평가…조만간 정상화 조치, 부동산 충격 대비\"",
-            "url": "http://weekly.chosun.com/news/articleView.html?idxno=56352",
-            "outlet": "weekly.chosun.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:19:00 +0900"
+            "title": "대구경북, 메가특구 1호 될 수 있을까…‘초광역특구법’ 국회 발의",
+            "url": "https://www.yeongnam.com/web/view.php?key=20261020027255762",
+            "outlet": "yeongnam.com",
+            "publishedAt": "Tue, 20 Oct 2026 20:46:00 +0900"
           },
           {
-            "title": "[김병철 시선②] 경기도의회 킨텍스 방문 경비 67만3000원…의원 얼굴 전...",
-            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719017",
-            "outlet": "newstown.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:08:00 +0900"
+            "title": "“핵보유 北, 손에 쥔 카드 늘어…中 ‘북핵-한미훈련 함께 중단’ 구상...",
+            "url": "https://www.donga.com/news/Inter/article/all/20261020/134878227/1",
+            "outlet": "donga.com",
+            "publishedAt": "Tue, 20 Oct 2026 22:09:00 +0900"
           }
         ]
       },
       {
         "id": "fallback6",
-        "label": "폭우에 양복 젖도록 낙엽 치운 국회의원",
+        "label": "5000만명에 복지수당 조기 지급",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "폭우에 양복 젖도록 낙엽 치운 국회의원…\"멋지다\" vs \"보여주기 쇼\"",
-            "url": "http://weekly.chosun.com/news/articleView.html?idxno=56351",
-            "outlet": "weekly.chosun.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:05:00 +0900"
+            "title": "“5000만명에 복지수당 조기 지급”…대선 패배 위기 룰라의 막판 승부...",
+            "url": "https://www.joongang.co.kr/article/25471363",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 22:08:00 +0900"
           },
           {
-            "title": "[김대호 진단] 천덕꾸러기 데이터센터",
-            "url": "https://www.g-enews.com/view.php?ud=202610190843243974906806b77b_1",
-            "outlet": "g-enews.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:02:00 +0900"
+            "title": "[자유통일당 대변인 논평] 졸속 '꼼수 천도', 즉각 백지화하라",
+            "url": "https://www.christiantoday.co.kr/news/378025",
+            "outlet": "christiantoday.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:56:00 +0900"
           },
           {
-            "title": "[아시아 오늘의 역사·10.20] 마산·창원 위수령(1979)·일본 대중문화 개...",
-            "url": "http://kor.theasian.asia/archives/418379",
-            "outlet": "kor.theasian.asia",
-            "publishedAt": "Tue, 20 Oct 2026 00:00:00 +0900"
+            "title": "국감장서 \"공공병원 무너지고 있다\"…인요한·소방 진료비 논란도(종합...",
+            "url": "https://www.newsis.com/view/NISX20261020_0003834079",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 20 Oct 2026 21:28:00 +0900"
           }
         ]
       },
       {
         "id": "fallback7",
-        "label": "오늘 법사위",
+        "label": "지방재정",
         "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
         "articles": [
           {
-            "title": "오늘 법사위·재경위·국방위 등 국정감사...주요 현안 점검",
-            "url": "https://www.ytn.co.kr/_ln/0101_202610200013344300",
-            "outlet": "ytn.co.kr",
-            "publishedAt": "Tue, 20 Oct 2026 00:13:00 +0900"
+            "title": "지방재정·통합·신공항 지원 촉구…이철우, 국감서 국가 책임 강조",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=626373",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0900"
           },
           {
-            "title": "[사설] 육군 작전상황실에 즐비한 중국산 장비, 보안 경각심 있나",
-            "url": "https://www.hankookilbo.com/news/article/A2026101915250004778?did=NA",
-            "outlet": "hankookilbo.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:10:00 +0900"
+            "title": "이철우 경북도지사 “지방재정 자율성 높이고 행정통합·신공항 추진 속...",
+            "url": "https://www.ksmnews.co.kr/news/view.php?idx=626323",
+            "outlet": "ksmnews.co.kr",
+            "publishedAt": "Tue, 20 Oct 2026 21:00:00 +0900"
           },
           {
-            "title": "\"돈줄 막막한 골목 살려야\"…장태환·경기신보, 창구 지키며 민생 해법...",
-            "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334551",
-            "outlet": "incheonilbo.com",
-            "publishedAt": "Tue, 20 Oct 2026 00:22:00 +0900"
+            "title": "권영진 의원 “대경행정통합· 신공항 추진…시·도지사 대통령 만나라...",
+            "url": "https://biz.heraldcorp.com/article/10909119?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Tue, 20 Oct 2026 20:38:00 +0900"
           }
         ]
       }
