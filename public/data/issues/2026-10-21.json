@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T14:04:06.208Z",
+  "title": "2026년 10월 21일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 21일 한국 사회의 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "초광역특구법 노동 특례 논란",
+        "summary": "더불어민주당이 발의한 초광역특구법에 포함된 노동 특례 조항을 두고 시민사회와 노동계의 비판이 거세지고 있으며, 법안 철회 요구와 함께 수정 발의도 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "“재벌 소원수리법” 비판 쏟아진 초광역특구법…시민사회 “즉각 철회...",
+            "url": "https://www.hani.co.kr/arti/society/society_general/1283548.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 20:16:00 +0900"
+          },
+          {
+            "title": "윤석열 정부도 포기한 ‘주 69시간’ 노동 길 터…‘초광역특구법’ 독...",
+            "url": "https://www.hani.co.kr/arti/society/society_general/1283549.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 20:26:00 +0900"
+          },
+          {
+            "title": "민주노총 \"초광역특구법 노동특례 철회하라\"",
+            "url": "https://www.ulsanpress.net/news/articleView.html?idxno=585160",
+            "outlet": "ulsanpress.net",
+            "publishedAt": "Wed, 21 Oct 2026 21:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "대통령의 AI 활용 및 SNS 소통 방식 비판",
+        "summary": "대통령이 국정 운영 및 법률 해석에 AI를 활용하고 SNS로 소통하는 방식에 대해 야당과 정치권에서 비판의 목소리가 나오고 있습니다.",
+        "articles": [
+          {
+            "title": "野 \"AI한테 물어서 통치할거면 대통령을 AI로 바꿔야\"",
+            "url": "https://www.insight.co.kr/news/578688",
+            "outlet": "insight.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 22:28:00 +0900"
+          },
+          {
+            "title": "김종인 \"SNS로 국민과 소통 잘된다는 李 판단, 잘못됐다\"",
+            "url": "https://www.hankyung.com/article/2026102171397",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 21 Oct 2026 22:46:00 +0900"
+          },
+          {
+            "title": "野, '재미나이'에 십자포화… 이준석 \"전과 없는 AI를 대통령으로\"",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=56404",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Wed, 21 Oct 2026 22:53:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경기도 소방 인건비 부담 경감 및 안전 강화 논의",
+        "summary": "추미애 경기도지사의 '소방 재정 빨대' 발언 이후, 소방 인력 및 예산 문제에 대한 논의가 확산되고 있으며, 관련 법안 발의와 TF 구성 등 후속 조치가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "추미애 측면지원?…정청래, 지자체 소방 인건비 부담 경감법 발의",
+            "url": "https://www.news1.kr/politics/assembly/6327846",
+            "outlet": "news1.kr",
+            "publishedAt": "Wed, 21 Oct 2026 21:27:00 +0900"
+          },
+          {
+            "title": "추미애, 소방관 안전 강화 TF 구성한다···국회에선 소방관들 울분",
+            "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260051",
+            "outlet": "womaneconomy.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 22:50:00 +0900"
+          },
+          {
+            "title": "추미애 ‘소방 재정 빨대’ 당 경고 수용…순직사고 진상조사 지시",
+            "url": "https://www.m-economynews.com/news/article.html?no=71953",
+            "outlet": "m-economynews.com",
+            "publishedAt": "Wed, 21 Oct 2026 21:48:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "주거 불안정 심화 및 월세 부담 증가",
+        "summary": "서울 전월세난으로 경기도로 이주한 세입자들의 월세 부담이 가중되고 있으며, 실거주 중심 정책이 오히려 무주택자의 주거 불안을 키우고 있다는 지적이 나오고 있습니다.",
+        "articles": [
+          {
+            "title": "경기도 월세도 200만원 시대…실거주 정책의 '역풍'",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/21/2026102190261.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Wed, 21 Oct 2026 21:44:00 +0900"
+          },
+          {
+            "title": "민주당, ‘주 52시간 예외’ 뺀 초광역특구법 추가 발의",
+            "url": "https://www.viewsnnews.com/article?q=239176",
+            "outlet": "viewsnnews.com",
+            "publishedAt": "Wed, 21 Oct 2026 20:02:00 +0900"
+          },
+          {
+            "title": "민경선 고양시장, 국토부에 일산 재건축 속도전·자족기능 확충 건의",
+            "url": "https://www.globalepic.co.kr/view.php?ud=2026102115044877155f69d33b22_29",
+            "outlet": "globalepic.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 21:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "국민연금 기금 고갈 및 재정 건전성 우려",
+        "summary": "국민연금 기금 고갈 시점에 대한 루머가 확산되는 가운데, 실제 공식 전망은 이전보다 늦춰졌지만 장기적인 재정 부담에 대한 우려는 여전히 남아있습니다.",
+        "articles": [
+          {
+            "title": "\"국민연금 240조 증발, 90년대생 연금 0원\"… 코스피 폭락 후 퍼진 소문...",
+            "url": "https://view.asiae.co.kr/article/2026102121184624903",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 21:26:00 +0900"
+          },
+          {
+            "title": "나라 예산, 어느 지역에 얼마나 쓰였는지 확인할 방법 없어",
+            "url": "https://www.taxtimes.co.kr/news/article.html?no=277400",
+            "outlet": "taxtimes.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 21:42:00 +0900"
+          },
+          {
+            "title": "\"국민연금 240조 증발, 90년대생 연금 0원\"… 코스피 폭락 후 퍼진 소문...",
+            "url": "https://view.asiae.co.kr/article/2026102121184624903",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 21:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "교사 정치기본권 보장 요구 및 집단 가입 시도",
+        "summary": "교원 단체들이 교사의 정치기본권 보장을 위한 법제화를 촉구하며 민주당과 국민의힘에 집단 가입을 시도하는 움직임을 보이고 있습니다.",
+        "articles": [
+          {
+            "title": "현직 교사 5200명, 민주당·국민의힘 집단 가입 시도···\"'정치기본권...",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=352678",
+            "outlet": "greened.kr",
+            "publishedAt": "Wed, 21 Oct 2026 21:56:00 +0900"
+          },
+          {
+            "title": "51년 전, '신문사 해고' 탈을 쓴 국가 폭력…이제 국회가 답하라",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337889",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Wed, 21 Oct 2026 20:24:00 +0900"
+          },
+          {
+            "title": "현직 교사 5200명, 민주당·국민의힘 집단 가입 시도···\"'정치기본권...",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=352678",
+            "outlet": "greened.kr",
+            "publishedAt": "Wed, 21 Oct 2026 21:56:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
