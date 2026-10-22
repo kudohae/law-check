@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T14:01:51.499Z",
+  "title": "2026년 10월 22일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 22일 한국 사회의 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회 국정감사: 공소청 국정감사 및 법안 공방",
+        "summary": "국회 법제사법위원회에서 진행된 공소청 국정감사에서 이 대통령 관련 공소 취소 논란이 불거졌으며, 다양한 법안에 대한 여야의 공방이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[투나잇이슈] 여야, 공소청 국정감사서 이 대통령 '공소 취소' 충돌",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20261022224459ax4",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 22 Oct 2026 22:47:00 +0900"
+          },
+          {
+            "title": "[2026 오늘의 국감] 23일 금요일",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=724423",
+            "outlet": "newstnt.com",
+            "publishedAt": "Thu, 22 Oct 2026 22:10:00 +0900"
+          },
+          {
+            "title": "[국감2026] '농협중앙회장 직선제' 놓고 공방…\"입법 재량권\" vs \"의견 수...",
+            "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7190303",
+            "outlet": "weekly.hankooki.com",
+            "publishedAt": "Thu, 22 Oct 2026 20:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "산업은행 부산 이전 논란 및 지역 균형 발전",
+        "summary": "산업은행의 부산 이전 문제가 국회에서 다시 논란이 되고 있으며, 혁신도시 집적 및 지역별 예산 배분 공개 법안 등 지역 균형 발전을 위한 다양한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "산업은행 부산행 '동상이몽'..이억원과 전재수, 박상진",
+            "url": "https://www.peoplewatch.co.kr/article/view/ppw202610220012",
+            "outlet": "peoplewatch.co.kr",
+            "publishedAt": "Thu, 22 Oct 2026 20:52:00 +0900"
+          },
+          {
+            "title": "금융위원장, ′산업은행 부산 이전 무산 발언′ 논란",
+            "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idxno=290310",
+            "outlet": "busanmbc.co.kr"
+          },
+          {
+            "title": "[정무위 종합감사] 이억원 “산은, 부산 이전 않기로 정리…국회에서 결...",
+            "url": "https://www.g-enews.com/view.php?ud=202610221649295124a6e8311f64_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Thu, 22 Oct 2026 19:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "경제 정책 및 산업 발전 논의",
+        "summary": "한국의 산업화 저력과 한미동맹 강화 방안, 초광역특구법 논란, 잠재성장률 전환점 및 균형 성장 전략 등 경제 전반에 걸친 정책적 논의가 활발합니다.",
+        "articles": [
+          {
+            "title": "[인터뷰] “한국 산업화 저력으로 한미동맹 더 강화해야”",
+            "url": "http://www.koreatimes.com/article/1634798",
+            "outlet": "koreatimes.com",
+            "publishedAt": "Thu, 22 Oct 2026 21:16:00 +0900"
+          },
+          {
+            "title": "'초광역특구법' 논란 촉발…반도체 위해 농지·물 다 가져가라?",
+            "url": "http://www.ikpnews.net/news/articleView.html?idxno=71756",
+            "outlet": "ikpnews.net",
+            "publishedAt": "Thu, 22 Oct 2026 20:16:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"잠재성장률 역사적 전환점…균형성장 마중물\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202610222241508FU",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 22 Oct 2026 22:42:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "사이버 보안 위협 및 대응",
+        "summary": "PHP 취약점을 이용한 해킹 위협으로 전 세계가 비상에 걸렸으며, 국내에서도 사이버 위기 '주의' 단계가 발령되고 긴급 대책 회의가 열리는 등 대응에 나섰습니다.",
+        "articles": [
+          {
+            "title": "[이슈 직썰] PHP 해킹 위협에 세계 각국 비상…정부, 사이버위기 '주의'...",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=150460",
+            "outlet": "ziksir.com",
+            "publishedAt": "Thu, 22 Oct 2026 21:44:00 +0900"
+          },
+          {
+            "title": "\"로그인 없이 뚫린다\" PHP 결함에 전 세계 비상",
+            "url": "https://www.thelec.kr/news/articleView.html?idxno=64158",
+            "outlet": "thelec.kr",
+            "publishedAt": "Thu, 22 Oct 2026 22:16:00 +0900"
+          },
+          {
+            "title": "[단독] 한전, 협력업체 직원 개인정보도 유출...피해자 1만명 추가 확인",
+            "url": "https://www.segye.com/newsView/20261022524716?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Thu, 22 Oct 2026 21:03:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "노동 및 안전 문제",
+        "summary": "건설 현장의 안전 문제, HD현대중공업 노사 갈등, 아리셀 참사 관련 판결에 대한 시민사회 반응 등 노동 현장의 다양한 이슈가 부각되고 있습니다.",
+        "articles": [
+          {
+            "title": "\"무사히 퇴근하는 현장\" 원청 단협 외친 건설 노동 자들",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41692",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Thu, 22 Oct 2026 22:07:00 +0900"
+          },
+          {
+            "title": "HD현대중 노사 갈등 교섭장 밖으로…단식·고공농성 이어져",
+            "url": "https://www.m-i.kr/news/articleView.html?idxno=2009366",
+            "outlet": "m-i.kr",
+            "publishedAt": "Thu, 22 Oct 2026 22:46:00 +0900"
+          },
+          {
+            "title": "23명 사망 '아리셀 참사' 징역 4년...대폭 감형에 시민사회 분노",
+            "url": "https://www.newspost.kr/news/articleView.html?idxno=226631",
+            "outlet": "newspost.kr",
+            "publishedAt": "Thu, 22 Oct 2026 22:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "정치권의 과거사 관련 발언 및 논란",
+        "summary": "윤석열 전 대통령의 과거 발언과 관련된 논란이 재점화되고 있으며, 정치권의 과거사 관련 발언들이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "‘내란 수괴’ 윤석열, ‘조희대 탄핵론’에 “이게 민주주의냐···나...",
+            "url": "https://weekly.khan.co.kr/article/202610222251001",
+            "outlet": "weekly.khan.co.kr",
+            "publishedAt": "Thu, 22 Oct 2026 22:51:00 +0900"
+          },
+          {
+            "title": "靑 특보 향해 \"저능아\" \"청와대 천치들\" 막말에도 입 닫은 정부",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290221.html",
+            "outlet": "news.tvchosun.com",
+            "publishedAt": "Thu, 22 Oct 2026 21:06:00 +0900"
+          },
+          {
+            "title": "尹 “민주당사 병력 투입 시도에 ‘미쳤냐’ 말하며 중지 지시”",
+            "url": "https://biz.chosun.com/topics/law_firm/2026/10/22/75T3XBYDVBFW3HRWZZZZPCCNSI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Thu, 22 Oct 2026 22:16:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
