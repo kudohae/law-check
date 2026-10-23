@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T13:44:53.155Z",
+  "title": "2026년 10월 23일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "제주도의회 교육전문위원 소속 변경 논란",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "제주도의회 교육전문위원 소속 변경 논란…전교조 \"추진 중단하라\"",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3730362",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Fri, 23 Oct 2026 22:38:00 +0900"
+          },
+          {
+            "title": "(2026 국감) 전동킥보드 주차관리 비용 지자체만 부담…\"업체도 분담해...",
+            "url": "https://www.electimes.com/news/articleView.html?idxno=373837",
+            "outlet": "electimes.com",
+            "publishedAt": "Fri, 23 Oct 2026 21:44:00 +0900"
+          },
+          {
+            "title": "박홍근 \"소방예산 안정적 확보 위한 대책 마련\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH202610232117408DX",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 21:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "로봇 세우고 4.6조 AI 예산 추적",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[스코어보드-과방위]로봇 세우고 4.6조 AI 예산 추적…'정책국감' 가능성...",
+            "url": "https://www.mt.co.kr/politics/2026/10/23/2026102320380945781",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 21:17:00 +0900"
+          },
+          {
+            "title": "이 대통령 지지율 40%…'조희대 탄핵' 찬반 팽팽",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812538&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 20:43:00 +0900"
+          },
+          {
+            "title": "“서울 전쟁터 되는 게임 해보시라”…한동훈, 이 대통령에 권한 게임 ...",
+            "url": "https://www.mk.co.kr/article/12184532",
+            "outlet": "mk.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 20:41:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "北지뢰폭발 31일만에",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "北지뢰폭발 31일만에…정부, 안보리에 “정전협정 위반” 서한",
+            "url": "https://www.donga.com/news/Politics/article/all/20261023/134896650/1",
+            "outlet": "donga.com",
+            "publishedAt": "Fri, 23 Oct 2026 20:38:00 +0900"
+          },
+          {
+            "title": "이소영 \"협상력 있는 근로자엔 주52시간 예외 가능\"",
+            "url": "https://www.nocutnews.co.kr/news/6596471?utm_source=naver&utm_medium=article&utm_campaign=20261023080738",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 19:53:00 +0900"
+          },
+          {
+            "title": "지방 살릴 초광역특구…노동계 설득 '복병'",
+            "url": "https://biz.sbs.co.kr/article_hub/20000341886?division=NAVER",
+            "outlet": "biz.sbs.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 18:36:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "수입 김치 범람하는 외식 시장",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "수입 김치 범람하는 외식 시장, 김치 자급률 높이는 길은③토론",
+            "url": "http://www.ikpnews.net/news/articleView.html?idxno=71773",
+            "outlet": "ikpnews.net",
+            "publishedAt": "Fri, 23 Oct 2026 21:50:00 +0900"
+          },
+          {
+            "title": "박정훈 의원 \"천호성 교육감 국감 위증 의혹 고발해야\"",
+            "url": "https://jtv.co.kr/news/article.php?id=71748",
+            "outlet": "jtv.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 21:30:00 +0900"
+          },
+          {
+            "title": "[스틸컷] 이재명 대통령 \"초광역특구법에 각별한 관심 가져달라\"[전문]",
+            "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7093",
+            "outlet": "dailybrief.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 21:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "김정은 사망설? 국정원의 극비 판단",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[이슈]“김정은 사망설?” 국정원의 극비 판단",
+            "url": "https://www.munhwa.com/article/11625864?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Fri, 23 Oct 2026 21:00:00 +0900"
+          },
+          {
+            "title": "박홍근 \"소방 예산 국가·지방 분담 재검토 필요\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3442697",
+            "outlet": "newscj.com",
+            "publishedAt": "Fri, 23 Oct 2026 21:00:00 +0900"
+          },
+          {
+            "title": "벼랑 끝에 몰린 '전주시 재정'.. 260억 원 반납 위기",
+            "url": "http://www.jmbc.co.kr/news/view/69111",
+            "outlet": "jmbc.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 20:50:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "李대통령 추가 보상 없는 주52시간 특례 안 돼",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李대통령 “추가 보상 없는 주52시간 특례 안 돼…할증 임금 필수”",
+            "url": "https://www.kyeonggi.com/article/20261023580234",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Fri, 23 Oct 2026 20:21:00 +0900"
+          },
+          {
+            "title": "李대통령 “주52시간 예외 논의하되 초과근로 할증임금 지급해야”",
+            "url": "https://www.g-enews.com/view.php?ud=202610232005088063cd0bfacc1c_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Fri, 23 Oct 2026 20:08:00 +0900"
+          },
+          {
+            "title": "\"주52시간제 무력화, 내친김에 영리병원까지?...초광역특구법 멈춰라\"",
+            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600958",
+            "outlet": "headlinejeju.co.kr",
+            "publishedAt": "Fri, 23 Oct 2026 19:54:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "李 주 52시간 예외 노동특례",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李 “주 52시간 예외 노동특례, 기존 시행령 수정 검토를”",
+            "url": "https://www.donga.com/news/Politics/article/all/20261023/134898578/1",
+            "outlet": "donga.com",
+            "publishedAt": "Fri, 23 Oct 2026 19:43:00 +0900"
+          },
+          {
+            "title": "이재명 대통령, \"주 52시간 예외, 할증 임금 보상과 건강권 보장이 전제...",
+            "url": "https://www.ppss.kr/news/articleView.html?idxno=317125",
+            "outlet": "ppss.kr",
+            "publishedAt": "Fri, 23 Oct 2026 19:30:00 +0900"
+          },
+          {
+            "title": "이 대통령, 반도체 주52시간 특례에 “할증임금 지급해야”",
+            "url": "https://www.viva100.com/article/20261023500773",
+            "outlet": "viva100.com",
+            "publishedAt": "Fri, 23 Oct 2026 19:14:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
