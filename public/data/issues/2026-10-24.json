@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T12:53:09.560Z",
+  "title": "2026년 10월 24일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 24일, 한국 사회의 주요 이슈들을 다룹니다. 노동, 정치, 경제, 사회 안전 등 다양한 분야의 현안이 주목받고 있습니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "김정은, 중국 방문 및 외교적 행보",
+        "summary": "김정은 북한 국무위원장의 중국 방문과 관련된 외교적 움직임 및 분석이 주요 뉴스로 다뤄지고 있습니다.",
+        "articles": [
+          {
+            "title": "[속보] 김정은, 당일치기 방중 종료…中 ‘서열 4위’ 만나고 떠났다",
+            "url": "https://www.joongang.co.kr/article/25472510",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 20:14:00 +0900"
+          },
+          {
+            "title": "김정은, 단둥서 '항미원조' 기념관 참관, 中 서열 4위 왕후닝과 회담",
+            "url": "https://www.newspim.com/news/view/20261024000101",
+            "outlet": "newspim.com",
+            "publishedAt": "Sat, 24 Oct 2026 20:37:00 +0900"
+          },
+          {
+            "title": "김정은 방중에 미국 '촉각'…북미회담 가능성은?",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813235&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 20:11:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "노동계 현안 및 법안 논의",
+        "summary": "민주노총 위원장 선거, '노란봉투법' 관련 논의, 산업 현장의 노동 안전 문제 등 노동계의 주요 이슈들이 부각되고 있습니다.",
+        "articles": [
+          {
+            "title": "민주노총 위원장 선거 4파전...유권자 97만여명, 정당 제외 민간 최대 규...",
+            "url": "https://vop.co.kr/A00001697302.html",
+            "outlet": "vop.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 20:38:00 +0900"
+          },
+          {
+            "title": "공공운수노조 집회 “노란봉투법 빛 바래…원청서 교섭 거부”",
+            "url": "https://www.sedaily.com/article/20105644?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sat, 24 Oct 2026 16:32:00 +0900"
+          },
+          {
+            "title": "[위클립] 10월 4주",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41702",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 15:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "이태원 참사 4주기 추모 및 진상 규명 요구",
+        "summary": "이태원 참사 4주기를 맞아 시민 추모대회가 열렸으며, 진상 규명과 재발 방지 대책 마련에 대한 요구가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "\"슬픈 하루로만 남지 않길\"…이태원참사 4주기 시민추모대회(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20261024033051004?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 19:25:00 +0900"
+          },
+          {
+            "title": "한성숙 총리 \"이태원참사 진상 명백히 규명…특조위 전폭 지원\"",
+            "url": "https://www.tf.co.kr/read/ptoday/2380316.htm",
+            "outlet": "더팩트"
+          },
+          {
+            "title": "[위클립] 10월 4주",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41702",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 15:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "경제 및 금융 시장 전망",
+        "summary": "고금리 시대 지속 가능성, 부동산 시장 침체 및 지역별 차이, 반도체 산업 투자 등 경제 전반에 대한 분석과 전망이 제시되고 있습니다.",
+        "articles": [
+          {
+            "title": "신현송 “과거 같은 초저금리 시대 돌아가기 어려워…고성장·고금리 대...",
+            "url": "https://www.segye.com/newsView/20261023514435?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sat, 24 Oct 2026 21:31:00 +0900"
+          },
+          {
+            "title": "지방 부동산 침체? 반도체 머니에 정부 이전까지 '이곳'은 다릅니다",
+            "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226914",
+            "outlet": "mbn.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 20:13:00 +0900"
+          },
+          {
+            "title": "“수출·재정 확대가 수요 측 물가 압력 키워…건전성 관리 유의해야”",
+            "url": "https://www.etnews.com/20261024000037",
+            "outlet": "etnews.com",
+            "publishedAt": "Sat, 24 Oct 2026 21:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "정치권 동향 및 정책 논의",
+        "summary": "집권 여당의 미래 권력 투쟁, 민주당의 산업 법안 처리 지연, 국토부 장관의 공사비 증액 관련 발언 등 정치권의 주요 쟁점들이 다뤄지고 있습니다.",
+        "articles": [
+          {
+            "title": "민생 뒷전 집권여당, 미래 권력 투쟁 골몰 … 집권 2년차 레임덕 자초 [...",
+            "url": "https://www.newdaily.co.kr/site/data/html/2026/10/23/2026102300305.html",
+            "outlet": "newdaily.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 15:02:00 +0900"
+          },
+          {
+            "title": "국토부장관 공사비 증액분 확약 회피, 정부 의지도 의심",
+            "url": "https://news.knn.co.kr/news/article/193565",
+            "outlet": "news.knn.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 20:26:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 지지율 7주만에 40%대로 회복",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337963",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 20:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "사회 안전 및 공공 의료 이슈",
+        "summary": "전쟁 게임 논란, 소방관 처우 개선 요구, 지역별 의료 공백 문제 등 사회 안전 및 공공 의료 관련 현안이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "‘전쟁터된 서울?’…한반도 전쟁 다룬 게임 논란 확산...‘창작 자유’...",
+            "url": "https://www.munhwa.com/article/11625930?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Sat, 24 Oct 2026 20:00:00 +0900"
+          },
+          {
+            "title": "'재정 빨대' 논란 추미애, 순직소방관 추모식서 \"처우·예우 바꿀 것\"",
+            "url": "https://www.mt.co.kr/society/2026/10/24/2026102419460941081",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Sat, 24 Oct 2026 19:49:00 +0900"
+          },
+          {
+            "title": "당진 소아 진료, 새벽 2시 이후엔 공백…\"24시간 체계 구축해야\"",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=241368",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Sat, 24 Oct 2026 21:16:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
