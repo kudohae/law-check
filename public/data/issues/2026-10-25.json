@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T13:19:28.535Z",
+  "title": "2026년 10월 25일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 25일 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "주 52시간제 유연화 논의 지속",
+        "summary": "주 52시간 근무제에 대한 예외 적용 및 유연화 논의가 노동계 반발 속에서 정치권과 경제계에서 계속되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설]대통령도 주문한 52시간 출구, 조속히 매듭짓기를",
+            "url": "https://www.fnnews.com/news/202610251935148504",
+            "outlet": "fnnews.com",
+            "publishedAt": "Sun, 25 Oct 2026 19:36:00 +0900"
+          },
+          {
+            "title": "이 대통령 ‘주52시간 특례’ 발언에…“죽도록 일해 돈 벌라는 정책”",
+            "url": "https://www.hani.co.kr/arti/society/labor/1284088.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 19:50:00 +0900"
+          },
+          {
+            "title": "메가특구 특혜 어디까지.. 노동 유연화 이어 원전 PPA도 논란",
+            "url": "https://www.fnnews.com/news/202610252036596043",
+            "outlet": "fnnews.com",
+            "publishedAt": "Sun, 25 Oct 2026 21:07:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "호남 반도체 메가특구 관련 법안 논쟁",
+        "summary": "호남권 반도체 메가특구 조성과 관련하여 노동 특례 포함 여부를 두고 법안 발의가 엇갈리며 논쟁이 일고 있습니다.",
+        "articles": [
+          {
+            "title": "800조 호남 반도체…노동특례 놓고 與 법안 엇갈려",
+            "url": "https://www.namdonews.com/news/articleView.html?idxno=927177",
+            "outlet": "namdonews.com",
+            "publishedAt": "Sun, 25 Oct 2026 18:40:00 +0900"
+          },
+          {
+            "title": "국회서 호남 반도체 다룰 지역의원 ‘실종’…사·보임론 부상",
+            "url": "http://www.jndn.com/article.php?aid=1792918847441789001",
+            "outlet": "jndn.com",
+            "publishedAt": "Sun, 25 Oct 2026 18:04:00 +0900"
+          },
+          {
+            "title": "기간제 노동자 중 15%만 정규직 전환···60%는 비정규직 제자리",
+            "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407618",
+            "outlet": "todaykorea.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 18:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "북한 군사적 긴장 고조 및 외교적 움직임",
+        "summary": "북한이 접경 지역에 자주포를 배치하며 군사적 긴장을 고조시키는 가운데, 김정은 위원장의 방중 등 외교적 행보도 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "北, 접경지역에 남측 겨냥 자주포 배치…군사회담 제안엔 '무응답'",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=02355046645616528&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 22:07:00 +0900"
+          },
+          {
+            "title": "김정은 방중에 여 “동향 주시” 야 “정부 뭐했나”",
+            "url": "https://news.kbs.co.kr/pc/view/view.do?ncd=8694564&ref=A",
+            "outlet": "news.kbs.co.kr"
+          },
+          {
+            "title": "北, 남쪽 겨눈 자주포 최전방 배치…군사회담 제안엔 침묵(종합)",
+            "url": "https://www.newsis.com/view/NISX20261025_0003840244",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 25 Oct 2026 21:39:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "경제 현안 및 정책 논의",
+        "summary": "국내 생산 세액 공제 보완, 3대 핵심 사회 정책(주거, 일자리, 서민금융) 추진 방안 등 경제 현안에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "이형일, 경제현안간담회 개최…국내생산세액공제·사회정책 논의",
+            "url": "https://www.seoul.co.kr/news/economy/2026/10/25/20261025500093?wlog_tag3=naver",
+            "outlet": "seoul.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 20:47:00 +0900"
+          },
+          {
+            "title": "이형일, 경제현안간담회서 ‘국내생산세액공제·3대 사회정책’ 논의",
+            "url": "https://www.sedaily.com/article/20105891?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sun, 25 Oct 2026 20:39:00 +0900"
+          },
+          {
+            "title": "정부, 국내생산세액공제 보완 논의…3대 핵심 사회정책도 점검",
+            "url": "https://biz.heraldcorp.com/article/10914031?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sun, 25 Oct 2026 20:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "정치권 공방 및 국정감사 관련 이슈",
+        "summary": "국정감사 막바지에 접어들면서 조작기소 특검법 처리 논의가 본격화되고 있으며, 정치권에서는 다양한 법안 및 정책에 대한 공방이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "정점식 \"민주 국정조사, 탄핵보다 악질적…나라 위해 기각이 답\"",
+            "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620760",
+            "outlet": "mdtoday.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 22:02:00 +0900"
+          },
+          {
+            "title": "與, 국감 이후 ‘조작기소 특검법’ 본격화",
+            "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261026.22005007235",
+            "outlet": "kookje.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 19:44:00 +0900"
+          },
+          {
+            "title": "김근식 “이준석, 오세훈 빌어 한동훈 비난 ‘비겁’…서로 자제, 유승...",
+            "url": "https://www.dt.co.kr/article/12091138?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 21:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "가상자산 과세 유예 및 관련 법안",
+        "summary": "가상자산 과세 시행이 네 번째 유예될 가능성이 제기되며, 관련 법안 발의 및 국회 심사 과정에 관심이 모이고 있습니다.",
+        "articles": [
+          {
+            "title": "“세 번 미루고 또”… 가상자산 과세 네 번째 유예 수순, 2029년까지 밀...",
+            "url": "https://www.jibs.co.kr/news/articles/articlesDetail/66917?feed=na",
+            "outlet": "jibs.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 18:40:00 +0900"
+          },
+          {
+            "title": "국내선 이름값 못한 채…출렁이는 스테이블코인",
+            "url": "https://www.hani.co.kr/arti/economy/economy_general/1284063.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Sun, 25 Oct 2026 18:28:00 +0900"
+          },
+          {
+            "title": "정부, 국내생산세액공제 보완 논의…3대 핵심 사회정책도 점검",
+            "url": "https://biz.heraldcorp.com/article/10914031?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sun, 25 Oct 2026 20:34:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
