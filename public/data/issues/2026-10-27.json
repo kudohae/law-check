@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-26T15:24:31.555Z",
+  "title": "2026년 10월 27일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "공정 50%대 울산 AI데이터센터에 신규 규제 적용...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"공정 50%대 울산 AI데이터센터에 신규 규제 적용 안돼\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070606",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\"",
+            "url": "https://www.yna.co.kr/view/AKR20261026156700530?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "오늘 3개 상임위 종합감사...외통위 '대북· 외교 현안' 공방 전망",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610270002473709",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "노동 법 개악 초광역특구법 철회하라",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\" 노동 법 개악 '초광역특구법' 철회하라\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070602",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 집은 징벌 과세, 코인은 유예, 조세 정의도 선택적",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/27/W2FIYFUJBZEO3NFG7QGFSAAJOU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[조민근의 시시각각] 금리 앞에 장사 없다",
+            "url": "https://www.joongang.co.kr/article/25473020",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "마크롱",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "마크롱, 폭력사태에 SNS 탓…\"우리 민주주의 손상시켜\"",
+            "url": "https://www.yna.co.kr/view/AKR20261027000300085?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:08:00 +0900"
+          },
+          {
+            "title": "오늘 국감일정 10월 27일 '2026 국정감사 일정'",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733410",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[사설] 가상자산 과세 네 번째 유예…정책 신뢰도 훼손은 어쩔 건가",
+            "url": "https://www.joongang.co.kr/article/25473025",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "신뢰받는 국정원이 되려면",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[시론] 신뢰받는 국정원이 되려면",
+            "url": "https://www.joongang.co.kr/article/25473018",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:16:00 +0900"
+          },
+          {
+            "title": "[사설] 中, 저가 공세에다 수주 싹쓸이…철강·조선 파업할 땐가",
+            "url": "https://www.sedaily.com/article/20106306?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:03:00 +0900"
+          },
+          {
+            "title": "[사설] 李 “CPTPP 피할 수 없어”… 정치 논리에 때 놓쳐선 안 된다",
+            "url": "https://www.sedaily.com/article/20106296?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "北",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 北, 이젠 무력시위까지…상응 조치는 뭔가",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261026010008846",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "대유위니아 체불 해결, 박영우 재산 환수해야",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=673759",
+            "outlet": "gjdream.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "국민건강보험 환급금 조회, 실손보험금 과소·과다 지급 문제…사후정산...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619557",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "안유진 어제 봤다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"안유진 어제 봤다\"…'로또 청약' 당첨설 아파트서 목격담",
+            "url": "https://www.newsis.com/view/NISX20261026_0003841586",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[박수련의 뉴스터치] AI 판사? AI 국회의원은?",
+            "url": "https://www.joongang.co.kr/article/25473000",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+          },
+          {
+            "title": "\"페이스 메이커를 넘어 폴리시 메이커 역할을 수행하자\"",
+            "url": "http://www.tongilnews.com/news/articleView.html?idxno=217957",
+            "outlet": "tongilnews.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "전세 살던 집에 월세 100만원 추가",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "전세 살던 집에 월세 100만원 추가… 서울 세입자 ‘이중고’",
+            "url": "https://www.kmib.co.kr/article/20261026502091",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:14:00 +0900"
+          },
+          {
+            "title": "[사설] 임박한 '재초환' 부담금, 논란 없게 이제라도 기준 손질을",
+            "url": "https://www.hankookilbo.com/news/article/A2026102614060001598?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 27 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "강기윤 창원시장, 시민 소통·청년 정착·K-방산으로 '더 큰 창원' 연다",
+            "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88245",
+            "outlet": "industrynews.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 00:10:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
