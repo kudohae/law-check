@@ -1,7 +1,7 @@
 {
   "serviceName": "시선(時線)",
   "date": "2026-10-27",
-  "generatedAt": "2026-10-26T15:24:31.555Z",
+  "generatedAt": "2026-10-27T14:51:11.424Z",
   "title": "2026년 10월 27일의 시사 이슈 마인드맵",
   "editorialPolicy": {
     "excludedCategories": [
@@ -19,180 +19,155 @@
   "root": {
     "id": "today",
     "label": "오늘의 주요 시사",
-    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "summary": "2026년 10월 27일, 한국 사회의 주요 공공 이슈들을 선정하여 구조화합니다.",
     "children": [
       {
-        "id": "fallback1",
-        "label": "공정 50%대 울산 AI데이터센터에 신규 규제 적용...",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue1",
+        "label": "초광역특구법, 노동·환경·안전 규제 완화 논란 확산",
+        "summary": "정부와 더불어민주당이 추진하는 초광역특구법이 지역 발전이라는 명분 아래 노동권, 환경 보호, 안전 규제를 후퇴시킨다는 비판에 직면하며 시민사회와 노동계의 반발이 거세지고 있습니다.",
         "articles": [
           {
-            "title": "\"공정 50%대 울산 AI데이터센터에 신규 규제 적용 안돼\"",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070606",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+            "title": "\"지역발전 내세워 노동 권 후퇴시키나\"…'초광역특구법' 비판 확산",
+            "url": "https://www.ngonews.kr/news/articleView.html?idxno=241649",
+            "outlet": "ngonews.kr",
+            "publishedAt": "Tue, 27 Oct 2026 22:20:00 +0900"
           },
           {
-            "title": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\"",
-            "url": "https://www.yna.co.kr/view/AKR20261026156700530?input=1195m",
-            "outlet": "yna.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
+            "title": "노동계 “초광역특구법 철회” 연일 반발…여당 ‘당혹’",
+            "url": "https://www.khan.co.kr/article/202610272132005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 21:32:00 +0900"
           },
           {
-            "title": "오늘 3개 상임위 종합감사...외통위 '대북· 외교 현안' 공방 전망",
-            "url": "https://www.ytn.co.kr/_ln/0101_202610270002473709",
-            "outlet": "ytn.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+            "title": "시민단체 “초광역메가특구법은 노동·환경권 침해”",
+            "url": "http://www.kjdaily.com/article.php?aid=1793105053690526005",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Tue, 27 Oct 2026 21:48:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback2",
-        "label": "노동 법 개악 초광역특구법 철회하라",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue2",
+        "label": "이태원 참사 진상 규명 및 책임 논의 지속",
+        "summary": "이태원 참사 특별조사위원회의 중간보고회에서 국가 재난 대응 체계의 총체적 실패와 지휘 공백, 책임 회피 정황이 드러나면서 진상 규명과 책임자 처벌에 대한 요구가 이어지고 있습니다.",
         "articles": [
           {
-            "title": "\" 노동 법 개악 '초광역특구법' 철회하라\"",
-            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070602",
-            "outlet": "ksilbo.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
+            "title": "재난 대응 ‘총제적 실패’ 드러난 이태원 참사…공무원노조 “기억합...",
+            "url": "https://www.khan.co.kr/article/202610272206005",
+            "outlet": "khan.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 22:06:00 +0900"
           },
           {
-            "title": "[사설] 집은 징벌 과세, 코인은 유예, 조세 정의도 선택적",
-            "url": "https://www.chosun.com/opinion/editorial/2026/10/27/W2FIYFUJBZEO3NFG7QGFSAAJOU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-            "outlet": "chosun.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:01:00 +0900"
+            "title": "조정식 국회의장, 이태원참사 유가족에 \"진실 밝혀질 때까지 함께\"",
+            "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319664",
+            "outlet": "wolyo.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 22:30:00 +0900"
           },
           {
-            "title": "[조민근의 시시각각] 금리 앞에 장사 없다",
-            "url": "https://www.joongang.co.kr/article/25473020",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:18:00 +0900"
+            "title": "\"극심한 무력감·분노\"…경찰 '압수수색 사과 거부'에 아주대병원 소아...",
+            "url": "https://www.medigatenews.com/news/666187207",
+            "outlet": "medigatenews.com",
+            "publishedAt": "Tue, 27 Oct 2026 23:42:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback3",
-        "label": "마크롱",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue3",
+        "label": "외교·안보 현안 관련 공방",
+        "summary": "국회 외교 통일위원회 국정감사에서 북한의 지뢰 매설 사건과 전시작전통제권 전환 등 외교·안보 현안을 두고 여야 간의 치열한 공방이 벌어졌습니다.",
         "articles": [
           {
-            "title": "마크롱, 폭력사태에 SNS 탓…\"우리 민주주의 손상시켜\"",
-            "url": "https://www.yna.co.kr/view/AKR20261027000300085?input=1195m",
-            "outlet": "yna.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:08:00 +0900"
+            "title": "정동영 \"지뢰는 방어용 무기\"…한동훈 \"장관 집에 몰래 심어도 방어냐\"",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=56612",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Tue, 27 Oct 2026 22:50:00 +0900"
           },
           {
-            "title": "오늘 국감일정 10월 27일 '2026 국정감사 일정'",
-            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733410",
-            "outlet": "gukjenews.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:06:00 +0900"
+            "title": "한동훈 \"제가 장관님 댁 지뢰 놔도 공격 아니냐\"에 정동영 답변은 [여의...",
+            "url": "https://www.imaeil.com/page/view/2026102720230441145",
+            "outlet": "imaeil.com",
+            "publishedAt": "Tue, 27 Oct 2026 22:42:00 +0900"
           },
           {
-            "title": "[사설] 가상자산 과세 네 번째 유예…정책 신뢰도 훼손은 어쩔 건가",
-            "url": "https://www.joongang.co.kr/article/25473025",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:22:00 +0900"
-          }
-        ]
-      },
-      {
-        "id": "fallback4",
-        "label": "신뢰받는 국정원이 되려면",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
-        "articles": [
-          {
-            "title": "[시론] 신뢰받는 국정원이 되려면",
-            "url": "https://www.joongang.co.kr/article/25473018",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:16:00 +0900"
-          },
-          {
-            "title": "[사설] 中, 저가 공세에다 수주 싹쓸이…철강·조선 파업할 땐가",
-            "url": "https://www.sedaily.com/article/20106306?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:03:00 +0900"
-          },
-          {
-            "title": "[사설] 李 “CPTPP 피할 수 없어”… 정치 논리에 때 놓쳐선 안 된다",
-            "url": "https://www.sedaily.com/article/20106296?ref=naver",
-            "outlet": "sedaily.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
-          }
-        ]
-      },
-      {
-        "id": "fallback5",
-        "label": "北",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
-        "articles": [
-          {
-            "title": "[사설] 北, 이젠 무력시위까지…상응 조치는 뭔가",
-            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261026010008846",
-            "outlet": "asiatoday.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
-          },
-          {
-            "title": "대유위니아 체불 해결, 박영우 재산 환수해야",
-            "url": "http://www.gjdream.com/news/articleView.html?idxno=673759",
-            "outlet": "gjdream.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
-          },
-          {
-            "title": "국민건강보험 환급금 조회, 실손보험금 과소·과다 지급 문제…사후정산...",
-            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619557",
-            "outlet": "cbci.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
-          }
-        ]
-      },
-      {
-        "id": "fallback6",
-        "label": "안유진 어제 봤다",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
-        "articles": [
-          {
-            "title": "\"안유진 어제 봤다\"…'로또 청약' 당첨설 아파트서 목격담",
-            "url": "https://www.newsis.com/view/NISX20261026_0003841586",
+            "title": "조현, 전작권 환수시 주한미군 감축 우려에 \"분명히 아니다\"(종합2보)",
+            "url": "https://www.newsis.com/view/NISX20261027_0003843730",
             "outlet": "newsis.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:00:00 +0900"
-          },
-          {
-            "title": "[박수련의 뉴스터치] AI 판사? AI 국회의원은?",
-            "url": "https://www.joongang.co.kr/article/25473000",
-            "outlet": "joongang.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:02:00 +0900"
-          },
-          {
-            "title": "\"페이스 메이커를 넘어 폴리시 메이커 역할을 수행하자\"",
-            "url": "http://www.tongilnews.com/news/articleView.html?idxno=217957",
-            "outlet": "tongilnews.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:22:00 +0900"
+            "publishedAt": "Tue, 27 Oct 2026 23:38:00 +0900"
           }
         ]
       },
       {
-        "id": "fallback7",
-        "label": "전세 살던 집에 월세 100만원 추가",
-        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "id": "issue4",
+        "label": "의료계 현안 및 정책 논의",
+        "summary": "아주대병원 소아응급실 교수들의 사직, 건강보험 수가 문제, 임신중지약 도입 등 의료계 현안과 관련 정책 논의가 활발하게 이루어지고 있습니다.",
         "articles": [
           {
-            "title": "전세 살던 집에 월세 100만원 추가… 서울 세입자 ‘이중고’",
-            "url": "https://www.kmib.co.kr/article/20261026502091",
-            "outlet": "kmib.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:14:00 +0900"
+            "title": "아주대병원 소아응급실 교수 7명 사직...\"손 떨려 진료 못 하겠다\"",
+            "url": "https://www.mt.co.kr/thebio/2026/10/27/2026102722332871562",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 23:06:00 +0900"
           },
           {
-            "title": "[사설] 임박한 '재초환' 부담금, 논란 없게 이제라도 기준 손질을",
-            "url": "https://www.hankookilbo.com/news/article/A2026102614060001598?did=NA",
+            "title": "복지위, ‘미프진 도입’ 두고 공방…野 “하명 정책” 與 “꾸준히 준...",
+            "url": "https://www.sedaily.com/article/20106885?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 27 Oct 2026 21:49:00 +0900"
+          },
+          {
+            "title": "\"건강보험 수가 부정확성 개선해야 한다\"",
+            "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547454",
+            "outlet": "kpanews.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 23:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "환경 문제 및 법안 발의",
+        "summary": "불법 폐기물 관리 강화, 석포제련소 환경 문제 등 환경 관련 이슈와 이를 해결하기 위한 법안 발의가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "김기현 의원, 폐기물관리법 개정안 대표 발의",
+            "url": "https://www.ulsanpress.net/news/articleView.html?idxno=585593",
+            "outlet": "ulsanpress.net",
+            "publishedAt": "Tue, 27 Oct 2026 21:42:00 +0900"
+          },
+          {
+            "title": "영풍 석포제련소, 환경개선 약속 또 어겼다…김형동 \"내년 2월까지 못 하...",
+            "url": "https://www.joongangenews.com/news/articleView.html?idxno=558907",
+            "outlet": "joongangenews.com",
+            "publishedAt": "Tue, 27 Oct 2026 23:00:00 +0900"
+          },
+          {
+            "title": "울산 국회의원들, 불법 폐기물 원천차단 나서",
+            "url": "http://www.ujeil.com/news/articleView.html?idxno=394245",
+            "outlet": "ujeil.com",
+            "publishedAt": "Tue, 27 Oct 2026 21:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "경제 안보 및 전략 자산 논의",
+        "summary": "희토류 영구자석과 같은 핵심 소재의 중요성이 부각되며 국가 경제 안보와 직결되는 전략 자산으로서의 의미와 투자 유치에 대한 논의가 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[위클리오늘] 포항시 오늘(10. 27)",
+            "url": "http://www.weeklytoday.com/news/articleView.html?idxno=799784",
+            "outlet": "weeklytoday.com",
+            "publishedAt": "Tue, 27 Oct 2026 21:52:00 +0900"
+          },
+          {
+            "title": "\"외국인 노동자, 국가 경제 에 크게 도움 안된다\" 이 대통령 발언에 파장",
+            "url": "https://www.hankookilbo.com/news/article/A2026102723070000917?did=NA",
             "outlet": "hankookilbo.com",
-            "publishedAt": "Tue, 27 Oct 2026 00:10:00 +0900"
+            "publishedAt": "Tue, 27 Oct 2026 23:44:00 +0900"
           },
           {
-            "title": "강기윤 창원시장, 시민 소통·청년 정착·K-방산으로 '더 큰 창원' 연다",
-            "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88245",
-            "outlet": "industrynews.co.kr",
-            "publishedAt": "Tue, 27 Oct 2026 00:10:00 +0900"
+            "title": "김의겸, 해저통신케이블 특별법 발의···AI 인프라 육성",
+            "url": "https://jtv.co.kr/news/article.php?id=71825",
+            "outlet": "jtv.co.kr",
+            "publishedAt": "Tue, 27 Oct 2026 21:30:00 +0900"
           }
         ]
       }
