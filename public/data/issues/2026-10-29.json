@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-28T15:22:10.875Z",
+  "title": "2026년 10월 29일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 10월 29일자 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회 국정조사 및 정치적 공방 심화",
+        "summary": "대법원장 국정조사 추진과 국정감사 관련 논란이 정치권의 주요 쟁점으로 부상하고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 대법원장 국정조사, 삼권분립 경계 꼭 지켜야",
+            "url": "https://asiatoday.co.kr/kn/view.php?key=20261028010009959",
+            "outlet": "asiatoday.co.kr"
+          },
+          {
+            "title": "[이슈분석] 벌써 5번째… 정치 카드 전락 ‘위험한 국조’",
+            "url": "https://www.kmib.co.kr/article/20261028502650",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:05:00 +0900"
+          },
+          {
+            "title": "국감 막판 격전지 '운영위'...청와대 인사 등 공방",
+            "url": "https://www.ytn.co.kr/_ln/0101_202610290003501216",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:03:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "경제 정책 및 규제 논란",
+        "summary": "반도체 기업 유치 관련 규제 완화 논의와 외국인 노동자 정책, 주식 의무공개매수제 등 경제 관련 쟁점이 부각되고 있습니다.",
+        "articles": [
+          {
+            "title": "\"반도체 기업 유치\" 명분, 시민 안전·기본권 흔들라",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=673837",
+            "outlet": "gjdream.com",
+            "publishedAt": "Thu, 29 Oct 2026 00:06:00 +0900"
+          },
+          {
+            "title": "경제 도움 안된다던 외국인 노동자, 농촌 일손 64% 차지",
+            "url": "https://www.kmib.co.kr/article/20261028502564",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:20:00 +0900"
+          },
+          {
+            "title": "주식 의무공개매수제 논란, 李대통령 \"각계 지혜 필요\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070921",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "노동 및 산업 안전 문제",
+        "summary": "체불임금 사태 해결 촉구와 산업재해 현황 및 예방에 대한 논의가 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "국회 '국감 불출석' 박영우 전 회장 고발키로",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=673832",
+            "outlet": "gjdream.com",
+            "publishedAt": "Thu, 29 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[성유창 직썰] 산업재해의 진실…CCTV 앞에서도 묻혀선 안 된다",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=151156",
+            "outlet": "ziksir.com",
+            "publishedAt": "Thu, 29 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "김태선 의원, 산재 분석·예방...'2026 국감 정책자료집' 발간",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070919",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "사회 안전 및 재난 관련 이슈",
+        "summary": "이태원 참사 4주기를 맞아 안전 점검의 중요성이 다시금 강조되고 있으며, 응급실 압수수색 관련 의료계 반발도 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "[포토 르포] 4년 흘렀어도 '멈춘 시간'… 이태원 참사 4주기 현장",
+            "url": "https://news.tf.co.kr/read/photomovie/2382050.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[사설] 응급실 압수수색에 의료계 반발…필수의료 위축은 안 돼",
+            "url": "https://www.hankyung.com/article/2026102814701",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 29 Oct 2026 00:18:00 +0900"
+          },
+          {
+            "title": "'지방정부 90% 부담' 소방 재정 수술대…\"국가가 책임져야\"",
+            "url": "https://news.tf.co.kr/read/life/2382136.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "정치권 동향 및 차기 구도",
+        "summary": "차기 대선 주자들의 움직임과 정치권 내 주도권 경쟁, 대통령의 국정 운영 관련 발언 등이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "꿈틀대는 野 세력들…장동혁·오세훈·한동훈, 주도권 물밑 경쟁 나서나",
+            "url": "https://www.hankookilbo.com/news/article/A2026102815590001170?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Thu, 29 Oct 2026 00:10:00 +0900"
+          },
+          {
+            "title": "이 대통령, 與 중진과 만찬…\"책임있는 모습 보여야\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20261029001514cf9",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:16:00 +0900"
+          },
+          {
+            "title": "정성호 “SNS 절제 필요”… 李대통령 “성과로 답할 것”",
+            "url": "https://www.dt.co.kr/article/12091952?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:17:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "인구 구조 변화 및 정책 과제",
+        "summary": "인구 이동 감소 추세와 고령화 문제에 대한 재점검 필요성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 인구이동 53년 만에 최저…고령화·주택 정책 재점검할 때",
+            "url": "https://www.hankyung.com/article/2026102814691",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 29 Oct 2026 00:20:00 +0900"
+          },
+          {
+            "title": "진보 시당, 울산 통합돌봄 예산·인력 개편 촉구",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070917",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Thu, 29 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "급한 불 끈 광주 학교 급식, '쪼개기 예산' 반복 불안",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=673840",
+            "outlet": "gjdream.com",
+            "publishedAt": "Thu, 29 Oct 2026 00:10:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
