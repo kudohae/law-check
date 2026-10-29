@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-29T15:28:00.170Z",
+  "title": "2026년 10월 30일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "외국인 노동자",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 외국인 노동자·다문화 차별 논란 자초한 대통령 발언",
+            "url": "https://www.joongang.co.kr/article/25474227",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:21:00 +0900"
+          },
+          {
+            "title": "[퇴직연금 개편] 퇴직연금도 국민연금처럼…정부, 장기 연금 수령 유도...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=620807",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:16:00 +0900"
+          },
+          {
+            "title": "[사설] SCM 연기·비자 거부… 한미 갈등 악화 막아야",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010539",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "김현지",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김현지·정진상 증인출석 놓고 여야 충돌",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071086",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[경상일보 제24기 독자권익위원회 10월 월례회]\"전력문제·공공 의료 ·대...",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071094",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "\"2030년까지 퇴직급여 사외적립 전 사업장 의무화\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071090",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "원인도 모르고 풀려고도 하지 않는 한미 관계 경고 ...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 원인도 모르고 풀려고도 하지 않는 한미 관계 경고 신호",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/30/TJQG7L2UMJGR5DBCGRIM4S5BKA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:21:00 +0900"
+          },
+          {
+            "title": "임광현 \"李대통령 차남 관저에 거주…'아빠찬스'는 과해\"",
+            "url": "https://www.nocutnews.co.kr/news/6599539?utm_source=naver&utm_medium=article&utm_campaign=20261030000330",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:04:00 +0900"
+          },
+          {
+            "title": "미국 9월 PCE 물가 3.6% 상승…12월 금리 인상 가능성 확대",
+            "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92408",
+            "outlet": "thefairnews.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "맥락 그게 아니고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“맥락 그게 아니고”…대통령 X에 참모들 손가락 바빠졌다",
+            "url": "https://www.joongang.co.kr/article/25474230",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:23:00 +0900"
+          },
+          {
+            "title": "‘총파업 기로’ 경기 버스…노사 협상 시한 새벽 3시까지 연장",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699314&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:22:00 +0900"
+          },
+          {
+            "title": "[사설] 대통령 ‘수면 부족’에 이어 ‘SNS 급발진’이 나라 걱정거리",
+            "url": "https://www.chosun.com/opinion/editorial/2026/10/30/U4WBPHQPSRAUZBBPMKD6V3IRRM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "李",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 李, 의무공개매수 공론화…M&A·산업재편 위축 경계를",
+            "url": "https://www.sedaily.com/article/20107955?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:03:00 +0900"
+          },
+          {
+            "title": "결혼·출산, 전남광주에 답이 있다〉출산율 반등 넘어 '정착·양육'까지...",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077671",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설] 국회 국방위원장도 비자 거부...미국의 뒤끝 도 넘어",
+            "url": "https://www.hankookilbo.com/news/article/A2026102914450000309?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "이방인이 사랑한 아네모이아",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[시사천국] 이방인이 사랑한 '아네모이아'…관광객 2천만 시대, 환대를...",
+            "url": "https://news.cpbc.co.kr/article/1176687?division=NAVER",
+            "outlet": "news.cpbc.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[돈 돈 돈] 삭감됐던 '청년 AI 성장권' 재추진…오세훈표 민선 9기 예산...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=620876",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "\"급식비 추경 반영 환영…169억 전액 교부해야\"",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=673895",
+            "outlet": "gjdream.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "가슴에 공업용 실리콘을",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"가슴에 공업용 실리콘을\"…무면허 시술에 가슴 잃은 사연",
+            "url": "https://www.newsis.com/view/NISX20261027_0003842143",
+            "outlet": "newsis.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "\"2억 넣으니 매달 160만원씩\"…30대 파이어족 부부가 꼽은 ETF 4종",
+            "url": "https://www.newsis.com/view/NISX20261029_0003845716",
+            "outlet": "newsis.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설] 전방위로 확산하는 해킹…국가 차원 방어체계 갖춰야",
+            "url": "https://www.hankyung.com/article/2026102943731",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 30 Oct 2026 00:19:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
