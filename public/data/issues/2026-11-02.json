@@ -1,0 +1,172 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-01T15:25:09.221Z",
+  "title": "2026년 11월 02일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 2일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "북한 해킹 및 사이버 안보 위협",
+        "summary": "북한의 대규모 해킹 사건과 관련 법안의 표류가 국가 안보에 대한 심각한 위협으로 부각되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 눈뜨고 북한에 8조 털려 … 남의 일 아니다",
+            "url": "https://www.hankookilbo.com/news/article/A2026110114370002546?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 02 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[사설] 20분 새 8조 턴 北, 해킹 막을 관련법은 20년 표류",
+            "url": "https://www.chosun.com/opinion/editorial/20261102/U6FKIFGNDRCNHJHGDM7DUVC76U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com"
+          },
+          {
+            "title": "바이낸스 63억 달러 해킹, FBI 북한 배후 지목…이더리움 자금 이동 추적",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=621953",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 02 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "지방 재정 문제 및 재원 확보 논의",
+        "summary": "지방자치단체의 재정 절벽 우려와 함께 지방 재원 확충 및 배분 방식에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "[현장] 추미애 경기도지사, 국회서 '재정 절벽' 호소…내년 가용재원 2조...",
+            "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=817734",
+            "outlet": "startuptoday.co.kr",
+            "publishedAt": "Mon, 02 Nov 2026 00:14:00 +0900"
+          },
+          {
+            "title": "[사설] \"추가세수 3년 뒤 고갈\" ... 미래대응기금 심사 엄정하게",
+            "url": "https://www.hankookilbo.com/news/article/A2026110115010005432?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 02 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "사람이 온다, 지역이 산다…기본소득 잡아라",
+            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089266",
+            "outlet": "kyongbuk.co.kr",
+            "publishedAt": "Mon, 02 Nov 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "다문화 정책 재검토 및 사회적 논의",
+        "summary": "다문화 가족 우대 정책에 대한 역차별 논란과 함께 정책의 실효성 및 지원 대상에 대한 사회적 논의가 활발합니다.",
+        "articles": [
+          {
+            "title": "[사설] 역차별 논란 다문화 우대, 과잉 혜택 손볼 때 됐다",
+            "url": "https://www.chosun.com/opinion/editorial/20261102/ZJEWITGMOVDLHOUW7KVVEA4TNU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com"
+          },
+          {
+            "title": "[취재수첩] 시험대 오른 다문화 우대 정책",
+            "url": "https://www.hankyung.com/article/2026110184841",
+            "outlet": "hankyung.com",
+            "publishedAt": "Mon, 02 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[사설] 다문화 이어 ‘돼지’ 논란, 與도 우려하는 대통령의 SNS",
+            "url": "https://www.sedaily.com/article/20108789?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 02 Nov 2026 00:03:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "수출 1조 달러 달성 및 경제 성장 동력",
+        "summary": "한국 수출이 1조 달러를 눈앞에 두며 경제 성과를 보여주고 있으나, 내수 부진 및 산업별 격차에 대한 우려도 제기됩니다.",
+        "articles": [
+          {
+            "title": "韓수출 1조달러 눈앞…미·중·독 이어 네번째",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071272",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Mon, 02 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[천자칼럼] 활기 찾은 남대문시장",
+            "url": "https://www.hankyung.com/article/2026110185091",
+            "outlet": "hankyung.com",
+            "publishedAt": "Mon, 02 Nov 2026 00:11:00 +0900"
+          },
+          {
+            "title": "[잡채기 칼럼] 수출 1조 달러ⵈ \"나는 돈 없다\"",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080903",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Mon, 02 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "소아응급실 압수수색 논란과 의료계 현안",
+        "summary": "소아응급실 압수수색 사건이 한 달째 이어지며 의료계의 공분을 사고 있으며, 관련 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "[이슈 타임라인] 소아응급실 압수수색 한 달…\"아이들 갈 곳이 없습니다...",
+            "url": "https://www.medigatenews.com/news/1877504706",
+            "outlet": "medigatenews.com",
+            "publishedAt": "Mon, 02 Nov 2026 00:14:00 +0900"
+          },
+          {
+            "title": "국회도서관 갈등, 민 시장 조정능력 보여야",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1793545800804891074",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Mon, 02 Nov 2026 00:14:00 +0900"
+          },
+          {
+            "title": "국토부 \"울산화력발전소 붕괴, 구조검토 등 복합부실 원인\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071256",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Mon, 02 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "정치권 통합론 및 정당 지형 변화",
+        "summary": "보수 통합론이 다시 고개를 들면서 정치권의 지형 변화 가능성이 제기되고 있으며, 이에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "보수 통합론 속 정점식 역할론…현역 의원 참여가 관건",
+            "url": "https://www.news.tf.co.kr/read/ptoday/2383242.htm",
+            "outlet": "news.tf.co.kr"
+          },
+          {
+            "title": "다시 고개 든 '합당론'…민주·혁신, 깊어진 감정의 골이 변수",
+            "url": "https://www.news.tf.co.kr/read/ptoday/2383243.htm",
+            "outlet": "news.tf.co.kr"
+          },
+          {
+            "title": "[사설] 다문화 이어 ‘돼지’ 논란, 與도 우려하는 대통령의 SNS",
+            "url": "https://www.sedaily.com/article/20108789?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 02 Nov 2026 00:03:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
