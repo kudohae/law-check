@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-02T18:45:18.885Z",
+  "title": "2026년 11월 03일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "국힘 대통령 시정연설 비판 쌈짓돈 예산 규탄",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국힘 대통령 시정연설 비판 \"쌈짓돈 예산 규탄·재판독립 수호\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2082220",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 03 Nov 2026 00:08:00 +0900"
+          },
+          {
+            "title": "대통령 부부 여권번호까지…'1호기 탑승자' 정보 노출",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827215&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 00:27:00 +0900"
+          },
+          {
+            "title": "[고현곤 칼럼] 변호인과 성남 라인의 대통령",
+            "url": "https://www.joongang.co.kr/article/25475162",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 00:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "대통령 시정 연설 때 야당의 야유",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 대통령 시정 연설 때 야당의 야유, 국민에 대한 무례다",
+            "url": "https://www.chosun.com/opinion/editorial/2026/11/03/WYSQOOXDF5FI7DHJ43LQELQSCQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Tue, 03 Nov 2026 00:11:00 +0900"
+          },
+          {
+            "title": "대통령부터 경호관까지, '1호기' 탑승자 168명 정보 유출…5개월간 노출",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=56810",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Tue, 03 Nov 2026 00:03:00 +0900"
+          },
+          {
+            "title": "배달 라이더 등에 2450억 증액 추진…예산 깎으려는 국힘, 노동 자엔 손짓",
+            "url": "https://www.joongang.co.kr/article/25475174",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 00:37:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "재난급 정보유출",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "재난급 정보유출, 재난급 대책 필요[청계광장/이성엽]",
+            "url": "https://www.mt.co.kr/opinion/2026/11/03/2026110211250153408",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 02:00:00 +0900"
+          },
+          {
+            "title": "미래기금 34%는 현금 복지… 46%는 세수 줄어도 못 없애는 고정지출",
+            "url": "https://www.chosun.com/economy/economy_general/2026/11/03/YVDCV246S5CMHFSOF6TYF2FUVQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Tue, 03 Nov 2026 00:52:00 +0900"
+          },
+          {
+            "title": "박수현 지사 '5382억 투자 성과'…\"국비 13조 사수·AI 수도 구축 속도\"",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=353672",
+            "outlet": "greened.kr",
+            "publishedAt": "Tue, 03 Nov 2026 00:39:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "모두의 성장 필요하나 돈 풀기 삼가고 세수 절벽 대...",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] ‘모두의 성장’ 필요하나 돈 풀기 삼가고 세수 절벽 대비해야",
+            "url": "https://www.hankookilbo.com/news/article/A2026110215160002424?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 03 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "'여주~원주 전철' 예산 전액 부활 정조준",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2082177",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 03 Nov 2026 00:06:00 +0900"
+          },
+          {
+            "title": "울산시 '극한환경 피지컬 AI 실증' 국회 설득전",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071393",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "강원 온실가스 감축목표 달성률 전국 세 번째로 낮아",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "강원 온실가스 감축목표 달성률 전국 세 번째로 낮아",
+            "url": "https://www.kwnews.co.kr/article/20261102501308",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 민생 예산 ‘칼바람’…취약계층 삶에 집중해야",
+            "url": "https://www.kyeonggi.com/article/20261102580584",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Tue, 03 Nov 2026 03:05:00 +0900"
+          },
+          {
+            "title": "김정호 의원 \"화포천 습지보호지역 2.9㎢로 확대…재자연화 추진\"",
+            "url": "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54372",
+            "outlet": "gimhaenews.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 01:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "특정 개인의 수십년 전 행동과 관련",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“특정 개인의 수십년 전 행동과 관련”…韓 국회의원 비자 거부에 美 ...",
+            "url": "https://www.sedaily.com/article/20109129?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 03 Nov 2026 01:41:00 +0900"
+          },
+          {
+            "title": "대통령 부부까지 여권번호 노출…1호기 탑승자 정보 유출",
+            "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030001&t=NN",
+            "outlet": "wowtv.co.kr",
+            "publishedAt": "Tue, 03 Nov 2026 01:04:00 +0900"
+          },
+          {
+            "title": "박수현 \"재선충 방제 2000억 확보 총력\"…공공기관 50곳 유치·재정 정상...",
+            "url": "https://www.greened.kr/news/articleView.html?idxno=353673",
+            "outlet": "greened.kr",
+            "publishedAt": "Tue, 03 Nov 2026 00:39:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "인간이 죽음을 극복하는 날",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "인간이 죽음을 극복하는 날…부자만 젊어지는 세상이 온다면 민주주의...",
+            "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266558",
+            "outlet": "topstarnews.net",
+            "publishedAt": "Tue, 03 Nov 2026 00:28:00 +0900"
+          },
+          {
+            "title": "\"인텔, 저가 매수 신중\"…팔란티어, 월가 '긍정' vs 개인 '약세' [박신영...",
+            "url": "https://www.hankyung.com/article/202611031416i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 03 Nov 2026 00:24:00 +0900"
+          },
+          {
+            "title": "\"청년 자립, 비영리에서 답 찾는다\"...한국비영리학회 13일 추계 학술대...",
+            "url": "https://www.lifein.news/news/articleView.html?idxno=20523",
+            "outlet": "lifein.news",
+            "publishedAt": "Tue, 03 Nov 2026 00:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
