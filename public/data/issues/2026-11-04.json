@@ -1,0 +1,175 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-03T16:27:46.914Z",
+  "title": "2026년 11월 04일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 4일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "대통령 개인정보 유출 사건",
+        "summary": "대통령 순방 탑승객 정보가 5개월간 외부에 노출된 사건으로, 국가 안보 및 정보 보안에 대한 우려가 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 대통령 여권번호까지 유출… 보안 해이 이정돈가",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261103010001169",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 대통령 개인정보까지 노출…국가 정보보안 안심할 수 있나",
+            "url": "https://www.hankyung.com/article/2026110337741",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 04 Nov 2026 01:06:00 +0900"
+          },
+          {
+            "title": "'1호기' 탄 168명 정보 유출‥\"중대 사안\"",
+            "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6862969_36989.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Wed, 04 Nov 2026 00:28:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회, '조작기소 특검법' 상정 및 처리 논란",
+        "summary": "더불어민주당 주도로 '조작기소 특검법'이 국회 법제사법위원회에 상정될 예정이며, 국민의힘은 이에 반발하고 있습니다.",
+        "articles": [
+          {
+            "title": "법사위, 오늘 ‘조작기소 특검법’ 상정 예정…국민의힘 ‘반발’",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703202&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "민주, '조작기소 특검법' 내일 처리 추진...국힘 \"총력 저지\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611040055574391",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 00:55:00 +0900"
+          },
+          {
+            "title": "[언중언]대통령의 ‘X''",
+            "url": "https://www.kwnews.co.kr/article/20261103501752",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "부동산 시장 및 경제 정책 논쟁",
+        "summary": "대통령의 '집값 하락론' 발언 이후 시장과의 간극이 정치적 쟁점으로 부상했으며, 취약계층 대출 관련 금융 정책도 논란입니다.",
+        "articles": [
+          {
+            "title": "\"대통령 혼자 딴 세상 사나\"…李 '집값 하락론' 후폭풍",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=392736",
+            "outlet": "sisajournal.com",
+            "publishedAt": "Wed, 04 Nov 2026 01:16:00 +0900"
+          },
+          {
+            "title": "취약계층 대출에 소득 문턱 폐지… 말 많은 금융위 민생금융",
+            "url": "https://www.kmib.co.kr/article/20261103502254",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 00:17:00 +0900"
+          },
+          {
+            "title": "[사설] 소비자물가 6개월째 3% 안팎…주름살 깊어지는 서민 경제",
+            "url": "https://www.hankyung.com/article/2026110337721",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 04 Nov 2026 01:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "교권 침해 및 교육 현실",
+        "summary": "교사의 정당한 교육 활동이 보호받지 못해 개인이 보험으로 대비해야 하는 현실에 대한 비판이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 무너진 교권에 보험 드는 교사들…씁쓸한 공 교육 현실",
+            "url": "https://www.hankyung.com/article/2026110337731",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 04 Nov 2026 01:06:00 +0900"
+          },
+          {
+            "title": "[발언대]네팔 재난이 보내는 경고, 기후 재난 대한민국과 울산도 예외 아...",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071495",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "경남도 통영서 SDGs 도민포럼… 해양정화 활동 거제·남해로 넓힌다",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081281",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 00:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "북한 관련 안보 이슈",
+        "summary": "북한의 경고사격 및 지뢰 매설 의혹, 사이버 범죄 관련 미국과의 입장 차이 등 안보 관련 사안이 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "한국 “대북 경고사격은 합법적 방어 조치”…“북한군 지뢰 고의 매설...",
+            "url": "https://www.voakorea.com/a/8218263.html",
+            "outlet": "voakorea.com",
+            "publishedAt": "Wed, 04 Nov 2026 00:24:00 +0900"
+          },
+          {
+            "title": "美 \"북한 사이버범죄는 전 지구적 문제\"… 해킹 의혹 정면 반박",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3445694",
+            "outlet": "newscj.com",
+            "publishedAt": "Wed, 04 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "김포 애기봉 北 방사포, 우리 국민 노렸나… \"바로 앞 軍 진지 겨냥한 듯...",
+            "url": "https://www.tvreport.co.kr/broadcast/article/1088143/",
+            "outlet": "tvreport.co.kr",
+            "publishedAt": "Wed, 04 Nov 2026 00:19:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "미국 중간선거 및 국제 정세 영향",
+        "summary": "미국 중간선거 결과에 따른 트럼프 행정부 및 국제 관계 변화 가능성과 유가 변동이 국내 경제에 미치는 영향이 분석되고 있습니다.",
+        "articles": [
+          {
+            "title": "트럼프 명운 걸린 美 중간선거…한반도 정책에 영향줄까",
+            "url": "https://www.tf.co.kr/read/ptoday/2384465.htm",
+            "outlet": "news.tf.co.kr"
+          },
+          {
+            "title": "뉴욕증시, 美중간선거 당일 혼조 출발…나스닥 0.59%↑",
+            "url": "https://www.newsis.com/view/NISX20261103_0003853577",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 04 Nov 2026 00:34:00 +0900"
+          },
+          {
+            "title": "美 이란 게슘섬 공습에 국제유가 반등…브렌트유 106달러대",
+            "url": "https://www.g-enews.com/view.php?ud=2026110322390739549a1f309431_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Wed, 04 Nov 2026 01:00:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
