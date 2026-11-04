@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-04T16:30:21.526Z",
+  "title": "2026년 11월 05일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 5일, 한국 사회의 주요 이슈들을 공공 영향도, 진행성, 출처 교차 확인 가능성, 시의성, 구조화 가능성을 기준으로 선정했습니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "민주당, '조작기소' 특검법 본회의 처리 시도…국민의힘 반발",
+        "summary": "더불어민주당이 '조작기소' 특검법과 민주유공자법 등 쟁점 법안을 본회의에서 처리하려 시도하면서 여야 간 갈등이 고조되고 있습니다. 국민의힘은 특검법의 공정성 문제를 제기하며 필리버스터 등 강경 대응을 예고했습니다.",
+        "articles": [
+          {
+            "title": "민주당, 오늘(5일) 본회의에서 조작기소 특검법 처리 시도…국힘 “필리...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704328&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 01:03:00 +0900"
+          },
+          {
+            "title": "[사설] 조작기소 특검법 강행, ‘대통령 면죄부 특검’ 아닌가",
+            "url": "https://www.joongang.co.kr/article/25475883",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 00:24:00 +0900"
+          },
+          {
+            "title": "한동훈 “조작기소 특검, 李대통령 본인이 해라”",
+            "url": "https://www.munhwa.com/article/11628876?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Thu, 05 Nov 2026 00:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "미국 중간선거 결과와 한국 경제·외교에 미칠 영향",
+        "summary": "미국 중간선거에서 민주당이 상하원을 장악하면서 트럼프 행정부의 국정 운영에 제동이 걸렸습니다. 이는 향후 한미 경제 및 안보 현안, 대미 투자, 통상 정책 등에 변수로 작용할 전망입니다.",
+        "articles": [
+          {
+            "title": "[사설] 美 민주당 압승, 대미투자·관세대응 한 치 오차도 없어야",
+            "url": "https://www.sedaily.com/article/20110377?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 05 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 美 '블루 쓰나미'… 韓 안보·경제 급변 대비해야",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001712",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "중간선거, 워싱턴 한인 유권자의 표심은...",
+            "url": "https://www.koreatimes.com/article/11630332?utm_source=naver",
+            "outlet": "koreatimes.com",
+            "publishedAt": "Thu, 05 Nov 2026 01:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "북한의 연이은 미사일 도발과 안보 불안 심리 자극",
+        "summary": "북한이 '강철비'라 불리는 신형 미사일을 연이어 시험 발사하며 다양한 타격 수단을 과시하고 있습니다. 이는 한국의 자신감을 흔들고 안보 불안을 자극하려는 의도로 풀이되며, 심리전 성격도 띠고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 北 '강철비'에 연일 미사일… 南 흔들기 본격화",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001676",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[윤성민 칼럼] 마약·위폐·코인 해킹…범죄 국가의 악성 진화",
+            "url": "https://www.hankyung.com/article/2026110462961",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 05 Nov 2026 00:11:00 +0900"
+          },
+          {
+            "title": "[사설] 양대 노총 반발, 주 52시간 특례 후퇴 명분될 수 없다",
+            "url": "https://www.sedaily.com/article/20110375?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 05 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "주 52시간제 특례 후퇴 논란과 노동계 반발",
+        "summary": "3대 메가프로젝트 속도전을 뒷받침하기 위한 주 52시간제 특례에 대해 노동계의 반발이 거세지고 있습니다. 양대 노총은 초광역특구법에 포함된 노동 특례 철회를 요구하며 반발 수위를 높이고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 양대 노총 반발, 주 52시간 특례 후퇴 명분될 수 없다",
+            "url": "https://www.sedaily.com/article/20110375?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 05 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 北 '강철비'에 연일 미사일… 南 흔들기 본격화",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001676",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "민주당, 오늘(5일) 본회의에서 조작기소 특검법 처리 시도…국힘 “필리...",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704328&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 01:03:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "서울 지하철 노조 파업 가시화…인력 감축 문제로 노사 평행선",
+        "summary": "서울교통공사 노조가 파업 절차를 밟고 있습니다. 사측과 노조가 인력 감축 방안을 놓고 이견을 좁히지 못하고 있으며, 노동위원회 조정 중지로 인해 노조는 쟁의행위 찬반투표에 돌입했습니다.",
+        "articles": [
+          {
+            "title": "서울 지하철 노조 파업 가시화…노사 인력감축 '평행선'",
+            "url": "https://news.tf.co.kr/read/life/2384992.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[사설] 北 '강철비'에 연일 미사일… 南 흔들기 본격화",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001676",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설] 양대 노총 반발, 주 52시간 특례 후퇴 명분될 수 없다",
+            "url": "https://www.sedaily.com/article/20110375?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 05 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "중국 보조금 공세 및 제조업 덤핑에 따른 한국 첨단산업 영향",
+        "summary": "중국의 공격적인 보조금 정책과 제조업 덤핑이 한국 첨단산업에 직격탄을 날리고 있다는 분석이 나왔습니다. 국제 정치 지형 변화 속에서 산업 정책과 글로벌 산업 체인 재편에 대한 면밀한 대응이 요구됩니다.",
+        "articles": [
+          {
+            "title": "\"중국 보조금 공세·제조업 덤핑에…韓 첨단산업 이미 직격탄\"",
+            "url": "https://www.newsis.com/view/NISX20261104_0003854552",
+            "outlet": "newsis.com",
+            "publishedAt": "Thu, 05 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[사설] 北 '강철비'에 연일 미사일… 南 흔들기 본격화",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001676",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Thu, 05 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[사설] 양대 노총 반발, 주 52시간 특례 후퇴 명분될 수 없다",
+            "url": "https://www.sedaily.com/article/20110375?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 05 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
