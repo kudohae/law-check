@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-05T16:42:10.269Z",
+  "title": "2026년 11월 06일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "207억 투입 재난안전센터 관리 부실",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"207억 투입 재난안전센터 관리 부실… 부산시 방치 행정\" 성현달 부산시...",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=824889",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Fri, 06 Nov 2026 00:42:00 +0900"
+          },
+          {
+            "title": "비대면진료 이용 보장 국민청원 5만 명 돌파…국회 복지위 회부",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR20261106013818Omz",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 01:39:00 +0900"
+          },
+          {
+            "title": "'조작기소 특검법' 필리버스터‥오늘 본회의 처리",
+            "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6863549_36989.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 06 Nov 2026 00:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "도의회 농지 전수조사 집중 질타",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "도의회 '농지 전수조사' 집중 질타…정부에 중단 건의 촉구",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2083063",
+            "outlet": "kado.net",
+            "publishedAt": "Fri, 06 Nov 2026 00:07:00 +0900"
+          },
+          {
+            "title": "‘임세원법’ 만들면 뭐하나…그후 5년간 의료 기관 폭력 9000건",
+            "url": "https://www.joongang.co.kr/article/25476217",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:09:00 +0900"
+          },
+          {
+            "title": "'조작기소 특검 법안 ' 오늘 본회의 처리...오후 필버 종료 표결",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611060005044636",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "조선업 산재예방",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"조선업 산재예방, 원하청 산보위에 권한 부여해야\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071764",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "김기현 의원, 지역고용 활성화 법안 대표발의",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071740",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[사설] 국내 외국인 위한 융합형 로드맵 구축을",
+            "url": "https://m.skyedaily.com/news_view.html?ID=314139",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Fri, 06 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "中은 밤 10시까지 뛰는데",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[다산칼럼] 中은 밤 10시까지 뛰는데…韓은 노동특례 공방",
+            "url": "https://www.hankyung.com/article/2026110591091",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 06 Nov 2026 00:25:00 +0900"
+          },
+          {
+            "title": "[뉴스이슈&비즈] 美 중간선거, 데이터센터 규제 AI 투자 새 변수로... 한...",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81288",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Fri, 06 Nov 2026 01:36:00 +0900"
+          },
+          {
+            "title": "[종합] 나스닥 5%대 급락, 조정 진입…AI·반도체 투매에 하루 만에 반전",
+            "url": "https://www.newspim.com/news/view/20261106000012",
+            "outlet": "newspim.com",
+            "publishedAt": "Fri, 06 Nov 2026 01:07:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "李 불법 부동산투기로 돈벌던 시대 끝내야",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李 \"불법 부동산투기로 돈벌던 시대 끝내야\"… 3차 단속 예고",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3446410",
+            "outlet": "newscj.com",
+            "publishedAt": "Fri, 06 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "李대통령 “하루 6시간 자…잠 못 자는 것 아니냐고 그러던데”",
+            "url": "https://www.munhwa.com/article/11629168?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Fri, 06 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[인터뷰] \"구민 목소리가 정책 되는 '체류형 관광 수영' 만들겠다\" 김태...",
+            "url": "https://www.bzeronews.com/news/articleView.html?idxno=824891",
+            "outlet": "bzeronews.com",
+            "publishedAt": "Fri, 06 Nov 2026 00:46:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "국힘",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국힘, '조작기소 특검법'에 전면전…필리버스터·장외투쟁 총동원",
+            "url": "https://www.dkilbo.com/news/articleView.html?idxno=559838",
+            "outlet": "dkilbo.com",
+            "publishedAt": "Fri, 06 Nov 2026 00:40:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 '청소년 SNS 제한' 논의 지시에 경향신문 \"플랫폼이 변해...",
+            "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338215",
+            "outlet": "mediatoday.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:24:00 +0900"
+          },
+          {
+            "title": "[美 중간선거] 대미 사업 전면 재점검…전문가들이 경고한 '턴베리 체제...",
+            "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285124",
+            "outlet": "financialpost.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "조작기소 특검법 필리버스터 대치",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'조작기소 특검법' 필리버스터 대치...오늘 처리 전망",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611060002195972",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 호남반도체·미래기금, 非전문가 손에 맡긴다니",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010002141",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Fri, 06 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 호르무즈 인근 가는 청해부대, 항행 자유·국익 외교 계기로",
+            "url": "https://www.sedaily.com/article/20110909?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 06 Nov 2026 00:01:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
