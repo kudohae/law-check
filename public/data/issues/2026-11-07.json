@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T16:10:05.002Z",
+  "title": "2026년 11월 07일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "특검법 통과에 국민의힘 반발",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "특검법 통과에 국민의힘 반발…장외투쟁 예고",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744863",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sat, 07 Nov 2026 00:08:00 +0900"
+          },
+          {
+            "title": "재정자립도 10%대인데…정부 복지사업에 허리 휘는 자치구",
+            "url": "https://news.tf.co.kr/read/life/2386020.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "송재봉 \"반도체 인력양성 예산 34%만 실무형\"…청주 실습거점 촉구",
+            "url": "https://www.apnews.kr/news/articleView.html?idxno=3052899",
+            "outlet": "apnews.kr",
+            "publishedAt": "Sat, 07 Nov 2026 01:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "빗썸",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "빗썸, 국회서 '디지털자산 보이스피싱 예방 교육 ' 의무화 제안",
+            "url": "https://www.apnews.kr/news/articleView.html?idxno=3052896",
+            "outlet": "apnews.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:08:00 +0900"
+          },
+          {
+            "title": "국고채 금리 내렸지만 AI 투자 둔화는 미확인…다음 변수는 미국 예산 ...",
+            "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38409",
+            "outlet": "junggi.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[주간政談<하>] '올공' 집회 마무리…\"장동혁, 제도권 안으로\"",
+            "url": "https://news.tf.co.kr/read/ptoday/2386011.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "강서에 강선우가 있습니다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[주간政談<상>] '강서에 강선우가 있습니다'…무소속 의원실은 지금",
+            "url": "https://news.tf.co.kr/read/ptoday/2386012.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "여 \"초광역특구 신속 추진\" vs 야 \"미래대응기금 백지화\"",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514501",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:38:00 +0900"
+          },
+          {
+            "title": "부산항만공사, 항만 넘어 지역복지 안전망 확대…영도구청장 표창",
+            "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=89073",
+            "outlet": "industrynews.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:22:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "국민 우려 귀 기울여야 할 법무장관",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 국민 우려 귀 기울여야 할 법무장관, 경찰청장 후보자",
+            "url": "https://www.hankookilbo.com/news/article/A2026110616490005424?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sat, 07 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "통합특별시 행감, 교육교부금 1,352억 미전출…재난 예비비는 어디에 썼...",
+            "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=512822",
+            "outlet": "newsworker.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:56:00 +0900"
+          },
+          {
+            "title": "[토요칼럼] \"오르기만 하는 건 없다\"…커지는 부동산 피크론",
+            "url": "https://www.hankyung.com/article/2026110615341",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 07 Nov 2026 00:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "정점식 원내대표",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정점식 원내대표, 대통령 유튜브 방송 '소통 연출' 비판",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744867",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sat, 07 Nov 2026 00:16:00 +0900"
+          },
+          {
+            "title": "통합특별시 행정감사, 400억 시설은 텅 비고 강의는 9시간…세금 관리 ...",
+            "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=512819",
+            "outlet": "newsworker.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706506&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 01:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "블랙록 IBIT",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "블랙록 IBIT, 5거래일 연속 10억 4,000만 달러 이탈…나스닥 5.5% 급락 여...",
+            "url": "https://www.wikitree.co.kr/articles/1172576",
+            "outlet": "wikitree.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:30:00 +0900"
+          },
+          {
+            "title": "[시사천국] 280만 이주배경인구…통계로 보는 공존의 현실",
+            "url": "https://news.cpbc.co.kr/article/1176866?division=NAVER",
+            "outlet": "news.cpbc.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:28:00 +0900"
+          },
+          {
+            "title": "두산에너빌리티 주가 급락…향방 주말 이후에도 주목",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624133",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sat, 07 Nov 2026 00:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "美블루 쓰나미",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "美블루 쓰나미, AI ‘저승사자’ 될까? …‘공포’ 대신 ‘공부’해야 ...",
+            "url": "https://biz.heraldcorp.com/article/10929042?ref=naver",
+            "outlet": "biz.heraldcorp.com",
+            "publishedAt": "Sat, 07 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설]재초환 부담금에 업계 삼중 규제…이래선 ‘닥공’ 안 된다",
+            "url": "https://www.sedaily.com/article/20111341?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Sat, 07 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "이재명 대통령 국정 지지율 41%로 반등…긍정 평가 이유는 외교·경제",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744870",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sat, 07 Nov 2026 00:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
