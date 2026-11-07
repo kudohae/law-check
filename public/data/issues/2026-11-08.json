@@ -1,0 +1,151 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-07T15:03:26.044Z",
+  "title": "2026년 11월 08일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 8일, 한국 사회의 주요 이슈들을 다룹니다. 정치, 경제, 사회 전반에 걸쳐 공공 영향도가 높고 진행 중인 사안들을 중심으로 선정했습니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "미국 중간선거 결과와 국내 경제 영향",
+        "summary": "미국 중간선거 결과에 따른 정치 지형 변화가 국내 경제, 특히 AI 인프라 시장과 데이터센터 건설, 그리고 금융 시장에 미치는 영향에 대한 분석이 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[김대호 진단] 블루웨이브와 반도체",
+            "url": "https://www.g-enews.com/view.php?ud=202611061539247582906806b77b_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[뉴욕증시 전망] 美 물가지표·AI 기업 실적 주목",
+            "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93391",
+            "outlet": "thefairnews.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "금(금값, 금시세) 주말 이후 가격 등 '주목'",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624130",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "선거관리위원회 비위 의혹 수사 진행",
+        "summary": "선거관리위원회 관련 비위 의혹에 대한 특별검사팀의 수사가 두 달째 이어지고 있으며, 압수수색 등 강제 수사가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "캐도 캐도 나오는 선관위 비위…수사 두 달 맞은 특검 '잰걸음'",
+            "url": "https://news.tf.co.kr/read/life/2385935.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "캐도 캐도 나오는 선관위 비위…수사 두 달 맞은 특검 '잰걸음'",
+            "url": "https://news.tf.co.kr/read/life/2385935.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "캐도 캐도 나오는 선관위 비위…수사 두 달 맞은 특검 '잰걸음'",
+            "url": "https://news.tf.co.kr/read/life/2385935.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "유럽 복지 체제 재검토 및 경제 구조 변화",
+        "summary": "유럽 국가들이 고성장을 기반으로 유지해 온 복지 체제와 사회 계약에 대한 전면 재검토에 직면했으며, 이는 노동 생산성 격차와 경제 구조 약점으로 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "'모두가 동경하던 유럽, 어쩌다 이 지경이\"…복지 체제 전면 재검토 직...",
+            "url": "https://www.newsis.com/view/NISX20261105_0003856329",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "'모두가 동경하던 유럽, 어쩌다 이 지경이\"…복지 체제 전면 재검토 직...",
+            "url": "https://www.newsis.com/view/NISX20261105_0003856329",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "'모두가 동경하던 유럽, 어쩌다 이 지경이\"…복지 체제 전면 재검토 직...",
+            "url": "https://www.newsis.com/view/NISX20261105_0003856329",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "AI 기술 발전과 산업 적용",
+        "summary": "인공지능(AI) 기술의 발전이 제조업 혁신, 산업계의 실태 조사 및 처우 개선, 그리고 미래 사회의 변화 예측 등 다양한 분야에 영향을 미치고 있습니다.",
+        "articles": [
+          {
+            "title": "\"장인 노하우, AI가 배운다\"…영광서 제조업 혁신 시동",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000079754",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "산업 부, 내년 첫 여성공학인 실태조사…경력단절 예방·처우 개선 추진",
+            "url": "https://www.segye.com/newsView/20261106507330?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "\"2029년 특이점 온다…AGI, 인간 뇌와 결합해 지능 100만 배 폭발\"",
+            "url": "https://www.newsis.com/view/NISX20261105_0003856449",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "금융 시장 변동성 및 투자 전략",
+        "summary": "글로벌 금융 시장은 미국의 정치·경제적 변수에 민감하게 반응하고 있으며, 급락장 속 유동성 확보와 리스크 관리의 중요성이 강조되고 있습니다.",
+        "articles": [
+          {
+            "title": "[증시긴급] 4천800조 증발 '블루웨이브'의 공포...개미들이 눈물 흘리는...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624399",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[심층분석] \"급락장속 유동성 확보가 먼저\"…변동성 장세속 리스크 관리...",
+            "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93353",
+            "outlet": "thefairnews.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "금(금값, 금시세) 주말 이후 가격 등 '주목'",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624130",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sun, 08 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
