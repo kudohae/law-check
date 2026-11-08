@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-08T15:31:20.203Z",
+  "title": "2026년 11월 09일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 9일, 한국 사회의 주요 공공 이슈들을 선정했습니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "정국 교착 상태와 예산 심사",
+        "summary": "여야 간의 대립이 심화되며 예산 심사 및 주요 법안 처리에 난항이 예상됩니다.",
+        "articles": [
+          {
+            "title": "예산심사에 입법 대치까지…얼어붙는 정국",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071899",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "국회 예결위, 오늘 820조 규모 내년도 예산안 심사 착수",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611090026006929",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:26:00 +0900"
+          },
+          {
+            "title": "[사설] 민주, 국리민복 정국 운영에만 힘써라",
+            "url": "https://m.skyedaily.com/news_view.html?ID=314248",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Mon, 09 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "부동산 관련 세제 및 재건축 규제 논란",
+        "summary": "종합부동산세 공제 확대 요구와 재건축 초과이익환수제 완화 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "“비거주자도 종부세 공제 14억”…여당, 정부에 강력하게 요구",
+            "url": "https://www.joongang.co.kr/article/25476761",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[사설] 재건축 걸림돌 5조 재초환…부담 덜어내 공급 숨통 틔워야",
+            "url": "https://www.hankyung.com/article/2026110832991",
+            "outlet": "hankyung.com",
+            "publishedAt": "Mon, 09 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[ 정치 쟁점] \"정부가 지옥문 열었다\" 코스피 폭락 사태에 쏟아낸 오세훈...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624578",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "인구 감소와 공교육 및 노동 시장의 미래",
+        "summary": "저출산으로 인한 초등 입학생 감소와 고령화 사회 대비 노동 전략에 대한 논의가 필요합니다.",
+        "articles": [
+          {
+            "title": "[사설] 초등 입학 30만 명 아래로… 공교육 목표도 달라져야",
+            "url": "https://www.hankookilbo.com/news/article/A2026110812420002476?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 09 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "저출생 청구서… 내년 초등 입학생 첫 20만명대로",
+            "url": "https://www.kmib.co.kr/article/20261108501399",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "[특별기고] 계리의 경계를 넘어, 사회의 미래를 보다",
+            "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93633",
+            "outlet": "insnews.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "의료 진 관련 논란 및 이주민 정책",
+        "summary": "의료 사고 의혹과 이주민의 경제적 기여에 대한 대통령 발언이 사회적 논쟁을 낳고 있습니다.",
+        "articles": [
+          {
+            "title": "[단독] “의사가 ‘괜찮다’던 아이… 의료 진이 장비 만지고 급격히 악화...",
+            "url": "https://www.kmib.co.kr/article/20261108500907",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:03:00 +0900"
+          },
+          {
+            "title": "[원옥금의 한국에 산다는 것] 이주민의 삶은 숫자가 아니다",
+            "url": "https://www.joongang.co.kr/article/25476815",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:12:00 +0900"
+          },
+          {
+            "title": "[사설] ‘동맹 난기류’에 민주당 의회 장악, 경고등 켜진 핵잠 건조",
+            "url": "https://www.joongang.co.kr/article/25476822",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "한반도 안보 및 국제 정세 변화",
+        "summary": "미국 중간선거 결과와 북한 관련 이슈가 한반도 안보에 미칠 영향이 주목됩니다.",
+        "articles": [
+          {
+            "title": "[사설] ‘동맹 난기류’에 민주당 의회 장악, 경고등 켜진 핵잠 건조",
+            "url": "https://www.joongang.co.kr/article/25476822",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:26:00 +0900"
+          },
+          {
+            "title": "트럼프 냉대 보릿고개 넘은 K태양광·풍력 볕든다",
+            "url": "https://www.kmib.co.kr/article/20261108501370",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:14:00 +0900"
+          },
+          {
+            "title": "\"너무 끔찍\" 남한 가족에 편지 보냈다는 이유로 '1살 아들' 처형한 北 당...",
+            "url": "https://www.tvreport.co.kr/broadcast/article/1089267/",
+            "outlet": "tvreport.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:20:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "정치권 인사 및 논란",
+        "summary": "한동훈 전 장관의 복당론과 법무부 장관 후보자 관련 논란이 정치권의 주요 쟁점입니다.",
+        "articles": [
+          {
+            "title": "중진들 띄운 한동훈 복당론…정작 원내선 '냉랭', 왜?",
+            "url": "https://news.tf.co.kr/read/ptoday/2386015.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 또 '성남라인', 대통령 인재 선택 풀 너무 좁다",
+            "url": "https://www.hankookilbo.com/news/article/A2026110814330002503?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 09 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "한동훈·조국·정성호가 한목소리 낸 특검법 [장세정의 시선]",
+            "url": "https://www.joongang.co.kr/article/25476818",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Mon, 09 Nov 2026 00:18:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
