@@ -1,0 +1,174 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-09T19:03:11.781Z",
+  "title": "2026년 11월 10일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 10일 한국 사회의 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "엔비디아 CEO 젠슨 황 관련 논란과 국가 안보 및 경제 파장",
+        "summary": "엔비디아 CEO 젠슨 황의 사생활 논란이 국가 안보 및 경제에 미치는 영향에 대한 보도가 이어지고 있습니다. 특히 중국과의 관계 및 기술 유출 가능성에 대한 우려가 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[오늘의 경제뉴스] 젠슨 황 불륜 리스크 파장…하이닉스 솔리다임도 유...",
+            "url": "https://www.newsverse.kr/news/articleView.html?idxno=11877",
+            "outlet": "newsverse.kr",
+            "publishedAt": "Tue, 10 Nov 2026 01:26:00 +0900"
+          },
+          {
+            "title": "젠슨 황 스캔들에 떨고 있는 네오클라우드…\"코어위브, 파멸의 악순환\"...",
+            "url": "https://www.hankyung.com/article/202611106107i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 10 Nov 2026 00:17:00 +0900"
+          },
+          {
+            "title": "'中스파이 불륜' 발칵 엔비디아, 장중 8%대 급락…뉴욕증시는 반등",
+            "url": "https://www.fnnews.com/news/202611100128230319",
+            "outlet": "fnnews.com",
+            "publishedAt": "Tue, 10 Nov 2026 01:35:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "국회, 쟁점 법안 처리 및 예산 심사 관련 갈등",
+        "summary": "여야 간 쟁점 법안 처리와 내년도 예산안 심사를 둘러싼 갈등이 심화되고 있으며, 법사위 일정 거부 등 국회 운영에 대한 이견이 표출되고 있습니다.",
+        "articles": [
+          {
+            "title": "또 '쟁점 법안 ' 충돌 가능성…예산심사 영향받나",
+            "url": "https://news.tf.co.kr/read/ptoday/2386728.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 10 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[단독] 민주당, 전자투표 '날치기' 입법... 예고기간 단 하루",
+            "url": "https://www.imaeil.com/page/view/2026111000200534198",
+            "outlet": "imaeil.com",
+            "publishedAt": "Tue, 10 Nov 2026 00:28:00 +0900"
+          },
+          {
+            "title": "[뉴미디어 민심] '조작기소 특검'이 커뮤니티와 알고리즘을 만나면",
+            "url": "https://www.ppss.kr/news/articleView.html?idxno=319987",
+            "outlet": "ppss.kr",
+            "publishedAt": "Tue, 10 Nov 2026 04:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "정부 부동산 세제 개편안 및 공시가격 현실화율 관련 논란",
+        "summary": "정부의 부동산 세제 개편안, 특히 1주택자 세금 공제 관련 논란과 내년 부동산 공시가격 현실화율 발표를 앞두고 관련 법안 및 정책 방향에 대한 관심이 높습니다.",
+        "articles": [
+          {
+            "title": "[사설] 여당도 수긍하지 못하는 정부의 부동산 세제 개편",
+            "url": "https://www.hankookilbo.com/news/article/A2026110914390002109?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 10 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "20일 ‘내년 부동산 공시가 현실화율’ 정부안 공개",
+            "url": "https://www.donga.com/news/Economy/article/all/20261109143994804/2",
+            "outlet": "donga.com"
+          },
+          {
+            "title": "여당도 수긍 못하는 정부 부동산 세제 개편",
+            "url": "https://www.hankookilbo.com/news/article/A2026110914390002109",
+            "outlet": "hankookilbo.com"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "AI 투자 및 관련 산업 육성 정책",
+        "summary": "정부가 AI 및 미래 성장 동력 확보를 위한 투자를 확대하고 있으며, 관련 예산 집행 및 GPU 수급 안정화 방안 마련에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "'3대 메가프로젝트 원년' 9.4조 AI 예산 이렇게 쓰인다",
+            "url": "https://www.mt.co.kr/tech/2026/11/10/2026110416003354291",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 10 Nov 2026 04:00:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"지역에 관계없이 촘촘한 소방 안전 보장\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2083764",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 10 Nov 2026 00:08:00 +0900"
+          },
+          {
+            "title": "진성범 충남도의원, 'AI 수도 충남' 도민 체감 가능한 구체적 성과 창출...",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=727566",
+            "outlet": "newstnt.com",
+            "publishedAt": "Tue, 10 Nov 2026 03:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "노동 환경 및 안전 문제",
+        "summary": "아워홈 공장 내 노동자 사망 사고와 관련하여 안전 조치 미흡 및 불법 파견, 임금 미지급 문제 등이 제기되었으며, 공공 부문 노동자의 처우 개선에 대한 논의도 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[뉴스이슈&비즈] '시장지배적 지위 남용' 배민 3,311억원-쿠팡 3,008억 과...",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81402",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Tue, 10 Nov 2026 02:30:00 +0900"
+          },
+          {
+            "title": "파주시 공무직 위험수당 월 5만원 신설…기본급 3.6% 인상",
+            "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=35382",
+            "outlet": "rightknow.co.kr",
+            "publishedAt": "Tue, 10 Nov 2026 03:30:00 +0900"
+          },
+          {
+            "title": "조국혁신당, 세종시 지역위원장 김길모 후보 인준",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=727567",
+            "outlet": "newstnt.com",
+            "publishedAt": "Tue, 10 Nov 2026 04:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "국제 정세 및 외교 관계",
+        "summary": "미국 중간선거 이후 G7 회의와 우크라이나 및 중동 전쟁 관련 논의가 주목받고 있으며, 한미 동맹과 관련된 '백년의 마라톤'에 대한 칼럼도 제시되었습니다.",
+        "articles": [
+          {
+            "title": "[시대의눈/이우탁] 한미 동맹과 '백년의 마라톤'",
+            "url": "https://www.sidae.com/article/2026110808102466634",
+            "outlet": "sidae.com",
+            "publishedAt": "Tue, 10 Nov 2026 04:00:00 +0900"
+          },
+          {
+            "title": "미 중간선거 후 G7에 쏠린 눈…유럽, 종전협상 참여 압박",
+            "url": "https://www.yna.co.kr/view/AKR20261110002200085?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Tue, 10 Nov 2026 02:14:00 +0900"
+          },
+          {
+            "title": "빛의광장 주권자들이 바라는 3대 긴급 개혁과제",
+            "url": "http://www.tongilnews.com/news/articleView.html?idxno=218121",
+            "outlet": "tongilnews.com",
+            "publishedAt": "Tue, 10 Nov 2026 01:06:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
