@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-10T16:33:59.328Z",
+  "title": "2026년 11월 11일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "경기도 교육 청",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "경기도 교육 청, AI 시대 주도 사고력 중심 교육 대전환 선언",
+            "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74624",
+            "outlet": "babytimes.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 01:02:00 +0900"
+          },
+          {
+            "title": "대우건설 컨소시엄, 가덕도신공항 실시설계 180일간 본격 착수",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748265",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Wed, 11 Nov 2026 01:22:00 +0900"
+          },
+          {
+            "title": "국회 예결위, 오늘부터 비경제부처 내년 예산안 심사",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611110018230744",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 00:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "삼성SDI",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[뉴스이슈&비즈] 삼성SDI·LG엔솔, BMW 젠6 배터리 셀 공급…유럽·미국...",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81439",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Wed, 11 Nov 2026 01:30:00 +0900"
+          },
+          {
+            "title": "호남 반도체 클러스터 팹 배치 이달 중 마무리…산업장관 \"사업 출발점...",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748259",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Wed, 11 Nov 2026 01:12:00 +0900"
+          },
+          {
+            "title": "[데일리 Talk] 지방 의료 붕괴, 숫자로는 못 막는다",
+            "url": "https://m.skyedaily.com/news_view.html?ID=314277",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Wed, 11 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "국힘 조작기소특검법 대통령 거부권을",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국힘 \"조작기소특검법 대통령 거부권을\"",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072150",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "한국, 이란 전쟁 비개입 입장 재확인",
+            "url": "https://www.voakorea.com/a/8220957.html",
+            "outlet": "voakorea.com",
+            "publishedAt": "Wed, 11 Nov 2026 00:16:00 +0900"
+          },
+          {
+            "title": "[기고] 체코 원전 '팀 코리아' 분열…범부처 컨트롤타워 서둘러야",
+            "url": "https://www.hankyung.com/article/2026111084271",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 11 Nov 2026 01:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "탄핵 위기 헤그세스 이란전은 성공한 작전",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "‘탄핵 위기’ 헤그세스 “이란전은 성공한 작전…탄핵은 정치 쇼”",
+            "url": "https://www.hani.co.kr/arti/international/america/1286711.html",
+            "outlet": "hani.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "이은경 강릉아산병원 노조위원장, 보선 출마 공식 선언",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2083991",
+            "outlet": "kado.net",
+            "publishedAt": "Wed, 11 Nov 2026 00:07:00 +0900"
+          },
+          {
+            "title": "지뢰 사태·국감 넘고 사관학교 개혁까지… 강신철 장관 '광폭 소통'",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010003959",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 01:32:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "조정훈",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "조정훈·이준석, ‘주거혁신포럼’ 세미나…수도권 주택 공급 논의",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709355&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 01:02:00 +0900"
+          },
+          {
+            "title": "대구지법, 70대 모친 상해 가하고 흉기 협박 50대 항소심서 감형",
+            "url": "https://www.lawissue.co.kr/view.php?ud=2026111020152135009a8c8bf58f_12",
+            "outlet": "lawissue.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "[사설] 커지는 일률적 정년 연장 우려…'벼랑 끝 청년' 안 보이나",
+            "url": "https://www.hankyung.com/article/2026111083851",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 11 Nov 2026 01:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "돈은 두 번 쓰이지 않는다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[시론] 돈은 두 번 쓰이지 않는다",
+            "url": "https://www.hankyung.com/article/2026111083871",
+            "outlet": "hankyung.com",
+            "publishedAt": "Wed, 11 Nov 2026 01:18:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"공공기관 개혁은 시대적 과제…국민·국가 고려해야\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2084017",
+            "outlet": "kado.net",
+            "publishedAt": "Wed, 11 Nov 2026 00:07:00 +0900"
+          },
+          {
+            "title": "삼척 남양동, 민관 협력으로 주거 취약 가구 보금자리 새 단장",
+            "url": "https://www.kwnews.co.kr/article/20261110500483",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 00:07:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "세법도 자본시장법도 누더기 될 판",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설]세법도 자본시장법도 누더기 될 판, 여당 졸속 입법 안 된다",
+            "url": "https://www.sedaily.com/article/20112653?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Wed, 11 Nov 2026 00:03:00 +0900"
+          },
+          {
+            "title": "[사설]거주 만족도 높아진 울주군, 떠나려는 주민부터 붙잡아야",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072112",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "신혼부부·청년 전월세 지원, 주거 비 부담 던다",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072151",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Wed, 11 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
