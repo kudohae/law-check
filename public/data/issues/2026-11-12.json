@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-11T16:30:23.700Z",
+  "title": "2026년 11월 12일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 12일 한국 사회의 주요 공공 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회 본회의, 쟁점 법안 처리 여부 주목",
+        "summary": "국회가 본회의를 열고 민주유공자법 등 쟁점 법안 처리를 시도하지만, 여당의 반발로 필리버스터 가능성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "오늘 본회의 개최 주목...민주유공자법 등 필버 가능성",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611120001028419",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "여야 대치 속에도 '한솥밥'…국회에 희미해진 정치의 낭만",
+            "url": "https://news.tf.co.kr/read/ptoday/2387776.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[사설] 이용철 ‘공소 취소’ 입장 또 유보…의혹만 키울 건가",
+            "url": "https://www.sedaily.com/article/20113169?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 12 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "정부, 기후 위기 대응 및 경제 정책 추진",
+        "summary": "기후 에너지환경부 장관의 협력 업무협약 및 공정거래위원장의 정책 포럼 등 경제 및 환경 관련 정책 논의가 진행됩니다.",
+        "articles": [
+          {
+            "title": "[오늘의 주요일정]경제(11월12일목요일)",
+            "url": "https://www.newsis.com/view/NISX20261111_0003862993",
+            "outlet": "newsis.com",
+            "publishedAt": "Thu, 12 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "우리 경제의 미래, 핵심기술 안보 에 달려 있다[기고/류기정]",
+            "url": "https://www.donga.com/news/Economy/article/all/20261111/135008715/2",
+            "outlet": "donga.com",
+            "publishedAt": "Thu, 12 Nov 2026 00:32:00 +0900"
+          },
+          {
+            "title": "[MBTI 오늘의 운세] 2026년 11월 12일",
+            "url": "https://www.hankookilbo.com/news/article/A2026110611400001768?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Thu, 12 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "부동산 정책 및 주거 안정 논의",
+        "summary": "이재명 정부의 부동산 정책에 대한 비판과 함께 여권 내에서도 이견이 존재하며, 주거 안정 문제 해결을 위한 논의가 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "보수야권 '李정부 부동산정책' 비판 속 여권 내에서도 이견",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072282",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "李대통령 \"당정 한마음 움직여야\"…김민석 \"양극화 대책 필요\"",
+            "url": "https://www.m-i.kr/news/articleView.html?idxno=2017480",
+            "outlet": "m-i.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:12:00 +0900"
+          },
+          {
+            "title": "울산 구군 간 아파트 매입 3건중 1건 '남구' 선택",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072298",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "노동 시장 및 근로 환경 이슈",
+        "summary": "청년 고용률 하락, 산업 현장 사망 사고, 주 4.5일제 도입 효과 등 노동 시장의 다양한 문제와 개선 방안이 논의되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 청년고용률 30개월째 하락…AI시대 맞춤형 직업훈련 이뤄져야",
+            "url": "https://www.hankyung.com/article/2026111109861",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 12 Nov 2026 00:17:00 +0900"
+          },
+          {
+            "title": "한솔제지 또 사망 사고‥2톤 종이롤에 끼여 숨져",
+            "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6864979_36989.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Thu, 12 Nov 2026 01:09:00 +0900"
+          },
+          {
+            "title": "워라밸·업무 효율에 주 4.5일제 효과 체감",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1794410400805266074",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "안보 및 외교 현안",
+        "summary": "청해부대 파병, 미중 외교 수장 통화 등 국제 안보 및 외교 관련 사안이 주목받고 있으며, 국내 안보 관련 논쟁도 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "\"청해부대 꼼수 파병 즉각 철회하라!\"... 미국 침략전쟁 개입 중단 촉구",
+            "url": "http://www.tongilnews.com/news/articleView.html?idxno=218143",
+            "outlet": "tongilnews.com",
+            "publishedAt": "Thu, 12 Nov 2026 00:48:00 +0900"
+          },
+          {
+            "title": "APEC 일주일 앞두고 미중 외교수장 통화…\"협력 강화·이견 관리\"",
+            "url": "https://www.news1.kr/world/northeast-asia/6351159",
+            "outlet": "news1.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:50:00 +0900"
+          },
+          {
+            "title": "“당나라 군대냐”는 나경원에…강신철 “말씀 취소하라”",
+            "url": "https://www.segye.com/newsView/20261112500321?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Thu, 12 Nov 2026 01:26:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "사회적 약자 및 인권 문제",
+        "summary": "염전 인권 침해 사례와 군무원의 의료 접근성 개선 등 사회적 약자의 권익 보호와 관련된 이슈가 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "‘셀프·겉핥기’ 조사에 염전 인권침해 여전",
+            "url": "http://www.kwangju.co.kr/article.php?aid=1794409800805265074",
+            "outlet": "kwangju.co.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:14:00 +0900"
+          },
+          {
+            "title": "군무원도 군 병원서 의사 직접조제 받는다…복지부, 법 개정 추진",
+            "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548727",
+            "outlet": "kpanews.co.kr",
+            "publishedAt": "Thu, 12 Nov 2026 00:26:00 +0900"
+          },
+          {
+            "title": "[천자칼럼] 넘쳐나는 정부 태스크포스",
+            "url": "https://www.hankyung.com/article/2026111109891",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 12 Nov 2026 00:21:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
