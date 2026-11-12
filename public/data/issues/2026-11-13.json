@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-12T17:00:29.996Z",
+  "title": "2026년 11월 13일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 13일 한국 사회의 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "정치권 언행 논란 및 윤리감찰 지시",
+        "summary": "정치권 인사들의 잇따른 발언 논란과 이에 따른 윤리감찰 지시가 사회적 쟁점으로 부상했습니다.",
+        "articles": [
+          {
+            "title": "김민석, 최민희 윤리감찰 지시…\"언행 논란 객관적 확인 필요\"",
+            "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=624927",
+            "outlet": "mdtoday.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 00:48:00 +0900"
+          },
+          {
+            "title": "靑 \"강한 유감\"…김민석, 잇단 '언행 논란' 최민희 감찰 지시",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20261113002318nov",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 00:24:00 +0900"
+          },
+          {
+            "title": "'계엄 정당화 메시지' 윤석열 오늘 첫 공판…기소 93일만",
+            "url": "https://news.tf.co.kr/read/life/2388300.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "경제 정책 신뢰 및 재정 안정성 논란",
+        "summary": "정부의 경제 정책 추진 과정에서 발생하는 신뢰 문제와 재정 안정성 확보 방안에 대한 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "[이슈프리즘] 흔들리는 정책 신뢰",
+            "url": "https://www.hankyung.com/article/2026111236461",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "“AI거품 언젠가 터져… 韓, 충격 줄이려면 재정 안정성 관리해야”",
+            "url": "https://www.donga.com/news/Economy/article/all/20261112/135016704/2",
+            "outlet": "donga.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:31:00 +0900"
+          },
+          {
+            "title": "[사설] 양극화TF, 재정투입 위주면 또 효과 없을 것",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004878",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "주거 불안정 심화 및 전월세난",
+        "summary": "전국적으로 주택 가격 상승세가 이어지면서 서민들의 주거 불안이 가중되고 전월세난이 확산되는 추세입니다.",
+        "articles": [
+          {
+            "title": "[사설] 떨어지던 인천마저 상승…확산되는 전월세난 이대로 둘 건가",
+            "url": "https://www.hankookilbo.com/news/article/A2026111213320005638?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "KDI “반도체 호황, 민간소비 증가 효과 0.003%P 그쳐”",
+            "url": "https://www.donga.com/news/Economy/article/all/20261112/135016603/2",
+            "outlet": "donga.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:31:00 +0900"
+          },
+          {
+            "title": "삼성, 충청권에 반도체 투자 50조원 … 온양 HBM·세종 FC-BGA 생산기지 ...",
+            "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91937",
+            "outlet": "worktoday.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 01:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "노동 규제 완화 및 산업 경쟁력 강화 논의",
+        "summary": "첨단 산업 육성을 위한 인프라 확충과 함께 기업 활동의 걸림돌인 노동 규제 완화 필요성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 메가프로젝트 첫 삽, 이젠 인프라· 노동 특례 속도전 펼칠 때",
+            "url": "https://www.sedaily.com/article/20113672?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[데스크 칼럼] 레드 쓰나미…우리는 절박한가",
+            "url": "https://www.hankyung.com/article/2026111235741",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:21:00 +0900"
+          },
+          {
+            "title": "코트라·무보·우리은행, 소부장 기업 공급망 금융지원 '맞손'",
+            "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91933",
+            "outlet": "worktoday.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "미국 정치 및 외교 정책 동향",
+        "summary": "미국 정치권의 동향과 외교 정책 변화가 국제 관계 및 한국에 미칠 영향에 대한 분석이 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "트럼프 16일부터 ‘아시아 순방’ 돌입…미중 정상회담·미북 대화 주목",
+            "url": "https://www.voakorea.com/a/8222929.html",
+            "outlet": "voakorea.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:46:00 +0900"
+          },
+          {
+            "title": "트럼프 “대규모 이민행렬 또 미국 침공”…멕시코에 ‘관세 2배’ 위협",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711686&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 00:30:00 +0900"
+          },
+          {
+            "title": "새 의회 한반도 정책 이끌 위원회 지도부 윤곽…주요 현안 시각은?",
+            "url": "https://www.voakorea.com/a/8222934.html",
+            "outlet": "voakorea.com",
+            "publishedAt": "Fri, 13 Nov 2026 01:18:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "AI 산업 발전과 규제 논의",
+        "summary": "AI 기술 발전의 경제적 영향과 함께, 관련 산업의 규제 및 국가 안보 이슈가 부각되고 있습니다.",
+        "articles": [
+          {
+            "title": "젠슨황 없는 'AI중앙은행' 엔비디아 최대위기…AI산업 대혼돈 예고(종합...",
+            "url": "https://www.yna.co.kr/view/AKR20261112115651091?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 00:44:00 +0900"
+          },
+          {
+            "title": "젠슨 황 엔비디아 CEO 사임‥불명예 퇴진",
+            "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6865286_36989.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Fri, 13 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "‘평균 30점 시험에 혼자 100점’…세무사 수석합격자 ‘AI 안경 의혹’",
+            "url": "https://weekly.khan.co.kr/article/202611130152001",
+            "outlet": "weekly.khan.co.kr",
+            "publishedAt": "Fri, 13 Nov 2026 01:52:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
