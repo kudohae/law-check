@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-13T16:41:20.420Z",
+  "title": "2026년 11월 14일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "교육재정은 줄이고",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "교육재정은 줄이고, 지역구 예산은 챙기고…與 의원들의 두 얼굴",
+            "url": "https://www.pennmike.com/news/articleView.html?idxno=131816",
+            "outlet": "pennmike.com",
+            "publishedAt": "Sat, 14 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "5년 밀린 국회 디지털센터…대전서 공사 발주 본격화",
+            "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2451350",
+            "outlet": "ccdailynews.com",
+            "publishedAt": "Sat, 14 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "美 10월 생산자물가 상승률 4년 만에 최고…시장 예상은 하회(종합)",
+            "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444738",
+            "outlet": "news.einfomax.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:56:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "대전 서구의회",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "대전 서구의회, '도마동 주택재개발구역 초등학교 신설(분교) 설치 촉구...",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=728434",
+            "outlet": "newstnt.com",
+            "publishedAt": "Sat, 14 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "세종시, 공무원 손으로 여는 '공공 AI 전환(AX)' 시대",
+            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417771",
+            "outlet": "ccnnews.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:32:00 +0900"
+          },
+          {
+            "title": "조현 \"한반도 문제는 한국의 사활적 이익\"...中 건설적 역할 당부",
+            "url": "https://www.newspim.com/news/view/20261114000004",
+            "outlet": "newspim.com",
+            "publishedAt": "Sat, 14 Nov 2026 00:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "조현",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "조현, 중국에 '한반도 문제' 역할 당부…왕이 \"정책 변함없어\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR20261114002114az8",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "추미애 SNS \"집 늘고 기업 모이는 경기도, 철도망 확충 시급\"",
+            "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731389",
+            "outlet": "the-biz.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:08:00 +0900"
+          },
+          {
+            "title": "“친구 딸 결혼식도 오지 말라더라” 자살유가족, ‘생존자’로 인식해...",
+            "url": "https://www.kmib.co.kr/article/20261112501679",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:07:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "韓은 한반도 비핵화",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "韓은 '한반도 비핵화'·中은 '하나의 중국'…한중 외교 장관 온도차(종합...",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=01088966645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[주간政談<상>] \"하이에나, 치욕스럽다\"…국회 발칵 뒤집은 최민희 막말",
+            "url": "https://news.tf.co.kr/read/ptoday/2388783.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[주간政談<하>] 전국 장외투쟁 나서는 국힘…의원들 속사정은",
+            "url": "https://news.tf.co.kr/read/ptoday/2388782.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "아파트 2699가구 늘지만",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "아파트 2699가구 늘지만…도마동 초등학교는 제자리",
+            "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2451352",
+            "outlet": "ccdailynews.com",
+            "publishedAt": "Sat, 14 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "돌봄 중 사고 나면 누가 책임지나…안전망 개선 촉구",
+            "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2451355",
+            "outlet": "ccdailynews.com",
+            "publishedAt": "Sat, 14 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "‘구글 맵’ 20년 만에 韓 빗장 풀렸다…토종 지도 플랫폼 ‘초비상’",
+            "url": "https://news-s.kr/view.html?id=L261114003127201b",
+            "outlet": "news-s.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:38:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "경남도의회",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "경남도의회, 경남소방 교부세 220억 감소 우려…노후청사 예산마저 빠져",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=728292",
+            "outlet": "newstnt.com",
+            "publishedAt": "Sat, 14 Nov 2026 00:12:00 +0900"
+          },
+          {
+            "title": "조현 \"한반도 中 건설적 역할\" 당부…왕이 \"정책 변함없다\"(종합2보)",
+            "url": "https://www.yna.co.kr/view/AKR20261113174652083?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Sat, 14 Nov 2026 00:08:00 +0900"
+          },
+          {
+            "title": "[기자수첩] 재생에너지 100GW, 지름길은 따로 없다",
+            "url": "http://www.e2news.com/news/articleView.html?idxno=336116",
+            "outlet": "e2news.com",
+            "publishedAt": "Sat, 14 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "젠슨 황 없는 엔비디아",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[뉴스이슈&비즈] 젠슨 황 없는 엔비디아…한국과 AI 동맹 이상 없나",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81594",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Sat, 14 Nov 2026 01:30:00 +0900"
+          },
+          {
+            "title": "젠슨 황, 떠나기 전 임원과 갈등?…\"주주들은 오히려 좋을수도\"[박신영...",
+            "url": "https://www.hankyung.com/article/202611146106i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 14 Nov 2026 01:29:00 +0900"
+          },
+          {
+            "title": "국가직 소방관 예산은 지방 몫…재정 책임 논란",
+            "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2451351",
+            "outlet": "ccdailynews.com",
+            "publishedAt": "Sat, 14 Nov 2026 00:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
