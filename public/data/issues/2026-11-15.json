@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-14T15:17:41.750Z",
+  "title": "2026년 11월 15일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "트럼프",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"트럼프, AI 수출 규제 완화 직전 엔비디아 주식 대거 매수\"",
+            "url": "https://www.news1.kr/world/usa-canada/6354185",
+            "outlet": "news1.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:14:00 +0900"
+          },
+          {
+            "title": "\"주식은 가격 맞추기 게임 아냐\"…존리가 말하는 韓 금융 교육 의 중요성",
+            "url": "https://www.newsis.com/view/NISX20261111_0003863991",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 15 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "자본시장 개혁 시험대…기업·시장·수급 전방위 손질",
+            "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38492",
+            "outlet": "junggi.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "2026년 11월 15일",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[MBTI 오늘의 운세] 2026년 11월 15일",
+            "url": "https://www.hankookilbo.com/news/article/A2026111214370004441?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sun, 15 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "닥터X 결말, 계수정 의사 엔딩→후속작",
+            "url": "https://www.bntnews.co.kr/article/view/bnt202611140133",
+            "outlet": "bntnews.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[비즈토크<하>] 中 스파이 불륜 스캔들에 젠슨 황 퇴진…국내 산업 후폭...",
+            "url": "https://news.tf.co.kr/read/economy/2388677.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "형사사건 10건 이용철",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "'형사사건 10건' 이용철, 방위사업·공증 주경력…법무·검찰 역량 도마",
+            "url": "https://news.tf.co.kr/read/life/2388861.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "\"국지성 폭설 우려\"...대설 한파 '위기경보' 발령",
+            "url": "https://www.ytn.co.kr/_ln/0115_202611150010323303",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "젠슨 황 퇴임 후에도 이어지는 실리콘밸리 '감싸기'… 업계 도덕성 도마...",
+            "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435514",
+            "outlet": "dailysportshankook.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "4억이 1억으로",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[박진우의 개미수다] 4억이 1억으로…‘본전 함정’ 빠진 레버리지 개미...",
+            "url": "https://www.dt.co.kr/article/12095106?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "'다큐멘터리 3일' 영월시외버스터미널, 사라지는 노선 속 40년 사랑방의...",
+            "url": "https://www.nc.press/news/articleView.html?idxno=631010",
+            "outlet": "nc.press",
+            "publishedAt": "Sun, 15 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[엔비디아 임시 CEO] 일론 머스크, 젠슨 황 복직 청원 동참 의사 밝혀…...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=626908",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "한국민속촌 귀신 행사 기간 종료",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "한국민속촌 귀신 행사 기간 종료",
+            "url": "https://www.bntnews.co.kr/article/view/bnt202611130250",
+            "outlet": "bntnews.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "오늘의 운세 띠별 운세 15일",
+            "url": "https://www.bntnews.co.kr/article/view/bnt202611140126",
+            "outlet": "bntnews.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "\"찍는 것도 기술\"…'AI 안경' 의혹 세무사 수석 \"왜 나만?\"",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=57127",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Sun, 15 Nov 2026 00:15:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "2026년 11월 15일 일요일",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[오늘의 띠별 운세] 2026년 11월 15일 일요일",
+            "url": "https://www.public25.com/news/articleView.html?idxno=58476",
+            "outlet": "public25.com",
+            "publishedAt": "Sun, 15 Nov 2026 00:12:00 +0900"
+          },
+          {
+            "title": "세종시 행정수도의 염원, 사라진 마을의 500년 정성으로 피어나다",
+            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=417777",
+            "outlet": "ccnnews.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:12:00 +0900"
+          },
+          {
+            "title": "엔비디아 실적·앤트로픽 IPO, AI 투심 살릴까…코스피 5200~6000 [주간 증...",
+            "url": "https://www.dailian.co.kr/news/view/1714848/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:11:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "트와이스 다현",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "트와이스 다현, 노메이크업 후드티로 전한 편안 일상…스크린 행보도 속...",
+            "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276772",
+            "outlet": "topstarnews.net",
+            "publishedAt": "Sun, 15 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "하지원, 47㎏ 인증…오프숄더 크롭톱 입고 늘씬 라인 자랑 [N샷]",
+            "url": "https://www.news1.kr/entertain/celebrity-topic/6354166",
+            "outlet": "news1.kr",
+            "publishedAt": "Sun, 15 Nov 2026 00:05:00 +0900"
+          },
+          {
+            "title": "[오늘의 운세] 11월 15일 띠별 운세",
+            "url": "https://www.hankyung.com/article/2026110289417",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sun, 15 Nov 2026 00:01:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
