@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T15:49:28.901Z",
+  "title": "2026년 11월 16일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "국회 예산전쟁 본격화",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "국회 예산전쟁 본격화",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2084994",
+            "outlet": "kado.net",
+            "publishedAt": "Mon, 16 Nov 2026 00:09:00 +0900"
+          },
+          {
+            "title": "“AI 안경 잡는 AI 감시관 떴다”…첫 투입부터 부정행위 적발",
+            "url": "https://www.munhwa.com/article/11631442?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Mon, 16 Nov 2026 00:32:00 +0900"
+          },
+          {
+            "title": "국회 교육 위, 오늘 'AI 안경 부정행위 대책' 관련 현안 보고",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611160033415739",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:33:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "정책 만들기에 앞서 반작용부터 체크하라",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[비즈니스 인사이트] 정책 '만들기'에 앞서 '반작용'부터 체크하라",
+            "url": "https://www.hankyung.com/article/2026111574671",
+            "outlet": "hankyung.com",
+            "publishedAt": "Mon, 16 Nov 2026 00:21:00 +0900"
+          },
+          {
+            "title": "전월세 물가 3년10개월 만에 최대폭↑",
+            "url": "https://www.kmib.co.kr/article/20261115501358",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:21:00 +0900"
+          },
+          {
+            "title": "[사설] 미중러 첫 정상회담…국익 외교 로 ‘제2 얄타’ 막아야",
+            "url": "https://www.sedaily.com/article/20114565?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 16 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "靑",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "靑, AI 부정시험 의심 사례 전수조사...수능 AI 부정행위 예방 총력",
+            "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492633",
+            "outlet": "enewstoday.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:21:00 +0900"
+          },
+          {
+            "title": "여야 예산전쟁 본격화…울산 국비 추가확보 사활",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072570",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[현장&]'2026 이주 노동 자 겨울옷·작업복 나눔 캠페인 인(in) 울산', 패딩...",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072609",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "위험에 값을 매기는 일",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[데스크칼럼] 위험에 값을 매기는 일, 커피하우스에서 대산홀까지",
+            "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93727",
+            "outlet": "insnews.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[기자수첩] 소외감 주는 '월급방위대'",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082706",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "오늘 총리 주재 차관회의...'AI 부정행위 대응 방안' 추가 논의",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611160033311477",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:33:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "이 대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이 대통령, 오늘부터 아세안-APEC 정상회의 순방",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611160033532669",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:33:00 +0900"
+          },
+          {
+            "title": "아직은 움직임 없는 '트럼프-김정은' 회담 [Deep&wide]",
+            "url": "https://www.hankookilbo.com/news/article/A2026111214140001773?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 16 Nov 2026 00:30:00 +0900"
+          },
+          {
+            "title": "\"증시도 힘든데 과징금까지\"…1.4조 폭탄 맞은 증권사 '사면초가'",
+            "url": "https://news.tf.co.kr/read/economy/2388661.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "스트래티지",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[자정 뉴스브리핑] 스트래티지, 비트코인 1036개 추가 매입 外",
+            "url": "https://www.tokenpost.kr/news/briefing/438696",
+            "outlet": "tokenpost.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[패트롤] 고양시의회-군포시의회-남양주시의회-하남시의회",
+            "url": "https://www.ekn.kr/web/view.php?key=20261116025599877",
+            "outlet": "ekn.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:06:00 +0900"
+          },
+          {
+            "title": "[김병철 시선⑥] 이상일 시장, 경강선 국가계획 반영·JTX 조기 추진 요...",
+            "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721992",
+            "outlet": "newstown.co.kr",
+            "publishedAt": "Mon, 16 Nov 2026 00:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "국정 뒷전",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 국정 뒷전, 민주당 계파 갈등 제정신인가",
+            "url": "https://m.skyedaily.com/news_view.html?ID=314612",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Mon, 16 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "\"노후엔 10억 목돈보다 '매달 300만원'…5060이 꼭 챙겨야 할 3가지\"",
+            "url": "https://www.newsis.com/view/NISX20261111_0003863119",
+            "outlet": "newsis.com",
+            "publishedAt": "Mon, 16 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "정정훈號 캠코 반환점, 장기연체채권 3.1조 소각…PF 회수 ‘과제ʼ [금...",
+            "url": "https://www.fntimes.com/html/view.php?ud=202611132141423191dd55077bc2_18",
+            "outlet": "fntimes.com",
+            "publishedAt": "Mon, 16 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
