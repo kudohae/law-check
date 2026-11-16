@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-16T18:49:49.873Z",
+  "title": "2026년 11월 17일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "정부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "정부, 올해 병원·약국 줘야할 의료 급여 9000억 ‘펑크’",
+            "url": "https://www.chosun.com/national/welfare-medical/2026/11/17/UEA2IFFBMVDGHFHTTOV6TSODT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Tue, 17 Nov 2026 00:46:00 +0900"
+          },
+          {
+            "title": "퇴직연금 합의는 노동 입법의 교본[청계광장/이정식]",
+            "url": "https://www.mt.co.kr/opinion/2026/11/17/2026111614063933803",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 17 Nov 2026 02:00:00 +0900"
+          },
+          {
+            "title": "[사설]국비 확보가 시정 성적표다…김상욱 시정부 시험대",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072680",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Tue, 17 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "평화는 너무 쉽다. 만나면 평화다",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“평화는 너무 쉽다. 만나면 평화다”",
+            "url": "https://www.koreatimes.com/article/11631671?utm_source=naver",
+            "outlet": "koreatimes.com",
+            "publishedAt": "Tue, 17 Nov 2026 01:20:00 +0900"
+          },
+          {
+            "title": "국회 예산소위 첫날, 태양광 연계 등 정부 사업 심사 줄줄이 보류",
+            "url": "https://www.newsis.com/view/NISX20261117_0003870609",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 17 Nov 2026 00:45:00 +0900"
+          },
+          {
+            "title": "예산소위 가동 첫날부터 진통…핵심사업 '소소위' 넘어가나",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2085262",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 17 Nov 2026 00:09:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "이 대통령 한",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "이 대통령 \"한·아세안 'AI·문화산업 이니셔티브' 제안\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2085254",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 17 Nov 2026 00:09:00 +0900"
+          },
+          {
+            "title": "\"그만 좀 하세요\"... 민형배 시장, 인사 비판에 본회의장서 '고성'",
+            "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=514381",
+            "outlet": "newsworker.co.kr",
+            "publishedAt": "Tue, 17 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "[신임] 양승조 한국수자원공사 신임 사장, AI 물관리 혁신·물산업 육성...",
+            "url": "https://www.cfnews.kr/news/article.html?no=113565",
+            "outlet": "cfnews.kr",
+            "publishedAt": "Tue, 17 Nov 2026 00:16:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "위헌 소지 조작기소 특검법의 국무회의 의결",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 위헌 소지 조작기소 특검법의 국무회의 의결, 총리가 총대 메서...",
+            "url": "https://www.hankookilbo.com/news/article/A2026111616050001400?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 17 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[사설] 서울 가구 절반 ‘무주택’인데...멀고 먼 ‘ 주거 사다리’ 복원",
+            "url": "https://www.sedaily.com/article/20115119?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 17 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "'국비 전쟁' 소소위 땐 강원 원팀 협치 관건",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2085224",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 17 Nov 2026 00:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "도암댐 흙탕물 저감",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"도암댐 흙탕물 저감·수질보전 정부 정책 반영 필요\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2085205",
+            "outlet": "kado.net",
+            "publishedAt": "Tue, 17 Nov 2026 00:07:00 +0900"
+          },
+          {
+            "title": "“AI로 노래까지 만들어 조롱했다”…친구 옷 찢고 때린 중학생의 최후",
+            "url": "https://www.sedaily.com/article/20114768?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Tue, 17 Nov 2026 02:00:00 +0900"
+          },
+          {
+            "title": "\"젠슨 황 돌려달라\" 커지는 투자자 목소리…악재 겹친 인텔[박신영의 개...",
+            "url": "https://www.hankyung.com/article/202611170543i",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 17 Nov 2026 01:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "KDI 성장률 높아도 실질임금 정체",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] KDI \"성장률 높아도 실질임금 정체\"…짙어지는 반도체 호황 그늘",
+            "url": "https://www.hankyung.com/article/2026111601331",
+            "outlet": "hankyung.com",
+            "publishedAt": "Tue, 17 Nov 2026 00:36:00 +0900"
+          },
+          {
+            "title": "무비자 입국 부작용 심각한데 \"경제 파급효과 분석?\" 도지사의 현실 인...",
+            "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=398543",
+            "outlet": "fntoday.co.kr",
+            "publishedAt": "Tue, 17 Nov 2026 00:16:00 +0900"
+          },
+          {
+            "title": "박지현 \"AI 안경 부정행위, 변형카메라 관리법 진작 만들었다면\"…국회...",
+            "url": "https://www.imaeil.com/page/view/2026111700043766465",
+            "outlet": "imaeil.com",
+            "publishedAt": "Tue, 17 Nov 2026 00:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "예결위 예산소위 막 올랐지만",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "예결위 예산소위 막 올랐지만…강원 7대 현안 ‘국비 전쟁’ 가시밭길",
+            "url": "https://www.kwnews.co.kr/article/20261116501457",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Tue, 17 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "'조작 징계' 추가 폭로 앞두고…장동혁·한동훈의 정치적 득실은",
+            "url": "https://news.tf.co.kr/read/ptoday/2389559.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 17 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "'吳·韓·張' 구도 밖 틈새 노리는 이준석…'확장성'이 관건",
+            "url": "https://news.tf.co.kr/read/ptoday/2389558.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Tue, 17 Nov 2026 00:01:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
