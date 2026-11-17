@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-17T17:49:22.357Z",
+  "title": "2026년 11월 18일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 18일, 한국 사회의 주요 이슈들을 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "수능 부정행위 방지 대책 강화 및 논란",
+        "summary": "수능 시험 중 재난 문자 발송, 부정행위 신고 포상금 도입 등 부정행위 방지 대책이 논의되고 있으며, 이에 대한 교육계의 입장과 우려가 교차하고 있습니다.",
+        "articles": [
+          {
+            "title": "李대통령 “수능 공정성 훼손 안 돼…AI 부정행위 전수조사·엄벌”",
+            "url": "https://www.dt.co.kr/article/12095805?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Wed, 18 Nov 2026 01:24:00 +0900"
+          },
+          {
+            "title": "민주, 수능 'AI 부정행위' 대책 당정협의 개최",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR20261118023504MnL",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Wed, 18 Nov 2026 02:35:00 +0900"
+          },
+          {
+            "title": "[사설] 수능 부정행위 방지에 정부 역량 총동원해야",
+            "url": "https://www.kmib.co.kr/article/20261117501975",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Wed, 18 Nov 2026 01:12:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "여야, 국무총리 특활비 및 방송통신위 예산 공방",
+        "summary": "야당은 총리 특활비 삭감과 조작기소 특검법을 주장하며 여당과 대립하고 있으며, 방송미디어통신위원회의 허위조작정보 대응 사업 예산과 공공 의료 플랫폼 예산을 두고도 충돌하고 있습니다.",
+        "articles": [
+          {
+            "title": "野 \"조작기소 특검 수용 총리 특활비 삭감\" vs 與 \"식물 총리 만들건가...",
+            "url": "https://www.fnnews.com/news/202611180018414024",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 18 Nov 2026 00:24:00 +0900"
+          },
+          {
+            "title": "[안중열 직썰] 조작기소 특검법, 적폐 청산인가 법리 충돌인가",
+            "url": "https://www.ziksir.com/news/articleView.html?idxno=153679",
+            "outlet": "ziksir.com",
+            "publishedAt": "Wed, 18 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[뉴스이슈&비즈] 젠슨황·앤트로픽·금리 '삼중고'에 코스피 9개월만에...",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81700",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Wed, 18 Nov 2026 01:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "청년 주거 문제 심화",
+        "summary": "내 집 마련은 더욱 어려워지고 전월세 부담은 가중되면서 청년층의 주거 문제가 심각한 사회 문제로 대두되고 있습니다.",
+        "articles": [
+          {
+            "title": "[집心탄회] 내 집 마련은 막막·전월세 부담은 가중…청년의 시름",
+            "url": "https://news.tf.co.kr/read/economy/2389583.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Wed, 18 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "\"부동산보다 주식 물려준다\"…3040 자산가, 조기 증여 선호",
+            "url": "https://www.apnews.kr/news/articleView.html?idxno=3053239",
+            "outlet": "apnews.kr",
+            "publishedAt": "Wed, 18 Nov 2026 02:22:00 +0900"
+          },
+          {
+            "title": "통합돌봄 재정·인프라 부족… \"독립적인 재정체계 마련해야\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3449559",
+            "outlet": "newscj.com",
+            "publishedAt": "Wed, 18 Nov 2026 00:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "이재명 대통령, APEC 정상회의 참석차 중국 선전 도착",
+        "summary": "이재명 대통령이 아세안 정상회의를 마치고 APEC 정상회의 참석을 위해 중국 선전에 도착했으며, 미중 정상회담 등 주요 외교 일정을 소화할 예정입니다.",
+        "articles": [
+          {
+            "title": "李 대통령, 中 선전 도착…APEC 정상회의 일정 돌입",
+            "url": "https://news.tf.co.kr/read/ptoday/2390108.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Wed, 18 Nov 2026 02:14:00 +0900"
+          },
+          {
+            "title": "이 대통령, APEC 개최지 중국 선전 도착…미중러 회담 속 시진핑 만남 주...",
+            "url": "https://www.newsis.com/view/NISX20261117_0003871388",
+            "outlet": "newsis.com",
+            "publishedAt": "Wed, 18 Nov 2026 02:28:00 +0900"
+          },
+          {
+            "title": "트럼프 \"韓 역사적 투자로 알래스카 LNG 사업 승인\"…李대통령 참석 만...",
+            "url": "https://www.fnnews.com/news/202611180109446811",
+            "outlet": "fnnews.com",
+            "publishedAt": "Wed, 18 Nov 2026 01:13:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "국가 경제 지표 및 산업 동향",
+        "summary": "한국 수출 1조 달러 달성을 눈앞에 두고 있으며, 반도체 산업 육성 및 지역 경제 활성화 관련 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "한국, 독·미·중 이어 네 번째 수출 1조 달러 목전…김정관 “도전과 응...",
+            "url": "https://www.viva100.com/article/20261118500009",
+            "outlet": "viva100.com",
+            "publishedAt": "Wed, 18 Nov 2026 01:26:00 +0900"
+          },
+          {
+            "title": "\"호남반도체 팹 착공시 건설현장 숙련공 싹 흡수할 것\"",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=674439",
+            "outlet": "gjdream.com",
+            "publishedAt": "Wed, 18 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "김산 무안군수, 2027년 예산 6,754억 편성…국가산단·공항 현안에 무게",
+            "url": "https://www.geconomy.co.kr/news/article.html?no=325771",
+            "outlet": "geconomy.co.kr",
+            "publishedAt": "Wed, 18 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "사법부 주요 판결 및 법률 현안",
+        "summary": "전 국정원장의 계엄 위증 혐의에 대한 대법원 선고가 예정되어 있으며, 국회에서는 청원 제도 개선 추진 등 법률 관련 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "대법, '계엄 위증' 조태용 전 국정원장 오늘 선고",
+            "url": "https://www.ytn.co.kr/_ln/0103_202611180012480182",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Wed, 18 Nov 2026 00:12:00 +0900"
+          },
+          {
+            "title": "국회, 헌법상 청원권 보장위해 청원제도 개선 추진…국회법 개정안 국회...",
+            "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514593",
+            "outlet": "natv.go.kr",
+            "publishedAt": "Wed, 18 Nov 2026 01:16:00 +0900"
+          },
+          {
+            "title": "조국혁신당 경기도당 \"19일 민주유공자법 통과를\"",
+            "url": "https://news-s.kr/view.html?id=L261118001410004e",
+            "outlet": "news-s.kr",
+            "publishedAt": "Wed, 18 Nov 2026 01:18:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
