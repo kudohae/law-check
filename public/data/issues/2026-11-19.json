@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-18T17:29:17.130Z",
+  "title": "2026년 11월 19일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "李대통령",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "李대통령, 中 'K콘텐츠 최혜국대우'에 \"전면·실질 복원 넘는 새 미래\"",
+            "url": "https://biz.sbs.co.kr/article_hub/20000347413?division=NAVER",
+            "outlet": "biz.sbs.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 00:31:00 +0900"
+          },
+          {
+            "title": "박수현 충남지사, 소나무재선충병과 전면전… 정부에 4대 지원책 건의",
+            "url": "https://www.m-i.kr/news/articleView.html?idxno=2020414",
+            "outlet": "m-i.kr",
+            "publishedAt": "Thu, 19 Nov 2026 00:20:00 +0900"
+          },
+          {
+            "title": "\"통합 후 지역 변화, 시민 눈높이서 깊게 취재해야\"",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=674469",
+            "outlet": "gjdream.com",
+            "publishedAt": "Thu, 19 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "창원시",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "창원시, 4조 6259억 예산 승부수…민생·안전·원전 잡는다",
+            "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=89815",
+            "outlet": "industrynews.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 01:34:00 +0900"
+          },
+          {
+            "title": "민주당 광역의원협의회, 지방의회법 소위 통과 환영…연내 제정 촉구",
+            "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731653",
+            "outlet": "the-biz.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 01:12:00 +0900"
+          },
+          {
+            "title": "불시 재난 문자? 1억 포상금? 대책마다 '혼선'",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852734&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 00:49:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "울산엔 산업연계 공공기관을",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[기고] 울산엔 산업연계 공공기관을",
+            "url": "https://www.kmib.co.kr/article/20261118502106",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 00:34:00 +0900"
+          },
+          {
+            "title": "한중 경제·문화 교류 새 물꼬…강원관광 탄력 기대감",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2085794",
+            "outlet": "kado.net",
+            "publishedAt": "Thu, 19 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[이슈] 수능 D-day, 진화하는 AI 기기…부정행위 차단 대책엔 빈틈",
+            "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367782",
+            "outlet": "sisafocus.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 00:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "노동 자 고용안정",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\" 노동 자 고용안정·지역사회 상생 거버넌스 구축해야\"",
+            "url": "https://www.kado.net/news/articleView.html?idxno=2085680",
+            "outlet": "kado.net",
+            "publishedAt": "Thu, 19 Nov 2026 00:06:00 +0900"
+          },
+          {
+            "title": "민주당, 오늘 ‘민주유공자법’ 처리 시도…국민의힘 “필리버스터”",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716756&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[윤성민 칼럼] 수출 1조 달러라는 단군 이래 최대 횡재",
+            "url": "https://www.hankyung.com/article/2026111855261",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 19 Nov 2026 00:25:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "외교 부 조국 日입국거부 요인은 형 선고 이력",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "외교 부 \"조국 日입국거부 요인은 형 선고 이력\"…독도 방문과 무관",
+            "url": "https://www.newsis.com/view/NISX20261118_0003874091",
+            "outlet": "newsis.com",
+            "publishedAt": "Thu, 19 Nov 2026 00:11:00 +0900"
+          },
+          {
+            "title": "민주당, 'AI 부정행위 응시 제한 10년' 법안 발의",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20261119000211GW7",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 00:03:00 +0900"
+          },
+          {
+            "title": "부정행위 신고하면 최대 1억 원 포상금...이번 수능부터 적용",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611190210475854",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 02:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "황운하 의원",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "황운하 의원, 충청권광역철도 1단계 사업 국비 80억원 증액 견인",
+            "url": "https://www.newstnt.com/news/articleView.html?idxno=729241",
+            "outlet": "newstnt.com",
+            "publishedAt": "Thu, 19 Nov 2026 01:16:00 +0900"
+          },
+          {
+            "title": "“이런 사태 막지 못해 후회돼” 강성태, 수능 AI 부정행위 대책에 분노",
+            "url": "https://www.heraldmuse.com/article/10941691?ref=naver",
+            "outlet": "heraldmuse.com",
+            "publishedAt": "Thu, 19 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "국힘 이준배 당협위원장, 수능 하루 앞둔 교육부 앞 1인 시위",
+            "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=418013",
+            "outlet": "ccnnews.co.kr",
+            "publishedAt": "Thu, 19 Nov 2026 00:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "구조조정 중단 없게 기촉법 일몰 막고 상시화를",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "“구조조정 중단 없게 ‘기촉법’ 일몰 막고 상시화를”",
+            "url": "https://www.donga.com/news/Economy/article/all/20261118/135050238/2",
+            "outlet": "donga.com",
+            "publishedAt": "Thu, 19 Nov 2026 00:31:00 +0900"
+          },
+          {
+            "title": "[취재수첩] 청년 두 번 울리는 청년안심주택",
+            "url": "https://www.hankyung.com/article/2026111855271",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 19 Nov 2026 00:23:00 +0900"
+          },
+          {
+            "title": "[기고]국군사관학교 창설 수정안은 포장만 바꾼 통폐합!…“1+2+1 통합교...",
+            "url": "https://www.munhwa.com/article/11632388?ref=naver",
+            "outlet": "munhwa.com",
+            "publishedAt": "Thu, 19 Nov 2026 00:12:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
