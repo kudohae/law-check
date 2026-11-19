@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-19T17:34:44.714Z",
+  "title": "2026년 11월 20일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 20일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "수능 AI 부정행위 논란 및 정부 대응",
+        "summary": "대학수학능력시험에서 AI를 이용한 부정행위 시도가 적발되고, 이에 대한 정부의 대응책 마련 및 논란이 일고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 수능 ‘AI 커닝’ 혼란…책임 묻고 국가시험 제도 전면 손질을",
+            "url": "https://www.sedaily.com/article/20116686?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Fri, 20 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "외신, AI 부정행위 韓정부 대응에 \"총력전\"",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20261120002044oxQ",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 00:21:00 +0900"
+          },
+          {
+            "title": "스마트기기 숨긴 49명, 재난 문자에 들통",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854749&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 00:30:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "민주유공자법 처리 둘러싼 여야 대립",
+        "summary": "여당이 민주유공자법 처리를 강행하면서 야당은 필리버스터로 맞서는 등 국회 내 대립이 격화되고 있습니다.",
+        "articles": [
+          {
+            "title": "與 '민주유공자법' 처리 강행에 국힘 필리버스터로 맞서",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073116",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "‘민주유공자법’, 오늘 필리버스터 종료 예정…본회의 통과 전망",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717930&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 01:01:00 +0900"
+          },
+          {
+            "title": "민주유공자법 상정에 與 \"국가 책임 다해야\" vs 野 \"운동권 특혜법\"… '...",
+            "url": "https://www.hankookilbo.com/news/article/A2026111914060002587?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Fri, 20 Nov 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "대통령 해외 순방 및 외교 성과",
+        "summary": "대통령의 아세안 및 APEC 순방 결과와 외교적 성과에 대한 분석이 이루어지고 있습니다.",
+        "articles": [
+          {
+            "title": "이 대통령, 아세안·APEC 마치고 귀국...한반도 당사국 각인 주력",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611200108522671",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 01:08:00 +0900"
+          },
+          {
+            "title": "[사설] 해외 순방 중 조작기소 특검법 재가한 대통령",
+            "url": "https://www.joongang.co.kr/article/25480337",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 00:22:00 +0900"
+          },
+          {
+            "title": "대통령이 띄운 판다 외교…'광주행'은 이제부터",
+            "url": "http://www.gjdream.com/news/articleView.html?idxno=674508",
+            "outlet": "gjdream.com",
+            "publishedAt": "Fri, 20 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "SOC 사업 재검토 필요성 제기",
+        "summary": "새만금 공항 사업 좌초 위기와 관련하여 경제성 낮은 SOC 사업에 대한 재검토 필요성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 제동 걸린 새만금 공항…SOC 사업 재검토 계기 삼아야",
+            "url": "https://www.hankyung.com/article/2026111982921",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 20 Nov 2026 00:21:00 +0900"
+          },
+          {
+            "title": "[뉴스이슈&비즈] 3년 새 1조 못 받은 실손보험금 '앱'으로 찾아준다",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81811",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Fri, 20 Nov 2026 01:30:00 +0900"
+          },
+          {
+            "title": "보수야권 \"수능 틈타 특검법 기습 재가\" 맹비난",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073079",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "고위공직자 재산 공개",
+        "summary": "고위공직자 재산 공개 결과, 김휘강 靑 사이버 안보 비서관이 재산 1위로 신고되었습니다.",
+        "articles": [
+          {
+            "title": "고위공직자 60명 재산공개…1위는 김휘강 靑 사이버 안보 비서관",
+            "url": "https://biz.chosun.com/policy/politics/2026/11/20/WLYSOWMMFRC2XHFZCNRDXDYTVI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Fri, 20 Nov 2026 00:48:00 +0900"
+          },
+          {
+            "title": "김휘강 靑 비서관, 재산 75억 신고…고위공직 60명 중 1위",
+            "url": "https://www.nocutnews.co.kr/news/6609898?utm_source=naver&utm_medium=article&utm_campaign=20261120011107",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 01:12:00 +0900"
+          },
+          {
+            "title": "[사설] 제동 걸린 새만금 공항…SOC 사업 재검토 계기 삼아야",
+            "url": "https://www.hankyung.com/article/2026111982921",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 20 Nov 2026 00:21:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "지방의회법 제정 추진",
+        "summary": "지방의회 독립성 강화를 위한 지방의회법 제정이 연내 통과를 목표로 추진되고 있습니다.",
+        "articles": [
+          {
+            "title": "자치분권의 완성 '지방의회법' 연내 제정 가시화",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073081",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Fri, 20 Nov 2026 00:04:00 +0900"
+          },
+          {
+            "title": "[사설] 제동 걸린 새만금 공항…SOC 사업 재검토 계기 삼아야",
+            "url": "https://www.hankyung.com/article/2026111982921",
+            "outlet": "hankyung.com",
+            "publishedAt": "Fri, 20 Nov 2026 00:21:00 +0900"
+          },
+          {
+            "title": "[뉴스이슈&비즈] 3년 새 1조 못 받은 실손보험금 '앱'으로 찾아준다",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81811",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Fri, 20 Nov 2026 01:30:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
