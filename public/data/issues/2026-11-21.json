@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-20T17:10:07.389Z",
+  "title": "2026년 11월 21일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 21일 한국 사회의 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "2027학년도 대학수학능력시험 AI 부정행위 논란 및 제도 개편",
+        "summary": "수능에서 발생한 AI 부정행위 의혹과 관련하여 교육부 장관 현안 질의, 시험 제도 전면 개편 논의가 진행 중입니다.",
+        "articles": [
+          {
+            "title": "[사설] 수험생·감독관 희생으로 겨우 넘긴 수능… 교육장관 경질이 마...",
+            "url": "https://www.hankookilbo.com/news/article/A2026112014400004169?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sat, 21 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "[데일리안 주간 포토] 말 많았던 2027학년도 수능시험 종료! '고생했어....",
+            "url": "https://www.dailian.co.kr/news/view/1717785/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "\"AI가 일자리 뺏으면 집값 반토막?\"…'30년 주담대'의 섬뜩한 경고",
+            "url": "https://www.newsis.com/view/NISX20261119_0003874301",
+            "outlet": "newsis.com",
+            "publishedAt": "Sat, 21 Nov 2026 00:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "미국 무역법 301조 조사 및 한국산 제품 관세 부과 가능성",
+        "summary": "미국이 연말까지 무역법 301조 관련 조사를 마무리하며 한국산 제품에 대한 추가 관세 부과 여부가 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "美, 한국산 제품에 관세 더 매기나… 연말까지 ‘상호관세 대체’ 조사...",
+            "url": "https://biz.chosun.com/international/international_economy/2026/11/21/UJ26DYU35BAGVGOFNOW3JJLJBM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Sat, 21 Nov 2026 00:55:00 +0900"
+          },
+          {
+            "title": "美무역대표 \"301조 조사 연말 마무리\"…한국 추가 관세 여부 주목",
+            "url": "http://www.yonhapnewstv.co.kr/news/AKR20261121003402u12",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:34:00 +0900"
+          },
+          {
+            "title": "한중 FTA 후속협상, 8년 8개월 만에 타결…유통가엔 여전한 ‘사드의 기...",
+            "url": "https://www.mydaily.co.kr/page/view/2026112001422608734",
+            "outlet": "mydaily.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 01:40:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "부동산 시장 동향 및 주거 불안 심화",
+        "summary": "서울 및 수도권 부동산 시장에서 매매 및 전세 시장의 불안정성이 지속되고 있으며, 주거 비용 상승에 대한 우려가 커지고 있습니다.",
+        "articles": [
+          {
+            "title": "서울 거주자 부천 아파트 매입 1년 새 2배 증가… 신규 공공분양 단지 ...",
+            "url": "https://edu.donga.com/news/articleView.html?idxno=113987",
+            "outlet": "edu.donga.com",
+            "publishedAt": "Sat, 21 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "서울 집, 고가 1주택자는 양도세 늘기 전에 팔고 세입자는 전세 불안에...",
+            "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38582",
+            "outlet": "junggi.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "아파트도 '운영 시대'…노후 단지 늘자 관리 중요성 확대",
+            "url": "https://www.asiatime.co.kr/article/20261120500184",
+            "outlet": "asiatime.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "정치권의 주요 쟁점 및 정당 간 갈등",
+        "summary": "국민의힘의 '징계 조작' 의혹 제기, 민주당의 '조희대 패닉' 등 여야 간의 정치적 공방이 이어지고 있습니다.",
+        "articles": [
+          {
+            "title": "[주간政談<하>] 국힘 '징계 조작' 의혹 제기…추가 폭로 촉각",
+            "url": "https://news.tf.co.kr/read/ptoday/2391750.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "[주간政談<상>] 국조→탄핵 급선회…민주당의 '조희대 패닉'",
+            "url": "https://news.tf.co.kr/read/ptoday/2391751.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유",
+            "url": "https://www.dt.co.kr/article/12096370?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:43:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "경제 안보 및 산업 경쟁력 강화 논의",
+        "summary": "수출 1조 달러 달성에도 불구하고 반도체 의존도 심화 등 경제 안보 이슈가 부각되며, 핵심 소부장 국산화 및 산업 경쟁력 강화 방안이 논의되고 있습니다.",
+        "articles": [
+          {
+            "title": "[수출 1조달러 달성]산업硏 전문가 \"반도체 의존 줄이고 국내 R&D·협력사...",
+            "url": "https://view.asiae.co.kr/article/2026112008345112810",
+            "outlet": "view.asiae.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 01:07:00 +0900"
+          },
+          {
+            "title": "소록도 관리권 이관, 대통령 검토 지시 1년 5개월…주민들의 오랜 기다...",
+            "url": "https://www.geconomy.co.kr/news/article.html?no=325917",
+            "outlet": "geconomy.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:28:00 +0900"
+          },
+          {
+            "title": "IMM, 현대LNG 매각 완료…산업부 이중심사 1년 만에 뚫었다",
+            "url": "https://www.hankyung.com/article/202611211022r",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 21 Nov 2026 01:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "국제 정세 및 외교적 이슈",
+        "summary": "유럽 Z세대 시위, 미중 정상회담 관련 사진 분석 등 국제 사회의 다양한 움직임과 외교적 메시지가 주목받고 있습니다.",
+        "articles": [
+          {
+            "title": "FT \"트럼프, 민주당 의회 장악 전 1월 초까지 우크라 종전 압박\"",
+            "url": "https://www.newspim.com/news/view/20261121000007",
+            "outlet": "newspim.com",
+            "publishedAt": "Sat, 21 Nov 2026 01:57:00 +0900"
+          },
+          {
+            "title": "[천자칼럼] 미묘한 정상회의 사진",
+            "url": "https://www.hankyung.com/article/2026112007621",
+            "outlet": "hankyung.com",
+            "publishedAt": "Sat, 21 Nov 2026 00:12:00 +0900"
+          },
+          {
+            "title": "“탱크가 아닌 선생님을 달라”…유럽 전역서 Z세대 시위",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718974&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Sat, 21 Nov 2026 00:13:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
