@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-21T16:20:02.639Z",
+  "title": "2026년 11월 22일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 22일의 주요 사회, 경제, 정치 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "AI 기술 발전과 사회적 영향",
+        "summary": "AI 기술의 발전이 시험 부정행위, 경제 활동, 사회 전반에 미치는 영향과 이에 대한 대응 방안을 다룹니다.",
+        "articles": [
+          {
+            "title": "[비즈토크<상>] 시험장 넘어 M&A 딜룸까지…여의도도 'AI 안경' 경계령",
+            "url": "https://news.tf.co.kr/read/economy/2391811.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "리트 만점자 사망에 AI 커닝 의혹 '미궁'…수사·탈락자 구제 '난감'",
+            "url": "https://news.tf.co.kr/read/life/2391814.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "167년 수학 난제 놓고 ‘인간과 AI’ 대결 벌어졌다",
+            "url": "https://www.g-enews.com/view.php?ud=2026112122552342899a1f309431_1",
+            "outlet": "g-enews.com",
+            "publishedAt": "Sun, 22 Nov 2026 01:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "한국 경제 침체 우려와 경기 지표",
+        "summary": "경기 침체 징후와 관련된 다양한 경제 지표 및 분석을 다룹니다.",
+        "articles": [
+          {
+            "title": "“수원 스타필드도 텅텅 빈다” 경기침체 징후 13가지?…실제 통계 살펴...",
+            "url": "https://weekly.khan.co.kr/article/202611220027001",
+            "outlet": "weekly.khan.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:27:00 +0900"
+          },
+          {
+            "title": "\"금리 올려도 집값 못 잡는다\"…반도체 수출 대박이 부른 '유동성 역설...",
+            "url": "https://www.newsis.com/view/NISX20261119_0003875033",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 22 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "박승찬 회장 “APEC은 방향의 무대…정책 변화 읽는 기업이 기회 잡는다...",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122000044389",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 01:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "부동산 시장 동향 및 정책",
+        "summary": "주택 시장의 현황과 내 집 마련을 위한 정책 및 공급 관련 소식을 다룹니다.",
+        "articles": [
+          {
+            "title": "내 집 마련 사다리 다시 놓는다… 남광토건 '부천대장 하우스토리 디센...",
+            "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32120",
+            "outlet": "rcast.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "\"금리 올려도 집값 못 잡는다\"…반도체 수출 대박이 부른 '유동성 역설...",
+            "url": "https://www.newsis.com/view/NISX20261119_0003875033",
+            "outlet": "newsis.com",
+            "publishedAt": "Sun, 22 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "“수원 스타필드도 텅텅 빈다” 경기침체 징후 13가지?…실제 통계 살펴...",
+            "url": "https://weekly.khan.co.kr/article/202611220027001",
+            "outlet": "weekly.khan.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:27:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "수능 부정행위 논란과 대책",
+        "summary": "대학수학능력시험에서의 부정행위 발생 사례와 이에 대한 교육 당국의 대책 및 논란을 다룹니다.",
+        "articles": [
+          {
+            "title": "수험생 연대 \"수능 부정행위 대책 실효성 없어\" 최교진 장관 사퇴 요구",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085194",
+            "outlet": "jnilbo.com",
+            "publishedAt": "Sun, 22 Nov 2026 00:20:00 +0900"
+          },
+          {
+            "title": "부산 수능서 스마트기기 부정행위 3건…'공폰'도 적발",
+            "url": "https://www.pennmike.com/news/articleView.html?idxno=132441",
+            "outlet": "pennmike.com",
+            "publishedAt": "Sun, 22 Nov 2026 01:12:00 +0900"
+          },
+          {
+            "title": "리트 만점자 사망에 AI 커닝 의혹 '미궁'…수사·탈락자 구제 '난감'",
+            "url": "https://news.tf.co.kr/read/life/2391814.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:01:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "지역 경제 활성화 및 산업 투자",
+        "summary": "지방 경제 활성화를 위한 AI 데이터센터 구축 및 관련 산업 투자 동향을 다룹니다.",
+        "articles": [
+          {
+            "title": "이 대통령, 울산 SK AI데이터센터 방문…공정률 71% 점검, AI 고속도로 강...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=629506",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "SK 울산 AI데이터센터 공정률 71%…2027년 말 운영 예정",
+            "url": "https://sateconomy.co.kr/news/view/1065539394490182",
+            "outlet": "sateconomy.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:26:00 +0900"
+          },
+          {
+            "title": "김상욱 울산시장, 이재명 대통령에 남신항 에너지허브·부유식 해상풍력...",
+            "url": "http://www.newsprime.co.kr/news/article.html?no=755936",
+            "outlet": "newsprime.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "한중 관계 및 경제적 영향",
+        "summary": "APEC 정상회담을 계기로 한중 관계의 정치적, 경제적 영향과 전망을 다룹니다.",
+        "articles": [
+          {
+            "title": "박승찬 회장 “APEC은 방향의 무대…정책 변화 읽는 기업이 기회 잡는다...",
+            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122000044389",
+            "outlet": "asiatoday.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[비즈토크<하>] 한한령 마침표 찍을까…유통가 '기대 반 우려 반'",
+            "url": "https://news.tf.co.kr/read/economy/2391810.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:03:00 +0900"
+          },
+          {
+            "title": "거듭된 구애에도 침묵한 北…김정은 몸값 높아졌나",
+            "url": "https://news.tf.co.kr/read/ptoday/2391755.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sun, 22 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
