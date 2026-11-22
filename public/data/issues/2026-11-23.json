@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-22T16:34:09.361Z",
+  "title": "2026년 11월 23일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 23일 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "국회, 예산안 처리 및 대법원장 탄핵 관련 정국 경색",
+        "summary": "연말 예산안 법정 처리 시한을 앞두고 대법원장 탄핵 소추안이 국회에 제출되면서 정국이 경색되고 민생 법안 처리에도 난항이 예상됩니다.",
+        "articles": [
+          {
+            "title": "[사설] 대법원장 탄핵에 멈춘 국회…민생도 예산도 뒷전인가",
+            "url": "https://www.sedaily.com/article/20117480?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 23 Nov 2026 00:03:00 +0900"
+          },
+          {
+            "title": "예산 법정시한 D-9, 쟁점 법안·대법원장 탄핵에 정국‘급냉각’…강원...",
+            "url": "https://www.kwnews.co.kr/article/20261122500927",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "예산안·대법원장 탄핵…연말 정국 갈등 고조",
+            "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073281",
+            "outlet": "ksilbo.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "철도노조 쟁의행위 연기 및 준법투쟁",
+        "summary": "철도노조가 안전 운행 투쟁을 연기하고 준법투쟁에 돌입하면서 열차 운행에 차질이 예상됩니다.",
+        "articles": [
+          {
+            "title": "[뉴스이슈&비즈] 김동철 사장 국감 사과 한 달 만에…한전 고객정보 152...",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81864",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Mon, 23 Nov 2026 01:30:00 +0900"
+          },
+          {
+            "title": "철도노조 파업…코레일 열차 지연 대비",
+            "url": "https://www.bntnews.co.kr/article/view/bnt202611220075",
+            "outlet": "bntnews.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 00:16:00 +0900"
+          },
+          {
+            "title": "철도노조, 26일부터 준법투쟁...지하철 노사는 최종교섭",
+            "url": "https://www.ytn.co.kr/_ln/0115_202611230111456121",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 01:11:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "수능 공정성 논란 및 교육 시스템 개편 요구",
+        "summary": "수능을 앞두고 발생한 AI 부정행위 의혹과 재난 문자 발송 사태로 교육부 장관 경질 및 수능 시스템 전반의 쇄신 요구가 커지고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 장관 경질로 끝낼 일 아냐… 국가시험 근본 쇄신해야",
+            "url": "https://www.hankookilbo.com/news/article/A2026112215210003461?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Mon, 23 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "한국 수능 재난문자에 놀란 '파친코' 작가…\"AI 발전하는데 학생은 퇴화...",
+            "url": "http://weekly.chosun.com/news/articleView.html?idxno=57367",
+            "outlet": "weekly.chosun.com",
+            "publishedAt": "Mon, 23 Nov 2026 01:07:00 +0900"
+          },
+          {
+            "title": "AI 부정행위가 불붙인 수능 개편론⋯“수능 수명 끝났다”",
+            "url": "https://www.kwnews.co.kr/article/20261122501014",
+            "outlet": "kwnews.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "경제 6단체 간담회 및 노동 현안 논의",
+        "summary": "더불어민주당이 경제 6단체와 간담회를 갖고 주 52시간 예외 적용 등 노동 관련 현안을 논의할 예정입니다.",
+        "articles": [
+          {
+            "title": "민주당, 오늘 경제 6단체 간담회…노동 특례·기촉법 연장 등 논의 전망",
+            "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719518&ref=A",
+            "outlet": "news.kbs.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[사설] 청년 취업난 속 정년 연장 재시동…임금체계 개편이 먼저다",
+            "url": "https://www.sedaily.com/article/20117479?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Mon, 23 Nov 2026 00:02:00 +0900"
+          },
+          {
+            "title": "국토부, 승무원 비행시간 1,000시간으로 단축 추진…항공사와 이견",
+            "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500688",
+            "outlet": "traveltimes.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 00:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "디지털자산기본법 공개 및 가상자산 시장 재편",
+        "summary": "정부가 디지털자산기본법을 공개하며 가상자산 시장 재편을 예고했으나, 국회 논의 과정에서 이견으로 인한 진통이 예상됩니다.",
+        "articles": [
+          {
+            "title": "디지털자산기본법 24일 공개…가상자산 시장 재편 예고",
+            "url": "http://www.kjdaily.com/article.php?aid=1795361278693043276",
+            "outlet": "kjdaily.com",
+            "publishedAt": "Mon, 23 Nov 2026 00:30:00 +0900"
+          },
+          {
+            "title": "[금융家] 보험 ⑮ㅣ 혜택 넓히고 제도 손질…보험사기 단속·의료 AI 혁...",
+            "url": "https://www.cbci.co.kr/news/articleView.html?idxno=629594",
+            "outlet": "cbci.co.kr",
+            "publishedAt": "Mon, 23 Nov 2026 00:36:00 +0900"
+          },
+          {
+            "title": "[데일리Talk] 전세 줄어드는데… 임대차시장 안정 해법은",
+            "url": "https://m.skyedaily.com/news_view.html?ID=314852",
+            "outlet": "m.skyedaily.com",
+            "publishedAt": "Mon, 23 Nov 2026 00:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "한전 고객정보 유출 및 보안 강화 필요성 대두",
+        "summary": "한국전력공사에서 152만 명의 고객 정보가 유출되는 사고가 발생하여 보안 시스템 강화 및 재발 방지 대책 마련이 시급합니다.",
+        "articles": [
+          {
+            "title": "[뉴스이슈&비즈] 김동철 사장 국감 사과 한 달 만에…한전 고객정보 152...",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81864",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Mon, 23 Nov 2026 01:30:00 +0900"
+          },
+          {
+            "title": "한국전력공사, '보안 혁신' 약속 무색…152만명 개인정보 유출",
+            "url": "https://www.newswhoplus.com/news/articleView.html?idxno=75064",
+            "outlet": "newswhoplus.com",
+            "publishedAt": "Mon, 23 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[이슈프리즘] 끝나지 않은 한전 '탈원전 청구서'",
+            "url": "https://www.hankyung.com/article/2026112225081",
+            "outlet": "hankyung.com",
+            "publishedAt": "Mon, 23 Nov 2026 00:22:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
