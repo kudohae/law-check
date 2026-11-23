@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-23T20:29:08.843Z",
+  "title": "2026년 11월 24일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "도성훈 교육 감",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "도성훈 교육 감, 국회 앞 1인 시위…\"지방 교육 재정 상생안 조속히 입법해...",
+            "url": "https://www.cstimes.com/news/articleView.html?idxno=729057",
+            "outlet": "cstimes.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:26:00 +0900"
+          },
+          {
+            "title": "[오늘의 국회일정] 국회의장·상임위·세미나·기자회견·주요 정당 - 11...",
+            "url": "https://www.newspim.com/news/view/20261123001161",
+            "outlet": "newspim.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:00:00 +0900"
+          },
+          {
+            "title": "'친명·靑출신' 전진 배치…李대통령, 친정체제로 국정 강드라이브 예고",
+            "url": "https://www.news1.kr/politics/president/6363388",
+            "outlet": "news1.kr",
+            "publishedAt": "Tue, 24 Nov 2026 05:05:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "합의 실패 유엔 기후 총회",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 합의 실패 유엔 기후 총회, ‘탈탄소’는 국익 관점서 보길",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=01213606645649000&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+            "outlet": "edaily.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 05:02:00 +0900"
+          },
+          {
+            "title": "[오늘의 주요일정] 정치·정부 (24일, 화)",
+            "url": "https://www.news1.kr/politics/assembly/6363422",
+            "outlet": "news1.kr",
+            "publishedAt": "Tue, 24 Nov 2026 05:00:00 +0900"
+          },
+          {
+            "title": "李 대통령, 외교·안보라인 전면 교체…행안부 등 5개 부처 개각",
+            "url": "https://www.nongmin.com/article/20261123500593",
+            "outlet": "nongmin.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:11:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "동남권투자공사마저 흔들리나",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 동남권투자공사마저 흔들리나, 입법과 예산 서둘러야",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026112317515006908",
+            "outlet": "busan.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:12:00 +0900"
+          },
+          {
+            "title": "[사설]개인정보 뚫린 한전, 구멍난 사이버안보",
+            "url": "https://www.mt.co.kr/opinion/2026/11/24/2026112315484451393",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 04:46:00 +0900"
+          },
+          {
+            "title": "정동영·이종석 물리고 한미 동맹 힘 싣는다…핵잠 시계 다시 돌아가나",
+            "url": "https://www.hankookilbo.com/news/article/A2026112309270002205?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Tue, 24 Nov 2026 04:31:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "최교진 후임 교육부 장관 인선은 정치인",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[사설] 최교진 후임 교육부 장관 인선은 정치인·교육 비전문가 배제해...",
+            "url": "https://www.ddaily.co.kr/page/view/2026112317533339542",
+            "outlet": "ddaily.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 04:00:00 +0900"
+          },
+          {
+            "title": "대통령 소속 국가우주항공위 만든다…황정아, 우주 경제 2법 대표발의",
+            "url": "https://www.dt.co.kr/article/12096820?ref=naver",
+            "outlet": "dt.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 05:10:00 +0900"
+          },
+          {
+            "title": "[오늘의 주요일정]정치(11월24일 화요일)",
+            "url": "https://www.newsis.com/view/NISX20261123_0003880049",
+            "outlet": "newsis.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:00:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "탄력 붙는 AI커닝방지법",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "탄력 붙는 AI커닝방지법, 시험지 고유표식 등 법정비 나선다",
+            "url": "https://www.mt.co.kr/politics/2026/11/24/2026112319482456414",
+            "outlet": "mt.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 04:10:00 +0900"
+          },
+          {
+            "title": "안민석 교육감의 정도직행(正道直行), AI시대 언제까지 '오지선다형'......",
+            "url": "https://www.ajunews.com/view/20261124000008547",
+            "outlet": "ajunews.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:06:00 +0900"
+          },
+          {
+            "title": "[전문가 기고] 주택 보유세, 공평성·일관성 있는 정책이 중요하다",
+            "url": "https://www.ajunews.com/view/20261122155821088",
+            "outlet": "ajunews.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "모두 믿을맨 전면 배치",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "모두 ‘믿을맨’ 전면 배치… 첫 여성 국정원장 파격 발탁",
+            "url": "https://www.kmib.co.kr/article/20261123501907",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 02:55:00 +0900"
+          },
+          {
+            "title": "트럼프 행정부, 한국 디지털 규제 301조 조사 검토…15% 관세 합의 변수",
+            "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627141",
+            "outlet": "mdtoday.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 02:28:00 +0900"
+          },
+          {
+            "title": "[사설] 정부 믿고 주식 샀는데… AI 거품론에 속 타는 개미들",
+            "url": "https://www.busan.com/view/busan/view.php?code=2026112317514995926",
+            "outlet": "busan.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:10:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "한국 남녀 임금차 OECD 1위",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "한국 남녀 임금차 OECD 1위… 女, 男보다 27.8% 적게 받아 [경제 레이더...",
+            "url": "https://www.segye.com/newsView/20261123514763?OutUrl=naver",
+            "outlet": "segye.com",
+            "publishedAt": "Tue, 24 Nov 2026 05:02:00 +0900"
+          },
+          {
+            "title": "'파친코' 이민진 \"교사는 AI 쓰는데 학생은 왜 안 되나\"",
+            "url": "https://www.nocutnews.co.kr/news/6610962?utm_source=naver&utm_medium=article&utm_campaign=20261124050101",
+            "outlet": "nocutnews.co.kr",
+            "publishedAt": "Tue, 24 Nov 2026 05:02:00 +0900"
+          },
+          {
+            "title": "첫 여성 국정원장 발탁‥석 달 만에 중폭 개각",
+            "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6867965_36989.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Tue, 24 Nov 2026 00:31:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
