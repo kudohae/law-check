@@ -1,0 +1,176 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-25T18:47:46.829Z",
+  "title": "2026년 11월 26일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "2026년 11월 26일 한국 사회의 주요 시사 이슈를 다룹니다.",
+    "children": [
+      {
+        "id": "issue1",
+        "label": "정부의 주거 정책 및 임대주택 공급 확대",
+        "summary": "대통령이 임대주택 현장을 방문하여 주거 사다리 역할을 강조하고, 공적임대주택 공급 확대 계획을 발표했습니다.",
+        "articles": [
+          {
+            "title": "이 대통령, 임대주택 현장 찾아 \" 주거 사다리 역할해야\"",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863787&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 00:15:00 +0900"
+          },
+          {
+            "title": "이 대통령 \"중산층도 선택할 공적임대\"…2030년까지 공적주택 연 24만호",
+            "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327458",
+            "outlet": "pointdaily.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 00:34:00 +0900"
+          },
+          {
+            "title": "LH, 수도권 공공주택 5년간 50만호 짓는다",
+            "url": "https://www.joongang.co.kr/article/25482019",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 00:13:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue2",
+        "label": "북한, 스위스 외교 사무소 전격 폐쇄",
+        "summary": "북한이 스위스 당국의 제재에 반발하여 평양 주재 스위스 외교 사무소를 폐쇄했습니다.",
+        "articles": [
+          {
+            "title": "北, 김여정 담화 하루만에 스위스 외교 사무소 전격폐쇄(종합)",
+            "url": "https://www.yna.co.kr/view/AKR20261125095351504?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 00:49:00 +0900"
+          },
+          {
+            "title": "北, 김여정 경고 하루 만에 스위스 외교 사무소 전격 폐쇄…스위스 \"유감...",
+            "url": "https://www.fnnews.com/news/202611260119237573",
+            "outlet": "fnnews.com",
+            "publishedAt": "Thu, 26 Nov 2026 01:29:00 +0900"
+          },
+          {
+            "title": "북, 김여정 담화 하루 만에 스위스 외교 사무소 전격 폐쇄",
+            "url": "https://imnews.imbc.com/news/2026/world/article/6868619_36925.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Thu, 26 Nov 2026 01:14:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue3",
+        "label": "미국의 무역법 301조 조사 결과 및 한국의 대응",
+        "summary": "미국이 중국 등 14개 경제 주체에 과잉 생산 관세를 부과했으며, 한국은 15% 상한을 유지하며 선방했다는 평가가 나옵니다.",
+        "articles": [
+          {
+            "title": "美 과잉생산 관세 15% 상한 유지…정부 “대미 무역흑자 압박에도 선방...",
+            "url": "https://biz.chosun.com/policy/policy_sub/2026/11/26/3IEWD2UDXZALHIN73QYCITITYY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Thu, 26 Nov 2026 02:31:00 +0900"
+          },
+          {
+            "title": "美 301조 조사 한 숨 돌린 韓…산업장관 \"흑자 늘어 부담, 15% 방어 선방...",
+            "url": "https://www.ajunews.com/view/20261126020549791",
+            "outlet": "ajunews.com",
+            "publishedAt": "Thu, 26 Nov 2026 02:14:00 +0900"
+          },
+          {
+            "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보...",
+            "url": "https://www.yna.co.kr/view/AKR20261125185752071?input=1195m",
+            "outlet": "yna.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 01:09:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue4",
+        "label": "정치권의 대통령실 인사 및 국정 운영 비판",
+        "summary": "야당은 대통령의 국정원장 및 장관 후보자 지명을 '레임덕 징후'로 규정하며 비판하고 있습니다.",
+        "articles": [
+          {
+            "title": "[잡채기 칼럼] 대통령과 '화살'",
+            "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084177",
+            "outlet": "newsclaim.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 00:00:00 +0900"
+          },
+          {
+            "title": "[단독] '기술 안보 적임자' 강조했는데…'중국 기술 유출' 변론",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863786&plink=ORI&cooper=NAVER",
+            "outlet": "news.sbs.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 00:13:00 +0900"
+          },
+          {
+            "title": "[사설] 31개 기관 세종 이전 확정…과속 후유증 되풀이하나",
+            "url": "https://www.sedaily.com/article/20119014?ref=naver",
+            "outlet": "sedaily.com",
+            "publishedAt": "Thu, 26 Nov 2026 00:02:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue5",
+        "label": "에너지 정책 논쟁: 원전 공론화 및 에너지 안보",
+        "summary": "원전 공론화 과정에서의 '헛돈' 논란과 함께 국가 에너지 안보 차원의 전략 수립 필요성이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[사설] 첫 토론회부터 헛돈 ‘원전 공론화’, 정부가 결단해야",
+            "url": "https://www.kmib.co.kr/article/20261125502057",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 01:22:00 +0900"
+          },
+          {
+            "title": "고려아연 \"MBK·영풍, 사회적 책임 논하기 전에 자신들의 책임부터 다해...",
+            "url": "https://www.tournews21.com/news/articleView.html?idxno=149318",
+            "outlet": "tournews21.com",
+            "publishedAt": "Thu, 26 Nov 2026 01:56:00 +0900"
+          },
+          {
+            "title": "어차피 증설할 동서울변환소… 주민투표로 시간 보내는 정부",
+            "url": "https://www.chosun.com/economy/economy_general/2026/11/26/RPHRRBROJZED3PQBEAMZDW36UA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+            "outlet": "chosun.com",
+            "publishedAt": "Thu, 26 Nov 2026 00:34:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "issue6",
+        "label": "복지 예산 및 재정 구조의 문제점",
+        "summary": "현금성 복지 예산의 증가와 담뱃세에 의존하는 소방 재정의 취약한 구조에 대한 비판이 제기되고 있습니다.",
+        "articles": [
+          {
+            "title": "[현승윤 칼럼] 현금성 복지예산이 公共복지 무너뜨린다",
+            "url": "https://www.hankyung.com/article/2026112502591",
+            "outlet": "hankyung.com",
+            "publishedAt": "Thu, 26 Nov 2026 00:24:00 +0900"
+          },
+          {
+            "title": "[시론] 담뱃세에 의존하는 소방재정의 취약한 구조",
+            "url": "https://www.joongang.co.kr/article/25482024",
+            "outlet": "joongang.co.kr",
+            "publishedAt": "Thu, 26 Nov 2026 00:18:00 +0900"
+          },
+          {
+            "title": "[사설] ‘퇴학·빵점·10년’이 아니라 본질을 고민해야",
+            "url": "https://www.kyeonggi.com/article/20261125580581",
+            "outlet": "kyeonggi.com",
+            "publishedAt": "Thu, 26 Nov 2026 03:06:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
