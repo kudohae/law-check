@@ -1,0 +1,201 @@
+{
+  "serviceName": "시선(時線)",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-27T18:23:58.758Z",
+  "title": "2026년 11월 28일의 시사 이슈 마인드맵",
+  "editorialPolicy": {
+    "excludedCategories": [
+      "entertainment",
+      "sports"
+    ],
+    "selectionCriteria": [
+      "공공 영향도",
+      "진행성",
+      "출처 교차 확인 가능성",
+      "시의성",
+      "구조화 가능성"
+    ]
+  },
+  "root": {
+    "id": "today",
+    "label": "오늘의 주요 시사",
+    "summary": "AI 구조화가 실패했거나 생략되어, 수집 기사 후보를 기준으로 보수적으로 묶었습니다.",
+    "children": [
+      {
+        "id": "fallback1",
+        "label": "김의겸 새만금 예산 질의에 박홍근 답변 거부",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "김의겸 새만금 예산 질의에 박홍근 답변 거부…법사위 파행",
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765824",
+            "outlet": "gukjenews.com",
+            "publishedAt": "Sat, 28 Nov 2026 00:50:00 +0900"
+          },
+          {
+            "title": "[위클립] 11월 4주",
+            "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41934",
+            "outlet": "laborplus.co.kr",
+            "publishedAt": "Sat, 28 Nov 2026 01:41:00 +0900"
+          },
+          {
+            "title": "예산 처리 D-4…국회 미래기금 '벼락치기' 심사",
+            "url": "http://www.yonhapnewstv.co.kr/news/MYH20261128012848qd1",
+            "outlet": "yonhapnewstv.co.kr",
+            "publishedAt": "Sat, 28 Nov 2026 01:29:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback2",
+        "label": "뒤숭숭한 최고위",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[주간政談<하>] 뒤숭숭한 최고위…여야 지도부 파열음 판박이",
+            "url": "https://news.tf.co.kr/read/ptoday/2394512.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 28 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "[전라 Insight] 김동열의 성공한 정책들-지속가능한 소상공인 정책은?",
+            "url": "http://www.jeollailbo.com/news/articleView.html?idxno=818002",
+            "outlet": "jeollailbo.com",
+            "publishedAt": "Sat, 28 Nov 2026 00:06:00 +0900"
+          },
+          {
+            "title": "예결위 예산소위 종료…소소위 열고 미래대응기금·증액 심사 나선다",
+            "url": "https://biz.chosun.com/policy/politics/assembly/2026/11/28/AFFMOGUGE5HONA52HG4MVPDA6A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Sat, 28 Nov 2026 01:52:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback3",
+        "label": "깜깜이 예산 안 돼",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "\"깜깜이 예산 안 돼\"…광명시민단체 내년도 시 예산안 공개 촉구",
+            "url": "https://www.cwn.kr/news/articleView.html?idxno=62840",
+            "outlet": "cwn.kr",
+            "publishedAt": "Sat, 28 Nov 2026 00:54:00 +0900"
+          },
+          {
+            "title": "박홍근·서영교 ‘與·與 충돌’에 법사위 파행",
+            "url": "https://www.kmib.co.kr/article/20261127500981",
+            "outlet": "kmib.co.kr",
+            "publishedAt": "Sat, 28 Nov 2026 00:08:00 +0900"
+          },
+          {
+            "title": "국정원 휴민트 사건…한국인 3년째 중국 구금, 국가의 보호 책무는",
+            "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288165",
+            "outlet": "topstarnews.net",
+            "publishedAt": "Sat, 28 Nov 2026 00:06:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback4",
+        "label": "만만치 않은 반발",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[주간政談<상>] 만만치 않은 반발…與, 조희대 탄핵 준비 심혈",
+            "url": "https://news.tf.co.kr/read/ptoday/2394513.htm",
+            "outlet": "news.tf.co.kr",
+            "publishedAt": "Sat, 28 Nov 2026 00:01:00 +0900"
+          },
+          {
+            "title": "靑 \"한중 정상회담서 김정은 방중 거론 안 해\"",
+            "url": "https://www.newscj.com/news/articleView.html?idxno=3452811",
+            "outlet": "newscj.com",
+            "publishedAt": "Sat, 28 Nov 2026 01:02:00 +0900"
+          },
+          {
+            "title": "‘김정은 방중 가능성’ 보도에 靑 “해당 취지 언급 없었다”",
+            "url": "https://biz.chosun.com/policy/politics/president_office/2026/11/28/JEYT2PMATNHLVHPV4OZQLX43S4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+            "outlet": "biz.chosun.com",
+            "publishedAt": "Sat, 28 Nov 2026 00:24:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback5",
+        "label": "박홍근-서영교 충돌에 법사위 파행",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "박홍근-서영교 충돌에 법사위 파행…\"상원인가\" vs \"고압적 장관 처음\"",
+            "url": "https://www.fnnews.com/news/202611280011134709",
+            "outlet": "fnnews.com",
+            "publishedAt": "Sat, 28 Nov 2026 00:16:00 +0900"
+          },
+          {
+            "title": "[사설] 정년연장 연내 입법 속도, 충격 덜어낼 청년대책이 우선",
+            "url": "https://www.hankookilbo.com/news/article/A2026112712490003761?did=NA",
+            "outlet": "hankookilbo.com",
+            "publishedAt": "Sat, 28 Nov 2026 00:10:00 +0900"
+          },
+          {
+            "title": "\"사실상 퇴거 통보\"‥내년 서울 전월세 비상",
+            "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6869216_36989.html",
+            "outlet": "imnews.imbc.com",
+            "publishedAt": "Sat, 28 Nov 2026 01:08:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback6",
+        "label": "내란특위단 29일 출범",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "내란특위단 29일 출범…전국망 구축해 '내란 청산' 본격화",
+            "url": "https://www.cwn.kr/news/articleView.html?idxno=62843",
+            "outlet": "cwn.kr",
+            "publishedAt": "Sat, 28 Nov 2026 02:56:00 +0900"
+          },
+          {
+            "title": "[뉴스이슈&비즈] 삼성SDI·SK온, 2조원 ESS 시장 나눠 맡는다",
+            "url": "http://www.issuenbiz.com/news/articleView.html?idxno=82108",
+            "outlet": "issuenbiz.com",
+            "publishedAt": "Sat, 28 Nov 2026 01:30:00 +0900"
+          },
+          {
+            "title": "'김정은 방중 가능성' 보도에 \"관계 동향 예의주시\"",
+            "url": "https://www.ytn.co.kr/_ln/0101_202611280104372992",
+            "outlet": "ytn.co.kr",
+            "publishedAt": "Sat, 28 Nov 2026 01:04:00 +0900"
+          }
+        ]
+      },
+      {
+        "id": "fallback7",
+        "label": "최민희 징계에 민주당 내홍 격화 조짐! 주말 김민",
+        "summary": "관련도와 시의성을 기준으로 묶은 주요 이슈입니다.",
+        "articles": [
+          {
+            "title": "[데일리안 주간 포토] 최민희 징계에 민주당 내홍 격화 조짐! 주말 김민...",
+            "url": "https://www.dailian.co.kr/news/view/1720640/?sc=Naver",
+            "outlet": "dailian.co.kr",
+            "publishedAt": "Sat, 28 Nov 2026 01:00:00 +0900"
+          },
+          {
+            "title": "[아시아 오늘의 역사·11.28] 테헤란회담 개막(1943)·동티모르 독립선언...",
+            "url": "http://kor.theasian.asia/archives/423450",
+            "outlet": "kor.theasian.asia",
+            "publishedAt": "Sat, 28 Nov 2026 00:58:00 +0900"
+          },
+          {
+            "title": "청와대 \"한중 정상회담에서 김정은 방중 가능성 언급 없었다\"",
+            "url": "https://www.newspim.com/news/view/20261128000004",
+            "outlet": "newspim.com",
+            "publishedAt": "Sat, 28 Nov 2026 00:51:00 +0900"
+          }
+        ]
+      }
+    ]
+  }
+}
